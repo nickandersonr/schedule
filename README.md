@@ -9,7 +9,7 @@ Time  | Monday - Thursday  | Friday
 12:00 | Lunch              | Lunch
 1:00  | Module 3           | Review
 2:30  | Module 4           | Begin Weekend Lab
-4:00  | One-on-ones        | Rest
+4:00  | Independent Work        | Rest
 
 ## Unit 1: The Client
 
