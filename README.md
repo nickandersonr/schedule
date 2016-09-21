@@ -18,11 +18,11 @@ Time  | Activity
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [Welcome to GA][1-1A] | [Kyrel 1][1-2A] | [Kyrel 2][1-3A] |  [Kyrel 3][1-4A]  | [Kyrel 4][1-5A]
- **9:30am Module 1** | [Orientation (Zeb)][1-1B] | [Chrome dev tools (Zeb)][1-2A] | [JS Data types, variables, and arrays ()][1-3A] |  [Mastering control flow (Zeb)][1-4A]  | Developer-Led Review  ()
- **11:00am Module 2** | [How the internet works ()][1-1C] | [CSS selector basics ()][1-2B] | [Key-Value Store in JavaScript (Zeb)**][1-3B] | [Debugging in JavaScript ()][1-4B] | [Git and GitHub (Zeb)][1-5A]
- **1:30pm Module 3** | [Navigating the file system + some meta skills ()][1-1D] | [Box model and positioning ()][1-2C] | [Functions and scope ()][1-3C] | [DOM manipulation and events (Zeb)][1-4C] | [Consultant-Led Review ()][1-5B]
-**3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: CSS website replication ()][1-2D] | [Lab: JavaScript functions (Zeb)][1-3D] | [Lab: DOM manipulation LoTR ()][1-4D] | [Lab: Tic-Tac-Toe (Zeb)][1-5C]      
+ **9:00am Warm-Up** | [Welcome to GA][1-1A] | [Get to Know Your Cohort][1-2A] | [Kyrel 1][1-3A] |  [Kyrel 2][1-4A]  | [Kyrel 3][1-5A]
+ **9:30am Module 1** | [Orientation (Zeb)][1-1B] | [Chrome dev tools (Zeb)][1-2B] | [JS Data types, variables, and arrays ()][1-3B] |  [Mastering control flow (Zeb)][1-4B]  | Developer-Led Review  ()
+ **11:00am Module 2** | [How the internet works ()][1-1C] | [CSS selector basics ()][1-2C] | [Key-Value Store in JavaScript (Zeb)**][1-3C] | [Debugging in JavaScript ()][1-4C] | [Git and GitHub (Zeb)][1-5B]
+ **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Box model and positioning (Zeb)][1-2D] | [Functions and scope ()][1-3D] | [DOM manipulation and events (Zeb)][1-4D] | [Consultant-Led Review ()][1-5C]
+**3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: CSS website replication ()][1-2E] | [Lab: JavaScript functions (Zeb)][1-3E] | [Lab: DOM manipulation LoTR ()][1-4E] | [Lab: Tic-Tac-Toe (Zeb)][1-5D]      
 **Training** | [Lab: Command line][1-1F] () | [Lab: Build a website (Zeb)][1-2F] | Finish Lab  | Finish Lab | Finish Lab  
 
 [1-1A]: # "Icebreakers"
