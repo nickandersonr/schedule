@@ -2,14 +2,15 @@
 
 #### Daily Schedule Overview
 
-Time  | Monday - Thursday  | Friday
------ | ------------------ | -----  
-9:00  | Module 1           | Review
-10:30 | Module 2           | Outcomes
-12:00 | Lunch              | Lunch
-1:00  | Module 3           | Review
-2:30  | Module 4           | Begin Weekend Lab
-4:00  | Independent Work        | Rest
+Time  | Activity
+----- | ------------------ 
+9:00  | Morning Warm-Up
+9:30 | Module 1
+11:00 | Module 2
+12:30 | Lunch
+1:30  | Module 3
+3:00  | Module 4
+4:00  | Independent Work
 
 ## Unit 1: The Client
 
