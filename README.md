@@ -21,7 +21,7 @@ Time  | Activity
  **9:00am Warm-Up** | [Welcome to GA][1-1A] | [CSS selector basics ()][1-2A] | [Kyrel 1][1-3A] |  [Kyrel 2][1-4A]  | [Kyrel 3][1-5A]
  **9:30am Module 1** | [Orientation (Zeb)][1-1B] | [Box model and positioning (Zeb)][1-2B] | [Lab: Design and CSS Challenge][1-3B] |  [Functions and scope ()][1-4B]   | Second Pass and [Questions in a Hat ()][1-5B]
  **11:00am Module 2** | [How the internet works ()][1-1C] | [Lab: Mockup to HTML/CSS][1-2C] | [JS Data types, variables, and arrays ()][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
- **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | [Key-Value Store in JavaScript (Zeb)**][1-3D] | [DOM manipulation and events (Zeb)][1-4D] | [CSS Grid System and Media Queries??][1-5D]
+ **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | [Key-Value Store in JavaScript (Zeb)**][1-3D] | [DOM manipulation and events (Zeb)][1-4D] | [CSS Grid System and Media Queries][1-5D]
 **3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Git and GitHub (JP)][1-2E] | [Chrome dev tools (Zeb)][1-3E] | [Lab: DOM manipulation LoTR ()][1-4E] | [Lab: Racer Game (Zeb)][1-5E]      
 **Training** | [Lab: Command line][1-1F] () | [Lab: Build a website (Zeb)][1-2F] | Finish Design/CSS Lab  | Finish LOTR Lab | Finish Racer Lab  
 
@@ -54,7 +54,7 @@ Time  | Activity
 [1-5A]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day3.md "Kyrel 3"
 [1-5B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
 [1-5C]: https://github.com/den-wdi-2/control-flow "Mastering Control Flow"
-[1-5D]: # "Grid System & Media Queries"
+[1-5D]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox "Grid System & Media Queries"
 [1-5E]: https://github.com/den-wdi-2/week-1-assessment "Lab: Racer Game"
 
 #### Week 2 - JavaScript & Front-end Libraries
@@ -62,7 +62,7 @@ Time  | Activity
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
  **9:00am Module 1** | [Developer Resources (JP)][2-1B] [Debugging in JavaScript ()][2-1H]                    |      [jQuery & Browser Storage (Zeb)][2-2A]                |  [AJAX & API's with jQuery (JP)][2-3A]       |      [OOP in JS (Zeb)][2-4A]     | [Questions in a Hat (JP)][2-5B]
- **10:30am Module 2** |                 |   [Responsive CSS & Flexbox (JP)][2-2B]  |    [Handlebars Templating (JP)][2-3B]                     |    [OOP in JS (Zeb)][2-4B]    | Outcomes
+ **10:30am Module 2** |                 |   [Responsive CSS & Flexbox (JP) -- Main part finished Week 1, but no Flexbox][2-2B]  |    [Handlebars Templating (JP)][2-3B]                     |    [OOP in JS (Zeb)][2-4B]    | Outcomes
 **1:00pm Module 3** |[Callbacks & Iterators (Zeb)][2-1D]                          |   [Intro to Bootstrap (Zeb)][2-2C] |    [Geoquakes Lab (Zeb)][2-3C]     |        [OOP concepts (JP)][2-4C]     | Review (Zeb)
 **2:30pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1F]                 |  [HTML Forms (JP)][2-2D]  | [Geoquakes Lab Cont'd (Zeb)][2-3D] |  [OOP Refactor Lab (JP)][2-4C]  | [Create an Issue (Zeb)][2-5C]|
 **Training** |[Building Iterators (Zeb)][2-1F] | [More jQuery Practice (Zeb)][2-2E]   |  [OOP Prep (Zeb)][2-3E] | [OOP Refactor cont'd (JP)][2-4C] | [Weekend Lab: Fix an issue (Zeb)][2-5E]
