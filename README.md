@@ -23,36 +23,36 @@ Time  | Monday - Thursday  | Friday
 **2:30pm Module 4** | [Navigating the file system + some meta skills (John)][1-1D] | [Lab: CSS website replication (Zeb)][1-2D] | [Lab: JavaScript functions (John)][1-3D] | [Lab: DOM manipulation LoTR (Zeb)][1-4D] | [Lab: Tic-Tac-Toe (JP)][1-5C]      
 **Training** | [Kyrel Intro][1-1E] / [Lab: Command line][1-1F] (Tom/Zeb) | [Kyrel 2][1-2E] / [Lab: Build a website (Tom/John)][1-2F] | [Kyrel 3][1-3E] / Finish Lab(Tom/John)  | [Kyrel 4][1-4E] / Finish Lab (Tom/Zeb) |  [Kyrel 5][1-5D] / Finish Lab  
 
-[1-1A]: https://github.com/den-wdi-1/orientation "Orientation"
-[1-1B]: https://github.com/den-wdi-1/Intro-to-WDI-and-team "Intro to WDI and Team"
-[1-1C]: https://github.com/den-wdi-1/how-the-internet-works "How the Internet Works"
-[1-1D]: https://github.com/den-wdi-1/terminal-basics-navigating-the-filesystem/ "Navigating the file system"
-[1-1E]: https://github.com/den-wdi-1/kyrel "Kyrel 1"
-[1-1F]: https://github.com/den-wdi-1/command-line-lab/ "Lab: Command Line"
+[1-1A]: https://github.com/den-wdi-2/orientation "Orientation"
+[1-1B]: https://github.com/den-wdi-2/Intro-to-WDI-and-team "Intro to WDI and Team"
+[1-1C]: https://github.com/den-wdi-2/how-the-internet-works "How the Internet Works"
+[1-1D]: https://github.com/den-wdi-2/terminal-basics-navigating-the-filesystem/ "Navigating the file system"
+[1-1E]: https://github.com/den-wdi-2/kyrel "Kyrel 1"
+[1-1F]: https://github.com/den-wdi-2/command-line-lab/ "Lab: Command Line"
 
-[1-2A]: https://github.com/den-wdi-1/chrome-dev-tools "Chrome Dev Tools"
-[1-2B]: https://github.com/den-wdi-1/css-selector-basics "CSS Selector Basics"
-[1-2C]: https://github.com/den-wdi-1/css-box-model-and-positioning "Box Model and Positioning"
-[1-2D]: https://github.com/den-wdi-1/m4-CSS-lab "Lab: CSS website replication"
-[1-2E]: https://github.com/den-wdi-1/kyrel/blob/master/challenges/day2.md "Kyrel 2"
-[1-2F]: https://github.com/den-wdi-1/build-a-website "Lab: Build a website"
+[1-2A]: https://github.com/den-wdi-2/chrome-dev-tools "Chrome Dev Tools"
+[1-2B]: https://github.com/den-wdi-2/css-selector-basics "CSS Selector Basics"
+[1-2C]: https://github.com/den-wdi-2/css-box-model-and-positioning "Box Model and Positioning"
+[1-2D]: https://github.com/den-wdi-2/m4-CSS-lab "Lab: CSS website replication"
+[1-2E]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day2.md "Kyrel 2"
+[1-2F]: https://github.com/den-wdi-2/build-a-website "Lab: Build a website"
 
-[1-3A]: https://github.com/den-wdi-1/js-data-types "Data types, Variables and Arrays"
-[1-3B]: https://github.com/den-wdi-1/js-objects "JavaScript Objects"
-[1-3C]: https://github.com/den-wdi-1/js-functions-and-scope "Functions and Scope"
-[1-3D]: https://github.com/den-wdi-1/js-functions-lab "Lab: JavaScript functions"
-[1-3E]: https://github.com/den-wdi-1/kyrel/blob/master/challenges/day3.md "Kyrel 3"
+[1-3A]: https://github.com/den-wdi-2/js-data-types "Data types, Variables and Arrays"
+[1-3B]: https://github.com/den-wdi-2/js-objects "JavaScript Objects"
+[1-3C]: https://github.com/den-wdi-2/js-functions-and-scope "Functions and Scope"
+[1-3D]: https://github.com/den-wdi-2/js-functions-lab "Lab: JavaScript functions"
+[1-3E]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day3.md "Kyrel 3"
 
-[1-4A]: https://github.com/den-wdi-1/control-flow "Mastering Control Flow"
-[1-4B]: https://github.com/den-wdi-1/debugging-javascript "Debugging in JS"
-[1-4C]: https://github.com/den-wdi-1/dom-manipulation-and-events "DOM Manipulation & Events"
-[1-4D]: https://github.com/den-wdi-1/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
-[1-4E]: https://github.com/den-wdi-1/kyrel/blob/master/challenges/day4.md "Kyrel 4"
+[1-4A]: https://github.com/den-wdi-2/control-flow "Mastering Control Flow"
+[1-4B]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
+[1-4C]: https://github.com/den-wdi-2/dom-manipulation-and-events "DOM Manipulation & Events"
+[1-4D]: https://github.com/den-wdi-2/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
+[1-4E]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day4.md "Kyrel 4"
 
-[1-5A]: https://github.com/den-wdi-1/git-and-github "Git and GitHub"
-[1-5B]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
-[1-5C]: https://github.com/den-wdi-1/tic-tac-toe "Lab: Tic-Tac-Toe"
-[1-5D]: https://github.com/den-wdi-1/kyrel/blob/master/challenges/day5.md "Kyrel 5"
+[1-5A]: https://github.com/den-wdi-2/git-and-github "Git and GitHub"
+[1-5B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
+[1-5C]: https://github.com/den-wdi-2/tic-tac-toe "Lab: Tic-Tac-Toe"
+[1-5D]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day5.md "Kyrel 5"
 
 #### Week 2 - JavaScript & Front-end Libraries
 
@@ -75,35 +75,35 @@ Weekly Goals:
 	* Use Pull Requests to improve a repository's quality 
 
 
-[2-1A]: https://github.com/den-wdi-1/git-and-github "Git and GitHub Branching and Pages"
-[2-1B]: https://github.com/den-wdi-1/developer-resources "Developer Resources"
-[2-1C]: https://github.com/den-wdi-1/gh-lab "Git and GitHub lab"
-[2-1D]: https://github.com/den-wdi-1/js-callbacks-iterators "Callbacks & Iterators"
-[2-1E]: https://github.com/den-wdi-1/js-callbacks-iterators "Callbacks & Iterators Lab"
-[2-1F]: https://github.com/den-wdi-1/js-building-iterators-lab "Building Iterators"
+[2-1A]: https://github.com/den-wdi-2/git-and-github "Git and GitHub Branching and Pages"
+[2-1B]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
+[2-1C]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
+[2-1D]: https://github.com/den-wdi-2/js-callbacks-iterators "Callbacks & Iterators"
+[2-1E]: https://github.com/den-wdi-2/js-callbacks-iterators "Callbacks & Iterators Lab"
+[2-1F]: https://github.com/den-wdi-2/js-building-iterators-lab "Building Iterators"
 
-[2-2A]: https://github.com/den-wdi-1/jquery-and-browser-storage "jQuery and Browser Storage"
-[2-2B]: https://github.com/den-wdi-1/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
-[2-2C]: https://github.com/den-wdi-1/bootstrap "Intro to Bootstrap"
-[2-2D]: https://github.com/den-wdi-1/html-forms "HTML Forms"
-[2-2E]: https://github.com/den-wdi-1/jquery-datepicker-lab "More jQuery Practice"
+[2-2A]: https://github.com/den-wdi-2/jquery-and-browser-storage "jQuery and Browser Storage"
+[2-2B]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
+[2-2C]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
+[2-2D]: https://github.com/den-wdi-2/html-forms "HTML Forms"
+[2-2E]: https://github.com/den-wdi-2/jquery-datepicker-lab "More jQuery Practice"
 
-[2-3A]: https://github.com/den-wdi-1/ajax-with-jquery "AJAX & APIs with jQuery"
-[2-3B]: https://github.com/den-wdi-1/handlebars "Handlebars Templating"
-[2-3C]: https://github.com/den-wdi-1/geoquakes "Geoquakes Lab"
-[2-3D]: https://github.com/den-wdi-1/geoquakes "Geoquakes Lab"
+[2-3A]: https://github.com/den-wdi-2/ajax-with-jquery "AJAX & APIs with jQuery"
+[2-3B]: https://github.com/den-wdi-2/handlebars "Handlebars Templating"
+[2-3C]: https://github.com/den-wdi-2/geoquakes "Geoquakes Lab"
+[2-3D]: https://github.com/den-wdi-2/geoquakes "Geoquakes Lab"
 [2-3E]: https://www.youtube.com/watch?v=SS-9y0H3Si8 "OOP Prep"
 
-[2-4A]: https://github.com/den-wdi-1/js-oop-flower-power "OOP Lesson"
-[2-4B]: https://github.com/den-wdi-1/js-oop-flower-power "Flower Power OOP Lab"
-[2-4C]: https://github.com/den-wdi-1/oop-concepts "OOP Concepts"
+[2-4A]: https://github.com/den-wdi-2/js-oop-flower-power "OOP Lesson"
+[2-4B]: https://github.com/den-wdi-2/js-oop-flower-power "Flower Power OOP Lab"
+[2-4C]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
 [2-4D]: # "OOP Concepts"
 [2-4E]: # "OOP Refactor (cont'd)"
 
 [2-5A]: # "Review"
-[2-5B]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
-[2-5C]: https://github.com/den-wdi-1/create-an-issue/ "Create an Issue"
-[2-5E]: https://github.com/den-wdi-1/create-an-issue/blob/master/readme.md#this-weekends-assignment "Fix an Issue"
+[2-5B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
+[2-5C]: https://github.com/den-wdi-2/create-an-issue/ "Create an Issue"
+[2-5E]: https://github.com/den-wdi-2/create-an-issue/blob/master/readme.md#this-weekends-assignment "Fix an Issue"
 
 #### Week 3 - Project 1:  Browser Games
 
@@ -119,24 +119,24 @@ Weekly Goals:
 * Create a browser based game for your porfollio
 * Learn about common ways software companies organize projects
 
-[3-1A]: https://github.com/den-wdi-1/software-development-best-practices "Agile development, wireframes, and user stories"
-[3-1B]: https://github.com/den-wdi-1/project-1 "Project 1 Specs"
-[3-1C]: https://github.com/den-wdi-1/agile-lab "Agile Lab"
-[3-1D]: https://github.com/den-wdi-1/js-dom-jquery-first "jQuery DOM"
-[3-1E]: https://github.com/den-wdi-1/api-intro-with-ajax "jQuery AJAX"
-[3-1F]: https://github.com/den-wdi-1/js-prototypes-constructors "Objects and Prototypes"
+[3-1A]: https://github.com/den-wdi-2/software-development-best-practices "Agile development, wireframes, and user stories"
+[3-1B]: https://github.com/den-wdi-2/project-1 "Project 1 Specs"
+[3-1C]: https://github.com/den-wdi-2/agile-lab "Agile Lab"
+[3-1D]: https://github.com/den-wdi-2/js-dom-jquery-first "jQuery DOM"
+[3-1E]: https://github.com/den-wdi-2/api-intro-with-ajax "jQuery AJAX"
+[3-1F]: https://github.com/den-wdi-2/js-prototypes-constructors "Objects and Prototypes"
 
-[3-2A]: https://github.com/den-wdi-1/binary-search "Binary Search"
+[3-2A]: https://github.com/den-wdi-2/binary-search "Binary Search"
 [3-2B]: # "Project 1"
 [3-2C]: # "Project 1"
 [3-2D]: # "Project 1"
 
-[3-3A]: https://github.com/den-wdi-1/bubble-sort "Bubble Sort"
+[3-3A]: https://github.com/den-wdi-2/bubble-sort "Bubble Sort"
 [3-3B]: # "Project 1"
 [3-3C]: # "Project 1"
 [3-3D]: # "Project 1"
 
-[3-4A]: https://github.com/den-wdi-1/merge-sort "Merge Sort"
+[3-4A]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
 [3-4B]: # "Project 1"
 [3-4C]: # "Outcomes"
 [3-4D]: # "Project 1"
@@ -146,7 +146,7 @@ Weekly Goals:
 [3-5C]: # "Review"
 [3-5D]: # "Happy Hour"
 [3-5E]: https://github.com/workshopper/learnyounode "Learn you Node"
-[3-5F]: https://github.com/den-wdi-1/create-an-issue-project1 "Fix an issue"
+[3-5F]: https://github.com/den-wdi-2/create-an-issue-project1 "Fix an issue"
 
 ## Unit 2: The Server
 
@@ -161,28 +161,28 @@ Time | Day 1                                    | Day 2                         
 **Training** | Fourth of July | [More Express Routes][4-1E] | [Finish Lab][4-2D]   |   Finish Labs | Finish Lab + [CodeSchool Ruby Tutorial][4-4E]
 
 
-[4-1A]: https://github.com/den-wdi-1/nodejs "Intro to Node.js"
-[4-1B]: https://github.com/den-wdi-1/express "Intro to Express.js"
-[4-1C]: https://github.com/den-wdi-1/express-routing-lesson "Building Express Routes part 1"
-[4-1D]: https://github.com/den-wdi-1/express-routing-lab "Building Express Routes part 2"
-[4-1E]: https://github.com/den-wdi-1/more-express-routes "More Express Routes"
+[4-1A]: https://github.com/den-wdi-2/nodejs "Intro to Node.js"
+[4-1B]: https://github.com/den-wdi-2/express "Intro to Express.js"
+[4-1C]: https://github.com/den-wdi-2/express-routing-lesson "Building Express Routes part 1"
+[4-1D]: https://github.com/den-wdi-2/express-routing-lab "Building Express Routes part 2"
+[4-1E]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
 
-[4-2A]: https://github.com/den-wdi-1/mongo-intro "Intro to Node with Mongo"
-[4-2B]: https://github.com/den-wdi-1/intro-mongoose "Mongo-backed models with Mongoose"
-[4-2C]: https://github.com/den-wdi-1/mongo-structured-data "Data Organization in Mongo"
-[4-2CA]:https://github.com/den-wdi-1/expres-resource-reteach "Express Reteach"
-[4-2D]: https://github.com/den-wdi-1/mongoose-books-app "Full Stack JavaScript Lab"
+[4-2A]: https://github.com/den-wdi-2/mongo-intro "Intro to Node with Mongo"
+[4-2B]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
+[4-2C]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
+[4-2CA]:https://github.com/den-wdi-2/expres-resource-reteach "Express Reteach"
+[4-2D]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
 [4-2E]: #  "Connecting Express Routes to Mongo Lab"
 
-[4-3A]: https://github.com/den-wdi-1/express-views-lesson "Views in Express Lesson"
-[4-3B]: https://github.com/den-wdi-1/express-views-lab "Views in Express Lab"
-[4-3C]: https://github.com/den-wdi-1/test-driven-todo-api "Todo Lab, Part 1"
-[4-3D]: https://github.com/den-wdi-1/ajax-oop-refactor-lab "AJAX Lesson"
+[4-3A]: https://github.com/den-wdi-2/express-views-lesson "Views in Express Lesson"
+[4-3B]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
+[4-3C]: https://github.com/den-wdi-2/test-driven-todo-api "Todo Lab, Part 1"
+[4-3D]: https://github.com/den-wdi-2/ajax-oop-refactor-lab "AJAX Lesson"
 
-[4-4A]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
+[4-4A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
 [4-4B]: # "Outcomes"
-[4-4C]: https://github.com/den-wdi-1/fullStack-JS-review "Review"
-[4-4D]: https://github.com/den-wdi-1/express-personal-api
+[4-4C]: https://github.com/den-wdi-2/fullStack-JS-review "Review"
+[4-4D]: https://github.com/den-wdi-2/express-personal-api
 [4-4E]: https://www.codeschool.com/courses/try-ruby "Code School Try Ruby"
 
 #### Week 5 - Ruby and Sinatra (This should go to Week 10)
@@ -203,33 +203,33 @@ Weekly goals:
 - Understand enough SQL to use ActiveRecord
   - Basics of tables and queries
 
-[5-1A]: https://github.com/den-wdi-1/tunely "Tunely"
-[5-1B]: https://github.com/den-wdi-1/tunely "Tunely"
-[5-1C]: https://github.com/den-wdi-1/tunely "Tunely"
-[5-1D]: https://github.com/den-wdi-1/tunely "Tunely"
+[5-1A]: https://github.com/den-wdi-2/tunely "Tunely"
+[5-1B]: https://github.com/den-wdi-2/tunely "Tunely"
+[5-1C]: https://github.com/den-wdi-2/tunely "Tunely"
+[5-1D]: https://github.com/den-wdi-2/tunely "Tunely"
 
-[5-2A]: https://github.com/den-wdi-1/intro-ruby "Intro to Ruby"
-[5-2B]: https://github.com/den-wdi-1/ruby-koans "Intro to Ruby Lab"
-[5-2C]: https://github.com/den-wdi-1/sinatra-intro-lesson "Sinatra Intro Lesson"
-[5-2D]: https://github.com/den-wdi-1/sinatra-intro-lesson "Sinatra Intro Lesson"
-[5-2E]: https://github.com/den-wdi-1/message-in-a-bottle "Message in a Sinatra Code Study + Ruby Grandma Exercise"
+[5-2A]: https://github.com/den-wdi-2/intro-ruby "Intro to Ruby"
+[5-2B]: https://github.com/den-wdi-2/ruby-koans "Intro to Ruby Lab"
+[5-2C]: https://github.com/den-wdi-2/sinatra-intro-lesson "Sinatra Intro Lesson"
+[5-2D]: https://github.com/den-wdi-2/sinatra-intro-lesson "Sinatra Intro Lesson"
+[5-2E]: https://github.com/den-wdi-2/message-in-a-bottle "Message in a Sinatra Code Study + Ruby Grandma Exercise"
 
-[5-3A]: https://github.com/den-wdi-1/ruby-oop "Ruby OOP Lesson"
-[5-3B]: https://github.com/den-wdi-1/monkey-oop "Ruby OOP Lab"
-[5-3C]: https://github.com/den-wdi-1/data-modeling "Relational Data Modeling"
-[5-3D]: https://github.com/den-wdi-1/sql "SQL Select Lab"
-[5-3E]: https://github.com/den-wdi-1/sql-carmen-sandiego "SQL"
+[5-3A]: https://github.com/den-wdi-2/ruby-oop "Ruby OOP Lesson"
+[5-3B]: https://github.com/den-wdi-2/monkey-oop "Ruby OOP Lab"
+[5-3C]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
+[5-3D]: https://github.com/den-wdi-2/sql "SQL Select Lab"
+[5-3E]: https://github.com/den-wdi-2/sql-carmen-sandiego "SQL"
 
-[5-4A]: https://github.com/den-wdi-1/active-record-models "Building Models with ActiveRecord and Migrations"
-[5-4B]: https://github.com/den-wdi-1/modeling-tunr "Models and Migrations Lab"
-[5-4C]: https://github.com/den-wdi-1/active-record-pizza-lab "ActiveRecord CRUD with Command Line"
-[5-4D]: https://github.com/den-wdi-1/active-record-pizza-lab "ActiveRecord Finders lab"
+[5-4A]: https://github.com/den-wdi-2/active-record-models "Building Models with ActiveRecord and Migrations"
+[5-4B]: https://github.com/den-wdi-2/modeling-tunr "Models and Migrations Lab"
+[5-4C]: https://github.com/den-wdi-2/active-record-pizza-lab "ActiveRecord CRUD with Command Line"
+[5-4D]: https://github.com/den-wdi-2/active-record-pizza-lab "ActiveRecord Finders lab"
 
-[5-5A]: https://github.com/den-wdi-1/questions-in-a-hat "Questions in a Hat"
+[5-5A]: https://github.com/den-wdi-2/questions-in-a-hat "Questions in a Hat"
 [5-5B]: # "Outcomes"
 [5-5C]: # "Review"
-[5-5D]: https://github.com/den-wdi-1/tunr-relationships "Tunr Relationships"
-[5-5E]: https://github.com/den-wdi-1/project-2 "Project 2"
+[5-5D]: https://github.com/den-wdi-2/tunr-relationships "Tunr Relationships"
+[5-5E]: https://github.com/den-wdi-2/project-2 "Project 2"
 
 #### Week 6 - Project 2: Sinatra Single-Resource App
 
@@ -241,11 +241,11 @@ Weekly goals:
 **2:30pm Module 4** |  Project 2     | Project 2   |  Project 2   | Project 2 |  Happy Hour   |
 **Training** | Project 2 | Project 2 | Project 2 | Project 2 |  Fix Issues / [Rails for Zombies (Spend ~2 hours)](http://railsforzombies.org/levels/1) |
 
-[6-1A]: https://github.com/den-wdi-1/username-generator "Username Generator"
-[6-1B]: https://github.com/den-wdi-1/go-fish-card-game "Go Fish Game"
-[6-1C]: https://github.com/den-wdi-1/project-2 "Project 2"
+[6-1A]: https://github.com/den-wdi-2/username-generator "Username Generator"
+[6-1B]: https://github.com/den-wdi-2/go-fish-card-game "Go Fish Game"
+[6-1C]: https://github.com/den-wdi-2/project-2 "Project 2"
 
-[6-5C]: https://github.com/den-wdi-1/create-an-issue-project2 "Create Issues"
+[6-5C]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
 <!--[6-5A]: https://github.com/sf-wdi-29/student-projects/blob/master/second-projects.md "second projects"-->
 
 
@@ -256,7 +256,7 @@ Extra Resources:
 * [Debugging Ruby Applications](https://github.com/sf-wdi-29/debugging-ruby-applications)
 * [Seeding a Sinatra App](https://github.com/sf-wdi-29/sinatra-app-seed/blob/master/readme.md)
 * [Front-end Assets](https://github.com/sf-wdi-29/front-end-assets/blob/master/readme.md)
-* [tunr on Heroku](https://github.com/den-wdi-1/tunr-heroku)
+* [tunr on Heroku](https://github.com/den-wdi-2/tunr-heroku)
 
 ## Unit 3: Ruby on Rails and Group Work (This will become Angular and Group Work)
 
@@ -278,35 +278,35 @@ Weekly Goals:
 - Build a basic authentication system
 - Build Many-to-Many relationships
 
-[7-1A]:  https://github.com/den-wdi-1/ruby-drills "Ruby Pair Exercises"
-[7-1B]:  https://github.com/den-wdi-1/wheel_of_fortune "OOP Wheel of Fortune" 
-[7-1C]: https://github.com/den-wdi-1/rspec "Rspec and TDD Lesson"
-[7-1D]: https://github.com/den-wdi-1/car-racing-lab "Rspec and TDD Lab"
+[7-1A]:  https://github.com/den-wdi-2/ruby-drills "Ruby Pair Exercises"
+[7-1B]:  https://github.com/den-wdi-2/wheel_of_fortune "OOP Wheel of Fortune" 
+[7-1C]: https://github.com/den-wdi-2/rspec "Rspec and TDD Lesson"
+[7-1D]: https://github.com/den-wdi-2/car-racing-lab "Rspec and TDD Lab"
 [7-1E]: # "Finish Labs"
 
-[7-2A]: https://github.com/den-wdi-1/intro-to-rails "Intro to Rails"
-[7-2B]: https://github.com/den-wdi-1/rails-controllers-and-routes "Controllers & Routes"
-[7-2C]: https://github.com/den-wdi-1/rails-layouts-and-partials "Layouts & Partials"
-[7-2D]: https://github.com/den-wdi-1/rock-n-rails "Rock n Rails"
+[7-2A]: https://github.com/den-wdi-2/intro-to-rails "Intro to Rails"
+[7-2B]: https://github.com/den-wdi-2/rails-controllers-and-routes "Controllers & Routes"
+[7-2C]: https://github.com/den-wdi-2/rails-layouts-and-partials "Layouts & Partials"
+[7-2D]: https://github.com/den-wdi-2/rock-n-rails "Rock n Rails"
 
-[7-3AA]: https://github.com/den-wdi-1/rails-asset-pipeline "Rails Asset Pipeline"
-[7-3A]: https://github.com/den-wdi-1/asset-pipeline-poem "Asset Pipeline"
-[7-3B]: https://github.com/den-wdi-1/rails-bog-app "Bog App"
-[7-3C]: https://github.com/den-wdi-1/rails-validations-errors "Validations and Errors"
-[7-3D]: https://github.com/den-wdi-1/rails-validations-errors-lab "Validations and Errors Lab"
+[7-3AA]: https://github.com/den-wdi-2/rails-asset-pipeline "Rails Asset Pipeline"
+[7-3A]: https://github.com/den-wdi-2/asset-pipeline-poem "Asset Pipeline"
+[7-3B]: https://github.com/den-wdi-2/rails-bog-app "Bog App"
+[7-3C]: https://github.com/den-wdi-2/rails-validations-errors "Validations and Errors"
+[7-3D]: https://github.com/den-wdi-2/rails-validations-errors-lab "Validations and Errors Lab"
 [7-3E]: # "Finish Labs"
 
-[7-4A]: https://github.com/den-wdi-1/rails-auth "Auth"
-[7-4B]: https://github.com/den-wdi-1/rails-auth "More Auth"
-[7-4C]: https://github.com/den-wdi-1/rails-many-to-many "Many to Many"
-[7-4D]: https://github.com/den-wdi-1/rails-many-to-many-lab "Many to Many Lab"
+[7-4A]: https://github.com/den-wdi-2/rails-auth "Auth"
+[7-4B]: https://github.com/den-wdi-2/rails-auth "More Auth"
+[7-4C]: https://github.com/den-wdi-2/rails-many-to-many "Many to Many"
+[7-4D]: https://github.com/den-wdi-2/rails-many-to-many-lab "Many to Many Lab"
 [7-4E]: # "Finish Labs"
 
-[7-5A]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-07.md "Questions in a Hat"
+[7-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-07.md "Questions in a Hat"
 [7-5B]: # "Outcomes"
-[7-5C]: https://github.com/den-wdi-1/rails-review "Review"
-[7-5D]: https://github.com/den-wdi-1/library-app "Library App"
-[7-5E]: https://github.com/den-wdi-1/library-app "Library App"
+[7-5C]: https://github.com/den-wdi-2/rails-review "Review"
+[7-5D]: https://github.com/den-wdi-2/library-app "Library App"
+[7-5E]: https://github.com/den-wdi-2/library-app "Library App"
 
 #### Week 8 - Project Vagabond, Group Work
 
@@ -318,17 +318,17 @@ Time | Day 1                                      | Day 2                       
 **2:30pm Module 4** | Moar Trees |  Project Vagabond |  Project Vagabond |  Project Vagabond | [Algorithm Practice][8-4E]
 **Homework** | Select CS Exercises | Project Vagabond | Project Vagabond | Prepare Project 3 Pitch | [Project 3][8-5E]
 
-[8-1A]: https://github.com/den-wdi-1/stacks-and-queues "Stacks and Queues"
+[8-1A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
 
-[8-1C]: https://github.com/den-wdi-1/trees "Trees"
+[8-1C]: https://github.com/den-wdi-2/trees "Trees"
 
-[8-2A]: https://github.com/den-wdi-1/linked-lists "Linked Lists"
+[8-2A]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
 
-[8-2B]: https://github.com/den-wdi-1/sass-intro "Sass"
+[8-2B]: https://github.com/den-wdi-2/sass-intro "Sass"
 
-[8-2C]: https://github.com/den-wdi-1/project-vagabond "Project Vagabond"
-[8-4E]: https://github.com/den-wdi-1/high_card "High Card"
-[8-5E]: https://github.com/den-wdi-1/project-03 "Project 3"
+[8-2C]: https://github.com/den-wdi-2/project-vagabond "Project Vagabond"
+[8-4E]: https://github.com/den-wdi-2/high_card "High Card"
+[8-5E]: https://github.com/den-wdi-2/project-03 "Project 3"
 
 #### Week 9 - Project 3: Group Project
 
@@ -340,12 +340,12 @@ Time | Day 1                                      | Day 2                       
 **2:30pm Module 4** | [Moar String Matching (JP)][9-1C]  |  Project 3 |  Project 3 | Project 3 |  Rails Review | 
 **Homework** | [Project 3][8-5E] | Project 3 | Algorithm Practice | Project 3 | [Look over the Angular Documentation][9-5E] + [Check out this blog][9-5F] + [Check out this Lab][9-5G]
 
-[9-1A]: https://github.com/den-wdi-1/rspec-rails-testing "RSpec Rails Testing"
-[9-1C]: https://github.com/den-wdi-1/string-matching "String Matching"
-[9-5A]: https://github.com/den-wdi-1/authentication-and-math "Auth Math"
+[9-1A]: https://github.com/den-wdi-2/rspec-rails-testing "RSpec Rails Testing"
+[9-1C]: https://github.com/den-wdi-2/string-matching "String Matching"
+[9-5A]: https://github.com/den-wdi-2/authentication-and-math "Auth Math"
 [9-5E]: https://docs.angularjs.org/guide/introduction "Angular Reading"
 [9-5F]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
-[9-5G]: https://github.com/den-wdi-1/intro_angular_challenges
+[9-5G]: https://github.com/den-wdi-2/intro_angular_challenges
 
 #### Week 10 - Angular (This will be Week 7 and/or 8)
 
@@ -357,36 +357,36 @@ Time | Day 1                           | Day 2                                  
 **2:30pm Module 4** | [Directives Lab (JP/Zeb)][10-1D] | [Angular Hangman (JP/Zeb)][10-2D] | [Refactor Wine App (JP/Zeb)][10-3D] | Almost-MEAN Cards (Zeb/JP) | [Rapid Prototyping][10-5D]
 **Homework** | Submit Labs and CodeWars Level 7 | Submit Labs  and Project 3 Issues | ui-router vs ngRoute readings: [#1][10-3E] + [#2][10-3F] + [#3][10-3G] | Finish Full-Stack Cards | [Rapid Prototyping][10-5E] and [Lightning Talk Research][10-5F]
 
-[10-1A]: https://github.com/den-wdi-1/angular-intro "Intro to Angular"
-[10-1B]: https://github.com/den-wdi-1/angular-intro "Intro to Angular Lab"
-[10-1C]: https://github.com/den-wdi-1/angular-directives-lesson "Directives Lesson"
-[10-1D]: https://github.com/den-wdi-1/angular-directives-lab "Directives Lab"
+[10-1A]: https://github.com/den-wdi-2/angular-intro "Intro to Angular"
+[10-1B]: https://github.com/den-wdi-2/angular-intro "Intro to Angular Lab"
+[10-1C]: https://github.com/den-wdi-2/angular-directives-lesson "Directives Lesson"
+[10-1D]: https://github.com/den-wdi-2/angular-directives-lab "Directives Lab"
 [10-1E]: # "Homework"
 
-[10-2A]: https://github.com/den-wdi-1/http-workshop "$http and promises"
-[10-2B]: https://github.com/den-wdi-1/http-lab "$http lab"
-[10-2C]: https://github.com/den-wdi-1/ng-hangman "Angular Hangman"
-[10-2D]: https://github.com/den-wdi-1/ng-hangman "Angular Hangman"
-[10-2E]: https://github.com/den-wdi-1/project-3-issues
+[10-2A]: https://github.com/den-wdi-2/http-workshop "$http and promises"
+[10-2B]: https://github.com/den-wdi-2/http-lab "$http lab"
+[10-2C]: https://github.com/den-wdi-2/ng-hangman "Angular Hangman"
+[10-2D]: https://github.com/den-wdi-2/ng-hangman "Angular Hangman"
+[10-2E]: https://github.com/den-wdi-2/project-3-issues
 
-[10-3A]: https://github.com/den-wdi-1/angular_routing_lab "Routing"
-[10-3B]: https://github.com/den-wdi-1/angular_routing_lab "Wine App"
-[10-3C]: https://github.com/den-wdi-1/angular-resource "ngResource"
+[10-3A]: https://github.com/den-wdi-2/angular_routing_lab "Routing"
+[10-3B]: https://github.com/den-wdi-2/angular_routing_lab "Wine App"
+[10-3C]: https://github.com/den-wdi-2/angular-resource "ngResource"
 [10-3D]: # "Book App"
 [10-3E]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
 [10-3F]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
 [10-3G]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
 
-[10-4A]: https://github.com/den-wdi-1/ng-firebase "Firebase"
-[10-4B]: https://github.com/den-wdi-1/angular-animations-intro "ngAnimate"
-[10-4C]: https://github.com/den-wdi-1/fullStack-JS-App "Not-so-MEAN App"
+[10-4A]: https://github.com/den-wdi-2/ng-firebase "Firebase"
+[10-4B]: https://github.com/den-wdi-2/angular-animations-intro "ngAnimate"
+[10-4C]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
 
-[10-5A]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-10.md "Review / Questions in a Hat"
+[10-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-10.md "Review / Questions in a Hat"
 [10-5B]: # "Outcomes" 
-[10-5C]: https://github.com/den-wdi-1/Angular-review-topics "Dev-Led Review"
-[10-5D]: https://github.com/den-wdi-1/rapid-prototype "Rapid Prototyping"
-[10-5E]: https://github.com/den-wdi-1/rapid-prototype "Rapid Prototype Weekend Lab"
-[10-5F]: https://github.com/den-wdi-1/lighting-talks "Lightning Talk Research"
+[10-5C]: https://github.com/den-wdi-2/Angular-review-topics "Dev-Led Review"
+[10-5D]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
+[10-5E]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototype Weekend Lab"
+[10-5F]: https://github.com/den-wdi-2/lighting-talks "Lightning Talk Research"
 
 #### Week 11: Miscellaneous and Developer-Chosen Topics
 
@@ -398,38 +398,38 @@ Time | Day 1                                 | Day 2                            
 **2:30pm Module 4** | Prototype Working Session | Legacy Code Lab (Zeb) | [Project 4 Intro][11-3D] | Approvals | Project 4 | Outcomes |
 **Homework** |  Finish Prototypes | Lightning Talks Prep | Project Ideation | Project 4 | Project 4 |
 
-#### Extra Lab for Auth in Angular: [angular-auth-satellizer](https://github.com/den-wdi-1/angular-auth-satellizer) 
-#### Extra Lab for Rails API Mode with Angular: [Rangular](https://github.com/den-wdi-1/rails-api-lab)
-#### Extra Lesson on Redux: [Redux](https://github.com/den-wdi-1/redux)
+#### Extra Lab for Auth in Angular: [angular-auth-satellizer](https://github.com/den-wdi-2/angular-auth-satellizer) 
+#### Extra Lab for Rails API Mode with Angular: [Rangular](https://github.com/den-wdi-2/rails-api-lab)
+#### Extra Lesson on Redux: [Redux](https://github.com/den-wdi-2/redux)
 
 [11-1A]: # "Science Fair"
-[11-1B]: https://github.com/den-wdi-1/cards-against-rails "Rangular Apps"
-[11-1C]: https://github.com/den-wdi-1/gulp "Gulp"
+[11-1B]: https://github.com/den-wdi-2/cards-against-rails "Rangular Apps"
+[11-1C]: https://github.com/den-wdi-2/gulp "Gulp"
 [11-1E]: # " "
 
-[11-2A]: https://github.com/den-wdi-1/react "React"
+[11-2A]: https://github.com/den-wdi-2/react "React"
 [11-2B]: https://github.com/jpbarela/legacy-code/ "Legacy Code"
 [11-2E]: # " "
 
-[11-3A]: https://github.com/den-wdi-1/lighting-talks "Lighting Talks"
-[11-3B]: https://github.com/den-wdi-1/lighting-talks "Lighting Talks"
-[11-3C]: https://github.com/den-wdi-1/lighting-talks "Lighting Talks"
-[11-3D]: https://github.com/den-wdi-1/project-4 "Project 4"
+[11-3A]: https://github.com/den-wdi-2/lighting-talks "Lighting Talks"
+[11-3B]: https://github.com/den-wdi-2/lighting-talks "Lighting Talks"
+[11-3C]: https://github.com/den-wdi-2/lighting-talks "Lighting Talks"
+[11-3D]: https://github.com/den-wdi-2/project-4 "Project 4"
 [11-3E]: # " "
 
-[11-4A]: https://github.com/den-wdi-1/intro-to-ops "Dev Ops Intro"
+[11-4A]: https://github.com/den-wdi-2/intro-to-ops "Dev Ops Intro"
 [11-4B]: # " "
 [11-4C]: # "Project 4"
 [11-4D]: # " "
 [11-4E]: # " "
 
-[11-5A]: https://github.com/den-wdi-1/project-4 "Project 4"
+[11-5A]: https://github.com/den-wdi-2/project-4 "Project 4"
 [11-5B]: # " "
 [11-5C]: # " "
 [11-5D]: # " "
 [11-5E]: # " "
 
-#### [IoT Lesson](https://github.com/den-wdi-1/IoT-Hobby-Projects)
+#### [IoT Lesson](https://github.com/den-wdi-2/IoT-Hobby-Projects)
 
 #### Week 12 - Final Project and Interview Work
 
