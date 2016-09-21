@@ -19,7 +19,7 @@ Time  | Activity
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Warm-Up** | [Welcome to GA][1-1A] | [CSS selector basics ()][1-2A] | [Kyrel 1][1-3A] |  [Kyrel 2][1-4A]  | [Kyrel 3][1-5A]
- **9:30am Module 1** | [Orientation (Zeb)][1-1B] | [Box model and positioning (Zeb)][1-2B] | (Design and CSS Challenge Lab??)[1-3B] |  [Functions and scope ()][1-4B]   | Second Pass and [Questions in a Hat ()][1-5B]
+ **9:30am Module 1** | [Orientation (Zeb)][1-1B] | [Box model and positioning (Zeb)][1-2B] | [Lab: Design and CSS Challenge][1-3B] |  [Functions and scope ()][1-4B]   | Second Pass and [Questions in a Hat ()][1-5B]
  **11:00am Module 2** | [How the internet works ()][1-1C] | [Lab: Mockup to HTML/CSS][1-2C] | [JS Data types, variables, and arrays ()][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
  **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | [Key-Value Store in JavaScript (Zeb)**][1-3D] | [DOM manipulation and events (Zeb)][1-4D] | [CSS Grid System and Media Queries??][1-5D]
 **3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Git and GitHub (JP)][1-2E] | [Chrome dev tools (Zeb)][1-3E] | [Lab: DOM manipulation LoTR ()][1-4E] | [Lab: Racer Game (Zeb)][1-5E]      
@@ -40,7 +40,7 @@ Time  | Activity
 [1-2F]: https://github.com/den-wdi-2/build-a-website "Lab: Build a website"
 
 [1-3A]: https://github.com/den-wdi-2/kyrel "Kyrel 1"
-[1-3B]: # "Design and CSS Challenge Lab"
+[1-3B]: https://github.com/den-wdi-2/design-and-css-challenge-lab "Design and CSS Challenge Lab"
 [1-3C]: https://github.com/den-wdi-2/js-data-types "Data types, Variables and Arrays"
 [1-3D]: https://github.com/den-wdi-2/js-objects "JavaScript Objects"
 [1-3E]: https://github.com/den-wdi-2/chrome-dev-tools "Chrome Dev Tools"
