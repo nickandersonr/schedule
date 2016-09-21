@@ -19,11 +19,11 @@ Time  | Activity
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Warm-Up** | [Welcome to GA][1-1A] | [CSS selector basics ()][1-2A] **Need to cut this down** | [Kyrel 1][1-3A] |  [Kyrel 2][1-4A]  | [Kyrel 3][1-5A]
- **9:30am Module 1** | [Orientation (Zeb)][1-1B] | [Box model and positioning (Zeb)][1-2B] **Need to cut this down** | [JS Data types, variables, and arrays ()][1-3B] |  [Chrome dev tools (Zeb)][1-2B] [Mastering control flow (Zeb)][1-4B]  | Developer-Led Review  ()
- **11:00am Module 2** | [How the internet works ()][1-1C] | [Mockup to HTML/CSS Lab][1-2C] | [Key-Value Store in JavaScript (Zeb)**][1-3C] | [Debugging in JavaScript ()][1-4C] | 
- **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] **Need to cut this down** | [Functions and scope ()][1-3D] | [DOM manipulation and events (Zeb)][1-4D] | [Consultant-Led Review ()][1-5C]
-**3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Git and GitHub (JP)][1-2E] [Lab: CSS website replication ()][1-2E] | [Lab: JavaScript functions (Zeb)][1-3E] | [Lab: DOM manipulation LoTR ()][1-4E] | [Lab: Tic-Tac-Toe (Zeb)][1-5D]      
-**Training** | [Lab: Command line][1-1F] () | [Lab: Build a website (Zeb)][1-2F] | Finish Lab  | Finish Lab | Finish Lab  
+ **9:30am Module 1** | [Orientation (Zeb)][1-1B] | [Box model and positioning (Zeb)][1-2B] **Need to cut this down** | (Design and CSS Challenge Lab??)[1-3B] |  [Functions and scope ()][1-4B]   | Second Pass and [Questions in a Hat ()][1-5B]
+ **11:00am Module 2** | [How the internet works ()][1-1C] | [Mockup to HTML/CSS Lab][1-2C] [Lab: CSS website replication ()][1-2H] | [JS Data types, variables, and arrays ()][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
+ **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] **Need to cut this down** | [Key-Value Store in JavaScript (Zeb)**][1-3D] | [DOM manipulation and events (Zeb)][1-4D] | [CSS Grid System and Media Queries??][1-5D]
+**3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Git and GitHub (JP)][1-2E] | [Chrome dev tools (Zeb)][1-3E] | [Lab: DOM manipulation LoTR ()][1-4E] | [Lab: Racer Game (Zeb)][1-5E]      
+**Training** | [Lab: Command line][1-1F] () | [Lab: Build a website (Zeb)][1-2F] | Finish Design/CSS Lab  | Finish LOTR Lab | Finish Racer Lab  
 
 [1-1A]: # "Icebreakers"
 [1-1B]: https://github.com/den-wdi-2/orientation "Orientation"
@@ -41,28 +41,28 @@ Time  | Activity
 [1-2F]: https://github.com/den-wdi-2/build-a-website "Lab: Build a website"
 
 [1-3A]: https://github.com/den-wdi-2/kyrel "Kyrel 1"
-[1-3B]: https://github.com/den-wdi-2/js-data-types "Data types, Variables and Arrays"
-[1-3C]: https://github.com/den-wdi-2/js-objects "JavaScript Objects"
-[1-3D]: https://github.com/den-wdi-2/js-functions-and-scope "Functions and Scope"
-[1-3E]: https://github.com/den-wdi-2/js-functions-lab "Lab: JavaScript functions"
+[1-3B]: # "Design and CSS Challenge Lab"
+[1-3C]: https://github.com/den-wdi-2/js-data-types "Data types, Variables and Arrays"
+[1-3D]: https://github.com/den-wdi-2/js-objects "JavaScript Objects"
+[1-3E]: https://github.com/den-wdi-2/chrome-dev-tools "Chrome Dev Tools"
 
 [1-4A]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day2.md "Kyrel 2"
-[1-2B]: https://github.com/den-wdi-2/chrome-dev-tools "Chrome Dev Tools"
-[1-4B]: https://github.com/den-wdi-2/control-flow "Mastering Control Flow"
-[1-4C]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
+[1-4B]: https://github.com/den-wdi-2/js-functions-and-scope "Functions and Scope"
+[1-4C]: https://github.com/den-wdi-2/js-functions-lab "Lab: JavaScript functions"
 [1-4D]: https://github.com/den-wdi-2/dom-manipulation-and-events "DOM Manipulation & Events"
 [1-4E]: https://github.com/den-wdi-2/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
 
 [1-5A]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day3.md "Kyrel 3"
-
-[1-5C]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
-[1-5D]: https://github.com/den-wdi-2/tic-tac-toe "Lab: Tic-Tac-Toe"
+[1-5B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
+[1-5C]: https://github.com/den-wdi-2/control-flow "Mastering Control Flow"
+[1-5D]: # "Grid System & Media Queries"
+[1-5E]: https://github.com/den-wdi-2/week-1-assessment "Lab: Racer Game"
 
 #### Week 2 - JavaScript & Front-end Libraries
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Module 1** | [Developer Resources (JP)][2-1B]                     |      [jQuery & Browser Storage (Zeb)][2-2A]                |  [AJAX & API's with jQuery (JP)][2-3A]       |      [OOP in JS (Zeb)][2-4A]     | [Questions in a Hat (JP)][2-5B]
+ **9:00am Module 1** | [Developer Resources (JP)][2-1B] [Debugging in JavaScript ()][2-1H]                    |      [jQuery & Browser Storage (Zeb)][2-2A]                |  [AJAX & API's with jQuery (JP)][2-3A]       |      [OOP in JS (Zeb)][2-4A]     | [Questions in a Hat (JP)][2-5B]
  **10:30am Module 2** |                 |   [Responsive CSS & Flexbox (JP)][2-2B]  |    [Handlebars Templating (JP)][2-3B]                     |    [OOP in JS (Zeb)][2-4B]    | Outcomes
 **1:00pm Module 3** |[Callbacks & Iterators (Zeb)][2-1D]                          |   [Intro to Bootstrap (Zeb)][2-2C] |    [Geoquakes Lab (Zeb)][2-3C]     |        [OOP concepts (JP)][2-4C]     | Review (Zeb)
 **2:30pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1F]                 |  [HTML Forms (JP)][2-2D]  | [Geoquakes Lab Cont'd (Zeb)][2-3D] |  [OOP Refactor Lab (JP)][2-4C]  | [Create an Issue (Zeb)][2-5C]|
@@ -77,6 +77,8 @@ Weekly Goals:
 * Communicate with other developers to improve code using Github
 	* Create a fork of a repository
 	* Use Pull Requests to improve a repository's quality 
+
+[2-1H]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
 
 [2-1A]: https://github.com/den-wdi-2/git-and-github "Git and GitHub Branching and Pages"
 [2-1B]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
