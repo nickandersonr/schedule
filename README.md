@@ -168,18 +168,28 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Unit 1 Second Pass | Small Algo | Small Algo | Small Algo | Small Algo
- **9:30am Module 1** | [API with Postman][4-1B] | [Connecting Forms to APIs via AJAX][4-2B] | Blank Spot for Outcomes | [Views in Express (JP)][4-3A] | [Questions in a Hat (JP)][4-4A]
-**11:00am Module 2** | [AJAX & API's with jQuery (Zeb)][4-1C] | [Lab: AJAX Calls to API][4-2C] | [Intro to Express (Zeb)][4-1B] |  | 
-**1:30pm Module 3** | [Advanced AJAX: CORS/JSONP/APIs][4-1D] | [Intro to Node.js (Zeb)][4-2D][Building Express routes part 1 (JP)][4-1C] | | [Node Lab][4-2E] | [Developer-led Review (Zeb)][4-4C]
-**3:00pm Module 4** | [Lab: AJAX Calls to API][4-1E] | [Building Express Routes part 2 (JP)][4-1D] | [Lab: Full Stack JavaScript (JP)][4-2D]|  [Ajax OOP Refactor Lab (Zeb)][4-3D] | [Personal API Lab (Zeb)][4-4D]
-**Training** | [Lab: Movie Haus][4-1F] | [More Express Routes][4-1E] | [Finish Lab][4-2D]   |   Finish Labs | Finish Lab + [CodeSchool Ruby Tutorial][4-4E]
-**Leftovers** | [Intro to Mongo (Zeb)][4-2A] [Intro to Mongoose (Zeb)][4-2B] | [Data Organization in Mongo (JP)][4-2C] [Lab: ToDo List App (Zeb)][4-3C] | [Lab: Views in Express (JP)][4-3B] [Express Reteach][4-2K]
+ **9:00am Warm-Up** | Unit 1 Second Pass | Small Algo | Small Algo | Small Algo | Second Pass and [Questions in a Hat (JP)][4-5A]
+ **9:30am Module 1** | [API with Postman][4-1B] | [Connecting Forms to APIs via AJAX][4-2B] | Blank Spot for Outcomes | [Intro to SQL and Relational DBs][4-4B] | [SQL Relationships][4-5B]
+**11:00am Module 2** | [AJAX & API's with jQuery (Zeb)][4-1C] | [Lab: AJAX Calls to API][4-2C] | [Intro to Express (Zeb)][4-3C] | [Carmen Sandiego Lab][4-4C] | [Lab: Relationships and Normalization][4-5C]
+**1:30pm Module 3** | [Advanced AJAX: CORS/JSONP/APIs][4-1D] | [Intro to Node.js (Zeb)][4-2D] | [Building Express routes part 1 (JP)][4-3D] | [Using SQL in an Express App][4-4D] | [UX Crash Course][4-5D]
+**3:00pm Module 4** | [Lab: AJAX Calls to API][4-1E] | [Node Lab][4-2E] | [Building Express Routes part 2 (JP)][4-1D] |  [SQL CRUD in Express Lab][4-4E] | [Lab: Design Models for Common Apps][4-5E]
+**Training** | [Lab: Movie Haus][4-1F] | [Lab: Requesting with Node][4-2F] | [Reading Assignments: DBs and SQL][4-3F] | [Blog][4-4F] | [Testing Reading and Quiz][4-5F]
+**Leftovers** | [Intro to Mongo (Zeb)][4-2A] [Intro to Mongoose (Zeb)][4-2B] [Personal API Lab (Zeb)][4-4D] | [Data Organization in Mongo (JP)][4-2C] [Lab: ToDo List App (Zeb)][4-3C] | [Lab: Views in Express (JP)][4-3B] [Express Reteach][4-2K] [Ajax OOP Refactor Lab (Zeb)][4-3D] | [Lab: Full Stack JavaScript (JP)][4-2D] [More Express Routes][4-1E] [Views in Express (JP)][4-3A] [CodeSchool Ruby Tutorial][4-4E]
 
 [4-2H]: https://github.com/den-wdi-2/mongo-intro "Intro to Node with Mongo"
 [4-2I]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
 [4-2J]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
 [4-2K]:https://github.com/den-wdi-2/expres-resource-reteach "Express Reteach"
+[4-2L]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
+[4-2M]: #  "Connecting Express Routes to Mongo Lab"
+[4-4H]: https://github.com/den-wdi-2/fullStack-JS-review "Review"
+[4-3H]: https://github.com/den-wdi-2/express-views-lesson "Views in Express Lesson"
+[4-3I]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
+[4-3J]: https://github.com/den-wdi-2/test-driven-todo-api "Todo Lab, Part 1"
+[4-3K]: https://github.com/den-wdi-2/ajax-oop-refactor-lab "AJAX Lesson"
+[4-4H]: https://github.com/den-wdi-2/express-personal-api
+[4-4I]: https://www.codeschool.com/courses/try-ruby "Code School Try Ruby"
+[4-3L]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
 
 [4-1B]: # "Postman"
 [4-1C]: https://github.com/den-wdi-2/ajax-with-jquery "AJAX & APIs with jQuery"
@@ -191,26 +201,26 @@ Time | Day 1                                    | Day 2                         
 [4-2C]: https://github.com/den-wdi-2/js-ajax-lab "JS AJAX Lab"
 [4-2D]: https://github.com/den-wdi-2/nodejs "Intro to Node.js"
 [4-2E]: # "Intro Node Lab"
+[4-2F]: https://github.com/den-wdi-2/requesting-with-node "Requesting with Node"
 
-[4-3B]: https://github.com/den-wdi-2/express "Intro to Express.js"
-[4-3C]: https://github.com/den-wdi-2/express-routing-lesson "Building Express Routes part 1"
-[4-3D]: https://github.com/den-wdi-2/express-routing-lab "Building Express Routes part 2"
-[4-3E]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
+[4-3B]: # "Outcomes"
+[4-3C]: https://github.com/den-wdi-2/express "Intro to Express.js"
+[4-3D]: https://github.com/den-wdi-2/express-routing-lesson "Building Express Routes part 1"
+[4-3E]: https://github.com/den-wdi-2/express-routing-lab "Building Express Routes part 2"
+[4-3F]: # "SQL Reading Assignments"
 
+[4-4B]: https://github.com/den-wdi-2/sql-intro "Relational Databases & SQL"
+[4-4C]: https://github.com/den-wdi-2/sql-carmen-sandiego "SQL CRUD Lab"
+[4-4D]: # "SQL in an Express App"
+[4-4E]: # "SQL CRUD in Express Lab"
+[4-4F]: # "Blog"
 
-[4-2D]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
-[4-2E]: #  "Connecting Express Routes to Mongo Lab"
-
-[4-3A]: https://github.com/den-wdi-2/express-views-lesson "Views in Express Lesson"
-[4-3B]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
-[4-3C]: https://github.com/den-wdi-2/test-driven-todo-api "Todo Lab, Part 1"
-[4-3D]: https://github.com/den-wdi-2/ajax-oop-refactor-lab "AJAX Lesson"
-
-[4-4A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
-[4-4B]: # "Outcomes"
-[4-4C]: https://github.com/den-wdi-2/fullStack-JS-review "Review"
-[4-4D]: https://github.com/den-wdi-2/express-personal-api
-[4-4E]: https://www.codeschool.com/courses/try-ruby "Code School Try Ruby"
+[4-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
+[4-5B]: # "SQL Relationships"
+[4-5C]: # "Relationships and Normalization Lab"
+[4-5D]: # "UX Crash Course"
+[4-5E]: # "Design Models for Common Apps"
+[4-5F]: # "Testing Reading"
 
 #### Week 5 - Ruby and Sinatra (This should go to Week 10)
 
@@ -220,7 +230,7 @@ Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 **10:30am Module 2** | [Tune.ly][5-1B] |  [Intro to Ruby Lab (Zeb)][5-2B] | [OOP Ruby Lab (JP)][5-3B]  | [ActiveRecord Models Lab (JP)][5-4B]     | Outcomes
 **1:00pm Module 3** | [Tune.ly][5-1C] |  [Sinatra Intro Lesson][5-2C] (JP)| [Data Modeling (Zeb)][5-3C] | [ActiveRecord Command Line (Zeb)][5-4C]       | Dev-Led Review (Zeb)
 **2:30pm Module 4** | [Tune.ly][5-1D] | [Sinatra Intro Lesson][5-2C] (JP)  | [SQL (Zeb)][5-3D]   |     [ActiveRecord Lab (Zeb)][5-4D]  | [Tunr Relationships (JP)][5-5D]
-**Training** | Tunely | [Message in a Bottle + Sinatra Code Study Exercise][5-2E] (JP) | [Carmen Sandiego Lab][5-3E]  | Complete Lab      | [Sinatra Project / Project 2][5-5E]
+**Training** | Tunely | [Message in a Bottle + Sinatra Code Study Exercise][5-2E] (JP) |   | Complete Lab      | [Sinatra Project / Project 2][5-5E]
 
 Weekly goals:
 - Last hurrah to full stack JavaScript 
@@ -245,7 +255,6 @@ Weekly goals:
 [5-3B]: https://github.com/den-wdi-2/monkey-oop "Ruby OOP Lab"
 [5-3C]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
 [5-3D]: https://github.com/den-wdi-2/sql "SQL Select Lab"
-[5-3E]: https://github.com/den-wdi-2/sql-carmen-sandiego "SQL"
 
 [5-4A]: https://github.com/den-wdi-2/active-record-models "Building Models with ActiveRecord and Migrations"
 [5-4B]: https://github.com/den-wdi-2/modeling-tunr "Models and Migrations Lab"
