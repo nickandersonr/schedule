@@ -61,12 +61,13 @@ Time  | Activity
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Warm-Up** | Racer Issue Submission | Intro to Whiteboarding | [GH Branching and gh-pages][2-3A] | Native JS v Jquery | TBD
- **9:30am Module 1** | [Developer Resources (JP)][2-1B] [Debugging in JavaScript ()][2-1H]                    |      [jQuery & Browser Storage (Zeb)][2-2A]                |  [AJAX & API's with jQuery (JP)][2-3A]       |      [OOP in JS (Zeb)][2-4A]     | [Questions in a Hat (JP)][2-5B]
- **11:00am Module 2** |                 |   [Responsive CSS & Flexbox (JP) -- Main part finished Week 1, but no Flexbox][2-2B]  |    [Handlebars Templating (JP)][2-3B]                     |    [OOP in JS (Zeb)][2-4B]    | Outcomes
-**1:30pm Module 3** |[Callbacks & Iterators (Zeb)][2-1D]                          |   [Intro to Bootstrap (Zeb)][2-2C] |    [Geoquakes Lab (Zeb)][2-3C]     |        [OOP concepts (JP)][2-4C]     | Review (Zeb)
-**3:00pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1F]                 |  [HTML Forms (JP)][2-2D]  | [Geoquakes Lab Cont'd (Zeb)][2-3D] |  [OOP Refactor Lab (JP)][2-4C]  | [Create an Issue (Zeb)][2-5C]|
-**Training** |[Building Iterators (Zeb)][2-1F] | [More jQuery Practice (Zeb)][2-2E]   |  [OOP Prep (Zeb)][2-3E] | [OOP Refactor cont'd (JP)][2-4C] | [Weekend Lab: Fix an issue (Zeb)][2-5E]
+ **9:00am Warm-Up** | Racer Issue Submission | [Whiteboarding][2-2A] | [GH Branching and gh-pages][2-3A] | [Native JS v Jquery][2-4A] | [Intro to ES6][2-5A]
+ **9:30am Module 1** | Whiteboarding 101 | [HTML Forms (JP)][2-2B] | Empty Spot for Outcomes | [OOP in JS (Zeb)][2-4B] | Second Pass and [Questions in a Hat (JP)][2-5B]
+ **11:00am Module 2** | [Computational Thinking Lab][2-1C] | [CSS for HTML Forms Lab][2-2C] | [Intermediate jQuery][2-3C] |    [OOP in JS (Zeb)][2-4C]    | [Wireframes][2-5C]
+**1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [Intro to jQuery][2-2D] | [Lab: Create jQuery selector][2-3D] | [OOP concepts (JP)][2-4D] | [CSS Transitions & Animations][2-5D]
+**3:00pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1E] | [jQuery & Browser Storage (Zeb)][2-2E] | [Tic-Tac-Toe][2-3E] |  [OOP Refactor Lab (JP)][2-4E]  | [Project 1 Intro][2-5E]
+**Training** | Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides And Fix Issues | [More jQuery Practice (Zeb)][2-2F] | Finish and Deploy Tic-Tac-Toe | Finish Refactoring Tic-Tac-Toe | Project 1 Proposal 
+**Leftovers** | [Developer Resources (JP)][2-1B] [Debugging in JavaScript ()][2-1H] | [Responsive CSS & Flexbox (JP) -- Main part finished Week 1, but no Flexbox][2-2B] [Intro to Bootstrap (Zeb)][2-2C] | [AJAX & API's with jQuery (JP)][2-3A] [Handlebars Templating (JP)][2-3B] | [Geoquakes Lab (Zeb)][2-3C] [Geoquakes Lab Cont'd (Zeb)][2-3D] [OOP Prep (Zeb)][2-3E] 
 
 Weekly Goals:
 * Build a single page app that can communicate with an external server
@@ -79,37 +80,45 @@ Weekly Goals:
 	* Use Pull Requests to improve a repository's quality 
 
 [2-1H]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
+[2-1I]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
+[2-2H]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
+[2-2I]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
+[2-3I]: https://github.com/den-wdi-2/ajax-with-jquery "AJAX & APIs with jQuery"
+[2-3H]: https://github.com/den-wdi-2/handlebars "Handlebars Templating"
+[2-3J]: https://github.com/den-wdi-2/geoquakes "Geoquakes Lab"
+[2-3K]: https://www.youtube.com/watch?v=SS-9y0H3Si8 "OOP Prep"
 
-[2-1A]: https://github.com/den-wdi-2/git-and-github "Git and GitHub Branching and Pages"
-[2-1B]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
-
+[2-1A]: https://github.com/den-wdi-2/create-an-issue/ "Create an Issue"
+[2-1B]: # "Whiteboarding 101"
+[2-1C]: https://github.com/den-wdi-2/logic-lab "Computational Thinking Lab"
 [2-1D]: https://github.com/den-wdi-2/js-callbacks-iterators "Callbacks & Iterators"
-[2-1E]: https://github.com/den-wdi-2/js-callbacks-iterators "Callbacks & Iterators Lab"
-[2-1F]: https://github.com/den-wdi-2/js-building-iterators-lab "Building Iterators"
+[2-1E]: https://github.com/den-wdi-2/js-building-iterators-lab "Callbacks & Iterators Lab"
+[2-1F]: https://google.github.io/styleguide/htmlcssguide.xml "Google Style Guide"
+[2-1G]: https://github.com/airbnb/javascript "AirBNB Style Guide"
 
-[2-2A]: https://github.com/den-wdi-2/jquery-and-browser-storage "jQuery and Browser Storage"
-[2-2B]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
-[2-2C]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
-[2-2D]: https://github.com/den-wdi-2/html-forms "HTML Forms"
-[2-2E]: https://github.com/den-wdi-2/jquery-datepicker-lab "More jQuery Practice"
+[2-2A]: # "Whiteboarding 1"
+[2-2B]: https://github.com/den-wdi-2/html-forms "HTML Forms"
+[2-2C]: # "CSS for HTML Forms Lab"
+[2-2D]: # "Intro to jQuery"
+[2-2E]: https://github.com/den-wdi-2/jquery-and-browser-storage "jQuery and Browser Storage"
+[2-2F]: https://github.com/den-wdi-2/jquery-datepicker-lab "More jQuery Practice"
 
 [2-3A]: https://github.com/den-wdi-2/git-branching-and-pages "Git Branching and gh-pages"
-[2-3A]: https://github.com/den-wdi-2/ajax-with-jquery "AJAX & APIs with jQuery"
-[2-3B]: https://github.com/den-wdi-2/handlebars "Handlebars Templating"
-[2-3C]: https://github.com/den-wdi-2/geoquakes "Geoquakes Lab"
-[2-3D]: https://github.com/den-wdi-2/geoquakes "Geoquakes Lab"
-[2-3E]: https://www.youtube.com/watch?v=SS-9y0H3Si8 "OOP Prep"
+[2-3C]: # "Intermediate jQuery"
+[2-3D]: # "jQuery Selector Lab"
+[2-3E]: https://github.com/den-wdi-2/tic-tac-toe "Tic Tac Toe"
 
-[2-4A]: https://github.com/den-wdi-2/js-oop-flower-power "OOP Lesson"
+[2-4A]: # "Native JS vs jQuery"
 [2-4B]: https://github.com/den-wdi-2/js-oop-flower-power "Flower Power OOP Lab"
-[2-4C]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
-[2-4D]: # "OOP Concepts"
-[2-4E]: # "OOP Refactor (cont'd)"
+[2-4C]: https://github.com/den-wdi-2/js-oop-flower-power "Flower Power OOP Lab"
+[2-4D]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
+[2-4E]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
 
-[2-5A]: # "Review"
+[2-5A]: # "ES6 Intro"
 [2-5B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
-[2-5C]: https://github.com/den-wdi-2/create-an-issue/ "Create an Issue"
-[2-5E]: https://github.com/den-wdi-2/create-an-issue/blob/master/readme.md#this-weekends-assignment "Fix an Issue"
+[2-5C]: # "Wireframes"
+[2-5D]: # "CSS Transitions & Animations"
+[2-5E]: https://github.com/den-wdi-2/project-01 "Project 1"
 
 #### Week 3 - Project 1:  Browser Games
 
