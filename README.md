@@ -62,7 +62,7 @@ Time  | Activity
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
  **9:00am Warm-Up** | [Racer Issue Submission][2-1A] | [Whiteboarding][2-2A] | [GH Branching and gh-pages][2-3A] | [Native JS v Jquery][2-4A] | [Intro to ES6][2-5A]
- **9:30am Module 1** | [Whiteboarding 101][2-1B] | [HTML Forms (JP)][2-2B] | Empty Spot for Outcomes | [OOP in JS ()][2-4B] | Second Pass and [Questions in a Hat (JP)][2-5B]
+ **9:30am Module 1** | [Whiteboarding 101][2-1B] | [HTML Forms (Zeb)][2-2B] | Empty Spot for Outcomes | [OOP in JS ()][2-4B] | Second Pass and [Questions in a Hat][2-5B]
  **11:00am Module 2** | [Computational Thinking Lab][2-1C] | [CSS for HTML Forms Lab][2-2C] | [Intermediate jQuery][2-3C] |    [OOP in JS ()][2-4C]    | [Wireframes][2-5C]
 **1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [Intro to jQuery][2-2D] | [Lab: Create jQuery selector][2-3D] | [OOP concepts (Zeb)][2-4D] | [CSS Transitions & Animations][2-5D]
 **3:00pm Module 4** | [Lab: Callbacks & Iterators ()][2-1E] | [jQuery & Browser Storage ()][2-2E] | [Tic-Tac-Toe][2-3E] |  [OOP Refactor Lab (Zeb)][2-4E]  | [Project 1 Intro][2-5E]
@@ -98,12 +98,12 @@ Weekly Goals:
 [2-2A]: # "Whiteboarding 1"
 [2-2B]: https://github.com/den-wdi-2/html-forms "HTML Forms"
 [2-2C]: # "CSS for HTML Forms Lab"
-[2-2D]: https://github.com/den-wdi-2/intro-jquery # "Intro to jQuery"
+[2-2D]: https://github.com/den-wdi-2/intro-jquery "Intro to jQuery"
 [2-2E]: https://github.com/den-wdi-2/jquery-and-browser-storage "jQuery and Browser Storage"
 [2-2F]: https://github.com/den-wdi-2/jquery-datepicker-lab "More jQuery Practice"
 
 [2-3A]: https://github.com/den-wdi-2/git-branching-and-pages "Git Branching and gh-pages"
-[2-3C]: https://github.com/den-wdi-2/intermediate-jquery # "Intermediate jQuery"
+[2-3C]: https://github.com/den-wdi-2/intermediate-jquery "Intermediate jQuery"
 [2-3D]: # "jQuery Selector Lab"
 [2-3E]: https://github.com/den-wdi-2/tic-tac-toe "Tic Tac Toe"
 [2-3F]: https://www.youtube.com/watch?v=SS-9y0H3Si8 "OOP Prep"
@@ -118,7 +118,7 @@ Weekly Goals:
 [2-5B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
 [2-5C]: # "Wireframes"
 [2-5D]: # "CSS Transitions & Animations"
-[2-5E]: https://github.com/den-wdi-2/project-01 "Project 1"
+[2-5E]: https://github.com/den-wdi-2/project-1 "Project 1"
 
 #### Week 3 - Project 1:  Browser Games
 
