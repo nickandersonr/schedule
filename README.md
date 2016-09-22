@@ -67,7 +67,7 @@ Time |Day 1                                      | Day 2                        
 **1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [Intro to jQuery][2-2D] | [Lab: Create jQuery selector][2-3D] | [OOP concepts (Zeb)][2-4D] | [CSS Transitions & Animations][2-5D]
 **3:00pm Module 4** | [Lab: Callbacks & Iterators ()][2-1E] | [jQuery & Browser Storage ()][2-2E] | [Tic-Tac-Toe][2-3E] |  [OOP Refactor Lab (Zeb)][2-4E]  | [Project 1 Intro][2-5E]
 **Training** | Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides And Fix Issues | [More jQuery Practice ()][2-2F] | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | Finish Refactoring Tic-Tac-Toe | Project 1 Proposal 
-**Leftovers** | [Developer Resources (Zeb)][2-1I] [Debugging in JavaScript ()][2-1H] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][2-2H] [Intro to Bootstrap ()][2-2I] | [AJAX & API's with jQuery (Zeb)][2-3I] [Handlebars Templating (Zeb)][2-3H] | [Geoquakes Lab ()][2-3J]  
+**Leftovers** | [Developer Resources (Zeb)][2-1I] [Debugging in JavaScript ()][2-1H] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][2-2H] [Intro to Bootstrap ()][2-2I] | [Handlebars Templating (Zeb)][2-3H] | 
 
 Weekly Goals:
 * Build a single page app that can communicate with an external server
@@ -83,9 +83,7 @@ Weekly Goals:
 [2-1I]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
 [2-2H]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
 [2-2I]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
-[2-3I]: https://github.com/den-wdi-2/ajax-with-jquery "AJAX & APIs with jQuery"
 [2-3H]: https://github.com/den-wdi-2/handlebars "Handlebars Templating"
-[2-3J]: https://github.com/den-wdi-2/geoquakes "Geoquakes Lab"
 
 [2-1A]: https://github.com/den-wdi-2/create-an-issue/ "Create an Issue"
 [2-1B]: https://github.com/den-wdi-2/whiteboarding-101 "Whiteboarding 101"
@@ -170,23 +168,36 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
-**9:00am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | [Intro to Mongo (Zeb)][4-2A] | [Views in Express (JP)][4-3A] | [Questions in a Hat (JP)][4-4A]
-**10:30am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | [Intro to Mongoose (Zeb)][4-2B] | [Lab: Views in Express (JP)][4-3B] | Outcomes (Sara)
-**1:00pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] |[Express Reteach][4-2CA] & [Data Organization in Mongo (JP)][4-2C] |[Lab: ToDo List App (Zeb)][4-3C] | [Developer-led Review (Zeb)][4-4C]
-**2:30pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | [Lab: Full Stack JavaScript (JP)][4-2D]|  [Ajax OOP Refactor Lab (Zeb)][4-3D] | [Personal API Lab (Zeb)][4-4D]
-**Training** | Fourth of July | [More Express Routes][4-1E] | [Finish Lab][4-2D]   |   Finish Labs | Finish Lab + [CodeSchool Ruby Tutorial][4-4E]
+ **9:00am Warm-Up** | Unit 1 Second Pass | Small Algo | Small Algo | Small Algo | Small Algo
+ **9:30am Module 1** | [API with Postman][4-1B] | [Connecting Forms to APIs via AJAX][4-2B] | Blank Spot for Outcomes | [Views in Express (JP)][4-3A] | [Questions in a Hat (JP)][4-4A]
+**11:00am Module 2** | [AJAX & API's with jQuery (Zeb)][4-1C] | [Lab: AJAX Calls to API][4-2C] | [Intro to Express (Zeb)][4-1B] |  | 
+**1:30pm Module 3** | [Advanced AJAX: CORS/JSONP/APIs][4-1D] | [Intro to Node.js (Zeb)][4-2D][Building Express routes part 1 (JP)][4-1C] | | [Node Lab][4-2E] | [Developer-led Review (Zeb)][4-4C]
+**3:00pm Module 4** | [Lab: AJAX Calls to API][4-1E] | [Building Express Routes part 2 (JP)][4-1D] | [Lab: Full Stack JavaScript (JP)][4-2D]|  [Ajax OOP Refactor Lab (Zeb)][4-3D] | [Personal API Lab (Zeb)][4-4D]
+**Training** | [Lab: Movie Haus][4-1F] | [More Express Routes][4-1E] | [Finish Lab][4-2D]   |   Finish Labs | Finish Lab + [CodeSchool Ruby Tutorial][4-4E]
+**Leftovers** | [Intro to Mongo (Zeb)][4-2A] [Intro to Mongoose (Zeb)][4-2B] | [Data Organization in Mongo (JP)][4-2C] [Lab: ToDo List App (Zeb)][4-3C] | [Lab: Views in Express (JP)][4-3B] [Express Reteach][4-2K]
+
+[4-2H]: https://github.com/den-wdi-2/mongo-intro "Intro to Node with Mongo"
+[4-2I]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
+[4-2J]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
+[4-2K]:https://github.com/den-wdi-2/expres-resource-reteach "Express Reteach"
+
+[4-1B]: # "Postman"
+[4-1C]: https://github.com/den-wdi-2/ajax-with-jquery "AJAX & APIs with jQuery"
+[4-1D]: # "Advanced AJAX"
+[4-1E]: # "Shakeitspeare"
+[4-1F]: # "Movie Haus"
+
+[4-2B]: # "Connecting Forms to APIs"
+[4-2C]: https://github.com/den-wdi-2/js-ajax-lab "JS AJAX Lab"
+[4-2D]: https://github.com/den-wdi-2/nodejs "Intro to Node.js"
+[4-2E]: # "Intro Node Lab"
+
+[4-3B]: https://github.com/den-wdi-2/express "Intro to Express.js"
+[4-3C]: https://github.com/den-wdi-2/express-routing-lesson "Building Express Routes part 1"
+[4-3D]: https://github.com/den-wdi-2/express-routing-lab "Building Express Routes part 2"
+[4-3E]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
 
 
-[4-1A]: https://github.com/den-wdi-2/nodejs "Intro to Node.js"
-[4-1B]: https://github.com/den-wdi-2/express "Intro to Express.js"
-[4-1C]: https://github.com/den-wdi-2/express-routing-lesson "Building Express Routes part 1"
-[4-1D]: https://github.com/den-wdi-2/express-routing-lab "Building Express Routes part 2"
-[4-1E]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
-
-[4-2A]: https://github.com/den-wdi-2/mongo-intro "Intro to Node with Mongo"
-[4-2B]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
-[4-2C]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
-[4-2CA]:https://github.com/den-wdi-2/expres-resource-reteach "Express Reteach"
 [4-2D]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
 [4-2E]: #  "Connecting Express Routes to Mongo Lab"
 
