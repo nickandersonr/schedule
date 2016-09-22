@@ -168,13 +168,13 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Unit 1 Second Pass | Small Algo | Small Algo | Small Algo | Second Pass and [Questions in a Hat (JP)][4-5A]
+ **9:00am Warm-Up** | Unit 1 Second Pass | Small Algo | Small Algo | Small Algo | Second Pass and [Questions in a Hat][4-5A]
  **9:30am Module 1** | [API with Postman][4-1B] | [Connecting Forms to APIs via AJAX][4-2B] | Blank Spot for Outcomes | [Intro to SQL and Relational DBs][4-4B] | [SQL Relationships][4-5B]
-**11:00am Module 2** | [AJAX & API's with jQuery (Zeb)][4-1C] | [Lab: AJAX Calls to API][4-2C] | [Intro to Express (Zeb)][4-3C] | [Carmen Sandiego Lab][4-4C] | [Lab: Relationships and Normalization][4-5C]
-**1:30pm Module 3** | [Advanced AJAX: CORS/JSONP/APIs][4-1D] | [Intro to Node.js (Zeb)][4-2D] | [Building Express routes part 1 (JP)][4-3D] | [Using SQL in an Express App][4-4D] | [UX Crash Course][4-5D]
-**3:00pm Module 4** | [Lab: AJAX Calls to API][4-1E] | [Node Lab][4-2E] | [Building Express Routes part 2 (JP)][4-1D] |  [SQL CRUD in Express Lab][4-4E] | [Lab: Design Models for Common Apps][4-5E]
+**11:00am Module 2** | [AJAX & API's with jQuery ()][4-1C] | [Lab: AJAX Calls to API][4-2C] | [Intro to Express (Zeb)][4-3C] | [Carmen Sandiego Lab][4-4C] | [Lab: Relationships and Normalization][4-5C]
+**1:30pm Module 3** | [Advanced AJAX: CORS/JSONP/APIs][4-1D] | [Intro to Node.js ()][4-2D] | [Building Express Routes (Zeb)][4-3D] | [Using SQL in an Express App][4-4D] | [UX Crash Course][4-5D]
+**3:00pm Module 4** | [Lab: AJAX Calls to API][4-1E] | [Node Lab][4-2E] | [Building Express Routes Lab (Zeb)][4-1D] |  [SQL CRUD in Express Lab][4-4E] | [Lab: Design Models for Common Apps][4-5E]
 **Training** | [Lab: Movie Haus][4-1F] | [Lab: Requesting with Node][4-2F] | [Reading Assignments: DBs and SQL][4-3F] | [Blog][4-4F] | [Testing Reading and Quiz][4-5F]
-**Leftovers** | [Intro to Mongo (Zeb)][4-2A] [Intro to Mongoose (Zeb)][4-2B] [Personal API Lab (Zeb)][4-4D] | [Data Organization in Mongo (JP)][4-2C] [Lab: ToDo List App (Zeb)][4-3C] | [Lab: Views in Express (JP)][4-3B] [Express Reteach][4-2K] [Ajax OOP Refactor Lab (Zeb)][4-3D] | [Lab: Full Stack JavaScript (JP)][4-2D] [More Express Routes][4-1E] [Views in Express (JP)][4-3A] [CodeSchool Ruby Tutorial][4-4E]
+**Leftovers** | [Intro to Mongo ()][4-2H] [Intro to Mongoose ()][4-2I] [Personal API Lab ()][4-4H] | [Data Organization in Mongo (Zeb)][4-2J] [Lab: ToDo List App ()][4-3J] | [Lab: Views in Express (Zeb)][4-3I] [Express Reteach (Zeb)][4-2K] [Ajax OOP Refactor Lab ()][4-3K] | [Lab: Full Stack JavaScript (Zeb)][4-2L] [More Express Routes][4-3L] [Views in Express (Zeb)][4-3H] [CodeSchool Ruby Tutorial][4-4I]
 
 [4-2H]: https://github.com/den-wdi-2/mongo-intro "Intro to Node with Mongo"
 [4-2I]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
