@@ -127,14 +127,13 @@ Time | Day 1                                      | Day 2                       
 **1:00pm Module 3** | [Project 1 Approvals][3-1C]  | Project 1 | Project 1 | Project 1 |  Presentations
 **2:30pm Module 4** | Project 1 |  Project 1 |  Project 1 |  Project 1 | Self Assessment and [Fix an Issue ()][3-5D]
 **Training** | Project 1 | Project 1 | Project 1 | Project 1 | Fixing Issues
-**Leftovers** | Review on [jQuery DOM][3-1H] and [AJAX][3-1I], then [Objects and Prototypes][3-1J] (Zeb) | [Learn you Node][3-5H]
+**Leftovers** | Review on [jQuery DOM][3-1H], then [Objects and Prototypes][3-1J] (Zeb) | [Learn you Node][3-5H]
 
 Weekly Goals:
 * Create a browser-based game for your porfolio
 * Learn about common ways software companies organize projects
 
 [3-1H]: https://github.com/den-wdi-2/js-dom-jquery-first "jQuery DOM"
-[3-1I]: https://github.com/den-wdi-2/api-intro-with-ajax "jQuery AJAX"
 [3-1J]: https://github.com/den-wdi-2/js-prototypes-constructors "Objects and Prototypes"
 [3-5H]: https://github.com/workshopper/learnyounode "Learn you Node"
 
@@ -172,7 +171,7 @@ Time | Day 1                                    | Day 2                         
  **9:30am Module 1** | [API Intro with Postman][4-1B] | [Connecting Forms to APIs via AJAX][4-2B] | Blank Spot for Outcomes | [Intro to SQL and Relational DBs][4-4B] | [SQL Relationships][4-5B]
 **11:00am Module 2** | [Intro to AJAX][4-1C] | [Lab: AJAX Calls to API][4-2C] | [Intro to Express (Zeb)][4-3C] | [Carmen Sandiego Lab][4-4C] | [Lab: Relationships and Normalization][4-5C]
 **1:30pm Module 3** | [Advanced AJAX: CORS/JSONP/APIs][4-1D] | [Intro to Node.js ()][4-2D] | [Building Express Routes (Zeb)][4-3D] | [Using SQL in an Express App][4-4D] | [Inner and Outer Joins][4-5D]
-**3:00pm Module 4** | [Lab: AJAX Calls to API][4-1E] | [Node Lab][4-2E] | [Building Express Routes Lab (Zeb)][4-1D] |  [SQL CRUD in Express Lab][4-4E] | [Lab: Joins][4-5E]
+**3:00pm Module 4** | [Lab: AJAX Calls to API][4-1E] | [Node Lab][4-2E] | [Building Express Routes Lab (Zeb)][4-1D] |  [SQL CRUD in Express Lab][4-4E] **Watch the handlebars** | [Lab: Joins][4-5E]
 **Training** | [Lab: Movie Haus][4-1F] | [Lab: Requesting with Node][4-2F] | [Reading Assignments: DBs and SQL][4-3F] | [Blog][4-4F] | [Project 2 Proposal][4-5F]
 **Leftovers** | [Intro to Mongo ()][4-2H] [Intro to Mongoose ()][4-2I] [Personal API Lab ()][4-4H] | [Data Organization in Mongo (Zeb)][4-2J] [Lab: ToDo List App ()][4-3J] | [Lab: Views in Express (Zeb)][4-3I] [Express Reteach (Zeb)][4-2K] [Ajax OOP Refactor Lab ()][4-3K] | [Lab: Full Stack JavaScript (Zeb)][4-2L] [More Express Routes][4-3L] [Views in Express (Zeb)][4-3H] [CodeSchool Ruby Tutorial][4-4I] | [AJAX & API's with jQuery ()][4-1I]
 
@@ -212,8 +211,8 @@ Time | Day 1                                    | Day 2                         
 
 [4-4B]: https://github.com/den-wdi-2/sql-intro "Relational Databases & SQL"
 [4-4C]: https://github.com/den-wdi-2/sql-carmen-sandiego "SQL CRUD Lab"
-[4-4D]: # "SQL in an Express App"
-[4-4E]: # "SQL CRUD in Express Lab"
+[4-4D]: https://github.com/den-wdi-2/express-sequelize "SQL in an Express App"
+[4-4E]: https://github.com/den-wdi-2/tunr_node_hbs "SQL CRUD in Express Lab"
 [4-4F]: # "Blog"
 
 [4-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
