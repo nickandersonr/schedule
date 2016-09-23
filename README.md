@@ -182,8 +182,6 @@ Time | Day 1                                    | Day 2                         
 [4-2L]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
 [4-2M]: #  "Connecting Express Routes to Mongo Lab"
 [4-4H]: https://github.com/den-wdi-2/fullStack-JS-review "Review"
-[4-3H]: https://github.com/den-wdi-2/express-views-lesson "Views in Express Lesson"
-[4-3I]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
 [4-3J]: https://github.com/den-wdi-2/test-driven-todo-api "Todo Lab, Part 1"
 [4-3K]: https://github.com/den-wdi-2/ajax-oop-refactor-lab "AJAX Lesson"
 [4-4H]: https://github.com/den-wdi-2/express-personal-api
@@ -222,13 +220,52 @@ Time | Day 1                                    | Day 2                         
 [4-5E]: # "Joins Lab"
 [4-5F]: # "Project 2 Proposal"
 
-#### Week 5 - Ruby and Sinatra (This should go to Week 10) (11/28-12/2)
+#### Week 5 - Node, Express, and SQL (11/28-12/2)
+
+Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
+----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
+ **9:00am Warm-Up** | [Introducing Tasks Gulp/Grunt/Webpack][5-1A] | [Sass Preprocessing][5-2A] | [Interview Prep][5-3A] | [Interview Prep][5-4A] | 
+ **9:30am Module 1** | [Intro to TDD][5-1B] | [Project 2 Ideation / Wireframes][5-2B] | Blank Spot for Outcomes | [Intro to MVC][5-4B] | 
+**11:00am Module 2** | [Testing Lab][5-1C] | [Testing API Calls][5-2C] | [Intro to Foundation][5-3C] | [Views in Express][5-4C] | 
+**1:30pm Module 3** | [UX Crash Course][5-1D] **needs input from UXD** | [Lab: Research and Test External API][5-2D] | [Map Wireframes][5-3D] | [Lab: Views in Express][5-4D] |
+**3:00pm Module 4** | [Lab: Design Models for Common Apps][5-1E] **shouldn't this be earlier?** | [Lab: Research and Test External API][5-2E] | [Map Wireframes][5-3E] | [Lab: MVC Common Apps][5-4E] |
+**Training** | [Testing Reading][5-1F] | [Get External API Set Up for Project 2][5-2F] | [Mock out Project 2 w/ Lorem and Mock Data Only][5-3F] | [??][5-4F] |
+
+[5-1A]: # "Introducing Tasks Gulp/Grunt/Webpack"
+[5-1B]: # "Intro to TDD"
+[5-1C]: # "Testing Lab"
+[5-1D]: https://github.com/den-wdi-2/ux-crash-course "UX Crash Course"
+[5-1E]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
+[5-1F]: # "Testing Reading and Quiz"
+
+[5-2A]: # "Sass Preprocessing"
+[5-2B]: # "Project 2 Ideation / Wireframes"
+[5-2C]: # "Testing API Calls"
+[5-2D]: # "Research and Test External API Lab"
+[5-2E]: # "Research and Test External API Lab"
+[5-2F]: # "Research and Test External API Lab"
+
+[5-3A]: # "Interview Prep"
+[5-3B]: # "Outcomes"
+[5-3C]: https://github.com/den-wdi-2/css-foundation "Intro to Foundation"
+[5-3D]: # "Map Wireframes to HTML/CSS Components for Project 2"
+[5-3E]: # "Map Wireframes to HTML/CSS Components for Project 2"
+[5-3F]: # "Mock Project 2"
+
+[5-4A]: # "Interview Prep"
+[5-4B]: https://github.com/den-wdi-2/mvc-intro "MVC Intro"
+[5-4C]: https://github.com/den-wdi-2/express-views-lesson "Views in Express Lesson"
+[5-4D]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
+[5-4E]: # "MVC Common Apps Lab"
+[5-4F]: # "??"
+
+#### Week 5 - Ruby and Sinatra (This should go to Week 10)
 
 Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 ----| -------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------- | -----------------------------------
 **9:00am Module 1** | [Tune.ly][5-1A] | [Intro to Ruby (Zeb)][5-2A] | [OOP Ruby (JP)][5-3A]  |  [ActiveRecord Models (JP)][5-4A]      | [Questions in a Hat (JP)][5-5A]
 **10:30am Module 2** | [Tune.ly][5-1B] |  [Intro to Ruby Lab (Zeb)][5-2B] | [OOP Ruby Lab (JP)][5-3B]  | [ActiveRecord Models Lab (JP)][5-4B]     | Outcomes
-**1:00pm Module 3** | [Tune.ly][5-1C] |  [Sinatra Intro Lesson][5-2C] (JP)| [Data Modeling (Zeb)][5-3C] | [ActiveRecord Command Line (Zeb)][5-4C]       | Dev-Led Review (Zeb)
+**1:00pm Module 3** | [Tune.ly][5-1C] |  [Sinatra Intro Lesson][5-2C] (JP)|  | [ActiveRecord Command Line (Zeb)][5-4C]       | Dev-Led Review (Zeb)
 **2:30pm Module 4** | [Tune.ly][5-1D] | [Sinatra Intro Lesson][5-2C] (JP)  | [SQL (Zeb)][5-3D]   |     [ActiveRecord Lab (Zeb)][5-4D]  | [Tunr Relationships (JP)][5-5D]
 **Training** | Tunely | [Message in a Bottle + Sinatra Code Study Exercise][5-2E] (JP) |   | Complete Lab      | [Sinatra Project / Project 2][5-5E]
 
@@ -253,7 +290,6 @@ Weekly goals:
 
 [5-3A]: https://github.com/den-wdi-2/ruby-oop "Ruby OOP Lesson"
 [5-3B]: https://github.com/den-wdi-2/monkey-oop "Ruby OOP Lab"
-[5-3C]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
 [5-3D]: https://github.com/den-wdi-2/sql "SQL Select Lab"
 
 [5-4A]: https://github.com/den-wdi-2/active-record-models "Building Models with ActiveRecord and Migrations"
