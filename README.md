@@ -169,12 +169,12 @@ Weekly Goals:
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
  **9:00am Warm-Up** | Unit 1 Second Pass | Small Algo | Small Algo | Small Algo | Second Pass and [Questions in a Hat][4-5A]
- **9:30am Module 1** | [API with Postman][4-1B] | [Connecting Forms to APIs via AJAX][4-2B] | Blank Spot for Outcomes | [Intro to SQL and Relational DBs][4-4B] | [SQL Relationships][4-5B]
-**11:00am Module 2** | [AJAX & API's with jQuery ()][4-1C] | [Lab: AJAX Calls to API][4-2C] | [Intro to Express (Zeb)][4-3C] | [Carmen Sandiego Lab][4-4C] | [Lab: Relationships and Normalization][4-5C]
+ **9:30am Module 1** | [API Intro with Postman][4-1B] | [Connecting Forms to APIs via AJAX][4-2B] | Blank Spot for Outcomes | [Intro to SQL and Relational DBs][4-4B] | [SQL Relationships][4-5B]
+**11:00am Module 2** | [Intro to AJAX][4-1C] | [Lab: AJAX Calls to API][4-2C] | [Intro to Express (Zeb)][4-3C] | [Carmen Sandiego Lab][4-4C] | [Lab: Relationships and Normalization][4-5C]
 **1:30pm Module 3** | [Advanced AJAX: CORS/JSONP/APIs][4-1D] | [Intro to Node.js ()][4-2D] | [Building Express Routes (Zeb)][4-3D] | [Using SQL in an Express App][4-4D] | [Inner and Outer Joins][4-5D]
 **3:00pm Module 4** | [Lab: AJAX Calls to API][4-1E] | [Node Lab][4-2E] | [Building Express Routes Lab (Zeb)][4-1D] |  [SQL CRUD in Express Lab][4-4E] | [Lab: Joins][4-5E]
 **Training** | [Lab: Movie Haus][4-1F] | [Lab: Requesting with Node][4-2F] | [Reading Assignments: DBs and SQL][4-3F] | [Blog][4-4F] | [Project 2 Proposal][4-5F]
-**Leftovers** | [Intro to Mongo ()][4-2H] [Intro to Mongoose ()][4-2I] [Personal API Lab ()][4-4H] | [Data Organization in Mongo (Zeb)][4-2J] [Lab: ToDo List App ()][4-3J] | [Lab: Views in Express (Zeb)][4-3I] [Express Reteach (Zeb)][4-2K] [Ajax OOP Refactor Lab ()][4-3K] | [Lab: Full Stack JavaScript (Zeb)][4-2L] [More Express Routes][4-3L] [Views in Express (Zeb)][4-3H] [CodeSchool Ruby Tutorial][4-4I]
+**Leftovers** | [Intro to Mongo ()][4-2H] [Intro to Mongoose ()][4-2I] [Personal API Lab ()][4-4H] | [Data Organization in Mongo (Zeb)][4-2J] [Lab: ToDo List App ()][4-3J] | [Lab: Views in Express (Zeb)][4-3I] [Express Reteach (Zeb)][4-2K] [Ajax OOP Refactor Lab ()][4-3K] | [Lab: Full Stack JavaScript (Zeb)][4-2L] [More Express Routes][4-3L] [Views in Express (Zeb)][4-3H] [CodeSchool Ruby Tutorial][4-4I] | [AJAX & API's with jQuery ()][4-1I]
 
 [4-2H]: https://github.com/den-wdi-2/mongo-intro "Intro to Node with Mongo"
 [4-2I]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
@@ -190,9 +190,10 @@ Time | Day 1                                    | Day 2                         
 [4-4H]: https://github.com/den-wdi-2/express-personal-api
 [4-4I]: https://www.codeschool.com/courses/try-ruby "Code School Try Ruby"
 [4-3L]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
+[4-1I]: https://github.com/den-wdi-2/ajax-with-jquery "AJAX & APIs with jQuery"
 
-[4-1B]: # "Postman"
-[4-1C]: https://github.com/den-wdi-2/ajax-with-jquery "AJAX & APIs with jQuery"
+[4-1B]: https://github.com/den-wdi-2/api-intro "API, JSON, and Postman"
+[4-1C]: https://github.com/den-wdi-2/js-ajax-lesson "AJAX Intro"
 [4-1D]: # "Advanced AJAX"
 [4-1E]: # "Shakeitspeare"
 [4-1F]: # "Movie Haus"
@@ -200,7 +201,7 @@ Time | Day 1                                    | Day 2                         
 [4-2B]: # "Connecting Forms to APIs"
 [4-2C]: https://github.com/den-wdi-2/js-ajax-lab "JS AJAX Lab"
 [4-2D]: https://github.com/den-wdi-2/nodejs "Intro to Node.js"
-[4-2E]: # "Intro Node Lab"
+[4-2E]: https://github.com/den-wdi-2/node-cli-weather "Intro Node Lab"
 [4-2F]: https://github.com/den-wdi-2/requesting-with-node "Requesting with Node"
 
 [4-3B]: # "Outcomes"
