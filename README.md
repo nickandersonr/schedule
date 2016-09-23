@@ -14,7 +14,7 @@ Time  | Activity
 
 ## Unit 1: The Client
 
-#### Week 1 - Fundamentals and Tools
+#### Week 1 - Fundamentals and Tools (10/31-11/4)
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
@@ -57,11 +57,11 @@ Time  | Activity
 [1-5D]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox "Grid System & Media Queries"
 [1-5E]: https://github.com/den-wdi-2/week-1-assessment "Lab: Racer Game"
 
-#### Week 2 - JavaScript & Front-end Libraries
+#### Week 2 - JavaScript & Front-end Libraries (11/7-11/11)
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Warm-Up** | [Racer Issue Submission][2-1A] | [Whiteboarding][2-2A] | [GH Branching and gh-pages][2-3A] | [Native JS v Jquery][2-4A] | [Intro to ES6][2-5A]
+ **9:00am Warm-Up** | [Racer Issue Submission][2-1A] | [Whiteboarding][2-2A] | [GH Branching and gh-pages][2-3A] | [Native JS v Jquery][2-4A] | [Intro to ES6][2-5A] (VETERANS DAY)
  **9:30am Module 1** | [Whiteboarding 101][2-1B] | [HTML Forms (Zeb)][2-2B] | Empty Spot for Outcomes | [OOP in JS ()][2-4B] | Second Pass and [Questions in a Hat][2-5B]
  **11:00am Module 2** | [Computational Thinking Lab][2-1C] | [CSS for HTML Forms Lab][2-2C] | [Intermediate jQuery][2-3C] |    [OOP in JS ()][2-4C]    | [Wireframes][2-5C]
 **1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [Intro to jQuery][2-2D] | [Lab: Create jQuery selector][2-3D] | [OOP concepts (Zeb)][2-4D] | [CSS Transitions & Animations][2-5D]
@@ -118,7 +118,7 @@ Weekly Goals:
 [2-5D]: https://github.com/den-wdi-2/css-animations "CSS Transitions & Animations"
 [2-5E]: https://github.com/den-wdi-2/project-1 "Project 1"
 
-#### Week 3 - Project 1:  Browser Game
+#### Week 3 - Project 1:  Browser Game (11/14-11/18)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -163,11 +163,11 @@ Weekly Goals:
 
 ## Unit 2: The Server
 
-#### Week 4 - Node and Express
+#### Week 4 - Node, Express, and SQL (11/21-11/25)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Unit 1 Second Pass | Small Algo | Small Algo | Small Algo | Second Pass and [Questions in a Hat][4-5A]
+ **9:00am Warm-Up** | Unit 1 Second Pass | Small Algo | Small Algo | Small Algo (TGIVES) | Second Pass and [Questions in a Hat][4-5A] (TGIVES)
  **9:30am Module 1** | [API Intro with Postman][4-1B] | [Connecting Forms to APIs via AJAX][4-2B] | Blank Spot for Outcomes | [Intro to SQL and Relational DBs][4-4B] | [SQL Relationships][4-5B]
 **11:00am Module 2** | [Intro to AJAX][4-1C] | [Lab: AJAX Calls to API][4-2C] | [Intro to Express (Zeb)][4-3C] | [Carmen Sandiego Lab][4-4C] | [Lab: Relationships and Normalization][4-5C]
 **1:30pm Module 3** | [Advanced AJAX: CORS/JSONP/APIs][4-1D] | [Intro to Node.js ()][4-2D] | [Building Express Routes (Zeb)][4-3D] | [Using SQL in an Express App][4-4D] | [Inner and Outer Joins][4-5D]
@@ -222,7 +222,7 @@ Time | Day 1                                    | Day 2                         
 [4-5E]: # "Joins Lab"
 [4-5F]: # "Project 2 Proposal"
 
-#### Week 5 - Ruby and Sinatra (This should go to Week 10)
+#### Week 5 - Ruby and Sinatra (This should go to Week 10) (11/28-12/2)
 
 Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 ----| -------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------- | -----------------------------------
@@ -267,7 +267,7 @@ Weekly goals:
 [5-5D]: https://github.com/den-wdi-2/tunr-relationships "Tunr Relationships"
 [5-5E]: https://github.com/den-wdi-2/project-2 "Project 2"
 
-#### Week 6 - Project 2: Sinatra Single-Resource App
+#### Week 6 - Project 2: Sinatra Single-Resource App (12/5-12/9)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
@@ -296,7 +296,7 @@ Extra Resources:
 
 ## Unit 3: Ruby on Rails and Group Work (This will become Angular and Group Work)
 
-#### Week 7 - Ruby on Rails
+#### Week 7 - Ruby on Rails (12/12-12/16)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
@@ -344,7 +344,7 @@ Weekly Goals:
 [7-5D]: https://github.com/den-wdi-2/library-app "Library App"
 [7-5E]: https://github.com/den-wdi-2/library-app "Library App"
 
-#### Week 8 - Project Vagabond, Group Work
+#### Week 8 - Project Vagabond, Group Work (12/19-12/22)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -366,7 +366,9 @@ Time | Day 1                                      | Day 2                       
 [8-4E]: https://github.com/den-wdi-2/high_card "High Card"
 [8-5E]: https://github.com/den-wdi-2/project-03 "Project 3"
 
-#### Week 9 - Project 3: Group Project
+#### BREAK (12/26-12/29)
+
+#### Week 9 - Project 3: Group Project (1/2-1/6)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -383,7 +385,7 @@ Time | Day 1                                      | Day 2                       
 [9-5F]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
 [9-5G]: https://github.com/den-wdi-2/intro_angular_challenges
 
-#### Week 10 - Angular (This will be Week 7 and/or 8)
+#### Week 10 - Angular (This will be Week 7 and/or 8) (1/9-1/13)
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -424,11 +426,11 @@ Time | Day 1                           | Day 2                                  
 [10-5E]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototype Weekend Lab"
 [10-5F]: https://github.com/den-wdi-2/lighting-talks "Lightning Talk Research"
 
-#### Week 11: Miscellaneous and Developer-Chosen Topics
+#### Week 11: Miscellaneous and Developer-Chosen Topics (1/16-1/20)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Module 1** | Science Fair (Group) | [React (Zeb)][11-2A]  | [Lightning Talks][11-3A]  | [Intro to Ops (JP)][11-4A] | Outcomes |
+**9:00am Module 1** | Science Fair (Group) MLK DAY! | [React (Zeb)][11-2A]  | [Lightning Talks][11-3A]  | [Intro to Ops (JP)][11-4A] | Outcomes |
 **10:30am Module 2** | [Rangular Apps (JP)][11-1B] | [Legacy Code Lab (Zeb)][11-2B] | Lightning Talks | Planning | Project 4 |
 **1:00pm Module 3** | [Gulp (JP)][11-1C] | Legacy Code Lab (Zeb) | Lightning Talks | Approvals | Project 4 | Approvals |
 **2:30pm Module 4** | Prototype Working Session | Legacy Code Lab (Zeb) | [Project 4 Intro][11-3D] | Approvals | Project 4 | Outcomes |
@@ -467,13 +469,23 @@ Time | Day 1                                 | Day 2                            
 
 #### [IoT Lesson](https://github.com/den-wdi-2/IoT-Hobby-Projects)
 
-#### Week 12 - Final Project and Interview Work
+#### Week 12 - Final Project and Interview Work (1/23-1/27)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am** | Scrum | Scrum | Scrum | Project Work | TBD
 **9:15am** | Project Work | Project Work | Project Work | Project Work | TBD  
 **11am** | Project Work | Mock Interviews | Mock Interviews | Project Work | TBD
+**1:00pm** |Project Work | Project Work | Project Work | Presentations / Outcomes (2:00) | Final Survey, Certificates, and Recap
+**Homework** |Project Work | Project Work | Project Work | Presentations | Happy Hour
+
+#### Week 13 - Final Project and Interview Work (1/30-2/3)
+
+Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
+**9:00am** | Scrum | Scrum | Scrum | Project Work | NO CLASS
+**9:15am** | Project Work | Project Work | Project Work | Project Work | NO CLASS 
+**11am** | Project Work | Mock Interviews | Mock Interviews | Project Work | NO CLASS
 **1:00pm** |Project Work | Project Work | Project Work | Presentations / Outcomes (2:00) | Final Survey, Certificates, and Recap
 **Homework** |Project Work | Project Work | Project Work | Presentations | Happy Hour
 
