@@ -230,6 +230,10 @@ Time | Day 1                                    | Day 2                         
 **1:30pm Module 3** | [UX Crash Course][5-1D] **needs input from UXD** | [Lab: Research and Test External API][5-2D] | [Map Wireframes][5-3D] | [Lab: Views in Express (Zeb)][5-4D] | [REST Controllers Part 1][5-5D]
 **3:00pm Module 4** | [Lab: Design Models for Common Apps][5-1E] **shouldn't this be earlier?** | [Lab: Research and Test External API][5-2E] | [Map Wireframes][5-3E] | [Lab: MVC Common Apps][5-4E] | [REST Controllers Part 2][5-5E]
 **Training** | [Testing Reading][5-1F] | [Get External API Set Up for Project 2][5-2F] | [Mock out Project 2 w/ Lorem and Mock Data Only][5-3F] | [??][5-4F] | [Polish REST Controllers App][5-5F]
+**Leftovers** | [SQL (Zeb)][5-3G] | [Tune.ly][5-1G]
+
+[5-3G]: https://github.com/den-wdi-2/sql "SQL Select Lab"
+[5-1G]: https://github.com/den-wdi-2/tunely "Tunely"
 
 [5-1A]: # "Introducing Tasks Gulp/Grunt/Webpack"
 [5-1B]: # "Intro to TDD"
@@ -266,50 +270,6 @@ Time | Day 1                                    | Day 2                         
 [5-5E]: # "Rest Controllers Part 2"
 [5-5F]: # "Polish REST Controllers App"
 
-#### Week 5 - Ruby and Sinatra (This should go to Week 10)
-
-Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
-----| -------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------- | -----------------------------------
-**9:00am Module 1** | [Tune.ly][5-1A] | [Intro to Ruby (Zeb)][5-2A] | [OOP Ruby (JP)][5-3A]  |  [ActiveRecord Models (JP)][5-4A]      | [Questions in a Hat (JP)][5-5A]
-**10:30am Module 2** | [Tune.ly][5-1B] |  [Intro to Ruby Lab (Zeb)][5-2B] | [OOP Ruby Lab (JP)][5-3B]  | [ActiveRecord Models Lab (JP)][5-4B]     | Outcomes
-**1:00pm Module 3** | [Tune.ly][5-1C] |  [Sinatra Intro Lesson][5-2C] (JP)|  | [ActiveRecord Command Line (Zeb)][5-4C]       | Dev-Led Review (Zeb)
-**2:30pm Module 4** | [Tune.ly][5-1D] | [Sinatra Intro Lesson][5-2C] (JP)  | [SQL (Zeb)][5-3D]   |     [ActiveRecord Lab (Zeb)][5-4D]  | [Tunr Relationships (JP)][5-5D]
-**Training** | Tunely | [Message in a Bottle + Sinatra Code Study Exercise][5-2E] (JP) |   | Complete Lab      | [Sinatra Project / Project 2][5-5E]
-
-Weekly goals:
-- Last hurrah to full stack JavaScript 
-- Pivot our knowledge of RESTful APIs to apply in the Ruby World
-  - Create Single Resource RESTful Applications
-  - Use ActiveRecord
-- Understand enough SQL to use ActiveRecord
-  - Basics of tables and queries
-
-[5-1A]: https://github.com/den-wdi-2/tunely "Tunely"
-[5-1B]: https://github.com/den-wdi-2/tunely "Tunely"
-[5-1C]: https://github.com/den-wdi-2/tunely "Tunely"
-[5-1D]: https://github.com/den-wdi-2/tunely "Tunely"
-
-[5-2A]: https://github.com/den-wdi-2/intro-ruby "Intro to Ruby"
-[5-2B]: https://github.com/den-wdi-2/ruby-koans "Intro to Ruby Lab"
-[5-2C]: https://github.com/den-wdi-2/sinatra-intro-lesson "Sinatra Intro Lesson"
-[5-2D]: https://github.com/den-wdi-2/sinatra-intro-lesson "Sinatra Intro Lesson"
-[5-2E]: https://github.com/den-wdi-2/message-in-a-bottle "Message in a Sinatra Code Study + Ruby Grandma Exercise"
-
-[5-3A]: https://github.com/den-wdi-2/ruby-oop "Ruby OOP Lesson"
-[5-3B]: https://github.com/den-wdi-2/monkey-oop "Ruby OOP Lab"
-[5-3D]: https://github.com/den-wdi-2/sql "SQL Select Lab"
-
-[5-4A]: https://github.com/den-wdi-2/active-record-models "Building Models with ActiveRecord and Migrations"
-[5-4B]: https://github.com/den-wdi-2/modeling-tunr "Models and Migrations Lab"
-[5-4C]: https://github.com/den-wdi-2/active-record-pizza-lab "ActiveRecord CRUD with Command Line"
-[5-4D]: https://github.com/den-wdi-2/active-record-pizza-lab "ActiveRecord Finders lab"
-
-[5-5A]: https://github.com/den-wdi-2/questions-in-a-hat "Questions in a Hat"
-[5-5B]: # "Outcomes"
-[5-5C]: # "Review"
-[5-5D]: https://github.com/den-wdi-2/tunr-relationships "Tunr Relationships"
-[5-5E]: https://github.com/den-wdi-2/project-2 "Project 2"
-
 #### Week 6 - Project 2: Node/Express Single-Resource App (12/5-12/9)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
@@ -324,11 +284,11 @@ Weekly goals:
 [6-1B]: # "Authenticating and Authorizing Lab"
 [6-1C]: https://github.com/den-wdi-2/project-2 "Project 2"
 
-[6-3A]: # "Interview Prep
+[6-3A]: # "Interview Prep"
 
-[6-4A]: # "Interview Prep
+[6-4A]: # "Interview Prep"
 
-[6-5A]: # "Interview Prep
+[6-5A]: # "Interview Prep"
 
 [6-5C]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
 <!--[6-5A]: https://github.com/sf-wdi-29/student-projects/blob/master/second-projects.md "second projects"-->
@@ -337,9 +297,6 @@ Weekly goals:
 Extra Resources:
 
 * [Deploy to Heroku](https://gist.github.com/awhit012/bd544c8c252434d1fe6fe01cbfa252d6)
-* [Method Organization in Sinatra](https://github.com/sf-wdi-29/sinatra-helper-methods)
-* [Debugging Ruby Applications](https://github.com/sf-wdi-29/debugging-ruby-applications)
-* [Seeding a Sinatra App](https://github.com/sf-wdi-29/sinatra-app-seed/blob/master/readme.md)
 * [Front-end Assets](https://github.com/sf-wdi-29/front-end-assets/blob/master/readme.md)
 * [tunr on Heroku](https://github.com/den-wdi-2/tunr-heroku)
 
