@@ -172,7 +172,7 @@ Time | Day 1                                    | Day 2                         
 **11:00am Module 2** | [Intro to AJAX][4-1C] | [Lab: AJAX Calls to API][4-2C] | [Intro to Express (Zeb)][4-3C] | [Carmen Sandiego Lab][4-4C] | [Lab: Relationships and Normalization][4-5C]
 **1:30pm Module 3** | [Advanced AJAX: CORS/JSONP/APIs][4-1D] | [Intro to Node.js ()][4-2D] | [Building Express Routes (Zeb)][4-3D] | [Using SQL in an Express App][4-4D] | [Inner and Outer Joins][4-5D]
 **3:00pm Module 4** | [Lab: AJAX Calls to API][4-1E] | [Node Lab][4-2E] | [Building Express Routes Lab (Zeb)][4-1D] |  [SQL CRUD in Express Lab][4-4E] **Watch the handlebars** | [Lab: Joins][4-5E]
-**Training** | [Lab: Movie Haus][4-1F] | [Lab: Requesting with Node][4-2F] | [Reading Assignments: DBs and SQL][4-3F] | [Blog][4-4F] | [Project 2 Proposal][4-5F]
+**Training** | [Lab: Muvie Haus][4-1F] | [Lab: Requesting with Node][4-2F] | [Reading Assignments: DBs and SQL][4-3F] | [Blog][4-4F] | [Project 2 Proposal][4-5F]
 **Leftovers** | [Intro to Mongo ()][4-2H] [Intro to Mongoose ()][4-2I] [Personal API Lab ()][4-4H] | [Data Organization in Mongo (Zeb)][4-2J] [Lab: ToDo List App ()][4-3J] | [Lab: Views in Express (Zeb)][4-3I] [Express Reteach (Zeb)][4-2K] [Ajax OOP Refactor Lab ()][4-3K] | [Lab: Full Stack JavaScript (Zeb)][4-2L] [More Express Routes][4-3L] [Views in Express (Zeb)][4-3H] [CodeSchool Ruby Tutorial][4-4I] | [AJAX & API's with jQuery ()][4-1I]
 
 [4-2H]: https://github.com/den-wdi-2/mongo-intro "Intro to Node with Mongo"
@@ -192,8 +192,8 @@ Time | Day 1                                    | Day 2                         
 [4-1B]: https://github.com/den-wdi-2/api-intro "API, JSON, and Postman"
 [4-1C]: https://github.com/den-wdi-2/js-ajax-lesson "AJAX Intro"
 [4-1D]: # "Advanced AJAX"
-[4-1E]: # "Shakeitspeare"
-[4-1F]: # "Movie Haus"
+[4-1E]: https://github.com/den-wdi-2/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
+[4-1F]: https://github.com/den-wdi-2/muvie-haus "Muvie Haus"
 
 [4-2B]: # "Connecting Forms to APIs"
 [4-2C]: https://github.com/den-wdi-2/js-ajax-lab "JS AJAX Lab"
@@ -224,12 +224,12 @@ Time | Day 1                                    | Day 2                         
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | [Introducing Tasks Gulp/Grunt/Webpack][5-1A] | [Sass Preprocessing][5-2A] | [Interview Prep][5-3A] | [Interview Prep][5-4A] | 
- **9:30am Module 1** | [Intro to TDD][5-1B] | [Project 2 Ideation / Wireframes][5-2B] | Blank Spot for Outcomes | [Intro to MVC][5-4B] | 
-**11:00am Module 2** | [Testing Lab][5-1C] | [Testing API Calls][5-2C] | [Intro to Foundation][5-3C] | [Views in Express][5-4C] | 
-**1:30pm Module 3** | [UX Crash Course][5-1D] **needs input from UXD** | [Lab: Research and Test External API][5-2D] | [Map Wireframes][5-3D] | [Lab: Views in Express][5-4D] |
-**3:00pm Module 4** | [Lab: Design Models for Common Apps][5-1E] **shouldn't this be earlier?** | [Lab: Research and Test External API][5-2E] | [Map Wireframes][5-3E] | [Lab: MVC Common Apps][5-4E] |
-**Training** | [Testing Reading][5-1F] | [Get External API Set Up for Project 2][5-2F] | [Mock out Project 2 w/ Lorem and Mock Data Only][5-3F] | [??][5-4F] |
+ **9:00am Warm-Up** | [Introducing Tasks Gulp/Grunt/Webpack][5-1A] | [Sass Preprocessing][5-2A] | [Interview Prep][5-3A] | [Interview Prep][5-4A] | [Interview Prep][5-5A]
+ **9:30am Module 1** | [Intro to TDD][5-1B] | [Project 2 Ideation / Wireframes][5-2B] | Blank Spot for Outcomes | [Intro to MVC][5-4B] | [Models in an MVC App][5-5B]
+**11:00am Module 2** | [Testing Lab][5-1C] | [Testing API Calls][5-2C] | [Intro to Foundation][5-3C] | [Views in Express (Zeb)][5-4C] | [Wiring Models to Views][5-5C]
+**1:30pm Module 3** | [UX Crash Course][5-1D] **needs input from UXD** | [Lab: Research and Test External API][5-2D] | [Map Wireframes][5-3D] | [Lab: Views in Express (Zeb)][5-4D] | [REST Controllers Part 1][5-5D]
+**3:00pm Module 4** | [Lab: Design Models for Common Apps][5-1E] **shouldn't this be earlier?** | [Lab: Research and Test External API][5-2E] | [Map Wireframes][5-3E] | [Lab: MVC Common Apps][5-4E] | [REST Controllers Part 2][5-5E]
+**Training** | [Testing Reading][5-1F] | [Get External API Set Up for Project 2][5-2F] | [Mock out Project 2 w/ Lorem and Mock Data Only][5-3F] | [??][5-4F] | [Polish REST Controllers App][5-5F]
 
 [5-1A]: # "Introducing Tasks Gulp/Grunt/Webpack"
 [5-1B]: # "Intro to TDD"
@@ -258,6 +258,13 @@ Time | Day 1                                    | Day 2                         
 [5-4D]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
 [5-4E]: # "MVC Common Apps Lab"
 [5-4F]: # "??"
+
+[5-5A]: # "Interview Prep"
+[5-5B]: # "Models in MVC"
+[5-5C]: # "Wiring Models to Views"
+[5-5D]: # "Rest Controllers Part 1"
+[5-5E]: # "Rest Controllers Part 2"
+[5-5F]: # "Polish REST Controllers App"
 
 #### Week 5 - Ruby and Sinatra (This should go to Week 10)
 
@@ -303,19 +310,25 @@ Weekly goals:
 [5-5D]: https://github.com/den-wdi-2/tunr-relationships "Tunr Relationships"
 [5-5E]: https://github.com/den-wdi-2/project-2 "Project 2"
 
-#### Week 6 - Project 2: Sinatra Single-Resource App (12/5-12/9)
+#### Week 6 - Project 2: Node/Express Single-Resource App (12/5-12/9)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Module 1** | [Username Generator (JP)][6-1A]  | Project 2 | Project 2 | Project 2  |   Retrospective / Project 2 Presentations      |
- **10:30am Module 2** | [Go Fish game (Zeb)][6-1B]    | Project 2  | Project 2  | Project 2      | Outcomes     |
- **1:00pm Module 3** |  [Project 2][6-1C]    |   Project 2  |  Project 2   |  Project 2   | Project 2 Presentations / [Create Issues (Zeb)][6-5C]  |
-**2:30pm Module 4** |  Project 2     | Project 2   |  Project 2   | Project 2 |  Happy Hour   |
-**Training** | Project 2 | Project 2 | Project 2 | Project 2 |  Fix Issues / [Rails for Zombies (Spend ~2 hours)](http://railsforzombies.org/levels/1) |
+ **9:00am Module 1** | [Security 101][6-1A] | [What Is Business/Domain Logic?][6-2A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][6-3A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][6-4A] / Standup | Retrospective / [Interview Prep (Preferably CRUD or Auth-related)][6-5A]|
+ **10:30am Module 2** | [Lab: Authenticating and Authorizing Users][6-1B] | Project 2 | Outcomes | Project 2 | Project 2 Presentations |
+ **1:00pm Module 3** | Lab: Authenticating and Authorizing Users | Project 2 | Project 2 | Project 2 | Project 2 Presentations / Self Assessment and [Create Issues ()][6-5C]  |
+**2:30pm Module 4** | Scrum and [Project 2 Review][6-1C] | Project 2 | Project 2 | Project 2 | Happy Hour |
+**Training** | Project 2 | Project 2 | Project 2 | Project 2 | Fix Issues |
 
-[6-1A]: https://github.com/den-wdi-2/username-generator "Username Generator"
-[6-1B]: https://github.com/den-wdi-2/go-fish-card-game "Go Fish Game"
+[6-1A]: # "Security 101"
+[6-1B]: # "Authenticating and Authorizing Lab"
 [6-1C]: https://github.com/den-wdi-2/project-2 "Project 2"
+
+[6-3A]: # "Interview Prep
+
+[6-4A]: # "Interview Prep
+
+[6-5A]: # "Interview Prep
 
 [6-5C]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
 <!--[6-5A]: https://github.com/sf-wdi-29/student-projects/blob/master/second-projects.md "second projects"-->
