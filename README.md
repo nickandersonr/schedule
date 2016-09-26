@@ -284,71 +284,39 @@ Time | Day 1                                    | Day 2                         
 [6-1B]: # "Authenticating and Authorizing Lab"
 [6-1C]: https://github.com/den-wdi-2/project-2 "Project 2"
 
+[6-2A]: # "Business and Domain Logic"
+
 [6-3A]: # "Interview Prep"
 
 [6-4A]: # "Interview Prep"
 
 [6-5A]: # "Interview Prep"
-
 [6-5C]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
-<!--[6-5A]: https://github.com/sf-wdi-29/student-projects/blob/master/second-projects.md "second projects"-->
-
 
 Extra Resources:
 
 * [Deploy to Heroku](https://gist.github.com/awhit012/bd544c8c252434d1fe6fe01cbfa252d6)
-* [Front-end Assets](https://github.com/sf-wdi-29/front-end-assets/blob/master/readme.md)
-* [tunr on Heroku](https://github.com/den-wdi-2/tunr-heroku)
 
 ## Unit 3: Ruby on Rails and Group Work (This will become Angular and Group Work)
 
-#### Week 7 - Ruby on Rails (12/12-12/16)
+#### Week 7 - Intro to Angular (12/12-12/16)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Module 1** | [Ruby Pair Exercises (JP)][7-1A]  | [Intro to Rails (Zeb)][7-2A] |  [Rails Asset Pipeline][7-3AA] & [Asset Pipeline Poem (JP)][7-3A] | [Auth (Zeb)][7-4A]  |[Consultant-Led Review (JP)][7-5A]            |
- **10:30am Module 2** | [OOP Wheel of Fortune (JP)][7-1B]    | [Controllers and Routes (Zeb)][7-2B] | [Rails Bog App (JP)][7-3B] | [Auth Lab (Zeb)][7-4B]       | Outcomes (Sara)    |
- **1:00pm Module 3** | [Rspec and TDD (Zeb)][7-1C]   |  [Layouts and Partials (Zeb)][7-2C]| [Validations and Errors (Zeb)][7-3C] | [Many to Many (JP)][7-4C] |  [Dev-Led Review (Zeb)][7-5C]   |
-**2:30pm Module 4** | [Rspec and TDD Lab (JP)][7-1D]     | [Rock n Rails (JP)][7-2D] | [Validations and Errors Lab (Zeb)][7-3D] | [Many to Many Lab (JP)][7-4D] |  [Library App Weekend Lab (JP)][7-5D]    |
-**Homework** | Finish Labs |  Finish Labs | Finish Labs + [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) |  Finish Labs | [Library App Weekend Lab (JP)][7-5E] |
+ **9:00am Module 1** |  |  |  | [Auth (Zeb)][7-4A] **Need to split top part out** |  |
+ **10:30am Module 2** |  |  |  |  | Outcomes |
+ **1:00pm Module 3** | [Rspec and TDD (Zeb)][7-1C] **Need to split top part out** |  |  |  |  |
+**2:30pm Module 4** |  |  |  |  |  |
+**Homework** | Finish Labs |  | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) |  |  |
 
 Weekly Goals:
-- Practice Ruby Programming
-- Create a Rails App
-- Understand Laytouts and Partials in Rails
-- Understand validating data in an application
-- Build a basic authentication system
-- Build Many-to-Many relationships
+- Something about Angular
 
-[7-1A]:  https://github.com/den-wdi-2/ruby-drills "Ruby Pair Exercises"
-[7-1B]:  https://github.com/den-wdi-2/wheel_of_fortune "OOP Wheel of Fortune" 
 [7-1C]: https://github.com/den-wdi-2/rspec "Rspec and TDD Lesson"
-[7-1D]: https://github.com/den-wdi-2/car-racing-lab "Rspec and TDD Lab"
-[7-1E]: # "Finish Labs"
-
-[7-2A]: https://github.com/den-wdi-2/intro-to-rails "Intro to Rails"
-[7-2B]: https://github.com/den-wdi-2/rails-controllers-and-routes "Controllers & Routes"
-[7-2C]: https://github.com/den-wdi-2/rails-layouts-and-partials "Layouts & Partials"
-[7-2D]: https://github.com/den-wdi-2/rock-n-rails "Rock n Rails"
-
-[7-3AA]: https://github.com/den-wdi-2/rails-asset-pipeline "Rails Asset Pipeline"
-[7-3A]: https://github.com/den-wdi-2/asset-pipeline-poem "Asset Pipeline"
-[7-3B]: https://github.com/den-wdi-2/rails-bog-app "Bog App"
-[7-3C]: https://github.com/den-wdi-2/rails-validations-errors "Validations and Errors"
-[7-3D]: https://github.com/den-wdi-2/rails-validations-errors-lab "Validations and Errors Lab"
-[7-3E]: # "Finish Labs"
 
 [7-4A]: https://github.com/den-wdi-2/rails-auth "Auth"
-[7-4B]: https://github.com/den-wdi-2/rails-auth "More Auth"
-[7-4C]: https://github.com/den-wdi-2/rails-many-to-many "Many to Many"
-[7-4D]: https://github.com/den-wdi-2/rails-many-to-many-lab "Many to Many Lab"
-[7-4E]: # "Finish Labs"
 
-[7-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-07.md "Questions in a Hat"
 [7-5B]: # "Outcomes"
-[7-5C]: https://github.com/den-wdi-2/rails-review "Review"
-[7-5D]: https://github.com/den-wdi-2/library-app "Library App"
-[7-5E]: https://github.com/den-wdi-2/library-app "Library App"
 
 #### Week 8 - Project Vagabond, Group Work (12/19-12/22)
 
