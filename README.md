@@ -304,8 +304,8 @@ Extra Resources:
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Warm-up** | [ES6 Lesson (relevant to Angular 2)][7-1A] | [Interview Prep (Angular?)][7-2A] | [Interview Prep (Angular?)][7-3A] | [Interview Prep (Angular?)][7-4A] | Second Pass and [Questions in a Hat][7-5A] |
- **9:30am Module 1** | [Design Thinking and UX] | [Competitive Research][7-2B] | [$http and promises ()][7-3B] | [Personas from Research][7-4B] | [User Goals and Flows][7-5B] |
- **11:00am Module 2** | [User Research] | [Lab: Competitive and User Research][7-2C] | [$http LAB][7-3C] | [Routing ()][7-4C] | Outcomes / Mid-Course Survey Somewhere |
+ **9:30am Module 1** | [Design Thinking and UX][7-1B] | [Competitive Research][7-2B] | [$http and promises ()][7-3B] | [Personas from Research][7-4B] | [User Goals and Flows][7-5B] |
+ **11:00am Module 2** | [User Research][7-1C] | [Lab: Competitive and User Research][7-2C] | [$http LAB][7-3C] | [Routing ()][7-4C] | Outcomes / Mid-Course Survey Somewhere |
  **1:30pm Module 3** | [Intro to Angular ()][7-1D] | [Directives Lesson ()][7-2D] | [Angular Hangman][7-3D] | [Routing Lab][7-4D] | Almost MEAN Cards |
 **3:00pm Module 4** | [Lab: Intro to Angular][7-1E] | [Directives Lab][7-2E] | [Angular Hangman][7-3E] | [$resource ()][7-4E] | Almost MEAN Cards |
 **Homework** | Finish Labs | Finish Labs | Interview Potential Users | Finish Wine App and Use ng-resource | Finish Full-stack JS App |
