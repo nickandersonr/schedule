@@ -173,18 +173,14 @@ Time | Day 1                                    | Day 2                         
 **1:30pm Module 3** | [Advanced AJAX: CORS/JSONP/APIs][4-1D] | [Intro to Node.js ()][4-2D] | [Building Express Routes (Zeb)][4-3D] | [Using SQL in an Express App][4-4D] | [Inner and Outer Joins][4-5D]
 **3:00pm Module 4** | [Lab: AJAX Calls to API][4-1E] | [Node Lab][4-2E] | [Building Express Routes Lab (Zeb)][4-1D] |  [SQL CRUD in Express Lab][4-4E] **Watch the handlebars** | [Lab: Joins][4-5E]
 **Training** | [Lab: Muvie Haus][4-1F] | [Lab: Requesting with Node][4-2F] | [Reading Assignments: DBs and SQL][4-3F] | [Blog][4-4F] | [Project 2 Proposal][4-5F]
-**Leftovers** | [Intro to Mongo ()][4-2H] [Intro to Mongoose ()][4-2I] [Personal API Lab ()][4-4H] | [Data Organization in Mongo (Zeb)][4-2J] [Lab: ToDo List App ()][4-3J] | [Lab: Views in Express (Zeb)][4-3I] [Express Reteach (Zeb)][4-2K] [Ajax OOP Refactor Lab ()][4-3K] | [Lab: Full Stack JavaScript (Zeb)][4-2L] [More Express Routes][4-3L] [Views in Express (Zeb)][4-3H] [CodeSchool Ruby Tutorial][4-4I] | [AJAX & API's with jQuery ()][4-1I]
+**Leftovers** |  |  | [Lab: Views in Express (Zeb)][4-3I] [Express Reteach (Zeb)][4-2K] [Ajax OOP Refactor Lab ()][4-3K] | [More Express Routes][4-3L] [Views in Express (Zeb)][4-3H] [CodeSchool Ruby Tutorial][4-4I] | [AJAX & API's with jQuery ()][4-1I]
 
-[4-2H]: https://github.com/den-wdi-2/mongo-intro "Intro to Node with Mongo"
-[4-2I]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
-[4-2J]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
+
+
 [4-2K]:https://github.com/den-wdi-2/expres-resource-reteach "Express Reteach"
-[4-2L]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
 [4-2M]: #  "Connecting Express Routes to Mongo Lab"
 [4-4H]: https://github.com/den-wdi-2/fullStack-JS-review "Review"
-[4-3J]: https://github.com/den-wdi-2/test-driven-todo-api "Todo Lab, Part 1"
 [4-3K]: https://github.com/den-wdi-2/ajax-oop-refactor-lab "AJAX Lesson"
-[4-4H]: https://github.com/den-wdi-2/express-personal-api
 [4-4I]: https://www.codeschool.com/courses/try-ruby "Code School Try Ruby"
 [4-3L]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
 [4-1I]: https://github.com/den-wdi-2/ajax-with-jquery "AJAX & APIs with jQuery"
@@ -304,10 +300,10 @@ Extra Resources:
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Warm-up** | [ES6 Lesson (relevant to Angular 2)][7-1A] | [Interview Prep (Angular?)][7-2A] | [Interview Prep (Angular?)][7-3A] | [Interview Prep (Angular?)][7-4A] | Second Pass and [Questions in a Hat][7-5A] |
- **9:30am Module 1** | [Design Thinking and UX][7-1B] | [Competitive Research][7-2B] | [$http and promises ()][7-3B] | [Personas from Research][7-4B] | [User Goals and Flows][7-5B] |
- **11:00am Module 2** | [User Research][7-1C] | [Lab: Competitive and User Research][7-2C] | [$http LAB][7-3C] | [Routing ()][7-4C] | Outcomes / Mid-Course Survey Somewhere |
- **1:30pm Module 3** | [Intro to Angular ()][7-1D] | [Directives Lesson ()][7-2D] | [Angular Hangman][7-3D] | [Routing Lab][7-4D] | Almost MEAN Cards |
-**3:00pm Module 4** | [Lab: Intro to Angular][7-1E] | [Directives Lab][7-2E] | [Angular Hangman][7-3E] | [$resource ()][7-4E] | Almost MEAN Cards |
+ **9:30am Module 1** | [Design Thinking and UX][7-1B] | [Competitive Research][7-2B] | [$http and promises ()][7-3B] | [Personas from Research][7-4B] | [Mongo Intro][7-5B] |
+ **11:00am Module 2** | [User Research][7-1C] | [Lab: Competitive and User Research][7-2C] | [$http LAB][7-3C] | [Routing ()][7-4C] | [Mongoose Intro][7-5C] / Mid-Course Survey Somewhere |
+ **1:30pm Module 3** | [Intro to Angular ()][7-1D] | [Directives Lesson ()][7-2D] | [Angular Hangman][7-3D] | [Routing Lab][7-4D] | [TODO API][7-5D] |
+**3:00pm Module 4** | [Lab: Intro to Angular][7-1E] | [Directives Lab][7-2E] | [Angular Hangman][7-3E] | [$resource ()][7-4E] | [Lab: Personal API][7-5E] |
 **Homework** | Finish Labs | Finish Labs | Interview Potential Users | Finish Wine App and Use ng-resource | Finish Full-stack JS App |
 
 Weekly Goals:
@@ -338,53 +334,68 @@ Weekly Goals:
 [7-4E]: https://github.com/den-wdi-2/angular-resource "ngResource"
 
 [7-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-10.md "Review / Questions in a Hat"
-[7-5B]: # "User Goals and Flows"
-[7-5C]: # "Outcomes"
-[7-5D]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
-[7-5D]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
+[7-5B]: https://github.com/den-wdi-2/mongo-intro "Intro to Mongo"
+[7-5C]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
+[7-5D]: https://github.com/den-wdi-2/test-driven-todo-api "Todo Lab"
+[7-5E]: https://github.com/den-wdi-2/express-personal-api "Personal API"
+
 
 #### Week 8 - Project Vagabond, Group Work (12/19-12/22)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** |  [Stacks and Queues (Zeb)][8-1A] | [Linked Lists (Zeb)][8-2A]  | Project Vagabond | Project Vagabond | Project Vagabond | Presentations
- **10:30am Module 2** | Moar Stacks and Queues | [Sass and CSS Precompilers (JP)][8-2B]  | Project Vagabond | Project Vagabond | Project Vagabond Retro and Presentations
-**1:00pm Module 3** | [ Trees (JP)][8-1C] | [Team-Client Meeting][8-2C] | Project Vagabond | Project Vagabond |  Project 3 Pitches
-**2:30pm Module 4** | Moar Trees |  Project Vagabond |  Project Vagabond |  Project Vagabond | [Algorithm Practice][8-4E]
-**Homework** | Select CS Exercises | Project Vagabond | Project Vagabond | Prepare Project 3 Pitch | [Project 3][8-5E]
+**9:00am Warm-up** | [Stacks and Queues ()][8-1A] | [Stacks and Queues ()][8-2A] | [Trees (Zeb)][8-3A] | [Trees (Zeb)][8-4A] | Second Pass and [Questions in a Hat][8-5A]
+**9:30am Module 1** | [User Goals and Flows][8-1B] | [Data Organization in Mongo][8-2B] | [Firebase (Zeb)][8-3B] | [Rapid Prototype][8-4B] | [Lab: Project 3 Pitches][8-5B]
+ **11:00am Module 2** | Outcomes Blank | [Lab: Mongoose Data Organization][8-2C] | [ngAnimate ()][8-3C] | [Rapid Prototype][8-4C] | [Pitch Feedback][8-5C]
+**1:30pm Module 3** | [Almost MEAN App][8-1D] | [Team Git Workflow 1][8-2D] | [Rapid Prototype][8-3D] | Rapid Prototype Science Fair | [Project 3][8-5D]
+**3:00pm Module 4** | [Almost MEAN App][8-1E] | [Team Git Workflow 2][8-2E] | [Rapid Prototype][8-3E] | [Prioritization and Proposal][8-4E] | [Project 3][8-5E]
+**Homework** | Complete MEAN App | Finish Books App | Rapid Prototype | Prepare Project 3 Pitch | [Project 3][8-5E]
+**Leftovers** |  |  |[Linked Lists ()][8-2G] | [Sass and CSS Precompilers (Zeb)][8-2H] | 
+
+[8-2G]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
+[8-2H]: https://github.com/den-wdi-2/sass-intro "Sass"
 
 [8-1A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
+[8-1B]: # "User Goals and Flows"
+[8-1C]: # "Outcomes"
+[8-1D]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
+[8-1E]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
 
-[8-1C]: https://github.com/den-wdi-2/trees "Trees"
+[8-2A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
+[8-2B]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
+[8-2C]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
+[8-2D]: # "Git Workflow 1"
+[8-2E]: # "Git Workflow 2"
 
-[8-2A]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
+[8-3A]: https://github.com/den-wdi-2/trees "Trees"
+[8-3B]: https://github.com/den-wdi-2/ng-firebase "Firebase"
+[8-3C]: https://github.com/den-wdi-2/angular-animations-intro "ngAnimate"
+[8-3D]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
+[8-3E]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 
-[8-2B]: https://github.com/den-wdi-2/sass-intro "Sass"
+[8-4A]: https://github.com/den-wdi-2/trees "Trees"
+[8-4B]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
+[8-4C]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
+[8-4D]: # "Science Fair"
+[8-4E]: # "Prioritization and Proposal"
 
-[8-2C]: https://github.com/den-wdi-2/project-vagabond "Project Vagabond"
-[8-4E]: https://github.com/den-wdi-2/high_card "High Card"
+[8-5A]: # "Questions in a Hat"
+[8-5B]: # "Project Pitch Lab"
+[8-5C]: # "Project Pitch Feedback"
+[8-5D]: https://github.com/den-wdi-2/project-03 "Project 3"
 [8-5E]: https://github.com/den-wdi-2/project-03 "Project 3"
 
-#### Week 10 - Angular (This will be Week 7 and/or 8) (1/9-1/13)
+#### Week X - Angular
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Module 1** |   |  |  | [Firebase (JP)][10-4A] | [Questions in a Hat (JP)][10-5A]
-**10:30am Module 2** |  |  |  | [ngAnimate (Zeb)][10-4B] | Outcomes
-**1:00pm Module 3** |  |  |  |  | [Dev-Led Review (Zeb)][10-5C]
-**2:30pm Module 4** |  |  |  |  | [Rapid Prototyping][10-5D]
-**Homework** | Submit Labs and CodeWars Level 7 | Submit Labs  and Project 3 Issues | ui-router vs ngRoute readings: [#1][10-3E] + [#2][10-3F] + [#3][10-3G] | Finish Full-Stack Cards | [Rapid Prototyping][10-5E] and [Lightning Talk Research][10-5F]
+**Leftovers** | CodeWars Level 7 | Submit Labs  and Project 3 Issues | ui-router vs ngRoute readings: [#1][10-3E] + [#2][10-3F] + [#3][10-3G] | [Lightning Talk Research][10-5F]
 
 
 [10-3E]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
 [10-3F]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
 [10-3G]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
 
-[10-4A]: https://github.com/den-wdi-2/ng-firebase "Firebase"
-[10-4B]: https://github.com/den-wdi-2/angular-animations-intro "ngAnimate"
-
-[10-5D]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
-[10-5E]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototype Weekend Lab"
 [10-5F]: https://github.com/den-wdi-2/lighting-talks "Lightning Talk Research"
 
 #### BREAK (12/26-12/29)
@@ -405,6 +416,8 @@ Time | Day 1                                      | Day 2                       
 [9-5E]: https://docs.angularjs.org/guide/introduction "Angular Reading"
 [9-5F]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
 [9-5G]: https://github.com/den-wdi-2/intro_angular_challenges
+
+#### Week 10 - PHP (1/9-1/13)
 
 #### Week 11: Miscellaneous and Developer-Chosen Topics (1/16-1/20)
 
