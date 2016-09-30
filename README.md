@@ -304,7 +304,7 @@ Extra Resources:
  **11:00am Module 2** | [User Research][7-1C] | [Lab: Competitive and User Research][7-2C] | [$http LAB][7-3C] | [Routing ()][7-4C] | [Mongoose Intro][7-5C] / Mid-Course Survey Somewhere |
  **1:30pm Module 3** | [Intro to Angular ()][7-1D] | [Directives Lesson ()][7-2D] | [Angular Hangman][7-3D] | [Routing Lab][7-4D] | [TODO API][7-5D] |
 **3:00pm Module 4** | [Lab: Intro to Angular][7-1E] | [Directives Lab][7-2E] | [Angular Hangman][7-3E] | [$resource ()][7-4E] | [Lab: Personal API][7-5E] |
-**Homework** | Finish Labs | Finish Labs | Interview Potential Users | Finish Wine App and Use ng-resource | Finish Full-stack JS App |
+**Homework** | [Look over the Angular Documentation][7-1F] + [Check out this blog][7-1G] + [Do this Lab][7-1G] | Finish Labs | Interview Potential Users | Finish Wine App and Use ng-resource | Finish Full-stack JS App |
 
 Weekly Goals:
 - Something about Angular
@@ -314,6 +314,9 @@ Weekly Goals:
 [7-1C]: # "User Research"
 [7-1D]: https://github.com/den-wdi-2/angular-intro "Intro to Angular"
 [7-1E]: https://github.com/den-wdi-2/angular-intro "Intro to Angular Lab"
+[7-1F]: https://docs.angularjs.org/guide/introduction "Angular Reading"
+[7-1G]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
+[7-1H]: https://github.com/den-wdi-2/intro_angular_challenges
 
 [7-2A]: # "Interview Prep"
 [7-2B]: # "Competitive Research"
@@ -349,7 +352,7 @@ Time | Day 1                                      | Day 2                       
  **11:00am Module 2** | Outcomes Blank | [Lab: Mongoose Data Organization][8-2C] | [ngAnimate ()][8-3C] | [Rapid Prototype][8-4C] | [Pitch Feedback][8-5C]
 **1:30pm Module 3** | [Almost MEAN App][8-1D] | [Team Git Workflow 1][8-2D] | [Rapid Prototype][8-3D] | Rapid Prototype Science Fair | [Project 3][8-5D]
 **3:00pm Module 4** | [Almost MEAN App][8-1E] | [Team Git Workflow 2][8-2E] | [Rapid Prototype][8-3E] | [Prioritization and Proposal][8-4E] | [Project 3][8-5E]
-**Homework** | Complete MEAN App | Finish Books App | Rapid Prototype | Prepare Project 3 Pitch | [Project 3][8-5E]
+**Homework** | Complete MEAN App | Finish Books App | Rapid Prototype | Prepare Project 3 Pitch | [Project 3][8-5E] / ui-router vs ngRoute readings: [#1][8-5F] + [#2][8-5G] + [#3][8-5H]
 **Leftovers** |  |  |[Linked Lists ()][8-2G] | [Sass and CSS Precompilers (Zeb)][8-2H] | 
 
 [8-2G]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
@@ -384,17 +387,16 @@ Time | Day 1                                      | Day 2                       
 [8-5C]: # "Project Pitch Feedback"
 [8-5D]: https://github.com/den-wdi-2/project-03 "Project 3"
 [8-5E]: https://github.com/den-wdi-2/project-03 "Project 3"
+[8-5F]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
+[8-5G]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
+[8-5H]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
 
 #### Week X - Angular
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Leftovers** | CodeWars Level 7 | Submit Labs  and Project 3 Issues | ui-router vs ngRoute readings: [#1][10-3E] + [#2][10-3F] + [#3][10-3G] | [Lightning Talk Research][10-5F]
+**Leftovers** | CodeWars Level 7 | Submit Labs  and Project 3 Issues |  | [Lightning Talk Research][10-5F]
 
-
-[10-3E]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
-[10-3F]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
-[10-3G]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
 
 [10-5F]: https://github.com/den-wdi-2/lighting-talks "Lightning Talk Research"
 
@@ -404,18 +406,20 @@ Time | Day 1                           | Day 2                                  
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Unit Testing with Rspec-Rails (JP)][9-1A]  | Project 3 | Project 3 | Project 3 | Project 3 Retro and Presentations
- **10:30am Module 2** | Outcomes  | Project 3  | Project 3 | Project 3 | Outcomes
-**1:00pm Module 3** | [String Matching (JP)][9-1C]  | Project 3 | Project 3 | Project 3 |  [Auth Math (Zeb)][9-5A]
-**2:30pm Module 4** | [Moar String Matching (JP)][9-1C]  |  Project 3 |  Project 3 | Project 3 |  Rails Review | 
-**Homework** | [Project 3][8-5E] | Project 3 | Algorithm Practice | Project 3 | [Look over the Angular Documentation][9-5E] + [Check out this blog][9-5F] + [Check out this Lab][9-5G]
+**9:00am Module 1** | [String Matching (Zeb)][9-1A] | [Auth Math (Zeb)][9-2A] | [Interview Prep][9-3A] | [Interview Prep][9-4A] | Project 3 Retro and Presentations
+ **10:30am Module 2** | Outcomes  | Project 3  | Project 3 | Project 3 | Project 3 Presentations
+**1:00pm Module 3** | [Project 3][9-1C] | Project 3 | Project 3 | Self Assessment and [Create Issues ()][6-5C] |  
+**2:30pm Module 4** | Project 3 | Project 3 | Project 3 | Project 3 | Happy Hour | 
+**Homework** | Project 3 | Project 3 | Project 3 | Project 3 | Fix Issues
 
-[9-1A]: https://github.com/den-wdi-2/rspec-rails-testing "RSpec Rails Testing"
-[9-1C]: https://github.com/den-wdi-2/string-matching "String Matching"
-[9-5A]: https://github.com/den-wdi-2/authentication-and-math "Auth Math"
-[9-5E]: https://docs.angularjs.org/guide/introduction "Angular Reading"
-[9-5F]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
-[9-5G]: https://github.com/den-wdi-2/intro_angular_challenges
+[9-1A]: https://github.com/den-wdi-2/string-matching "String Matching"
+[9-1C]: https://github.com/den-wdi-2/project-03 "Project 3"
+
+[9-2A]: https://github.com/den-wdi-2/authentication-and-math "Auth Math"
+
+[9-3A]: # "Interview Prep"
+
+[9-4A]: # "Interview Prep"
 
 #### Week 10 - PHP (1/9-1/13)
 
