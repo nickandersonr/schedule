@@ -220,7 +220,7 @@ Time | Day 1                                    | Day 2                         
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | [Introducing Tasks Gulp/Grunt/Webpack][5-1A] | [Sass Preprocessing][5-2A] | [Interview Prep][5-3A] | [Interview Prep][5-4A] | [Interview Prep][5-5A]
+ **9:00am Warm-Up** | [Introducing Gulp (Zeb) **Need to cut down**][5-1A] | [Sass Preprocessing (Zeb) **Need to cut down**][5-2A] | [Interview Prep][5-3A] | [Interview Prep][5-4A] | [Interview Prep][5-5A]
  **9:30am Module 1** | [Intro to TDD][5-1B] [Rspec and TDD (Zeb)][5-1B] **Need to split top part out** | [Project 2 Ideation / Wireframes][5-2B] | Blank Spot for Outcomes | [Intro to MVC][5-4B] | [Models in an MVC App][5-5B]
 **11:00am Module 2** | [Testing Lab][5-1C] | [Testing API Calls][5-2C] | [Intro to Foundation][5-3C] | [Views in Express (Zeb)][5-4C] | [Wiring Models to Views][5-5C]
 **1:30pm Module 3** | [UX Crash Course][5-1D] **needs input from UXD** | [Lab: Research and Test External API][5-2D] | [Map Wireframes][5-3D] | [Lab: Views in Express (Zeb)][5-4D] | [REST Controllers Part 1][5-5D]
@@ -231,14 +231,14 @@ Time | Day 1                                    | Day 2                         
 [5-3G]: https://github.com/den-wdi-2/sql "SQL Select Lab"
 [5-1G]: https://github.com/den-wdi-2/tunely "Tunely"
 
-[5-1A]: # "Introducing Tasks Gulp/Grunt/Webpack"
+[5-1A]: https://github.com/den-wdi-2/gulp "Gulp"
 [5-1B]: https://github.com/den-wdi-2/rspec "Intro to TDD"
 [5-1C]: # "Testing Lab"
 [5-1D]: https://github.com/den-wdi-2/ux-crash-course "UX Crash Course"
 [5-1E]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
 [5-1F]: # "Testing Reading and Quiz"
 
-[5-2A]: # "Sass Preprocessing"
+[5-2A]: https://github.com/den-wdi-2/sass-intro "Sass"
 [5-2B]: # "Project 2 Ideation / Wireframes"
 [5-2C]: # "Testing API Calls"
 [5-2D]: # "Research and Test External API Lab"
@@ -343,7 +343,7 @@ Weekly Goals:
 [7-5E]: https://github.com/den-wdi-2/express-personal-api "Personal API"
 
 
-#### Week 8 - Project Vagabond, Group Work (12/19-12/22)
+#### Week 8 - MEAN Stack and Prototyping (12/19-12/22)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -353,10 +353,9 @@ Time | Day 1                                      | Day 2                       
 **1:30pm Module 3** | [Almost MEAN App][8-1D] | [Team Git Workflow 1][8-2D] | [Rapid Prototype][8-3D] | Rapid Prototype Science Fair | [Project 3][8-5D]
 **3:00pm Module 4** | [Almost MEAN App][8-1E] | [Team Git Workflow 2][8-2E] | [Rapid Prototype][8-3E] | [Prioritization and Proposal][8-4E] | [Project 3][8-5E]
 **Homework** | Complete MEAN App | Finish Books App | Rapid Prototype | Prepare Project 3 Pitch | [Project 3][8-5E] / ui-router vs ngRoute readings: [#1][8-5F] + [#2][8-5G] + [#3][8-5H]
-**Leftovers** |  |  |[Linked Lists ()][8-2G] | [Sass and CSS Precompilers (Zeb)][8-2H] | 
+**Leftovers** |  |  |[Linked Lists ()][8-2G] |  | 
 
 [8-2G]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
-[8-2H]: https://github.com/den-wdi-2/sass-intro "Sass"
 
 [8-1A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
 [8-1B]: # "User Goals and Flows"
@@ -391,15 +390,6 @@ Time | Day 1                                      | Day 2                       
 [8-5G]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
 [8-5H]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
 
-#### Week X - Angular
-
-Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
------ | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Leftovers** | CodeWars Level 7 | Submit Labs  and Project 3 Issues |  | [Lightning Talk Research][10-5F]
-
-
-[10-5F]: https://github.com/den-wdi-2/lighting-talks "Lightning Talk Research"
-
 #### BREAK (12/26-12/29)
 
 #### Week 9 - Project 3: Group Project (1/2-1/6)
@@ -408,8 +398,8 @@ Time | Day 1                                      | Day 2                       
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Module 1** | [String Matching (Zeb)][9-1A] | [Auth Math (Zeb)][9-2A] | [Interview Prep][9-3A] | [Interview Prep][9-4A] | Project 3 Retro and Presentations
  **10:30am Module 2** | Outcomes  | Project 3  | Project 3 | Project 3 | Project 3 Presentations
-**1:00pm Module 3** | [Project 3][9-1C] | Project 3 | Project 3 | Self Assessment and [Create Issues ()][6-5C] |  
-**2:30pm Module 4** | Project 3 | Project 3 | Project 3 | Project 3 | Happy Hour | 
+**1:00pm Module 3** | [Project 3][9-1C] | Project 3 | Project 3 | Project 3 | Self Assessment and [Create Issues ()][6-5C] 
+**2:30pm Module 4** | Project 3 | Project 3 | Project 3 | Project 3 | Happy Hour 
 **Homework** | Project 3 | Project 3 | Project 3 | Project 3 | Fix Issues
 
 [9-1A]: https://github.com/den-wdi-2/string-matching "String Matching"
@@ -421,38 +411,62 @@ Time | Day 1                                      | Day 2                       
 
 [9-4A]: # "Interview Prep"
 
-#### Week 10 - PHP (1/9-1/13)
+#### Week 10 - Advanced Angular and PHP (1/9-1/13)
+
+Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
+**9:00am** | [Interview Prep][10-1A] | [Interview Prep][10-2A] | [Interview Prep][10-3A] | [Interview Prep][10-4A] | Second Pass
+**9:30am** | [Angular Auth][10-1B] | PHP Day 1 | PHP Day 2 | PHP Day 3 | Outcomes
+**11:00am** | [Angular 2 Intro][10-1C] | PHP Day 1 | PHP Day 2 | PHP Day 3 | TBD
+**1:30pm** | [Angular 2 Topic 1][10-1D] | Lab: PHP Day 1 | Lab: PHP Day 2 | Lab: PHP Day 3 | TBD
+**3:00pm** | [Lab: Angular 2][10-1D] | Lab: PHP Day 1 | Lab: PHP Day 2 | Lab: PHP Day 3 | [Lightning Talk Research][10-5F]
+**Training** | Angular 2 Lab | PHP Lab | PHP Lab | PHP Lab | [Lightning Talk Research][10-5F]
+
+[10-1A]: # "Interview Prep"
+[10-1B]: https://github.com/den-wdi-2/angular-auth-satellizer "Angular Auth"
+[10-1D]: # "Angular 2 Intro"
+[10-1E]: # "Angular 2 Topic"
+[10-1F]: # "Angular 2 Lab"
+
+[10-2A]: # "Interview Prep"
+
+[10-3A]: # "Interview Prep"
+
+[10-4A]: # "Interview Prep"
+
+[10-5F]: https://github.com/den-wdi-2/lighting-talks "Lightning Talk Research"
 
 #### Week 11: Miscellaneous and Developer-Chosen Topics (1/16-1/20)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Module 1** | Science Fair (Group) MLK DAY! | [React (Zeb)][11-2A]  | [Lightning Talks][11-3A]  | [Intro to Ops (JP)][11-4A] | Outcomes |
-**10:30am Module 2** | [Rangular Apps (JP)][11-1B] | [Legacy Code Lab (Zeb)][11-2B] | Lightning Talks | Planning | Project 4 |
-**1:00pm Module 3** | [Gulp (JP)][11-1C] | Legacy Code Lab (Zeb) | Lightning Talks | Approvals | Project 4 | Approvals |
-**2:30pm Module 4** | Prototype Working Session | Legacy Code Lab (Zeb) | [Project 4 Intro][11-3D] | Approvals | Project 4 | Outcomes |
-**Homework** |  Finish Prototypes | Lightning Talks Prep | Project Ideation | Project 4 | Project 4 |
+**9:00am Warm-up** | [Interview Prep][11-1A] MLK DAY! | [Interview Prep][11-2A] | Lightning Talks Prep | [Interview Prep][11-4A] | Second Pass |
+**9:30am Module 1** | [Intro to Ops (Zeb)][11-1B] MLK DAY! | TBD | [Lightning Talks][11-3A] | Outcomes | Project 4 |
+**11:00am Module 2** | [React ()][11-1C] | Intro to Legacy Code | Lightning Talks | Project 4 Planning | Project 4 |
+**1:30pm Module 3** | [Redux (Zeb)][11-1D] | [Legacy Code Lab (Zeb)][11-2C] | Lightning Talks | Approvals | Project 4 | Approvals |
+**3:00pm Module 4** | [Lab: Create React Page][11-1E] | Legacy Code Lab (Zeb) | [Project 4 Intro][11-3D] | Approvals | Project 4 | Project 4 |
+**Homework** | Finish React Lab | Lightning Talks Prep | Project Ideation | Project 4 | Project 4 |
 
-#### Extra Lab for Auth in Angular: [angular-auth-satellizer](https://github.com/den-wdi-2/angular-auth-satellizer) 
-#### Extra Lab for Rails API Mode with Angular: [Rangular](https://github.com/den-wdi-2/rails-api-lab)
-#### Extra Lesson on Redux: [Redux](https://github.com/den-wdi-2/redux)
+#### Extra Lesson on Redux: [Redux]()
 
-[11-1A]: # "Science Fair"
-[11-1B]: https://github.com/den-wdi-2/cards-against-rails "Rangular Apps"
-[11-1C]: https://github.com/den-wdi-2/gulp "Gulp"
-[11-1E]: # " "
+[11-1A]: # "Interview Prep"
+[11-1B]: https://github.com/den-wdi-2/intro-to-ops "Dev Ops Intro"
+[11-1C]: https://github.com/den-wdi-2/react "React"
+[11-1D]: https://github.com/den-wdi-2/redux "Redux"
+[11-1E]: # "React Lab"
 
-[11-2A]: https://github.com/den-wdi-2/react "React"
-[11-2B]: https://github.com/jpbarela/legacy-code/ "Legacy Code"
+[11-2A]: # "Interview Prep"
+[11-2B]: https://github.com/den-wdi-2/legacy-code-denver "Legacy Code"
 [11-2E]: # " "
 
+[11-3A]: # "Interview Prep"
 [11-3A]: https://github.com/den-wdi-2/lighting-talks "Lighting Talks"
 [11-3B]: https://github.com/den-wdi-2/lighting-talks "Lighting Talks"
 [11-3C]: https://github.com/den-wdi-2/lighting-talks "Lighting Talks"
 [11-3D]: https://github.com/den-wdi-2/project-4 "Project 4"
 [11-3E]: # " "
 
-[11-4A]: https://github.com/den-wdi-2/intro-to-ops "Dev Ops Intro"
+[11-4A]: # "Interview Prep"
 [11-4B]: # " "
 [11-4C]: # "Project 4"
 [11-4D]: # " "
@@ -474,7 +488,7 @@ Time | Day 1                                 | Day 2                            
 **9:15am** | Project Work | Project Work | Project Work | Project Work | TBD  
 **11am** | Project Work | Mock Interviews | Mock Interviews | Project Work | TBD
 **1:00pm** |Project Work | Project Work | Project Work | Presentations / Outcomes (2:00) | Final Survey, Certificates, and Recap
-**Homework** |Project Work | Project Work | Project Work | Presentations | Happy Hour
+**Training** |Project Work | Project Work | Project Work | Presentations | Happy Hour
 
 #### Week 13 - Final Project and Interview Work (1/30-2/3)
 
