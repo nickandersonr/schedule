@@ -200,12 +200,12 @@ Time | Day 1                                    | Day 2                         
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Small Algo | Small Algo | Second Pass and [Questions in a Hat][4-5A] | [Introducing Gulp (Zeb) **Need to cut down**][5-1A] | [Sass Preprocessing (Zeb) **Need to cut down**][5-2A] | [Interview Prep][5-3A] | [Interview Prep][5-4A] | [Interview Prep][5-5A]
- **9:30am Module 1** | Blank Spot for Outcomes | [Intro to SQL and Relational DBs][4-4B] | [SQL Relationships][4-5B] | [Intro to TDD][5-1B] [Rspec and TDD (Zeb)][5-1B] **Need to split top part out** | [Project 2 Ideation / Wireframes][5-2B] | Blank Spot for Outcomes | [Intro to MVC][5-4B] | [Models in an MVC App][5-5B]
-**11:00am Module 2** | [Intro to Express (Zeb)][4-3C] | [Carmen Sandiego Lab][4-4C] | [Lab: Relationships and Normalization][4-5C] | [Testing Lab][5-1C] | [Testing API Calls][5-2C] | [Intro to Foundation][5-3C] | [Views in Express (Zeb)][5-4C] | [Wiring Models to Views][5-5C]
-**1:30pm Module 3** | [Building Express Routes (Zeb)][4-3D] | [Using SQL in an Express App][4-4D] | [Inner and Outer Joins][4-5D] | [UX Crash Course][5-1D] **needs input from UXD** | [Lab: Research and Test External API][5-2D] | [Map Wireframes][5-3D] | [Lab: Views in Express (Zeb)][5-4D] | [REST Controllers Part 1][5-5D]
-**3:00pm Module 4** | [Building Express Routes Lab (Zeb)][4-1D] |  [SQL CRUD in Express Lab][4-4E] **Watch the handlebars** | [Lab: Joins][4-5E] | [Lab: Design Models for Common Apps][5-1E] **shouldn't this be earlier?** | [Lab: Research and Test External API][5-2E] | [Map Wireframes][5-3E] | [Lab: MVC Common Apps][5-4E] | [REST Controllers Part 2][5-5E]
-**Training** | [Reading Assignments: DBs and SQL][4-3F] | [Blog][4-4F] | [Project 2 Proposal][4-5F] | [Testing Reading][5-1F] | [Get External API Set Up for Project 2][5-2F] | [Mock out Project 2 w/ Lorem and Mock Data Only][5-3F] | [??][5-4F] | [Polish REST Controllers App][5-5F]
+ **9:00am Warm-Up** | Small Algo | Small Algo | Second Pass and [Questions in a Hat][5-3A] | [Introducing Gulp (Zeb) **Need to cut down**][5-4A] | [Sass Preprocessing (Zeb) **Need to cut down**][5-5A] | 
+ **9:30am Module 1** | Blank Spot for Outcomes | [Intro to SQL and Relational DBs][5-2B] | [SQL Relationships][5-3B] | [Intro to TDD][5-4B] **Need to split top part out** | [Project 2 Ideation / Wireframes][5-5B] | 
+**11:00am Module 2** | [Intro to Express (Zeb)][5-1C] | [Carmen Sandiego Lab][5-2C] | [Lab: Relationships and Normalization][5-3C] | [Testing Lab][5-4C] | [Testing API Calls][5-5C] | 
+**1:30pm Module 3** | [Building Express Routes (Zeb)][5-1D] | [Using SQL in an Express App][5-2D] | [Inner and Outer Joins][5-3D] | [UX Crash Course][5-4D] **needs input from UXD** | [Lab: Research and Test External API][5-5D] | 
+**3:00pm Module 4** | [Building Express Routes Lab (Zeb)][5-1E] |  [SQL CRUD in Express Lab][5-2E] **Watch the handlebars** | [Lab: Joins][5-3E] | [Lab: Design Models for Common Apps][5-4E] **shouldn't this be earlier?** | [Lab: Research and Test External API][5-5E] | 
+**Training** | [Reading Assignments: DBs and SQL][5-1F] | [Blog][5-2F] | [Project 2 Proposal][5-3F] | [Testing Reading][5-4F] | [Get External API Set Up for Project 2][5-5F] | 
 **Leftovers** | [SQL (Zeb)][5-3G] | [Tune.ly][5-1G]
 
 [5-3G]: https://github.com/den-wdi-2/sql "SQL Select Lab"
@@ -244,49 +244,44 @@ Time | Day 1                                    | Day 2                         
 [5-5E]: # "Research and Test External API Lab"
 [5-5F]: # "Research and Test External API Lab"
 
-[5-3A]: # "Interview Prep"
-[5-3B]: # "Outcomes"
-[5-3C]: https://github.com/den-wdi-2/css-foundation "Intro to Foundation"
-[5-3D]: # "Map Wireframes to HTML/CSS Components for Project 2"
-[5-3E]: # "Map Wireframes to HTML/CSS Components for Project 2"
-[5-3F]: # "Mock Project 2"
-
-[5-4A]: # "Interview Prep"
-[5-4B]: https://github.com/den-wdi-2/mvc-intro "MVC Intro"
-[5-4C]: https://github.com/den-wdi-2/express-views-lesson "Views in Express Lesson"
-[5-4D]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
-[5-4E]: # "MVC Common Apps Lab"
-[5-4F]: # "??"
-
-[5-5A]: # "Interview Prep"
-[5-5B]: # "Models in MVC"
-[5-5C]: # "Wiring Models to Views"
-[5-5D]: # "Rest Controllers Part 1"
-[5-5E]: # "Rest Controllers Part 2"
-[5-5F]: # "Polish REST Controllers App"
-
 #### Week 6 - Project 2: Node/Express Single-Resource App (12/5-12/9)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Module 1** | [Security 101][6-1A] [Auth (Zeb)][6-1A] **Need to split top part out** | [What Is Business/Domain Logic?][6-2A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][6-3A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][6-4A] / Standup | Retrospective / [Interview Prep (Preferably CRUD or Auth-related)][6-5A]|
- **10:30am Module 2** | [Lab: Authenticating and Authorizing Users][6-1B] | Project 2 | Outcomes | Project 2 | Project 2 Presentations |
- **1:00pm Module 3** | Lab: Authenticating and Authorizing Users | Project 2 | Project 2 | Project 2 | Project 2 Presentations / Self Assessment and [Create Issues ()][6-5C]  |
-**2:30pm Module 4** | Scrum and [Project 2 Review][6-1C] | Project 2 | Project 2 | Project 2 | Happy Hour |
-**Training** | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | Project 2 | Project 2 | Project 2 | Fix Issues |
+ **9:00am Warm-Up** | [Interview Prep][6-1A] | [Interview Prep][6-2A] | [Interview Prep][6-3A] | [Interview Prep][6-4A] | Project 2
+ **9:30am Module 1** | Blank Spot for Outcomes | [Intro to MVC][6-2B] | [Models in an MVC App][6-3B] | [Security 101][6-4B] **Need to split top part out** | [What Is Business/Domain Logic?][6-2A] / Standup | 
+ **11:00am Module 2** | [Intro to Foundation][6-1C] | [Views in Express (Zeb)][6-2C] | [Wiring Models to Views][6-3C] | [Lab: Authenticating and Authorizing Users][6-4C] | Project 2 | 
+ **1:30pm Module 3** | [Map Wireframes][6-1D] | [Lab: Views in Express (Zeb)][6-2D] | [REST Controllers Part 1][6-3D] | Lab: Authenticating and Authorizing Users | Project 2 | 
+**3:00pm Module 4** | [Map Wireframes][6-1E] | [Lab: MVC Common Apps][6-2E] | [REST Controllers Part 2][6-3E] | Scrum and [Project 2 Review][6-4D] | Project 2 | 
+**Training** | [Mock out Project 2 w/ Lorem and Mock Data Only][5-3F] | [??][5-4F] | [Polish REST Controllers App][5-5F] | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | Project 2 | 
 
-[6-1A]: https://github.com/den-wdi-2/rails-auth "Security 101"
-[6-1B]: # "Authenticating and Authorizing Lab"
-[6-1C]: https://github.com/den-wdi-2/project-2 "Project 2"
+[6-1A]: # "Interview Prep"
+[6-1B]: # "Outcomes"
+[6-1C]: https://github.com/den-wdi-2/css-foundation "Intro to Foundation"
+[6-1D]: # "Map Wireframes to HTML/CSS Components for Project 2"
+[6-1E]: # "Map Wireframes to HTML/CSS Components for Project 2"
+[6-1F]: # "Mock Project 2"
 
-[6-2A]: # "Business and Domain Logic"
+[6-2A]: # "Interview Prep"
+[6-2B]: https://github.com/den-wdi-2/mvc-intro "MVC Intro"
+[6-2C]: https://github.com/den-wdi-2/express-views-lesson "Views in Express Lesson"
+[6-2D]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
+[6-2E]: # "MVC Common Apps Lab"
+[6-2F]: # "??"
 
 [6-3A]: # "Interview Prep"
+[6-3B]: # "Models in MVC"
+[6-3C]: # "Wiring Models to Views"
+[6-3D]: # "Rest Controllers Part 1"
+[6-3E]: # "Rest Controllers Part 2"
+[6-3F]: # "Polish REST Controllers App"
 
 [6-4A]: # "Interview Prep"
+[6-4B]: https://github.com/den-wdi-2/rails-auth "Security 101"
+[6-4C]: # "Authenticating and Authorizing Lab"
+[6-4D]: https://github.com/den-wdi-2/project-2 "Project 2"
 
-[6-5A]: # "Interview Prep"
-[6-5C]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
+[6-5A]: # "Business and Domain Logic"
 
 Extra Resources:
 
@@ -298,30 +293,37 @@ Extra Resources:
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-up** | [ES6 Lesson (relevant to Angular 2)][7-1A] | [Interview Prep (Angular?)][7-2A] | [Interview Prep (Angular?)][7-3A] | [Interview Prep (Angular?)][7-4A] | Second Pass and [Questions in a Hat][7-5A] |
- **9:30am Module 1** | [Design Thinking and UX][7-1B] | [Competitive Research][7-2B] | [$http and promises ()][7-3B] | [Personas from Research][7-4B] | [Mongo Intro][7-5B] |
- **11:00am Module 2** | [User Research][7-1C] | [Lab: Competitive and User Research][7-2C] | [$http LAB][7-3C] | [Routing ()][7-4C] | [Mongoose Intro][7-5C] / Mid-Course Survey Somewhere |
- **1:30pm Module 3** | [Intro to Angular ()][7-1D] | [Directives Lesson ()][7-2D] | [Angular Hangman][7-3D] | [Routing Lab][7-4D] | [TODO API][7-5D] |
-**3:00pm Module 4** | [Lab: Intro to Angular][7-1E] | [Directives Lab][7-2E] | [Angular Hangman][7-3E] | [$resource ()][7-4E] | [Lab: Personal API][7-5E] |
-**Homework** | [Look over the Angular Documentation][7-1F] + [Check out this blog][7-1G] + [Do this Lab][7-1G] | Finish Labs | Interview Potential Users | Finish Wine App and Use ng-resource | Finish Full-stack JS App |
+ **9:00am Warm-up** | [Interview Prep (Preferably CRUD or Auth-related)][7-1A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-2A] / Standup | Retrospective / [Interview Prep (Preferably CRUD or Auth-related)][7-3A]| [ES6 Lesson (relevant to Angular 2)][7-4A] | [Interview Prep (Angular?)][7-5A] | [Interview Prep (Angular?)][7-3A] | [Interview Prep (Angular?)][7-4A] | Second Pass and [Questions in a Hat][7-5A] |
+ **9:30am Module 1** | Outcomes | Project 2 | Project 2 Presentations | [Design Thinking and UX][7-1B] | [Competitive Research][7-2B] | [$http and promises ()][7-3B] | [Personas from Research][7-4B] | [Mongo Intro][7-5B] |
+ **11:00am Module 2** | Project 2 | Project 2 | Project 2 | [User Research][7-4C] | [Lab: Competitive and User Research][7-5C] | [$http LAB][7-3C] | [Routing ()][7-4C] | [Mongoose Intro][7-5C] / Mid-Course Survey Somewhere |
+ **1:30pm Module 3** | Project 2 | Project 2 | Project 2 Presentations / Self Assessment and [Create Issues ()][7-3C] | [Intro to Angular ()][7-4D] | [Directives Lesson ()][7-5D] | [Angular Hangman][7-3D] | [Routing Lab][7-4D] | [TODO API][7-5D] |
+**3:00pm Module 4** | Project 2 | Project 2 | NOT Happy Hour | [Lab: Intro to Angular][7-4E] | [Directives Lab][7-5E] | [Angular Hangman][7-3E] | [$resource ()][7-4E] | [Lab: Personal API][7-5E] |
+**Training** | Project 2 | Project 2 | Fix Issues | [Look over the Angular Documentation][7-4F] + [Check out this blog][7-4G] + [Do this Lab][7-4H] | Finish Labs | Interview Potential Users | Finish Wine App and Use ng-resource | Finish Full-stack JS App |
 
 Weekly Goals:
 - Something about Angular
 
-[7-1A]: # "More ES6"
-[7-1B]: # "Design Thinking and UX"
-[7-1C]: # "User Research"
-[7-1D]: https://github.com/den-wdi-2/angular-intro "Intro to Angular"
-[7-1E]: https://github.com/den-wdi-2/angular-intro "Intro to Angular Lab"
-[7-1F]: https://docs.angularjs.org/guide/introduction "Angular Reading"
-[7-1G]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
-[7-1H]: https://github.com/den-wdi-2/intro_angular_challenges
+[7-1A]: # "Interview Prep"
 
 [7-2A]: # "Interview Prep"
-[7-2B]: # "Competitive Research"
-[7-2C]: # "Competitive and User Research Lab"
-[7-2D]: https://github.com/den-wdi-2/angular-directives-lesson "Directives Lesson"
-[7-2E]: https://github.com/den-wdi-2/angular-directives-lab "Directives Lab"
+
+[7-3A]: # "Interview Prep"
+[7-3C]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
+
+[7-4A]: # "More ES6"
+[7-4B]: # "Design Thinking and UX"
+[7-4C]: # "User Research"
+[7-4D]: https://github.com/den-wdi-2/angular-intro "Intro to Angular"
+[7-4E]: https://github.com/den-wdi-2/angular-intro "Intro to Angular Lab"
+[7-4F]: https://docs.angularjs.org/guide/introduction "Angular Reading"
+[7-4G]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
+[7-4H]: https://github.com/den-wdi-2/intro_angular_challenges
+
+[7-5A]: # "Interview Prep"
+[7-5B]: # "Competitive Research"
+[7-5C]: # "Competitive and User Research Lab"
+[7-5D]: https://github.com/den-wdi-2/angular-directives-lesson "Directives Lesson"
+[7-5E]: https://github.com/den-wdi-2/angular-directives-lab "Directives Lab"
 
 [7-3A]: # "Interview Prep"
 [7-3B]: https://github.com/den-wdi-2/http-workshop "$http and promises"
