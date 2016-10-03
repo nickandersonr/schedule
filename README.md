@@ -334,12 +334,12 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Interview Prep (Angular?)][8-1A] | [User Goals and Flows][8-2A] | [User Goals and Flows Exercise][8-3A] | Second Pass and [Questions in a Hat][8-4A] | [Interview Prep (Angular?)][8-5A] | [Interview Prep (Angular?)][9-1A] | 
-**9:30am Module 1** | [Competitive Research][8-1B] | [$http and promises ()][8-2B] | [Personas from Research][8-3B] | [$resource ()][8-4B] | [Lab: Personal API][8-5B] | [Data Organization in Mongo][9-1B] | 
- **11:00am Module 2** | [Lab: Competitive and User Research][8-1C] | [$http LAB][8-2C] | [Routing ()][8-3C] | [Mongo Intro][8-4C] | [Lab: Personal API][8-5C] | [Lab: Mongoose Data Organization][9-1C] | 
-**1:30pm Module 3** | [Directives Lesson ()][8-1D] | [Angular Hangman][8-2D] | Outcomes | [Mongoose Intro][8-4D] / Mid-Course Survey Somewhere | [Almost MEAN App][8-5D] | [Team Git Workflow 1][9-1D] | 
-**3:00pm Module 4** | [Directives Lab][8-1E] | [Angular Hangman][8-1E] | [Routing Lab][8-3E] | [TODO API][8-4E] | [Almost MEAN App][8-5E] | [Team Git Workflow 2][9-1E] | 
-**Training** | Finish Labs | Interview Potential Users | Finish Wine App | Finish Full-stack JS App | Complete MEAN App | Finish Books App | 
+**9:00am Warm-up** | [Interview Prep (Angular?)][8-1A] | [User Goals and Flows][8-2A] | [User Goals and Flows Exercise][8-3A] | Second Pass and [Questions in a Hat][8-4A] | [Interview Prep (Angular?)][8-5A] | 
+**9:30am Module 1** | [Competitive Research][8-1B] | [$http and promises ()][8-2B] | [Personas from Research][8-3B] | [$resource ()][8-4B] | [Lab: Personal API][8-5B] | 
+ **11:00am Module 2** | [Lab: Competitive and User Research][8-1C] | [$http LAB][8-2C] | [Routing ()][8-3C] | [Mongo Intro][8-4C] | [Lab: Personal API][8-5C] | 
+**1:30pm Module 3** | [Directives Lesson ()][8-1D] | [Angular Hangman][8-2D] | Outcomes | [Mongoose Intro][8-4D] / Mid-Course Survey Somewhere | [Almost MEAN App][8-5D] | 
+**3:00pm Module 4** | [Directives Lab][8-1E] | [Angular Hangman][8-1E] | [Routing Lab][8-3E] | [TODO API][8-4E] | [Almost MEAN App][8-5E] | 
+**Training** | Finish Labs | Interview Potential Users | Finish Wine App | Finish Full-stack JS App | Complete MEAN App | 
 **Leftovers** |  | [Stacks and Queues ()][8-5G] |[Linked Lists ()][8-2G] |  | 
 
 [8-2G]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
@@ -375,11 +375,7 @@ Time | Day 1                                      | Day 2                       
 [8-5D]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
 [8-5E]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
 
-[9-1A]: # "Interview Prep"
-[9-1B]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
-[9-1C]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
-[9-1D]: # "Git Workflow 1"
-[9-1E]: # "Git Workflow 2"
+<!--This should be a bigger project...or maybe we just encourage CodeWars to keep fresh? -->
 
 #### BREAK (12/26-12/29)
 
@@ -387,17 +383,17 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Trees (Zeb)][9-1A] | [Trees (Zeb)][9-2A] | Second Pass and [Questions in a Hat][9-3A] | [String Matching (Zeb)][9-4A] | [Auth Math (Zeb)][9-5A]
-**9:30am Module 1** | [Firebase (Zeb)][9-1B] | [Rapid Prototype][9-2B] | [Prioritization and Proposal][9-2E] | [String Matching (Zeb)][9-4A] | [Auth Math (Zeb)][9-5A] | 
- **11:00am Module 2** | [ngAnimate ()][9-1C] | [Rapid Prototype][9-2C] | [Lab: Project 3 Pitches][9-3B] | Outcomes  | Project 3  |
-**1:30pm Module 3** | [Angular Auth][9-1D] | [Rapid Prototype][9-2D] | [Pitch Feedback][9-3C] | [Project 3][9-4C] | Project 3 | 
-**3:00pm Module 4** | [Rapid Prototype][9-1E] | [Rapid Prototype Science Fair][9-2E] | [Project 3][9-3E] | Project 3 | Project 3 | 
-**Training** | Rapid Prototype | Prepare Project 3 Pitch / ui-router vs ngRoute readings: [#1][9-3F] + [#2][9-3G] + [#3][9-3H] | [Project 3][9-3F]  | Project 3 | Project 3 |
+**9:00am Warm-up** | [Interview Prep (Angular?)][9-1A] | [Trees (Zeb)][9-2A] | [Trees (Zeb)][9-3A] | Second Pass and [Questions in a Hat][9-4A] | [Auth Math (Zeb)][9-5A] | 
+**9:30am Module 1** | [Data Organization in Mongo][9-1B] | [Rapid Prototype][9-2B] | [ngAnimate ()][9-3B] | [Angular Auth][9-4B] | [Auth Math (Zeb)][9-5A] | 
+ **11:00am Module 2** | [Lab: Mongoose Data Organization][9-1C] | [Rapid Prototype][9-2C] | [Team Git Workflow 1][9-3D] | [Prioritization and Proposal][9-4C] | Project 3 | 
+**1:30pm Module 3** | [Firebase (Zeb)][9-1D] | [Rapid Prototype][9-2D] | Outcomes | [Lab: Project 3 Pitches][9-4D] | Project 3 | 
+**3:00pm Module 4** | [Rapid Prototype][9-1E] | [Rapid Prototype Science Fair][9-2E] | [Team Git Workflow 2][9-3E] | [Pitch Feedback][9-4E] | Project 3 | 
+**Training** | Rapid Prototype | ui-router vs ngRoute readings: [#1][9-3F] + [#2][9-3G] + [#3][9-3H] | Prepare Project 3 Pitch | [Project 3][9-4F]  | Project 3 | 
 
-[9-1A]: https://github.com/den-wdi-2/trees "Trees"
-[9-1B]: https://github.com/den-wdi-2/ng-firebase "Firebase"
-[9-1C]: https://github.com/den-wdi-2/angular-animations-intro "ngAnimate"
-[9-1D]: https://github.com/den-wdi-2/angular-auth-satellizer "Angular Auth"
+[9-1A]: # "Interview Prep"
+[9-1B]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
+[9-1C]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
+[9-1D]: https://github.com/den-wdi-2/ng-firebase "Firebase"
 [9-1E]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 
 [9-2A]: https://github.com/den-wdi-2/trees "Trees"
@@ -409,68 +405,68 @@ Time | Day 1                                      | Day 2                       
 [9-2G]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
 [9-2H]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
 
-[9-3A]: # "Questions in a Hat"
-[9-3B]: # "Prioritization and Proposal"
-[9-3C]: # "Project Pitch Lab"
-[9-3D]: # "Project Pitch Feedback"
-[9-3E]: https://github.com/den-wdi-2/project-03 "Project 3"
-[9-3F]: https://github.com/den-wdi-2/project-03 "Project 3"
+[9-3A]: https://github.com/den-wdi-2/trees "Trees"
+[9-3B]: https://github.com/den-wdi-2/angular-animations-intro "ngAnimate"
+[9-3C]: # "Git Workflow 1"
+[9-3D]: # "Outcomes"
+[9-3E]: # "Git Workflow 2"
 
-[9-4A]: https://github.com/den-wdi-2/string-matching "String Matching"
-[9-4C]: https://github.com/den-wdi-2/project-03 "Project 3"
+[9-4A]: # "Questions in a Hat"
+[9-4B]: https://github.com/den-wdi-2/angular-auth-satellizer "Angular Auth"
+[9-4C]: # "Prioritization and Proposal"
+[9-4D]: # "Project Pitch Lab"
+[9-4E]: # "Project Pitch Feedback"
+[9-4F]: https://github.com/den-wdi-2/project-03 "Project 3"
 
 [9-5A]: https://github.com/den-wdi-2/authentication-and-math "Auth Math"
+[9-5C]: https://github.com/den-wdi-2/project-03 "Project 3"
 
-#### Week 10 - Advanced Angular and PHP (1/9-1/13)
+#### Week 10 - Project 3 and Advanced Angular (1/9-1/13)
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am** | [Interview Prep][10-1A] | [Interview Prep][10-2A] | Project 3 Retro and Presentations | [Interview Prep][10-4A] | Second Pass | 
-**9:30am** | Project 3 | Project 3 | Project 3 Presentations | [Angular 2 Intro][10-4B] | [Intro to Ops (Zeb)][10-5B] | 
-**11:00am** | Project 3 | Project 3 | Project 3 Presentations | [Angular 2 Topic 1][10-4C] | [React ()][10-5C] | 
-**1:30pm** | Project 3 | Project 3 | Self Assessment and [Create Issues ()][10-3C] | [Angular 2 Topic 2][10-4D] | [Redux (Zeb)][10-5D] | 
-**3:00pm** | Project 3 | Project 3 | NOT Happy Hour | [Lab: Angular 2][10-4E] | [Lab: Create React Page][10-5E] | 
-**Training** | Project 3 | Project 3 | Fix Issues | Angular 2 Lab | Finish React Lab | 
+**9:00am** | [String Matching (Zeb)][10-1A] | [Interview Prep][10-2A] | [Interview Prep][10-3A] | Project 3 Retro | [Interview Prep][10-5A] | 
+**9:30am** | [String Matching (Zeb)][10-1A] | Project 3 | Project 3 | Project 3 Presentations | [Angular 2 Intro][10-5B] | 
+**11:00am** | Project 3  | Project 3 | Project 3 | Project 3 Presentations | [Angular 2 Topic 1][10-5C] | 
+**1:30pm** | Project 3 | Project 3 | Project 3 | Self Assessment and [Create Issues ()][10-4C] | [Angular 2 Topic 2][10-5D] | 
+**3:00pm** | Project 3 | Project 3 | Project 3 | NOT Happy Hour | [Lab: Angular 2][10-5E] | 
+**Training** | Project 3 | Project 3 | Project 3 | Fix Issues | Angular 2 Lab | 
 
-[10-1A]: # "Interview Prep"
+[10-1A]: https://github.com/den-wdi-2/string-matching "String Matching"
 
 [10-2A]: # "Interview Prep"
 
-[10-3C]: # "Project 3 Issues"
+[10-3A]: # "Interview Prep"
 
-[10-4A]: # "Interview Prep"
-[10-4B]: # "Angular 2 Intro"
-[10-4C]: # "Angular 2 Topic 1"
-[10-4D]: # "Angular 2 Topic 2"
-[10-4E]: # "Angular 2 Lab"
+[10-4C]: # "Project 3 Issues"
 
-[10-5B]: https://github.com/den-wdi-2/intro-to-ops "Dev Ops Intro"
-[10-5C]: https://github.com/den-wdi-2/react "React"
-[10-5D]: https://github.com/den-wdi-2/redux "Redux"
-[10-5E]: # "React Lab"
+[10-5A]: # "Interview Prep"
+[10-5B]: # "Angular 2 Intro"
+[10-5C]: # "Angular 2 Topic 1"
+[10-5D]: # "Angular 2 Topic 2"
+[10-5E]: # "Angular 2 Lab"
 
 #### Week 11 - Legacy, IoT, and PHP (1/16-1/20)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** |  MLK DAY | [Interview Prep][11-2A] | [IoT Primer][11-3A] | [Interview Prep][11-4A] | Second Pass
-**9:30am Module 1** | MLK DAY | TBD | [Intro to IoT][11-3B] | PHP Intro | PHP CRUD | Outcomes
-**11:00am Module 2** | MLK DAY | Intro to Legacy Code | IoT Hackathon | Lab: PHP Intro | Lab: PHP CRUD | 
-**1:30pm Module 3** | MLK DAY | [Legacy Code Lab (Zeb)][11-2D] | IoT Hackathon | PHP Wordpress | Elance/Freelancer Wordpress | 
-**3:00pm Module 4** | MLK DAY | [Legacy Code Lab (Zeb)][11-2E] | IoT Hackathon | Lab: PHP Wordpress | Elance/Freelancer Wordpress | 
-**Training** | MLK DAY | Continue Legacy Code | Continue IoT Projects | PHP Lab | Complete Elance Job
+**9:00am Warm-up** |  MLK DAY | Second Pass on Unit 3 | [Interview Prep][11-3A] | [Interview Prep][11-4A] | Second Pass
+**9:30am Module 1** | MLK DAY | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code][11-3B] | PHP Intro | PHP CRUD | 
+**11:00am Module 2** | MLK DAY | [React ()][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | Lab: PHP Intro | Lab: PHP CRUD | 
+**1:30pm Module 3** | MLK DAY | [Redux (Zeb)][11-2D] | Outcomes | PHP Wordpress | Elance/Freelancer Wordpress | 
+**3:00pm Module 4** | MLK DAY | [Lab: Create React Page][11-2E] | [Legacy Code Lab (Zeb)][11-3E] | Lab: PHP Wordpress | Elance/Freelancer Wordpress | 
+**Training** | MLK DAY | Finish React Lab | Continue Legacy Code | PHP Lab | Complete Elance Job
 
-[11-2A]: # "Interview Prep"
-[11-2B]: # "TBD"
-[11-2C]: # "Intro to Legacy Code"
-[11-2D]: https://github.com/den-wdi-2/legacy-code-denver "Legacy Code"
-[11-2E]: https://github.com/den-wdi-2/legacy-code-denver "Legacy Code"
+[11-2B]: https://github.com/den-wdi-2/intro-to-ops "Dev Ops Intro"
+[11-2C]: https://github.com/den-wdi-2/react "React"
+[11-2D]: https://github.com/den-wdi-2/redux "Redux"
+[11-2E]: # "React Lab"
 
-[11-3A]: # "IoT Primer"
-[11-3B]: https://github.com/den-wdi-2/IoT-Hobby-Projects "Intro to IoT"
-[11-3C]: # "IoT Hackathon"
-[11-3D]: # "IoT Hackathon"
-[11-3E]: # "IoT Hackathon"
+[11-3A]: # "Interview Prep"
+[11-3B]: # "Intro to Legacy Code"
+[11-3C]: https://github.com/den-wdi-2/legacy-code-denver "Legacy Code"
+[11-3D]: # "Outcomes"
+[11-3E]: https://github.com/den-wdi-2/legacy-code-denver "Legacy Code"
 
 [11-4A]: # "Interview Prep"
 [11-4B]: # "PHP Intro"
@@ -488,15 +484,18 @@ Time | Day 1                                 | Day 2                            
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [Interview Prep][12-1A] | [Interview Prep][12-2A] | Lightning Talks Prep | [Interview Prep][12-4A] | [Interview Prep][12-5A] |
-**9:30am Module 1** | TBD | TBD | [Lightning Talks][11-3A] | Outcomes | Project 4 |
-**11:00am Module 2** | TBD | TBD | Lightning Talks | Project 4 Planning | Project 4 |
-**1:30pm Module 3** | TBD | TBD | Lightning Talks | Approvals | Project 4 | Approvals |
-**3:00pm Module 4** | [Lightning Talk Research][12-1E] | Lightning Talks Prep | [Project 4 Intro][12-3D] | Approvals | Project 4 | Project 4 |
+**9:00am Warm-up** | [IoT Primer][12-1A] | [Interview Prep][12-2A] | Lightning Talks Prep | [Interview Prep][12-4A] | [Interview Prep][12-5A] |
+**9:30am Module 1** | [Intro to IoT][12-1B] | TBD | [Lightning Talks][12-3B] | Project 4 Planning | Project 4 |
+**11:00am Module 2** | IoT Hackathon | TBD | Lightning Talks | Approvals | Project 4 |
+**1:30pm Module 3** | IoT Hackathon | TBD | Outcomes | Approvals | Project 4 |  |
+**3:00pm Module 4** | IoT Hackathon | Lightning Talks Prep | [Project 4 Intro][12-3D] | Project 4 | Project 4 |
 **Homework** | [Lightning Talk Research][12-1F] | Lightning Talks Prep | Project Ideation | Project 4 | Project 4 |
 
-[12-1A]: # "Interview Prep"
-[12-1E]: https://github.com/den-wdi-2/lighting-talks "Lightning Talk Research"
+[12-1A]: # "IoT Primer"
+[12-1B]: https://github.com/den-wdi-2/IoT-Hobby-Projects "Intro to IoT"
+[12-1C]: # "IoT Hackathon"
+[12-1D]: # "IoT Hackathon"
+[12-1E]: # "IoT Hackathon"
 [12-1F]: https://github.com/den-wdi-2/lighting-talks "Lightning Talk Research"
 
 [12-2A]: # "Interview Prep"
@@ -515,9 +514,9 @@ Time | Day 1                                 | Day 2                            
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am** | Scrum | Scrum | Scrum | Project Work | NO CLASS
-**9:15am** | Project Work | Project Work | Project Work | Project Work | NO CLASS 
-**11am** | Project Work | Mock Interviews | Mock Interviews | Project Work | NO CLASS
-**1:00pm** |Project Work | Project Work | Presentations / Outcomes (2:00) | Final Survey, Certificates, and Recap | NO CLASS
+**9:30am** | Project Work | Project Work | Project Work | Make-up Project Work | NO CLASS 
+**11am** | Project Work | Mock Interviews | Mock Interviews | Make-up Project Work | NO CLASS
+**1:00pm** |Project Work | Project Work | Presentations / Outcomes (1:30) | Final Survey, Certificates, and Recap | NO CLASS
 **Homework** |Project Work | Project Work | Project Work | Happy Hour | NO CLASS
 
 ## Licensing
