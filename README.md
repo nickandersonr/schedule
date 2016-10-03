@@ -163,7 +163,7 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Final Prep and Submission | Unit 1 Second Pass | Small Algo | T-Gives | T-Gives
+ **9:00am Warm-Up** | Final Prep and Submission | Small Algo | Unit 1 Second Pass | T-Gives | T-Gives
  **9:30am Module 1** | Final Prep and Submission | [API Intro with Postman][4-2B] | [Connecting Forms to APIs via AJAX][4-3B] | T-Gives | T-Gives
 **11:00am Module 2** | Presentations | [Intro to AJAX][4-2C] | [Lab: AJAX Calls to API][4-3C] | T-Gives | T-Gives
 **1:30pm Module 3** | Presentations | [Advanced AJAX: CORS/JSONP/APIs][4-2D] | [Intro to Node.js ()][4-3D] | T-Gives | T-Gives
@@ -200,7 +200,7 @@ Time | Day 1                                    | Day 2                         
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Interview Prep | Interview Prep | Second Pass and [Questions in a Hat][5-3A] | Interview Prep | Interview Prep | 
+ **9:00am Warm-Up** | Interview Prep | Interview Prep | Interview Prep  | Interview Prep | Second Pass and [Questions in a Hat][5-3A]| 
  **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | [Intro to SQL and Relational DBs][5-2B] | [UX Crash Course][5-3B] **needs input from UXD** | [Inner and Outer Joins][5-4B] | [Introducing Gulp (Zeb)][5-5B] | 
 **11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | [Carmen Sandiego Lab][5-2C] | [SQL Relationships][5-3C] | [Lab: Joins][5-4C] | [Sass Preprocessing (Zeb)][5-5C] | 
 **1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Using SQL in an Express App][5-2D] | Outcomes | TBD | [Intro to TDD][5-5D] **Need to split top part out** | 
@@ -225,7 +225,7 @@ Time | Day 1                                    | Day 2                         
 [5-2E]: https://github.com/den-wdi-2/tunr_node_hbs "SQL CRUD in Express Lab"
 [5-2F]: # "Blog"
 
-[5-3A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
+[5-3A]: # "Interview Prep"
 [5-3B]: https://github.com/den-wdi-2/ux-crash-course "UX Crash Course"
 [5-3C]: # "SQL Relationships"
 [5-3D]: # "Outcomes"
@@ -239,7 +239,7 @@ Time | Day 1                                    | Day 2                         
 [5-4E]: # "TBD"
 [5-4F]: # "TBD"
 
-[5-5A]: # "Interview Prep"
+[5-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
 [5-5B]: https://github.com/den-wdi-2/gulp "Gulp"
 [5-5C]: https://github.com/den-wdi-2/sass-intro "Sass"
 [5-5D]: https://github.com/den-wdi-2/rspec "Intro to TDD"
@@ -250,12 +250,12 @@ Time | Day 1                                    | Day 2                         
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [Interview Prep][6-1A] | [Interview Prep][6-2A] | [Interview Prep][6-3A] | [Interview Prep][6-4A] | [Interview Prep][6-5A]
+ **9:00am Warm-Up** | [Interview Prep][6-1A] | [Interview Prep][6-2A] | [Interview Prep][6-3A] | [Interview Prep][6-4A] | [Second Pass][6-5A]
  **9:30am Module 1** | [Project 2 Ideation / Wireframes][6-1B] | [Intro to MVC][6-2B] | [Views in Express (Zeb)][6-3B] | [Models in an MVC App][6-4B] | [Security 101][6-5B] **Need to split top part out** | 
  **11:00am Module 2** | [Testing API Calls][6-1C] | [Intro to Foundation][6-2C] | [Lab: Views in Express (Zeb)][6-3C] | [Wiring Models to Views][6-4C] | [Lab: Authenticating and Authorizing Users][6-5C] | 
  **1:30pm Module 3** | [Lab: Research and Test External API][6-1D] | [Map Wireframes][6-2D] | Outcomes | [REST Controllers Part 1][6-4D] | Lab: Authenticating and Authorizing Users | 
 **3:00pm Module 4** | [Lab: Research and Test External API][6-1E] | [Map Wireframes][6-2E] | [Lab: MVC Common Apps][6-3E] | [REST Controllers Part 2][6-4E] | Scrum and [Project 2 Review][6-5D] | 
-**Training** | [Get External API Set Up for Project 2][6-1F] | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | [??][6-3F] | [Polish REST Controllers App][6-4F] | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | 
+**Training** | [Get External API Set Up for Project 2][6-1F] | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Finish Labs | [Polish REST Controllers App][6-4F] | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | 
 
 [6-1A]: # "Interview Prep"
 [6-1B]: # "Project 2 Ideation / Wireframes"
@@ -285,7 +285,7 @@ Time | Day 1                                    | Day 2                         
 [6-4E]: # "Rest Controllers Part 2"
 [6-4F]: # "Polish REST Controllers App"
 
-[6-5A]: # "Interview Prep"
+[6-5A]: # "Second Pass"
 [6-5B]: https://github.com/den-wdi-2/rails-auth "Security 101"
 [6-5C]: # "Authenticating and Authorizing Lab"
 [6-5D]: https://github.com/den-wdi-2/project-2 "Project 2"
@@ -300,11 +300,11 @@ Extra Resources:
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-up** | [Interview Prep][7-1A] | [Interview Prep (Preferably CRUD or Auth-related)][7-2A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-3A] / Standup | Retrospective / [Interview Prep (Preferably CRUD or Auth-related)][7-4A]| [ES6 Lesson (relevant to Angular 2)][7-5A] | 
+ **9:00am Warm-up** | [Interview Prep][7-1A] | [Interview Prep (Preferably CRUD or Auth-related)][7-2A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-3A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-4A] / Retrospective | [ES6 Lesson (relevant to Angular 2)][7-5A] | 
  **9:30am Module 1** | [What Is Business/Domain Logic?][7-1B] / Standup | Project 2 | Project 2 | Project 2 Presentations | [Design Thinking and UX][7-5B] | 
- **11:00am Module 2** | Project 2 | Project 2 | Project 2 | Project 2 | [User Research][7-5C] | 
- **1:30pm Module 3** | Project 2 | Project 2 | Outcomes | Project 2 Presentations / Self Assessment and [Create Issues ()][7-4C] | [Intro to Angular ()][7-5D] | 
-**3:00pm Module 4** | Project 2 | Project 2 | Project 2 | NOT Happy Hour | [Lab: Intro to Angular][7-5E] | 
+ **11:00am Module 2** | Project 2 | Project 2 | Project 2 | Project 2 Presentations | [User Research][7-5C] | 
+ **1:30pm Module 3** | Project 2 | Project 2 | Outcomes | Project 2 Presentations  | [Intro to Angular ()][7-5D] | 
+**3:00pm Module 4** | Project 2 | Project 2 | Project 2 | Self Assessment and [Create Issues ()][7-4C] | [Lab: Intro to Angular][7-5E] | 
 **Training** | Project 2 | Project 2 | Project 2 | Fix Issues | [Look over the Angular Documentation][7-5F] + [Check out this blog][7-5G] + [Do this Lab][7-5H] | 
 
 Weekly Goals:
@@ -334,7 +334,7 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Interview Prep (Angular?)][8-1A] | [User Goals and Flows][8-2A] | [User Goals and Flows Exercise][8-3A] | Second Pass and [Questions in a Hat][8-4A] | [Interview Prep (Angular?)][8-5A] | 
+**9:00am Warm-up** | [Interview Prep (Angular?)][8-1A] | [User Goals and Flows][8-2A] | [User Goals and Flows Exercise][8-3A] | [Interview Prep (Angular?)][8-4A] | Second Pass and [Questions in a Hat][8-5A] | 
 **9:30am Module 1** | [Competitive Research][8-1B] | [$http and promises ()][8-2B] | [Personas from Research][8-3B] | [$resource ()][8-4B] | [Lab: Personal API][8-5B] | 
  **11:00am Module 2** | [Lab: Competitive and User Research][8-1C] | [$http LAB][8-2C] | [Routing ()][8-3C] | [Mongo Intro][8-4C] | [Lab: Personal API][8-5C] | 
 **1:30pm Module 3** | [Directives Lesson ()][8-1D] | [Angular Hangman][8-2D] | Outcomes | [Mongoose Intro][8-4D] / Mid-Course Survey Somewhere | [Almost MEAN App][8-5D] | 
@@ -363,13 +363,13 @@ Time | Day 1                                      | Day 2                       
 [8-3D]: # "Outcomes"
 [8-3E]: https://github.com/den-wdi-2/angular_routing_lab "Routing"
 
-[8-4A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-10.md "Review / Questions in a Hat"
+[8-4A]: # "Interview Prep"
 [8-4B]: https://github.com/den-wdi-2/angular-resource "ngResource"
 [8-4C]: https://github.com/den-wdi-2/mongo-intro "Intro to Mongo"
 [8-4D]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
 [8-4E]: https://github.com/den-wdi-2/test-driven-todo-api "Todo Lab"
 
-[8-5A]: # "Interview Prep"
+[8-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-10.md "Review / Questions in a Hat"
 [8-5B]: https://github.com/den-wdi-2/express-personal-api "Personal API"
 [8-5C]: https://github.com/den-wdi-2/express-personal-api "Personal API"
 [8-5D]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
@@ -425,11 +425,11 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am** | [String Matching (Zeb)][10-1A] | [Interview Prep][10-2A] | [Interview Prep][10-3A] | Project 3 Retro | [Interview Prep][10-5A] | 
-**9:30am** | [String Matching (Zeb)][10-1A] | Project 3 | Project 3 | Project 3 Presentations | [Angular 2 Intro][10-5B] | 
-**11:00am** | Project 3  | Project 3 | Project 3 | Project 3 Presentations | [Angular 2 Topic 1][10-5C] | 
-**1:30pm** | Project 3 | Project 3 | Project 3 | Self Assessment and [Create Issues ()][10-4C] | [Angular 2 Topic 2][10-5D] | 
-**3:00pm** | Project 3 | Project 3 | Project 3 | NOT Happy Hour | [Lab: Angular 2][10-5E] | 
+**9:00 Warm-upam** | [String Matching (Zeb)][10-1A] | [Interview Prep][10-2A] | [Interview Prep][10-3A] | Project 3 Retro | [Interview Prep][10-5A] | 
+**9:30am Module 1** | [String Matching (Zeb)][10-1A] | Project 3 | Project 3 | Project 3 | [Angular 2 Intro][10-5B] | 
+**11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 Presentations | [Angular 2 Topic 1][10-5C] | 
+**1:30pm Module 3** | Project 3 | Project 3 | Outcomes | Project 3 Presentations | [Angular 2 Topic 2][10-5D] | 
+**3:00pm Module 4** | Project 3 | Project 3 | Project 3 | Self Assessment and [Create Issues ()][10-4C] | [Lab: Angular 2][10-5E] | 
 **Training** | Project 3 | Project 3 | Project 3 | Fix Issues | Angular 2 Lab | 
 
 [10-1A]: https://github.com/den-wdi-2/string-matching "String Matching"
