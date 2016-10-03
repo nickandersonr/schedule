@@ -159,7 +159,7 @@ Weekly Goals:
 
 ## Unit 2: The Server
 
-#### Week 4 - Node, Express, and SQL (11/21-11/25)
+#### Week 4 - Node and AJAX (11/21-11/25)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -196,7 +196,7 @@ Time | Day 1                                    | Day 2                         
 [4-3E]: https://github.com/den-wdi-2/node-cli-weather "Intro Node Lab"
 [4-3F]: https://github.com/den-wdi-2/requesting-with-node "Requesting with Node"
 
-#### Week 5 - Node, Express, and SQL (11/28-12/2)
+#### Week 5 - Express and SQL (11/28-12/2)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -246,7 +246,7 @@ Time | Day 1                                    | Day 2                         
 [5-5E]: # "Testing Lab"
 [5-5F]: # "Testing Reading and Quiz"
 
-#### Week 6 - Project 2: Node/Express Single-Resource App (12/5-12/9)
+#### Week 6 - Full-Stack Apps, REST, MVC, and UX (12/5-12/9)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
@@ -294,9 +294,7 @@ Extra Resources:
 
 * [Deploy to Heroku](https://gist.github.com/awhit012/bd544c8c252434d1fe6fe01cbfa252d6)
 
-## Unit 3: Ruby on Rails and Group Work (This will become Angular and Group Work)
-
-#### Week 7 - Project 2, Angular Intro (12/12-12/16)
+#### Week 7 - Project 2: Node/Express Single-Resource App, Angular Intro (12/12-12/16)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
@@ -330,7 +328,9 @@ Weekly Goals:
 [7-5G]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
 [7-5H]: https://github.com/den-wdi-2/intro_angular_challenges
 
-#### Week 8 - Angular, MEAN Stack and Prototyping (12/19-12/22)
+## Unit 3: MEAN Stack and Group Work
+
+#### Week 8 - Angular and MEAN Stack (12/19-12/22)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -379,7 +379,7 @@ Time | Day 1                                      | Day 2                       
 
 #### BREAK (12/26-12/29)
 
-#### Week 9 - Project 3: Group Project (1/2-1/6)
+#### Week 9 - Advanced Angular, MEAN, and Prototyping (1/2-1/6)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -421,7 +421,7 @@ Time | Day 1                                      | Day 2                       
 [9-5A]: https://github.com/den-wdi-2/authentication-and-math "Auth Math"
 [9-5C]: https://github.com/den-wdi-2/project-03 "Project 3"
 
-#### Week 10 - Project 3 and Advanced Angular (1/9-1/13)
+#### Week 10 - Project 3: Group Project and Angular 2 (1/9-1/13)
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -446,7 +446,9 @@ Time | Day 1                           | Day 2                                  
 [10-5D]: # "Angular 2 Topic 2"
 [10-5E]: # "Angular 2 Lab"
 
-#### Week 11 - Legacy, IoT, and PHP (1/16-1/20)
+## Unit 4: Becoming a Developer
+
+#### Week 11 - React, Legacy, and PHP (1/16-1/20)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -480,7 +482,7 @@ Time | Day 1                                 | Day 2                            
 [11-5D]: # "Elance/Freelancer Wordpress"
 [11-5E]: # "Elance/Freelancer Wordpress" 
 
-#### Week 12: Miscellaneous and Developer-Chosen Topics (1/23-1/27)
+#### Week 12: IoT and Developer-Chosen Topics (1/23-1/27)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
