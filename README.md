@@ -59,11 +59,11 @@ Time  | Activity
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Warm-Up** | [Racer Issue Submission][2-1A] | [Whiteboarding][2-2A] | [GH Branching and gh-pages][2-3A] | [Native JS v Jquery][2-4A] | VETERANS DAY
- **9:30am Module 1** | [Whiteboarding 101][2-1B] | [HTML Forms (Zeb)][2-2B] | [Intermediate jQuery][2-3B] | [Wireframes][2-4B] | VETERANS DAY
- **11:00am Module 2** | [Computational Thinking Lab][2-1C] | [CSS for HTML Forms Lab][2-2C] | [Lab: Create jQuery selector][2-3C] | [OOP in JS ()][2-4C] | VETERANS DAY
-**1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [Intro to jQuery][2-2D] | Outcomes | [OOP concepts (Zeb)][2-4D] | VETERANS DAY
-**3:00pm Module 4** | [Lab: Callbacks & Iterators ()][2-1E] | [jQuery & Browser Storage ()][2-2E] | [Tic-Tac-Toe][2-3E] |  [OOP Refactor Lab (Zeb)][2-4E] | VETERANS DAY
+ **9:00am Warm-Up** | [Racer Issue Submission][2-1A] | [Whiteboarding][2-2A] | [GH Branching and gh-pages][2-3A] | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] | VETERANS DAY
+ **9:30am Module 1** | [Whiteboarding 101][2-1B] | [HTML Forms (Zeb)][2-2B] | [Intermediate jQuery][2-3B] | [Wireframes][2-4C] | VETERANS DAY
+ **11:00am Module 2** | [Computational Thinking Lab][2-1C] | [CSS for HTML Forms Lab][2-2C] | [Lab: Create jQuery selector][2-3C] | [OOP in JS ()][2-4D] | VETERANS DAY
+**1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [Intro to jQuery][2-2D] | Outcomes | [OOP concepts (Zeb)][2-4E] | VETERANS DAY
+**3:00pm Module 4** | [Lab: Callbacks & Iterators ()][2-1E] | [jQuery & Browser Storage ()][2-2E] | [Tic-Tac-Toe][2-3E] |  [OOP Refactor Lab (Zeb)][2-4F] | VETERANS DAY
 **Training** | Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides And Fix Issues | [More jQuery Practice ()][2-2F] | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | Finish Refactoring Tic-Tac-Toe | VETERANS DAY
 **Leftovers** | [Developer Resources (Zeb)][2-1I] [Debugging in JavaScript ()][2-1H] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][2-2H] [Intro to Bootstrap ()][2-2I] | [Handlebars Templating (Zeb)][2-3H] | [Git and GitHub Lab][1-2H]
 
@@ -92,7 +92,7 @@ Weekly Goals:
 [2-1F]: https://google.github.io/styleguide/htmlcssguide.xml "Google Style Guide"
 [2-1G]: https://github.com/airbnb/javascript "AirBNB Style Guide"
 
-[2-2A]: # "Whiteboarding 1"
+[2-2A]: # "Whiteboarding 1 - Egg Drop in Pairs"
 [2-2B]: https://github.com/den-wdi-2/html-forms "HTML Forms"
 [2-2C]: # "CSS for HTML Forms Lab"
 [2-2D]: https://github.com/den-wdi-2/intro-jquery "Intro to jQuery"
@@ -106,11 +106,12 @@ Weekly Goals:
 [2-3E]: https://github.com/den-wdi-2/tic-tac-toe "Tic Tac Toe"
 [2-3F]: https://www.youtube.com/watch?v=SS-9y0H3Si8 "OOP Prep"
 
-[2-4A]: # "Native JS vs jQuery"
-[2-4B]: # "Wireframes"
-[2-4C]: https://github.com/den-wdi-2/js-oop-flower-power "Flower Power OOP Lab"
-[2-4D]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
+[2-4A]: https://teamtreehouse.com/community/pure-javascript-vs-jquery-2 "Native JS vs jQuery Choice"
+[2-4B]: https://gist.github.com/liamcurry/2597326 "Native JS vs jQuery Code"
+[2-4C]: # "Wireframes"
+[2-4D]: https://github.com/den-wdi-2/js-oop-flower-power "Flower Power OOP Lab"
 [2-4E]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
+[2-4F]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
 
 #### Week 3 - Project 1:  Browser Game (11/14-11/18)
 
@@ -167,13 +168,12 @@ Time | Day 1                                    | Day 2                         
 **1:30pm Module 3** | Presentations | [Advanced AJAX: CORS/JSONP/APIs][4-2D] | [Intro to Node.js ()][4-3D] | T-Gives | T-Gives
 **3:00pm Module 4** | Self Assessment and [Fix an Issue ()][4-1D] | [Lab: AJAX Calls to API][4-2E] | [Node Lab][4-3E] | T-Gives | T-Gives
 **Training** | Fixing Issues | [Lab: Muvie Haus][4-2F] | [Lab: Requesting with Node][4-3F] | T-Gives | T-Gives
-**Leftovers** |  |  | [Lab: Views in Express (Zeb)][4-3I] [Express Reteach (Zeb)][4-2K] [Ajax OOP Refactor Lab ()][4-3K] | [More Express Routes][4-3L] [Views in Express (Zeb)][4-3H] [CodeSchool Ruby Tutorial][4-4I] | [AJAX & API's with jQuery ()][4-1I]
+**Leftovers** |  |  | [Lab: Views in Express (Zeb)][4-3I] [Express Reteach (Zeb)][4-2K] [Ajax OOP Refactor Lab ()][4-3K] | [More Express Routes][4-3L] [Views in Express (Zeb)][4-3H] | [AJAX & API's with jQuery ()][4-1I]
 
 [4-2K]:https://github.com/den-wdi-2/expres-resource-reteach "Express Reteach"
 [4-2M]: #  "Connecting Express Routes to Mongo Lab"
 [4-4H]: https://github.com/den-wdi-2/fullStack-JS-review "Review"
 [4-3K]: https://github.com/den-wdi-2/ajax-oop-refactor-lab "AJAX Lesson"
-[4-4I]: https://www.codeschool.com/courses/try-ruby "Code School Try Ruby"
 [4-3L]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
 [4-1I]: https://github.com/den-wdi-2/ajax-with-jquery "AJAX & APIs with jQuery"
 
@@ -235,7 +235,7 @@ Time | Day 1                                    | Day 2                         
 
 [5-4A]: # "Interview Prep"
 [5-4B]: # "Inner and Outer Joins"
-[5-4C]: # "Joins Lab"
+[5-4C]: https://github.com/den-wdi-2/library_sql "Joins Lab"
 [5-4D]: # "TBD"
 [5-4E]: # "TBD"
 [5-4F]: # "TBD"
