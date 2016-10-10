@@ -341,10 +341,13 @@ Time | Day 1                                      | Day 2                       
 **1:30pm Module 3** | [Directives Lesson ()][8-1D] | [Angular Hangman][8-2D] | Outcomes | [Mongoose Intro][8-4D] / Mid-Course Survey Somewhere | [Almost MEAN App][8-5D] | 
 **3:00pm Module 4** | [Directives Lab][8-1E] | [Angular Hangman][8-1E] | [Routing Lab][8-3E] | [TODO API][8-4E] | [Almost MEAN App][8-5E] | 
 **Training** | Finish Labs | Interview Potential Users | Finish Wine App | Finish Full-stack JS App | Complete MEAN App | 
-**Leftovers** |  | [Stacks and Queues ()][8-5G] |[Linked Lists ()][8-2G] |  | 
+**Leftovers** |  | [Stacks and Queues ()][8-5G] |[Linked Lists ()][8-2G] | [More Mongo][8-4H] | [Other Mongo Intro][8-4G] | [Mongo Lab][8-4I]
 
 [8-2G]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
 [8-5G]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
+[8-4H]: https://github.com/ga-wdi-lessons/mongo-relationships "Potential Mongo Furthering"
+[8-4G]: https://github.com/ga-wdi-lessons/mongo-intro/ "Another Intro to Mongo"
+[8-4I]: https://github.com/ga-wdi-exercises/mongo-cli "Mongo Lab"
 
 [8-1A]: # "Interview Prep"
 [8-1B]: # "Competitive Research"
