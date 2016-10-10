@@ -1,5 +1,3 @@
-## Unit 4: Full-stack and Advanced Topics
-
 #### Daily Schedule Overview
 
 Time  | Activity
@@ -206,17 +204,20 @@ Time | Day 1                                    | Day 2                         
 **1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Using SQL in an Express App][5-2D] | Outcomes | TBD | [Intro to TDD][5-5D] **Need to split top part out** | 
 **3:00pm Module 4** | [Lab: Design Models for Common Apps][5-1E] |  [SQL CRUD in Express Lab][5-2E] **Watch the handlebars** | [Lab: Relationships and Normalization][5-3E] | TBD | [Testing Lab][5-5E] | 
 **Training** | [Reading Assignments: DBs and SQL][5-1F] | [Blog][5-2F] | [Project 2 Proposal][5-3F] | TBD | [Testing Reading][5-5F] | 
-**Leftovers** | [SQL (Zeb)][5-3G] | [Tune.ly][5-1G]
+**Leftovers** | [SQL (Zeb)][5-3G] | [Tune.ly][5-1J]
 
 [5-3G]: https://github.com/den-wdi-2/sql "SQL Select Lab"
-[5-1G]: https://github.com/den-wdi-2/tunely "Tunely"
+[5-1J]: https://github.com/den-wdi-2/tunely "Tunely"
 
 [5-1A]: # "Interview Prep"
 [5-1B]: https://github.com/den-wdi-2/express "Intro to Express.js"
 [5-1C]: https://github.com/den-wdi-2/express-routing-lesson "Building Express Routes part 1"
 [5-1D]: https://github.com/den-wdi-2/express-routing-lab "Building Express Routes part 2"
 [5-1E]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
-[5-1F]: # "SQL Reading Assignments"
+[5-1F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
+[5-1G]: http://www.w3schools.com/sql/sql_syntax.asp "SQL Reading Assignment 2"
+[5-1H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
+[5-1I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
 
 [5-2A]: # "Interview Prep"
 [5-2B]: https://github.com/den-wdi-2/sql-intro "Relational Databases & SQL"
