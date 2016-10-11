@@ -65,7 +65,6 @@ Time |Day 1                                      | Day 2                        
 **1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [Intro to jQuery][2-2D] | Outcomes | [OOP concepts (Zeb)][2-4E] | VETERANS DAY
 **3:00pm Module 4** | [Lab: Callbacks & Iterators ()][2-1E] | [jQuery & Browser Storage ()][2-2E] | [Tic-Tac-Toe][2-3E] |  [OOP Refactor Lab (Zeb)][2-4F] | VETERANS DAY
 **Training** | Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides And Fix Issues | [More jQuery Practice ()][2-2F] | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | Finish Refactoring Tic-Tac-Toe | VETERANS DAY
-**Leftovers** | [Developer Resources (Zeb)][2-1I] [Debugging in JavaScript ()][2-1H] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][2-2H] [Intro to Bootstrap ()][2-2I] | [Handlebars Templating (Zeb)][2-3H] | [Git and GitHub Lab][1-2H]
 
 Weekly Goals:
 * Build a single page app that can communicate with an external server
@@ -76,13 +75,6 @@ Weekly Goals:
 * Communicate with other developers to improve code using Github
 	* Create a fork of a repository
 	* Use Pull Requests to improve a repository's quality 
-
-[2-1H]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
-[2-1I]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
-[2-2H]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
-[2-2I]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
-[2-3H]: https://github.com/den-wdi-2/handlebars "Handlebars Templating"
-[1-2H]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
 
 [2-1A]: https://github.com/den-wdi-2/create-an-issue/ "Create an Issue"
 [2-1B]: https://github.com/den-wdi-2/whiteboarding-101 "Whiteboarding 101"
@@ -122,15 +114,25 @@ Time | Day 1                                      | Day 2                       
 **1:30pm Module 3** | [CSS Transitions & Animations][3-1C] | [Project 1 Approvals][3-2C] | Outcomes | Project 1 | Project 1
 **2:30pm Module 4** | [Project 1 Intro][3-1D] | Project 1 |  Project 1 |  Project 1 |  Project 1 
 **Training** | Project 1 Proposal | Project 1 | Project 1 | Project 1 | Project 1 
-**Leftovers** | Review on [jQuery DOM][3-1H], then [Objects and Prototypes][3-1J] (Zeb) | [Learn you Node][3-5H]
+**Leftovers** | [Developer Resources (Zeb)][2-1I] [Debugging in JavaScript ()][2-1H] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][2-2H] [Intro to Bootstrap ()][2-2I] | [Handlebars Templating (Zeb)][2-3H] [Git and GitHub Lab][1-2H] | Review on [jQuery DOM][3-1H], then [Objects and Prototypes][3-1J] (Zeb) [Learn you Node][3-5H] | [Express Reteach (Zeb)][4-2K] [More Express Routes][4-3L] | 
 
 Weekly Goals:
 * Create a browser-based game for your porfolio
 * Learn about common ways software companies organize projects
 
+[2-1H]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
+[2-1I]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
+[2-2H]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
+[2-2I]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
+[2-3H]: https://github.com/den-wdi-2/handlebars "Handlebars Templating"
+[1-2H]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
+
 [3-1H]: https://github.com/den-wdi-2/js-dom-jquery-first "jQuery DOM"
 [3-1J]: https://github.com/den-wdi-2/js-prototypes-constructors "Objects and Prototypes"
 [3-5H]: https://github.com/workshopper/learnyounode "Learn you Node"
+
+[4-2K]:https://github.com/den-wdi-2/expres-resource-reteach "Express Reteach"
+[4-3L]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
 
 [3-1A]: https://github.com/den-wdi-2/es6 "ES6 Intro"
 [3-1B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
@@ -168,14 +170,6 @@ Time | Day 1                                    | Day 2                         
 **1:30pm Module 3** | Presentations | [Advanced AJAX: CORS/JSONP/APIs][4-2D] | [Intro to Node.js ()][4-3D] | T-Gives | T-Gives
 **3:00pm Module 4** | Self Assessment and [Fix an Issue ()][4-1D] | [Lab: AJAX Calls to API][4-2E] | [Node Lab][4-3E] | T-Gives | T-Gives
 **Training** | Fixing Issues | [Lab: Muvie Haus][4-2F] | [Lab: Requesting with Node][4-3F] | T-Gives | T-Gives
-**Leftovers** |  |  | [Lab: Views in Express (Zeb)][4-3I] [Express Reteach (Zeb)][4-2K] [Ajax OOP Refactor Lab ()][4-3K] | [More Express Routes][4-3L] [Views in Express (Zeb)][4-3H] | [AJAX & API's with jQuery ()][4-1I]
-
-[4-2K]:https://github.com/den-wdi-2/expres-resource-reteach "Express Reteach"
-[4-2M]: #  "Connecting Express Routes to Mongo Lab"
-[4-4H]: https://github.com/den-wdi-2/fullStack-JS-review "Review"
-[4-3K]: https://github.com/den-wdi-2/ajax-oop-refactor-lab "AJAX Lesson"
-[4-3L]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
-[4-1I]: https://github.com/den-wdi-2/ajax-with-jquery "AJAX & APIs with jQuery"
 
 [4-1A]: # "Presentations"
 [4-1B]: # "Presentations"
@@ -204,10 +198,14 @@ Time | Day 1                                    | Day 2                         
 **1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Using SQL in an Express App][5-2D] | Outcomes | TBD | [Intro to TDD][5-5D] **Need to split top part out** | 
 **3:00pm Module 4** | [Lab: Design Models for Common Apps][5-1E] |  [SQL CRUD in Express Lab][5-2E] **Watch the handlebars** | [Lab: Relationships and Normalization][5-3E] | TBD | [Testing Lab][5-5E] | 
 **Training** | [Reading Assignments: DBs and SQL][5-1F] | [Blog][5-2F] | [Project 2 Proposal][5-3F] | TBD | [Testing Reading][5-5F] | 
-**Leftovers** | [SQL (Zeb)][5-3G] | [Tune.ly][5-1J]
+**Leftovers** | [SQL (Zeb)][5-3G] | [Tune.ly][5-1J] | [More Mongo][8-4H] | [Other Mongo Intro][8-4G] | [Mongo Lab][8-4I]
 
 [5-3G]: https://github.com/den-wdi-2/sql "SQL Select Lab"
 [5-1J]: https://github.com/den-wdi-2/tunely "Tunely"
+
+[8-4H]: https://github.com/ga-wdi-lessons/mongo-relationships "Potential Mongo Furthering"
+[8-4G]: https://github.com/ga-wdi-lessons/mongo-intro/ "Another Intro to Mongo"
+[8-4I]: https://github.com/ga-wdi-exercises/mongo-cli "Mongo Lab"
 
 [5-1A]: # "Interview Prep"
 [5-1B]: https://github.com/den-wdi-2/express "Intro to Express.js"
@@ -244,42 +242,41 @@ Time | Day 1                                    | Day 2                         
 [5-5B]: https://github.com/den-wdi-2/gulp "Gulp"
 [5-5C]: https://github.com/den-wdi-2/sass-intro "Sass"
 [5-5D]: https://github.com/den-wdi-2/rspec "Intro to TDD"
-[5-5E]: # "Testing Lab"
+[5-5E]: https://github.com/den-wdi-2/tdd-fibonacci "Testing Lab"
 [5-5F]: # "Testing Reading and Quiz"
 
 #### Week 6 - Full-Stack Apps, REST, MVC, and UX (12/5-12/9)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [Interview Prep][6-1A] | [Interview Prep][6-2A] | [Interview Prep][6-3A] | [Interview Prep][6-4A] | [Second Pass][6-5A]
+ **9:00am Warm-Up** | [Stacks ()][6-1A] | [Stacks Challenge ()][6-2A] | [Queues ()][6-3A] | [Queues Challenge ()][6-4A] | [Second Pass][6-5A]
  **9:30am Module 1** | [Project 2 Ideation / Wireframes][6-1B] | [Intro to MVC][6-2B] | [Views in Express (Zeb)][6-3B] | [Models in an MVC App][6-4B] | [Security 101][6-5B] **Need to split top part out** | 
  **11:00am Module 2** | [Testing API Calls][6-1C] | [Intro to Foundation][6-2C] | [Lab: Views in Express (Zeb)][6-3C] | [Wiring Models to Views][6-4C] | [Lab: Authenticating and Authorizing Users][6-5C] | 
  **1:30pm Module 3** | [Lab: Research and Test External API][6-1D] | [Map Wireframes][6-2D] | Outcomes | [REST Controllers Part 1][6-4D] | Lab: Authenticating and Authorizing Users | 
 **3:00pm Module 4** | [Lab: Research and Test External API][6-1E] | [Map Wireframes][6-2E] | [Lab: MVC Common Apps][6-3E] | [REST Controllers Part 2][6-4E] | Scrum and [Project 2 Review][6-5D] | 
 **Training** | [Get External API Set Up for Project 2][6-1F] | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Finish Labs | [Polish REST Controllers App][6-4F] | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | 
 
-[6-1A]: # "Interview Prep"
+[6-1A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
 [6-1B]: # "Project 2 Ideation / Wireframes"
 [6-1C]: # "Testing API Calls"
 [6-1D]: # "Research and Test External API Lab"
 [6-1E]: # "Research and Test External API Lab"
 [6-1F]: # "Research and Test External API Lab"
 
-[6-2A]: # "Interview Prep"
+[6-2A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
 [6-2B]: https://github.com/den-wdi-2/mvc-intro "MVC Intro"
 [6-2C]: https://github.com/den-wdi-2/css-foundation "Intro to Foundation"
 [6-2D]: # "Map Wireframes to HTML/CSS Components for Project 2"
 [6-2E]: # "Map Wireframes to HTML/CSS Components for Project 2"
 [6-2F]: # "Mock Project 2"
 
-[6-3A]: # "Interview Prep"
+[6-3A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
 [6-3B]: https://github.com/den-wdi-2/express-views-lesson "Views in Express Lesson"
 [6-3C]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
 [6-3D]: # "Outcomes"
 [6-3E]: # "MVC Common Apps Lab"
-[6-3F]: # "??"
 
-[6-4A]: # "Interview Prep"
+[6-4A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
 [6-4B]: # "Models in MVC"
 [6-4C]: # "Wiring Models to Views"
 [6-4D]: # "Rest Controllers Part 1"
@@ -341,13 +338,6 @@ Time | Day 1                                      | Day 2                       
 **1:30pm Module 3** | [Directives Lesson ()][8-1D] | [Angular Hangman][8-2D] | Outcomes | [Mongoose Intro][8-4D] / Mid-Course Survey Somewhere | [Almost MEAN App][8-5D] | 
 **3:00pm Module 4** | [Directives Lab][8-1E] | [Angular Hangman][8-1E] | [Routing Lab][8-3E] | [TODO API][8-4E] | [Almost MEAN App][8-5E] | 
 **Training** | Finish Labs | Interview Potential Users | Finish Wine App | Finish Full-stack JS App | Complete MEAN App | 
-**Leftovers** |  | [Stacks and Queues ()][8-5G] |[Linked Lists ()][8-2G] | [More Mongo][8-4H] | [Other Mongo Intro][8-4G] | [Mongo Lab][8-4I]
-
-[8-2G]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
-[8-5G]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
-[8-4H]: https://github.com/ga-wdi-lessons/mongo-relationships "Potential Mongo Furthering"
-[8-4G]: https://github.com/ga-wdi-lessons/mongo-intro/ "Another Intro to Mongo"
-[8-4I]: https://github.com/ga-wdi-exercises/mongo-cli "Mongo Lab"
 
 [8-1A]: # "Interview Prep"
 [8-1B]: # "Competitive Research"
@@ -429,16 +419,18 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00 Warm-upam** | [String Matching (Zeb)][10-1A] | [Interview Prep][10-2A] | [Interview Prep][10-3A] | Project 3 Retro | [Interview Prep][10-5A] | 
-**9:30am Module 1** | [String Matching (Zeb)][10-1A] | Project 3 | Project 3 | Project 3 | [Angular 2 Intro][10-5B] | 
+**9:00 Warm-upam** | [String Matching (Zeb)][10-1A] | [Linked Lists Intro ()][10-2A] | [Interview Prep][10-3A] | Project 3 Retro | [Interview Prep][10-5A] | 
+**9:30am Module 1** | [String Matching (Zeb)][10-1B] | [Linked Lists Challenge ()][10-2B] | Project 3 | Project 3 | [Angular 2 Intro][10-5B] | 
 **11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 Presentations | [Angular 2 Topic 1][10-5C] | 
 **1:30pm Module 3** | Project 3 | Project 3 | Outcomes | Project 3 Presentations | [Angular 2 Topic 2][10-5D] | 
 **3:00pm Module 4** | Project 3 | Project 3 | Project 3 | Self Assessment and [Create Issues ()][10-4C] | [Lab: Angular 2][10-5E] | 
 **Training** | Project 3 | Project 3 | Project 3 | Fix Issues | Angular 2 Lab | 
 
 [10-1A]: https://github.com/den-wdi-2/string-matching "String Matching"
+[10-1B]: https://github.com/den-wdi-2/string-matching "String Matching"
 
-[10-2A]: # "Interview Prep"
+[10-2A]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
+[10-2B]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
 
 [10-3A]: # "Interview Prep"
 
@@ -495,7 +487,7 @@ Time | Day 1                                 | Day 2                            
 **11:00am Module 2** | IoT Hackathon | TBD | Lightning Talks | Approvals | Project 4 |
 **1:30pm Module 3** | IoT Hackathon | TBD | Outcomes | Approvals | Project 4 |  |
 **3:00pm Module 4** | IoT Hackathon | Lightning Talks Prep | [Project 4 Intro][12-3D] | Project 4 | Project 4 |
-**Homework** | [Lightning Talk Research][12-1F] | Lightning Talks Prep | Project Ideation | Project 4 | Project 4 |
+**Training** | [Lightning Talk Research][12-1F] | Lightning Talks Prep | Project Ideation | Project 4 | Project 4 |
 
 [12-1A]: # "IoT Primer"
 [12-1B]: https://github.com/den-wdi-2/IoT-Hobby-Projects "Intro to IoT"
@@ -523,7 +515,7 @@ Time | Day 1                                 | Day 2                            
 **9:30am** | Project Work | Project Work | Project Work | Make-up Project Work | NO CLASS 
 **11am** | Project Work | Mock Interviews | Mock Interviews | Make-up Project Work | NO CLASS
 **1:00pm** |Project Work | Project Work | Presentations / Outcomes (1:30) | Final Survey, Certificates, and Recap | NO CLASS
-**Homework** |Project Work | Project Work | Project Work | Happy Hour | NO CLASS
+**Training** |Project Work | Project Work | Project Work | Happy Hour | NO CLASS
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
