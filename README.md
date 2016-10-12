@@ -222,7 +222,7 @@ Time | Day 1                                    | Day 2                         
 [5-2C]: https://github.com/den-wdi-2/sql-carmen-sandiego "SQL CRUD Lab"
 [5-2D]: https://github.com/den-wdi-2/express-sequelize "SQL in an Express App"
 [5-2E]: https://github.com/den-wdi-2/tunr_node_hbs "SQL CRUD in Express Lab"
-[5-2F]: # "Blog"
+[5-2F]: https://github.com/den-wdi-2/node-blog "Blog"
 
 [5-3A]: # "Interview Prep"
 [5-3B]: https://github.com/den-wdi-2/ux-crash-course "UX Crash Course"
