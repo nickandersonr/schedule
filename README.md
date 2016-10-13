@@ -193,11 +193,11 @@ Time | Day 1                                    | Day 2                         
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
  **9:00am Warm-Up** | Interview Prep | Interview Prep | Interview Prep  | Interview Prep | Second Pass and [Questions in a Hat][5-3A]| 
- **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | [Intro to SQL and Relational DBs][5-2B] | [UX Crash Course][5-3B] **needs input from UXD** | [Inner and Outer Joins][5-4B] | [Introducing Gulp (Zeb)][5-5B] | 
-**11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | [Carmen Sandiego Lab][5-2C] | [SQL Relationships][5-3C] | [Lab: Joins][5-4C] | [Sass Preprocessing (Zeb)][5-5C] | 
-**1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Using SQL in an Express App][5-2D] | Outcomes | TBD | [Intro to TDD][5-5D] **Need to split top part out** | 
-**3:00pm Module 4** | [Lab: Design Models for Common Apps][5-1E] |  [SQL CRUD in Express Lab][5-2E] **Watch the handlebars** | [Lab: Relationships and Normalization][5-3E] | TBD | [Testing Lab][5-5E] | 
-**Training** | [Reading Assignments: DBs and SQL][5-1F] | [Blog][5-2F] | [Project 2 Proposal][5-3F] | TBD | [Testing Reading][5-5F] | 
+ **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | TBD | [UX Crash Course][5-3B] **needs input from UXD** | TBD | [Introducing Gulp (Zeb)][5-5B] | 
+**11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | TBD | TBD | TBD | [Sass Preprocessing (Zeb)][5-5C] | 
+**1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | TBD | Outcomes | TBD | [Intro to TDD][5-5D] **Need to split top part out** | 
+**3:00pm Module 4** | TBD |  TBD | TBD | TBD | [Testing Lab][5-5E] | 
+**Training** | TBD | TBD | [Project 2 Proposal][5-3F] | TBD | [Testing Reading][5-5F] | 
 **Leftovers** | [SQL (Zeb)][5-3G] | [Tune.ly][5-1J] | [More Mongo][8-4H] | [Other Mongo Intro][8-4G] | [Mongo Lab][8-4I]
 
 [5-3G]: https://github.com/den-wdi-2/sql "SQL Select Lab"
@@ -211,29 +211,20 @@ Time | Day 1                                    | Day 2                         
 [5-1B]: https://github.com/den-wdi-2/express "Intro to Express.js"
 [5-1C]: https://github.com/den-wdi-2/express-routing-lesson "Building Express Routes part 1"
 [5-1D]: https://github.com/den-wdi-2/express-routing-lab "Building Express Routes part 2"
-[5-1E]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
-[5-1F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
-[5-1G]: http://www.w3schools.com/sql/sql_syntax.asp "SQL Reading Assignment 2"
-[5-1H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
+
 [5-1I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
 
 [5-2A]: # "Interview Prep"
-[5-2B]: https://github.com/den-wdi-2/sql-intro "Relational Databases & SQL"
-[5-2C]: https://github.com/den-wdi-2/sql-carmen-sandiego "SQL CRUD Lab"
-[5-2D]: https://github.com/den-wdi-2/express-sequelize "SQL in an Express App"
-[5-2E]: https://github.com/den-wdi-2/tunr_node_hbs "SQL CRUD in Express Lab"
-[5-2F]: https://github.com/den-wdi-2/node-blog "Blog"
 
 [5-3A]: # "Interview Prep"
 [5-3B]: https://github.com/den-wdi-2/ux-crash-course "UX Crash Course"
-[5-3C]: # "SQL Relationships"
+
 [5-3D]: # "Outcomes"
-[5-3E]: # "Relationships and Normalization Lab"
+
 [5-3F]: # "Project 2 Proposal"
 
 [5-4A]: # "Interview Prep"
-[5-4B]: # "Inner and Outer Joins"
-[5-4C]: https://github.com/den-wdi-2/library_sql "Joins Lab"
+
 [5-4D]: # "TBD"
 [5-4E]: # "TBD"
 [5-4F]: # "TBD"
@@ -291,6 +282,40 @@ Time | Day 1                                    | Day 2                         
 Extra Resources:
 
 * [Deploy to Heroku](https://gist.github.com/awhit012/bd544c8c252434d1fe6fe01cbfa252d6)
+
+#### SQL Stuff
+
+[Lab: Relational Data Modeling][5-1E]
+Reading Assignments: DBs and SQL [#1][5-1F] [#2][5-1G] [#3][5-1H]
+
+[5-1E]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
+[5-1F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
+[5-1G]: http://www.w3schools.com/sql/sql_syntax.asp "SQL Reading Assignment 2"
+[5-1H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
+
+[Intro to SQL and Relational DBs][5-2B]
+[Carmen Sandiego Lab][5-2C]
+[Using SQL in an Express App][5-2D]
+[SQL CRUD in Express Lab][5-2E] **Watch the handlebars**
+[Blog][5-2F]
+
+[5-2B]: https://github.com/den-wdi-2/sql-intro "Relational Databases & SQL"
+[5-2C]: https://github.com/den-wdi-2/sql-carmen-sandiego "SQL CRUD Lab"
+[5-2D]: https://github.com/den-wdi-2/express-sequelize "SQL in an Express App"
+[5-2E]: https://github.com/den-wdi-2/tunr_node_hbs "SQL CRUD in Express Lab"
+[5-2F]: https://github.com/den-wdi-2/node-blog "Blog"
+
+[SQL Relationships][5-3C]
+[Lab: Relationships and Normalization][5-3E]
+
+[5-3C]: # "SQL Relationships"
+[5-3E]: # "Relationships and Normalization Lab"
+
+[Inner and Outer Joins][5-4B]
+[Lab: Joins][5-4C]
+
+[5-4B]: # "Inner and Outer Joins"
+[5-4C]: https://github.com/den-wdi-2/library_sql "Joins Lab"
 
 #### Week 7 - Project 2: Node/Express Single-Resource App, Angular Intro (12/12-12/16)
 
