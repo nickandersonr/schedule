@@ -499,6 +499,8 @@ Time | Day 1                                 | Day 2                            
 
 ### Extras:
 
+Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **Leftovers** | [SQL (Zeb)][14-1A] | [Tune.ly][14-2A] | [More Mongo][14-3A] | [Other Mongo Intro][14-4A] | [Debugging in JavaScript ()][14-5A]
 **Leftovers** | [Developer Resources (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] | Review on [jQuery DOM][14-4B] | [Learn you Node][14-5B] | 
 **Leftovers** | [Intro to Bootstrap ()][14-1C] | [Git and GitHub Lab][14-2C] |[Objects and Prototypes][14-3C] (Zeb)
