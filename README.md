@@ -114,22 +114,10 @@ Time | Day 1                                      | Day 2                       
 **1:30pm Module 3** | [CSS Transitions & Animations][3-1C] | [Project 1 Approvals][3-2C] | Outcomes | Project 1 | Project 1
 **2:30pm Module 4** | [Project 1 Intro][3-1D] | Project 1 |  Project 1 |  Project 1 |  Project 1 
 **Training** | Project 1 Proposal | Project 1 | Project 1 | Project 1 | Project 1 
-**Leftovers** | [Developer Resources (Zeb)][2-1I] [Debugging in JavaScript ()][2-1H] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][2-2H] [Intro to Bootstrap ()][2-2I] | [Handlebars Templating (Zeb)][2-3H] [Git and GitHub Lab][1-2H] | Review on [jQuery DOM][3-1H], then [Objects and Prototypes][3-1J] (Zeb) [Learn you Node][3-5H] |  | 
 
 Weekly Goals:
 * Create a browser-based game for your porfolio
 * Learn about common ways software companies organize projects
-
-[2-1H]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
-[2-1I]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
-[2-2H]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
-[2-2I]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
-[2-3H]: https://github.com/den-wdi-2/handlebars "Handlebars Templating"
-[1-2H]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
-
-[3-1H]: https://github.com/den-wdi-2/js-dom-jquery-first "jQuery DOM"
-[3-1J]: https://github.com/den-wdi-2/js-prototypes-constructors "Objects and Prototypes"
-[3-5H]: https://github.com/workshopper/learnyounode "Learn you Node"
 
 
 [3-1A]: https://github.com/den-wdi-2/es6 "ES6 Intro"
@@ -196,15 +184,6 @@ Time | Day 1                                    | Day 2                         
 **1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] | Outcomes | [UX Crash Course][5-4D] **needs input from UXD** | [Intro to TDD][5-5D] **Need to split top part out** | 
 **3:00pm Module 4** | [More Express Routes][5-1E] |  [Data Organization in Mongo][5-2E] | [TODO API][5-3E] | [Lab: Personal API][5-4E] | [Testing Lab][5-5E] | 
 **Training** | Finish Labs | Finish Labs | Complete TODO API & [Project 2 Proposal][5-3F] | [Lab: Personal API][5-4F] | [Testing Reading][5-5F] | 
-**Leftovers** | [SQL (Zeb)][5-3G] | [Tune.ly][5-1J] | [More Mongo][8-4H] | [Other Mongo Intro][8-4G] | 
-
-
-[5-3G]: https://github.com/den-wdi-2/sql "SQL Select Lab"
-[5-1J]: https://github.com/den-wdi-2/tunely "Tunely"
-
-[8-4H]: https://github.com/ga-wdi-lessons/mongo-relationships "Potential Mongo Furthering"
-[8-4G]: https://github.com/ga-wdi-lessons/mongo-intro/ "Another Intro to Mongo"
-
 
 [5-1A]: # "Interview Prep"
 [5-1B]: https://github.com/den-wdi-2/express "Intro to Express.js"
@@ -286,41 +265,6 @@ Extra Resources:
 
 * [Deploy to Heroku](https://gist.github.com/awhit012/bd544c8c252434d1fe6fe01cbfa252d6)
 
-#### SQL Stuff
-
-[Lab: Relational Data Modeling][5-1E]
-Reading Assignments: DBs and SQL [#1][5-1F] [#2][5-1G] [#3][5-1H] and [Quiz][5-1I]
-
-[5-1E]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
-[5-1F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
-[5-1G]: http://www.w3schools.com/sql/sql_syntax.asp "SQL Reading Assignment 2"
-[5-1H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
-[5-1I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
-
-[Intro to SQL and Relational DBs][5-2B]
-[Carmen Sandiego Lab][5-2C]
-[Using SQL in an Express App][5-2D]
-[SQL CRUD in Express Lab][5-2E] **Watch the handlebars**
-[Blog][5-2F]
-
-[5-2B]: https://github.com/den-wdi-2/sql-intro "Relational Databases & SQL"
-[5-2C]: https://github.com/den-wdi-2/sql-carmen-sandiego "SQL CRUD Lab"
-[5-2D]: https://github.com/den-wdi-2/express-sequelize "SQL in an Express App"
-[5-2E]: https://github.com/den-wdi-2/tunr_node_hbs "SQL CRUD in Express Lab"
-[5-2F]: https://github.com/den-wdi-2/node-blog "Blog"
-
-[SQL Relationships][5-3C]
-[Lab: Relationships and Normalization][5-3E]
-
-[5-3C]: # "SQL Relationships"
-[5-3E]: # "Relationships and Normalization Lab"
-
-[Inner and Outer Joins][5-4B]
-[Lab: Joins][5-4C]
- 
-[5-4B]: # "Inner and Outer Joins"
-[5-4C]: https://github.com/den-wdi-2/library_sql "Joins Lab"
-
 #### Week 7 - Project 2: Node/Express Single-Resource App, Angular Intro (12/12-12/16)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
@@ -366,7 +310,7 @@ Time | Day 1                                      | Day 2                       
  **11:00am Module 2** | [Lab: Competitive and User Research][8-1C] | [$http LAB][8-2C] | [Routing ()][8-3C] | [Firebase (Zeb)][8-4C] | [Angular Auth][8-5C] | 
 **1:30pm Module 3** | [Directives Lesson ()][8-1D] | [Angular Hangman][8-2D] | Outcomes | [Almost MEAN App][8-5D] / Mid-Course Survey Somewhere | [Auth Math (Zeb)][8-5D] | 
 **3:00pm Module 4** | [Directives Lab][8-1E] | [Angular Hangman][8-1E] | [Routing Lab][8-3E] | [Almost MEAN App][8-5E] | [Rapid Prototype][9-1E] | 
-**Training** | Finish Labs | Interview Potential Users | Finish Wine App | Complete MEAN App | Rapid Prototype | 
+**Training** | Finish Labs | ui-router vs ngRoute readings: [#1][8-2F] + [#2][8-2G] + [#3][8-2H] | Interview Potential Users | Complete MEAN App | Rapid Prototype | 
 
 [8-1A]: # "Interview Prep"
 [8-1B]: # "Competitive Research"
@@ -379,6 +323,9 @@ Time | Day 1                                      | Day 2                       
 [8-2C]: https://github.com/den-wdi-2/http-lab "$http lab"
 [8-2D]: https://github.com/den-wdi-2/ng-hangman "Angular Hangman"
 [8-2E]: https://github.com/den-wdi-2/ng-hangman "Angular Hangman"
+[8-2F]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
+[8-2G]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
+[8-2H]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
 
 [8-3A]: # "User Goals and Flows"
 [8-3B]: # "Personas"
@@ -403,45 +350,49 @@ Time | Day 1                                      | Day 2                       
 
 #### BREAK (12/26-12/29)
 
-#### Week 9 - Advanced Angular, MEAN, and Prototyping (1/2-1/6)
+#### Week 9 - SQL and Prototyping (1/2-1/6)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Interview Prep (Angular?)][9-1A] | [Trees (Zeb)][9-2A] | [Trees (Zeb)][9-3A] | Second Pass and [Questions in a Hat][9-4A] | [Auth Math (Zeb)][9-5A] | 
-**9:30am Module 1** | [Rapid Prototype][9-1B] | TBD | TBD | TBD | TBD | 
- **11:00am Module 2** | [Rapid Prototype][9-1C] | TBD | [Team Git Workflow 1][9-3D] | [Prioritization and Proposal][9-4C] | Project 3 | 
-**1:30pm Module 3** | [Rapid Prototype][9-1D] | TBD | Outcomes | [Lab: Project 3 Pitches][9-4D] | Project 3 | 
-**3:00pm Module 4** | [Rapid Prototype Science Fair][9-1E] |  | [Team Git Workflow 2][9-3E] | [Pitch Feedback][9-4E] | Project 3 | 
-**Training** | TBD | ui-router vs ngRoute readings: [#1][9-3F] + [#2][9-3G] + [#3][9-3H] | Prepare Project 3 Pitch | [Project 3][9-4F]  | Project 3 | 
+**9:00am Warm-up** | [Interview Prep (Angular?)][9-1A] | [Trees (Zeb)][9-2A] | [Trees (Zeb)][9-3A] | Second Pass and [Questions in a Hat][9-4A] | Stand-up | 
+**9:30am Module 1** | [Rapid Prototype][9-1B] | [Intro to SQL and Relational DBs][9-2B] | [SQL Relationships][9-3B] | [Team Git Workflow 1][9-4B] | Project 3 | 
+ **11:00am Module 2** | [Rapid Prototype][9-1C] | [Carmen Sandiego Lab][9-2C] | [Lab: Relationships and Normalization][9-3C] | [Team Git Workflow 2][9-4C] | Project 3 | 
+**1:30pm Module 3** | [Rapid Prototype Science Fair][9-1D] | [Using SQL in an Express App][9-2D] | Outcomes | [Prioritization and Proposal][9-4D] | Project 3 | 
+**3:00pm Module 4** | [Lab: Relational Data Modeling][9-1E] | [SQL CRUD in Express Lab][9-2E] **Watch the handlebars** | [Inner and Outer Joins][9-3E] | [Lab: Project 3 Pitches][9-4E] | Project 3 | 
+**Training** | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Blog][9-2F] | Prepare Project 3 Pitch / [Lab: Joins][9-3F] | [Project 3 Team Formation][9-4F]  | Project 3 | 
 
 [9-1A]: # "Interview Prep"
 [9-1B]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 [9-1C]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
-[9-1D]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
-[9-1E]: # "Science Fair"
-[9-1F]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
-[9-1G]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
-[9-1H]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
+[9-1D]: # "Science Fair"
+[9-1E]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
+[9-1F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
+[9-1G]: http://www.w3schools.com/sql/sql_syntax.asp "SQL Reading Assignment 2"
+[9-1H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
+[9-1I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
 
 [9-2A]: https://github.com/den-wdi-2/trees "Trees"
-
+[9-2B]: https://github.com/den-wdi-2/sql-intro "Relational Databases & SQL"
+[9-2C]: https://github.com/den-wdi-2/sql-carmen-sandiego "SQL CRUD Lab"
+[9-2D]: https://github.com/den-wdi-2/express-sequelize "SQL in an Express App"
+[9-2E]: https://github.com/den-wdi-2/tunr_node_hbs "SQL CRUD in Express Lab"
+[9-2F]: https://github.com/den-wdi-2/node-blog "Blog"
 
 
 [9-3A]: https://github.com/den-wdi-2/trees "Trees"
-
-[9-3C]: # "Git Workflow 1"
+[9-3B]: # "SQL Relationships"
+[9-3C]: # "Relationships and Normalization Lab"
 [9-3D]: # "Outcomes"
-[9-3E]: # "Git Workflow 2"
+[9-3E]: # "Inner and Outer Joins"
+[9-3F]: https://github.com/den-wdi-2/library_sql "Joins Lab"
 
 [9-4A]: # "Questions in a Hat"
-
-[9-4C]: # "Prioritization and Proposal"
-[9-4D]: # "Project Pitch Lab"
-[9-4E]: # "Project Pitch Feedback"
+[9-4B]: # "Git Workflow 1"
+[9-4C]: # "Git Workflow 2"
+[9-4D]: # "Prioritization and Proposal"
+[9-4E]: # "Project Pitch Lab"
 [9-4F]: https://github.com/den-wdi-2/project-03 "Project 3"
 
-
-[9-5C]: https://github.com/den-wdi-2/project-03 "Project 3"
 
 #### Week 10 - Project 3: Group Project and Angular 2 (1/9-1/13)
 
@@ -544,6 +495,32 @@ Time | Day 1                                 | Day 2                            
 **11am** | Project Work | Mock Interviews | Mock Interviews | Make-up Project Work | NO CLASS
 **1:00pm** |Project Work | Project Work | Presentations / Outcomes (1:30) | Final Survey, Certificates, and Recap | NO CLASS
 **Training** |Project Work | Project Work | Project Work | Happy Hour | NO CLASS
+
+
+### Extras:
+
+**Leftovers** | [SQL (Zeb)][14-1A] | [Tune.ly][14-2A] | [More Mongo][14-3A] | [Other Mongo Intro][14-4A] | [Debugging in JavaScript ()][14-5A]
+**Leftovers** | [Developer Resources (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] | Review on [jQuery DOM][14-4B] | [Learn you Node][14-5B] | 
+**Leftovers** | [Intro to Bootstrap ()][14-1C] | [Git and GitHub Lab][14-2C] |[Objects and Prototypes][14-3C] (Zeb)
+
+[14-1A]: https://github.com/den-wdi-2/sql "SQL Select Lab"
+[14-1B]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
+[14-1C]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
+
+[14-2A]: https://github.com/den-wdi-2/tunely "Tunely"
+[14-2B]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
+[14-2C]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
+
+[14-3A]: https://github.com/ga-wdi-lessons/mongo-relationships "Potential Mongo Furthering"
+[14-3B]: https://github.com/den-wdi-2/handlebars "Handlebars Templating"
+[14-3C]: https://github.com/den-wdi-2/js-prototypes-constructors "Objects and Prototypes"
+
+[14-4A]: https://github.com/ga-wdi-lessons/mongo-intro/ "Another Intro to Mongo"
+[14-4B]: https://github.com/den-wdi-2/js-dom-jquery-first "jQuery DOM"
+
+[14-5A]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
+[14-5B]: https://github.com/workshopper/learnyounode "Learn you Node"
+
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
