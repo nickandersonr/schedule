@@ -114,7 +114,7 @@ Time | Day 1                                      | Day 2                       
 **1:30pm Module 3** | [CSS Transitions & Animations][3-1C] | [Project 1 Approvals][3-2C] | Outcomes | Project 1 | Project 1
 **2:30pm Module 4** | [Project 1 Intro][3-1D] | Project 1 |  Project 1 |  Project 1 |  Project 1 
 **Training** | Project 1 Proposal | Project 1 | Project 1 | Project 1 | Project 1 
-**Leftovers** | [Developer Resources (Zeb)][2-1I] [Debugging in JavaScript ()][2-1H] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][2-2H] [Intro to Bootstrap ()][2-2I] | [Handlebars Templating (Zeb)][2-3H] [Git and GitHub Lab][1-2H] | Review on [jQuery DOM][3-1H], then [Objects and Prototypes][3-1J] (Zeb) [Learn you Node][3-5H] | [Express Reteach (Zeb)][4-2K] [More Express Routes][4-3L] | 
+**Leftovers** | [Developer Resources (Zeb)][2-1I] [Debugging in JavaScript ()][2-1H] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][2-2H] [Intro to Bootstrap ()][2-2I] | [Handlebars Templating (Zeb)][2-3H] [Git and GitHub Lab][1-2H] | Review on [jQuery DOM][3-1H], then [Objects and Prototypes][3-1J] (Zeb) [Learn you Node][3-5H] |  | 
 
 Weekly Goals:
 * Create a browser-based game for your porfolio
@@ -131,8 +131,6 @@ Weekly Goals:
 [3-1J]: https://github.com/den-wdi-2/js-prototypes-constructors "Objects and Prototypes"
 [3-5H]: https://github.com/workshopper/learnyounode "Learn you Node"
 
-[4-2K]:https://github.com/den-wdi-2/expres-resource-reteach "Express Reteach"
-[4-3L]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
 
 [3-1A]: https://github.com/den-wdi-2/es6 "ES6 Intro"
 [3-1B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
@@ -196,8 +194,8 @@ Time | Day 1                                    | Day 2                         
  **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | TBD | [UX Crash Course][5-3B] **needs input from UXD** | TBD | [Introducing Gulp (Zeb)][5-5B] | 
 **11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | TBD | TBD | TBD | [Sass Preprocessing (Zeb)][5-5C] | 
 **1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | TBD | Outcomes | TBD | [Intro to TDD][5-5D] **Need to split top part out** | 
-**3:00pm Module 4** | TBD |  TBD | TBD | TBD | [Testing Lab][5-5E] | 
-**Training** | TBD | TBD | [Project 2 Proposal][5-3F] | TBD | [Testing Reading][5-5F] | 
+**3:00pm Module 4** | [More Express Routes][4-3L] |  TBD | TBD | TBD | [Testing Lab][5-5E] | 
+**Training** | Finish Labs | TBD | [Project 2 Proposal][5-3F] | TBD | [Testing Reading][5-5F] | 
 **Leftovers** | [SQL (Zeb)][5-3G] | [Tune.ly][5-1J] | [More Mongo][8-4H] | [Other Mongo Intro][8-4G] | [Mongo Lab][8-4I]
 
 [5-3G]: https://github.com/den-wdi-2/sql "SQL Select Lab"
@@ -211,6 +209,8 @@ Time | Day 1                                    | Day 2                         
 [5-1B]: https://github.com/den-wdi-2/express "Intro to Express.js"
 [5-1C]: https://github.com/den-wdi-2/express-routing-lesson "Building Express Routes part 1"
 [5-1D]: https://github.com/den-wdi-2/express-routing-lab "Building Express Routes part 2"
+[5-1E]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
+[5-1F]: # "Finish Labs"
 
 [5-1I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
 
