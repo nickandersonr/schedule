@@ -191,19 +191,20 @@ Time | Day 1                                    | Day 2                         
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
  **9:00am Warm-Up** | Interview Prep | Interview Prep | Interview Prep  | Interview Prep | Second Pass and [Questions in a Hat][5-3A]| 
- **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | TBD | [UX Crash Course][5-3B] **needs input from UXD** | TBD | [Introducing Gulp (Zeb)][5-5B] | 
-**11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | TBD | TBD | TBD | [Sass Preprocessing (Zeb)][5-5C] | 
-**1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | TBD | Outcomes | TBD | [Intro to TDD][5-5D] **Need to split top part out** | 
-**3:00pm Module 4** | [More Express Routes][4-3L] |  TBD | TBD | TBD | [Testing Lab][5-5E] | 
-**Training** | Finish Labs | TBD | [Project 2 Proposal][5-3F] | TBD | [Testing Reading][5-5F] | 
-**Leftovers** | [SQL (Zeb)][5-3G] | [Tune.ly][5-1J] | [More Mongo][8-4H] | [Other Mongo Intro][8-4G] | [Mongo Lab][8-4I]
+ **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | [Mongo Intro][5-2B] | [Views in Express (Zeb)][5-3B] | [Lab: Full-Stack JS][5-4B] | [Introducing Gulp (Zeb)][5-5B] | 
+**11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | [Mongo Lab][5-2C] | [Lab: Views in Express (Zeb)][5-3C] | [Lab: Full-Stack JS][5-4C] | [Sass Preprocessing (Zeb)][5-5C] | 
+**1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] | Outcomes | [UX Crash Course][5-4D] **needs input from UXD** | [Intro to TDD][5-5D] **Need to split top part out** | 
+**3:00pm Module 4** | [More Express Routes][5-1E] |  [Data Organization in Mongo][5-2E] | [TODO API][5-3E] | [Lab: Personal API][5-4E] | [Testing Lab][5-5E] | 
+**Training** | Finish Labs | Finish Labs | Complete TODO API & [Project 2 Proposal][5-3F] | [Lab: Personal API][5-4F] | [Testing Reading][5-5F] | 
+**Leftovers** | [SQL (Zeb)][5-3G] | [Tune.ly][5-1J] | [More Mongo][8-4H] | [Other Mongo Intro][8-4G] | 
+
 
 [5-3G]: https://github.com/den-wdi-2/sql "SQL Select Lab"
 [5-1J]: https://github.com/den-wdi-2/tunely "Tunely"
 
 [8-4H]: https://github.com/ga-wdi-lessons/mongo-relationships "Potential Mongo Furthering"
 [8-4G]: https://github.com/ga-wdi-lessons/mongo-intro/ "Another Intro to Mongo"
-[8-4I]: https://github.com/ga-wdi-exercises/mongo-cli "Mongo Lab"
+
 
 [5-1A]: # "Interview Prep"
 [5-1B]: https://github.com/den-wdi-2/express "Intro to Express.js"
@@ -212,22 +213,25 @@ Time | Day 1                                    | Day 2                         
 [5-1E]: https://github.com/den-wdi-2/more-express-routes "More Express Routes"
 [5-1F]: # "Finish Labs"
 
-[5-1I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
-
 [5-2A]: # "Interview Prep"
+[5-2B]: https://github.com/den-wdi-2/mongo-intro "Intro to Mongo"
+[5-2C]: https://github.com/ga-wdi-exercises/mongo-cli "Mongo Lab"
+[5-2D]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
+[5-2E]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
 
 [5-3A]: # "Interview Prep"
-[5-3B]: https://github.com/den-wdi-2/ux-crash-course "UX Crash Course"
-
+[5-3B]: https://github.com/den-wdi-2/express-views-lesson "Views in Express Lesson"
+[5-3C]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
 [5-3D]: # "Outcomes"
-
+[5-3E]: https://github.com/den-wdi-2/test-driven-todo-api "Todo Lab"
 [5-3F]: # "Project 2 Proposal"
 
 [5-4A]: # "Interview Prep"
-
-[5-4D]: # "TBD"
-[5-4E]: # "TBD"
-[5-4F]: # "TBD"
+[5-4B]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
+[5-4C]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
+[5-4D]: https://github.com/den-wdi-2/ux-crash-course "UX Crash Course"
+[5-4E]: https://github.com/den-wdi-2/express-personal-api "Personal API"
+[5-4F]: https://github.com/den-wdi-2/express-personal-api "Personal API"
 
 [5-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
 [5-5B]: https://github.com/den-wdi-2/gulp "Gulp"
@@ -241,8 +245,8 @@ Time | Day 1                                    | Day 2                         
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Warm-Up** | [Stacks ()][6-1A] | [Stacks Challenge ()][6-2A] | [Queues ()][6-3A] | [Queues Challenge ()][6-4A] | [Second Pass][6-5A]
- **9:30am Module 1** | [Project 2 Ideation / Wireframes][6-1B] | [Intro to MVC][6-2B] | [Views in Express (Zeb)][6-3B] | [Models in an MVC App][6-4B] | [Security 101][6-5B] **Need to split top part out** | 
- **11:00am Module 2** | [Testing API Calls][6-1C] | [Intro to Foundation][6-2C] | [Lab: Views in Express (Zeb)][6-3C] | [Wiring Models to Views][6-4C] | [Lab: Authenticating and Authorizing Users][6-5C] | 
+ **9:30am Module 1** | [Project 2 Ideation / Wireframes][6-1B] | [Intro to MVC][6-2B] | TBD | [Models in an MVC App][6-4B] | [Security 101][6-5B] **Need to split top part out** | 
+ **11:00am Module 2** | [Testing API Calls][6-1C] | [Intro to Foundation][6-2C] | TBD | [Wiring Models to Views][6-4C] | [Lab: Authenticating and Authorizing Users][6-5C] | 
  **1:30pm Module 3** | [Lab: Research and Test External API][6-1D] | [Map Wireframes][6-2D] | Outcomes | [REST Controllers Part 1][6-4D] | Lab: Authenticating and Authorizing Users | 
 **3:00pm Module 4** | [Lab: Research and Test External API][6-1E] | [Map Wireframes][6-2E] | [Lab: MVC Common Apps][6-3E] | [REST Controllers Part 2][6-4E] | Scrum and [Project 2 Review][6-5D] | 
 **Training** | [Get External API Set Up for Project 2][6-1F] | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Finish Labs | [Polish REST Controllers App][6-4F] | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | 
@@ -262,8 +266,7 @@ Time | Day 1                                    | Day 2                         
 [6-2F]: # "Mock Project 2"
 
 [6-3A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
-[6-3B]: https://github.com/den-wdi-2/express-views-lesson "Views in Express Lesson"
-[6-3C]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
+
 [6-3D]: # "Outcomes"
 [6-3E]: # "MVC Common Apps Lab"
 
@@ -286,12 +289,13 @@ Extra Resources:
 #### SQL Stuff
 
 [Lab: Relational Data Modeling][5-1E]
-Reading Assignments: DBs and SQL [#1][5-1F] [#2][5-1G] [#3][5-1H]
+Reading Assignments: DBs and SQL [#1][5-1F] [#2][5-1G] [#3][5-1H] and [Quiz][5-1I]
 
 [5-1E]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
 [5-1F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
 [5-1G]: http://www.w3schools.com/sql/sql_syntax.asp "SQL Reading Assignment 2"
 [5-1H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
+[5-1I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
 
 [Intro to SQL and Relational DBs][5-2B]
 [Carmen Sandiego Lab][5-2C]
@@ -358,10 +362,10 @@ Weekly Goals:
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-up** | [Interview Prep (Angular?)][8-1A] | [User Goals and Flows][8-2A] | [User Goals and Flows Exercise][8-3A] | [Interview Prep (Angular?)][8-4A] | Second Pass and [Questions in a Hat][8-5A] | 
-**9:30am Module 1** | [Competitive Research][8-1B] | [$http and promises ()][8-2B] | [Personas from Research][8-3B] | [$resource ()][8-4B] | [Lab: Personal API][8-5B] | 
- **11:00am Module 2** | [Lab: Competitive and User Research][8-1C] | [$http LAB][8-2C] | [Routing ()][8-3C] | [Mongo Intro][8-4C] | [Lab: Personal API][8-5C] | 
-**1:30pm Module 3** | [Directives Lesson ()][8-1D] | [Angular Hangman][8-2D] | Outcomes | [Mongoose Intro][8-4D] / Mid-Course Survey Somewhere | [Almost MEAN App][8-5D] | 
-**3:00pm Module 4** | [Directives Lab][8-1E] | [Angular Hangman][8-1E] | [Routing Lab][8-3E] | [TODO API][8-4E] | [Almost MEAN App][8-5E] | 
+**9:30am Module 1** | [Competitive Research][8-1B] | [$http and promises ()][8-2B] | [Personas from Research][8-3B] | [$resource ()][8-4B] | TBD | 
+ **11:00am Module 2** | [Lab: Competitive and User Research][8-1C] | [$http LAB][8-2C] | [Routing ()][8-3C] | TBD | TBD | 
+**1:30pm Module 3** | [Directives Lesson ()][8-1D] | [Angular Hangman][8-2D] | Outcomes | TBD / Mid-Course Survey Somewhere | [Almost MEAN App][8-5D] | 
+**3:00pm Module 4** | [Directives Lab][8-1E] | [Angular Hangman][8-1E] | [Routing Lab][8-3E] | TBD | [Almost MEAN App][8-5E] | 
 **Training** | Finish Labs | Interview Potential Users | Finish Wine App | Finish Full-stack JS App | Complete MEAN App | 
 
 [8-1A]: # "Interview Prep"
@@ -384,13 +388,10 @@ Time | Day 1                                      | Day 2                       
 
 [8-4A]: # "Interview Prep"
 [8-4B]: https://github.com/den-wdi-2/angular-resource "ngResource"
-[8-4C]: https://github.com/den-wdi-2/mongo-intro "Intro to Mongo"
-[8-4D]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
-[8-4E]: https://github.com/den-wdi-2/test-driven-todo-api "Todo Lab"
+
 
 [8-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-10.md "Review / Questions in a Hat"
-[8-5B]: https://github.com/den-wdi-2/express-personal-api "Personal API"
-[8-5C]: https://github.com/den-wdi-2/express-personal-api "Personal API"
+
 [8-5D]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
 [8-5E]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
 
@@ -403,15 +404,14 @@ Time | Day 1                                      | Day 2                       
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-up** | [Interview Prep (Angular?)][9-1A] | [Trees (Zeb)][9-2A] | [Trees (Zeb)][9-3A] | Second Pass and [Questions in a Hat][9-4A] | [Auth Math (Zeb)][9-5A] | 
-**9:30am Module 1** | [Data Organization in Mongo][9-1B] | [Rapid Prototype][9-2B] | [ngAnimate ()][9-3B] | [Angular Auth][9-4B] | [Auth Math (Zeb)][9-5A] | 
- **11:00am Module 2** | [Lab: Mongoose Data Organization][9-1C] | [Rapid Prototype][9-2C] | [Team Git Workflow 1][9-3D] | [Prioritization and Proposal][9-4C] | Project 3 | 
+**9:30am Module 1** | TBD | [Rapid Prototype][9-2B] | [ngAnimate ()][9-3B] | [Angular Auth][9-4B] | [Auth Math (Zeb)][9-5A] | 
+ **11:00am Module 2** | TBD | [Rapid Prototype][9-2C] | [Team Git Workflow 1][9-3D] | [Prioritization and Proposal][9-4C] | Project 3 | 
 **1:30pm Module 3** | [Firebase (Zeb)][9-1D] | [Rapid Prototype][9-2D] | Outcomes | [Lab: Project 3 Pitches][9-4D] | Project 3 | 
 **3:00pm Module 4** | [Rapid Prototype][9-1E] | [Rapid Prototype Science Fair][9-2E] | [Team Git Workflow 2][9-3E] | [Pitch Feedback][9-4E] | Project 3 | 
 **Training** | Rapid Prototype | ui-router vs ngRoute readings: [#1][9-3F] + [#2][9-3G] + [#3][9-3H] | Prepare Project 3 Pitch | [Project 3][9-4F]  | Project 3 | 
 
 [9-1A]: # "Interview Prep"
-[9-1B]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
-[9-1C]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
+
 [9-1D]: https://github.com/den-wdi-2/ng-firebase "Firebase"
 [9-1E]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 
