@@ -18,7 +18,7 @@ Time  | Activity
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Warm-Up** | [Welcome to GA][1-1A] | [CSS selector basics (Zeb)][1-2A] | [Kyrel 1 (Zeb)][1-3A] |  [Kyrel 2 (Zeb)][1-4A]  | [Kyrel 3 (Zeb)][1-5A]
  **9:30am Module 1** | [Orientation (Zeb)][1-1B] | [Box model and positioning (Zeb)][1-2B] | [JS Data types, variables, and arrays (Zeb)][1-3B] |  [Functions and scope (Zeb)][1-4B] | Second Pass and [Questions in a Hat (Zeb)][1-5B]
- **11:00am Module 2** | [How the internet works (Zeb)][1-1C] | [Lab: Mockup to HTML/CSS (Zeb)][1-2C] | [Key-Value Store in JavaScript (Zeb)**][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
+ **11:00am Module 2** | [How the internet works (Zeb)][1-1C] | [Lab: Mockup to HTML/CSS (Zeb)][1-2C] | [Objects in JavaScript (Zeb)][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
  **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | Outcomes | [DOM manipulation and events (Nick)][1-4D] | [CSS Grid System and Media Queries (Nick)][1-5D]
 **3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Lab: Racer Game (Zeb) - Moving to Next Week][1-5E]      
 **Training** | [Lab: Command line][1-1F] () | [Lab: Build a website (Zeb)][1-2F] | Finish Design/CSS Lab  | Finish LOTR Lab | Finish Racer Lab  
