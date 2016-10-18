@@ -23,7 +23,7 @@ Time  | Activity
 **3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Lab: Racer Game (Zeb) - Moving to Next Week][1-5E]      
 **Training** | [Lab: Command line][1-1F] () | [Lab: Build a website (Zeb)][1-2F] | Finish Design/CSS Lab  | Finish LOTR Lab | Finish Racer Lab  
 
-[1-1A]: # "Icebreakers"
+[1-1A]: https://github.com/den-wdi-2/icebreakers "Icebreakers"
 [1-1B]: https://github.com/den-wdi-2/orientation "Orientation"
 [1-1C]: https://github.com/den-wdi-2/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/den-wdi-2/terminal-basics-navigating-the-filesystem/ "Navigating the file system"
