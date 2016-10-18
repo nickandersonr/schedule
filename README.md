@@ -59,7 +59,7 @@ Time  | Activity
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Warm-Up** | [Racer Issue Submission][2-1A] | [Whiteboarding][2-2A] | [GH Branching and gh-pages][2-3A] | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] | VETERANS DAY
+ **9:00am Warm-Up** | [Intro to ES6][2-1A] | [Whiteboarding][2-2A] | [GH Branching and gh-pages][2-3A] | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] | VETERANS DAY
  **9:30am Module 1** | [Whiteboarding 101][2-1B] | [HTML Forms (Zeb)][2-2B] | [Intermediate jQuery][2-3B] | [Wireframes][2-4C] | VETERANS DAY
  **11:00am Module 2** | [Computational Thinking Lab][2-1C] | [CSS for HTML Forms Lab][2-2C] | [Lab: Create jQuery selector][2-3C] | [OOP in JS ()][2-4D] | VETERANS DAY
 **1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [Intro to jQuery][2-2D] | Outcomes | [OOP concepts (Zeb)][2-4E] | VETERANS DAY
@@ -76,7 +76,7 @@ Weekly Goals:
 	* Create a fork of a repository
 	* Use Pull Requests to improve a repository's quality 
 
-[2-1A]: https://github.com/den-wdi-2/create-an-issue/ "Create an Issue"
+[2-1A]: https://github.com/den-wdi-2/es6 "ES6 Intro"
 [2-1B]: https://github.com/den-wdi-2/whiteboarding-101 "Whiteboarding 101"
 [2-1C]: https://github.com/den-wdi-2/logic-lab "Computational Thinking Lab"
 [2-1D]: https://github.com/den-wdi-2/js-callbacks-iterators "Callbacks & Iterators"
@@ -110,7 +110,7 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Intro to ES6][3-1A] | [Agile development and user stories ()][3-2A] | [Binary Search()][3-3A]  | [Bubble Sort (Zeb)][3-4A] | [Merge Sort ()][3-5A]
+**9:00am Module 1** | [Racer Issue Submission][3-1A] | [Agile development and user stories ()][3-2A] | [Binary Search()][3-3A]  | [Bubble Sort (Zeb)][3-4A] | [Merge Sort ()][3-5A]
  **10:30am Module 2** | Second Pass and [Questions in a Hat][3-1B] | [Agile Development Lab (Zeb)][3-2B] | Project 1 | Project 1 | Project 1
 **1:30pm Module 3** | [CSS Transitions & Animations][3-1C] | [Project 1 Approvals][3-2C] | Outcomes | Project 1 | Project 1
 **2:30pm Module 4** | [Project 1 Intro][3-1D] | Project 1 |  Project 1 |  Project 1 |  Project 1 
@@ -120,8 +120,7 @@ Weekly Goals:
 * Create a browser-based game for your porfolio
 * Learn about common ways software companies organize projects
 
-
-[3-1A]: https://github.com/den-wdi-2/es6 "ES6 Intro"
+[3-1A]: https://github.com/den-wdi-2/create-an-issue/ "Create an Issue"
 [3-1B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
 [3-1C]: https://github.com/den-wdi-2/css-animations "CSS Transitions & Animations"
 [3-1D]: https://github.com/den-wdi-2/project-1 "Project 1"
