@@ -20,8 +20,8 @@ Time  | Activity
  **9:30am Module 1** | [Orientation (Zeb)][1-1B] | [Box model and positioning (Zeb)][1-2B] | [JS Data types, variables, and arrays (Zeb)][1-3B] |  [Functions and scope (Zeb)][1-4B] | Second Pass and [Questions in a Hat (Zeb)][1-5B]
  **11:00am Module 2** | [How the internet works (Zeb)][1-1C] | [Lab: Mockup to HTML/CSS (Zeb)][1-2C] | [Objects in JavaScript (Zeb)][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
  **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | Outcomes | [DOM manipulation and events (Nick)][1-4D] | [CSS Grid System and Media Queries (Zeb)][1-5D]
-**3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Lab: Racer Game (Zeb) - Moving to Next Week][1-5E]      
-**Training** | [Lab: Command line][1-1F] () | [Lab: Build a website (Zeb)][1-2F] | Finish Design/CSS Lab  | Finish LOTR Lab | Finish Racer Lab  
+**3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E]   
+**Training** | [Lab: Command line][1-1F] () | [Lab: Build a website (Zeb)][1-2F] | Finish Design/CSS Lab  | Finish LOTR Lab | Finish Instagram Recreation  
 
 [1-1A]: https://github.com/den-wdi-2/icebreakers "Icebreakers"
 [1-1B]: https://github.com/den-wdi-2/orientation "Orientation"
@@ -53,7 +53,7 @@ Time  | Activity
 [1-5B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
 [1-5C]: https://github.com/den-wdi-2/control-flow "Mastering Control Flow"
 [1-5D]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox "Grid System & Media Queries"
-[1-5E]: https://github.com/den-wdi-2/week-1-assessment "Lab: Racer Game"
+[1-5E]: https://github.com/den-wdi-2/m4-css-lab "Pixel Perfect Recreation"
 
 #### Week 2 - JavaScript & Front-end Libraries (11/7-11/11)
 
@@ -64,7 +64,7 @@ Time |Day 1                                      | Day 2                        
  **11:00am Module 2** | [Computational Thinking Lab][2-1C] | [CSS for HTML Forms Lab][2-2C] | [Lab: Create jQuery selector][2-3C] | [OOP in JS ()][2-4D] | VETERANS DAY
 **1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [Intro to jQuery][2-2D] | Outcomes | [OOP concepts (Zeb)][2-4E] | VETERANS DAY
 **3:00pm Module 4** | [Lab: Callbacks & Iterators ()][2-1E] | [jQuery & Browser Storage ()][2-2E] | [Tic-Tac-Toe][2-3E] |  [OOP Refactor Lab (Zeb)][2-4F] | VETERANS DAY
-**Training** | Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides And Fix Issues | [More jQuery Practice ()][2-2F] | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | Finish Refactoring Tic-Tac-Toe | VETERANS DAY
+**Training** | Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides And Fix Issues | [More jQuery Practice ()][2-2F] | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game (Zeb) - Moving to Next Week][2-4G]  | VETERANS DAY
 
 Weekly Goals:
 * Build a single page app that can communicate with an external server
@@ -104,6 +104,7 @@ Weekly Goals:
 [2-4D]: https://github.com/den-wdi-2/js-oop-flower-power "Flower Power OOP Lab"
 [2-4E]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
 [2-4F]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
+[2-4G]: https://github.com/den-wdi-2/week-1-assessment "Lab: Racer Game"
 
 #### Week 3 - Project 1:  Browser Game (11/14-11/18)
 
