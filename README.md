@@ -19,7 +19,7 @@ Time  | Activity
  **9:00am Warm-Up** | [Welcome to GA][1-1A] | [CSS selector basics (Zeb)][1-2A] | [Kyrel 1 (Zeb)][1-3A] |  [Kyrel 2 (Zeb)][1-4A]  | [Kyrel 3 (Zeb)][1-5A]
  **9:30am Module 1** | [Orientation (Zeb)][1-1B] | [Box model and positioning (Zeb)][1-2B] | [JS Data types, variables, and arrays (Zeb)][1-3B] |  [Functions and scope (Zeb)][1-4B] | Second Pass and [Questions in a Hat (Zeb)][1-5B]
  **11:00am Module 2** | [How the internet works (Zeb)][1-1C] | [Lab: Mockup to HTML/CSS (Zeb)][1-2C] | [Objects in JavaScript (Zeb)][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
- **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | Outcomes | [DOM manipulation and events (Nick)][1-4D] | [CSS Grid System and Media Queries (Zeb)][1-5D]
+ **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | Outcomes (Nick) | [DOM manipulation and events (Nick)][1-4D] | [CSS Grid System and Media Queries (Zeb)][1-5D]
 **3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E]   
 **Training** | [Lab: Command line][1-1F] (Zeb) | [Lab: Build a website (Zeb)][1-2F] | Finish Design/CSS Lab  | Finish LOTR Lab | Finish Instagram Recreation  
 
@@ -59,12 +59,12 @@ Time  | Activity
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Warm-Up** | [Intro to ES6][2-1A] | [Whiteboarding][2-2A] | [GH Branching and gh-pages][2-3A] | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] | VETERANS DAY
- **9:30am Module 1** | [Whiteboarding 101][2-1B] | [HTML Forms (Zeb)][2-2B] | [Intermediate jQuery][2-3B] | [Wireframes][2-4C] | VETERANS DAY
- **11:00am Module 2** | [Computational Thinking Lab][2-1C] | [CSS for HTML Forms Lab][2-2C] | [Lab: Create jQuery selector][2-3C] | [OOP in JS ()][2-4D] | VETERANS DAY
-**1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [Intro to jQuery][2-2D] | Outcomes | [OOP concepts (Zeb)][2-4E] | VETERANS DAY
-**3:00pm Module 4** | [Lab: Callbacks & Iterators ()][2-1E] | [jQuery & Browser Storage ()][2-2E] | [Tic-Tac-Toe][2-3E] |  [OOP Refactor Lab (Zeb)][2-4F] | VETERANS DAY
-**Training** | Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides And Fix Issues | [More jQuery Practice ()][2-2F] | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game (Zeb) - Moving to Next Week][2-4G]  | VETERANS DAY
+ **9:00am Warm-Up** | [Intro to ES6 (Zeb)][2-1A] | [Whiteboarding (Zeb)][2-2A] | [GH Branching and gh-pages][2-3A] | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] (Zeb) | VETERANS DAY
+ **9:30am Module 1** | [Whiteboarding 101 (Zeb)][2-1B] | [HTML Forms (Zeb)][2-2B] | [Intermediate jQuery][2-3B] | [Wireframes (Will/Beth)][2-4C] | VETERANS DAY
+ **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] | [CSS for HTML Forms Lab][2-2C] | [Lab: Create jQuery selector (Zeb)][2-3C] | [OOP in JS (Zeb)][2-4D] | VETERANS DAY
+**1:30pm Module 3** | [Callbacks & Iterators (Nick)][2-1D] | [Intro to jQuery (Zeb)][2-2D] | Outcomes (Nick) | [OOP concepts (Zeb)][2-4E] | VETERANS DAY
+**3:00pm Module 4** | [Lab: Callbacks & Iterators (Nick)][2-1E] | [jQuery & Browser Storage (Nick)][2-2E] | [Tic-Tac-Toe (Nick)][2-3E] |  [OOP Refactor Lab (Nick)][2-4F] | VETERANS DAY
+**Training** | Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and [Quiz][2-1H] | [More jQuery Practice ()][2-2F] | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game][2-4G]  | VETERANS DAY
 
 Weekly Goals:
 * Build a single page app that can communicate with an external server
@@ -83,6 +83,7 @@ Weekly Goals:
 [2-1E]: https://github.com/den-wdi-2/js-building-iterators-lab "Callbacks & Iterators Lab"
 [2-1F]: https://google.github.io/styleguide/htmlcssguide.xml "Google Style Guide"
 [2-1G]: https://github.com/airbnb/javascript "AirBNB Style Guide"
+[2-1G]: # "Google Form on Styleguides"
 
 [2-2A]: # "Whiteboarding 1 - Egg Drop in Pairs"
 [2-2B]: https://github.com/den-wdi-2/html-forms "HTML Forms"
@@ -114,7 +115,7 @@ Time | Day 1                                      | Day 2                       
  **10:30am Module 2** | Second Pass and [Questions in a Hat][3-1B] | [Agile Development Lab (Zeb)][3-2B] | Project 1 | Project 1 | Project 1
 **1:30pm Module 3** | [CSS Transitions & Animations][3-1C] | [Project 1 Approvals][3-2C] | Outcomes | Project 1 | Project 1
 **2:30pm Module 4** | [Project 1 Intro][3-1D] | Project 1 |  Project 1 |  Project 1 |  Project 1 
-**Training** | Project 1 Proposal | Project 1 | Project 1 | Project 1 | Project 1 
+**Training** | Project 1 Proposal and Fix Issues | Project 1 | Project 1 | Project 1 | Project 1 
 
 Weekly Goals:
 * Create a browser-based game for your porfolio
