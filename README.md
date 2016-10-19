@@ -53,7 +53,7 @@ Time  | Activity
 [1-5B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
 [1-5C]: https://github.com/den-wdi-2/control-flow "Mastering Control Flow"
 [1-5D]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox "Grid System & Media Queries"
-[1-5E]: https://github.com/den-wdi-2/m4-css-lab "Pixel Perfect Recreation"
+[1-5E]: https://github.com/den-wdi-2/week-1-assessment "Pixel Perfect Recreation"
 
 #### Week 2 - JavaScript & Front-end Libraries (11/7-11/11)
 
@@ -105,7 +105,7 @@ Weekly Goals:
 [2-4D]: https://github.com/den-wdi-2/js-oop-flower-power "Flower Power OOP Lab"
 [2-4E]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
 [2-4F]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
-[2-4G]: https://github.com/den-wdi-2/week-1-assessment "Lab: Racer Game"
+[2-4G]: https://github.com/den-wdi-2/week-2-assessment "Lab: Racer Game"
 
 #### Week 3 - Project 1:  Browser Game (11/14-11/18)
 
