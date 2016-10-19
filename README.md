@@ -85,7 +85,7 @@ Weekly Goals:
 [2-1G]: https://github.com/airbnb/javascript "AirBNB Style Guide"
 [2-1G]: # "Google Form on Styleguides"
 
-[2-2A]: https://github.com/den-wdi-2/practice_problems/1_egg_and_polygon.md "Whiteboarding 1"
+[2-2A]: https://github.com/den-wdi-2/practice_problems/blob/master/1_egg_and_polygon.md "Whiteboarding 1"
 [2-2B]: https://github.com/den-wdi-2/html-forms "HTML Forms"
 [2-2C]: # "CSS for HTML Forms Lab"
 [2-2D]: https://github.com/den-wdi-2/intro-jquery "Intro to jQuery"
