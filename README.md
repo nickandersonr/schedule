@@ -87,14 +87,14 @@ Weekly Goals:
 
 [2-2A]: https://github.com/den-wdi-2/practice_problems/blob/master/1_egg_and_polygon.md "Whiteboarding 1"
 [2-2B]: https://github.com/den-wdi-2/html-forms "HTML Forms"
-[2-2C]: # "CSS for HTML Forms Lab"
+[2-2C]: https://github.com/den-wdi-2/css-html-forms-lab "CSS for HTML Forms Lab"
 [2-2D]: https://github.com/den-wdi-2/intro-jquery "Intro to jQuery"
 [2-2E]: https://github.com/den-wdi-2/jquery-and-browser-storage "jQuery and Browser Storage"
 [2-2F]: https://github.com/den-wdi-2/jquery-datepicker-lab "More jQuery Practice"
 
 [2-3A]: https://github.com/den-wdi-2/git-branching-and-pages "Git Branching and gh-pages"
 [2-3B]: https://github.com/den-wdi-2/intermediate-jquery "Intermediate jQuery"
-[2-3C]: # "jQuery Selector Lab"
+[2-3C]: https://github.com/den-wdi-2/jquery-selector-lab "jQuery Selector Lab"
 [2-3D]: # "Outcomes"
 [2-3E]: https://github.com/den-wdi-2/tic-tac-toe "Tic Tac Toe"
 [2-3F]: https://www.youtube.com/watch?v=SS-9y0H3Si8 "OOP Prep"
