@@ -21,7 +21,7 @@ Time  | Activity
  **11:00am Module 2** | [How the internet works (Zeb)][1-1C] | [Lab: Mockup to HTML/CSS (Zeb)][1-2C] | [Objects in JavaScript (Zeb)][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
  **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | Outcomes (Nick) | [DOM manipulation and events (Nick)][1-4D] | [CSS Grid System and Media Queries (Zeb)][1-5D]
 **3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E]   
-**Training** | [Lab: Command line][1-1F] (Zeb) | [Lab: Build a website (Zeb)][1-2F] | Finish Design/CSS Lab  | Finish LOTR Lab | Finish Instagram Recreation  
+**Training** | [Lab: Command line][1-1F] (Zeb) | Finish Design/CSS Lab | [Lab: Build a website (Zeb)][1-2F] | Finish LOTR Lab | Finish Instagram Recreation  
 
 [1-1A]: https://github.com/den-wdi-2/icebreakers "Icebreakers"
 [1-1B]: https://github.com/den-wdi-2/orientation "Orientation"
@@ -35,13 +35,13 @@ Time  | Activity
 [1-2C]: https://github.com/den-wdi-2/mockup-to-site-lab "Mockup to HTML/CSS Lab"
 [1-2D]: https://github.com/den-wdi-2/git-and-github "Git and GitHub"
 [1-2E]: https://github.com/den-wdi-2/design-and-css-challenge-lab "Design and CSS Challenge Lab"
-[1-2F]: https://github.com/den-wdi-2/build-a-website "Lab: Build a website"
 
 [1-3A]: https://github.com/den-wdi-2/kyrel "Kyrel 1"
 [1-3B]: https://github.com/den-wdi-2/js-data-types "Data types, Variables and Arrays"
 [1-3C]: https://github.com/den-wdi-2/js-objects "JavaScript Objects"
 [1-3D]: # "Outcomes"
 [1-3E]: https://github.com/den-wdi-2/chrome-dev-tools "Chrome Dev Tools"
+[1-3F]: https://github.com/den-wdi-2/build-a-website "Lab: Build a website"
 
 [1-4A]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day2.md "Kyrel 2"
 [1-4B]: https://github.com/den-wdi-2/js-functions-and-scope "Functions and Scope"
