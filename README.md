@@ -16,12 +16,12 @@ Time  | Activity
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [Welcome to GA][1-1A] | [CSS selector basics (Zeb)][1-2A] | Floats, Clears, and Multi-Column Layouts | [Kyrel 1 (Zeb)][1-3A] | [Kyrel 2 (Zeb)][1-4A]
+ **9:00am Warm-Up** | [Welcome to GA][1-1A] | [CSS selector basics (Zeb)][1-2A] | Floats, Clears, and Multi-Column Layouts | [Kyrel 1 (Zeb)][1-4A] | [Kyrel 2 (Zeb)][1-5A]
  **9:30am Module 1** | [Orientation (Zeb)][1-1B] | [Box model and positioning (Zeb)][1-2B] | [JS Data types, variables, and arrays (Zeb)][1-3B] |  [Functions and scope (Zeb)][1-4B] | Second Pass and [Questions in a Hat (Zeb)][1-5B]
  **11:00am Module 2** | [How the internet works (Zeb)][1-1C] | [Lab: Mockup to HTML/CSS (Zeb)][1-2C] | [Objects in JavaScript (Zeb)][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
  **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | Outcomes (Nick) | [DOM manipulation and events (Nick)][1-4D] | [CSS Grid System and Media Queries (Zeb)][1-5D]
 **3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E]   
-**Training** | [Lab: Command line][1-1F] (Zeb) | Finish Design/CSS Lab | [Lab: Build a website (Zeb)][1-2F] | Finish LOTR Lab | Finish Instagram Recreation and [Kyrel 3 (Zeb)][1-5A]
+**Training** | [Lab: Command line][1-1F] (Zeb) | Finish Design/CSS Lab | [Lab: Build a website (Zeb)][1-3F] | Finish LOTR Lab | Finish Instagram Recreation and [Kyrel 3 (Zeb)][1-5F]
 
 [1-1A]: https://github.com/den-wdi-2/icebreakers "Icebreakers"
 [1-1B]: https://github.com/den-wdi-2/orientation "Orientation"
@@ -36,24 +36,25 @@ Time  | Activity
 [1-2D]: https://github.com/den-wdi-2/git-and-github "Git and GitHub"
 [1-2E]: https://github.com/den-wdi-2/design-and-css-challenge-lab "Design and CSS Challenge Lab"
 
-[1-3A]: https://github.com/den-wdi-2/kyrel "Kyrel 1"
+[1-3A]: # "Floats and Clears"
 [1-3B]: https://github.com/den-wdi-2/js-data-types "Data types, Variables and Arrays"
 [1-3C]: https://github.com/den-wdi-2/js-objects "JavaScript Objects"
 [1-3D]: # "Outcomes"
 [1-3E]: https://github.com/den-wdi-2/chrome-dev-tools "Chrome Dev Tools"
 [1-3F]: https://github.com/den-wdi-2/build-a-website "Lab: Build a website"
 
-[1-4A]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day2.md "Kyrel 2"
+[1-4A]: https://github.com/den-wdi-2/kyrel "Kyrel 1"
 [1-4B]: https://github.com/den-wdi-2/js-functions-and-scope "Functions and Scope"
 [1-4C]: https://github.com/den-wdi-2/js-functions-lab "Lab: JavaScript functions"
 [1-4D]: https://github.com/den-wdi-2/dom-manipulation-and-events "DOM Manipulation & Events"
 [1-4E]: https://github.com/den-wdi-2/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
 
-[1-5A]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day3.md "Kyrel 3"
+[1-5A]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day2.md "Kyrel 2"
 [1-5B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
 [1-5C]: https://github.com/den-wdi-2/control-flow "Mastering Control Flow"
 [1-5D]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox "Grid System & Media Queries"
 [1-5E]: https://github.com/den-wdi-2/week-1-assessment "Pixel Perfect Recreation"
+[1-5F]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day3.md "Kyrel 3"
 
 #### Week 2 - JavaScript & Front-end Libraries (11/7-11/11)
 
