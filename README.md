@@ -149,6 +149,8 @@ Weekly Goals:
 
 #### Week 4 - Node and AJAX (11/21-11/25)
 
+#### Nick out this week
+
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
  **9:00am Warm-Up** | Final Prep and Submission | Small Algo | Unit 1 Second Pass | T-Gives | T-Gives
