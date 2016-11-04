@@ -56,11 +56,71 @@ Time  | Activity
 [1-5E]: https://github.com/den-wdi-2/week-1-assessment "Pixel Perfect Recreation"
 [1-5F]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day3.md "Kyrel 3"
 
+**Weekly Goals:**
+ *Understand the roles of HTML, CSS, and JS
+ *Utilize the main tools of web developers
+  *Git and GitHub
+  *The Terminal
+  *Chrome Developer Tools
+ *Build a website with HTML
+ *Style a page with CSS
+ *Implement Control Flow with loops and conditionals
+ *Use the building blocks of Javascript like strings, functions, and objects
+ *Manipulate the DOM with Javascript
+ *Think about problems programmatically
+ 
+
 #### Week 2 - JavaScript & Front-end Libraries (11/7-11/11)
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **Class** | Class | Class | Class | Class | VETERANS DAY - No Class
+ **9:00am Warm-Up** | [Intro to ES6 (Zeb)][2-1A] | [Whiteboarding (Zeb)][2-2A] | [GH Branching and gh-pages (Zeb)][2-3A] | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] (Zeb) | VETERANS DAY
+ **9:30am Module 1** | [Whiteboarding 101 (Zeb)][2-1B] | [Intro to jQuery (Zeb)][2-2B] | [Intermediate jQuery (Zeb)][2-3B] | [Wireframes (Will/Beth)][2-4C] | VETERANS DAY
+ **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] | [HTML Forms (Zeb)][2-2C] | [Lab: Create jQuery selector (Zeb)][2-3C] | [OOP in JS (Zeb)][2-4D] | VETERANS DAY
+**1:30pm Module 3** | [Callbacks & Iterators (Nick)][2-1D] | [CSS for HTML Forms Lab (Zeb)][2-2D] | Outcomes (Nick) | [OOP concepts (Zeb)][2-4E] | VETERANS DAY
+**3:00pm Module 4** | [Lab: Callbacks & Iterators (Nick)][2-1E] | [jQuery & Browser Storage (Nick)][2-2E] | [Tic-Tac-Toe (Nick)][2-3E] |  [OOP Refactor Lab (Nick)][2-4F] | VETERANS DAY
+**Training** | Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and [Quiz][2-1H] | [More jQuery Practice][2-2F] | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game][2-4G]  | VETERANS DAY
+
+Weekly Goals:
+* Understand the principles of Object Oriented Programming with Javascript
+* Answer technical questions on a whiteboard
+* Utilize and understand iterators and callbacks
+* Create and use HTML Forms
+* Use jQuery for DOM manipulation and Browser Storage
+* Communicate with other developers to improve code using Github
+	* Create a fork of a repository
+	* Use Pull Requests to improve a repository's quality 
+
+[2-1A]: https://github.com/den-wdi-2/es6 "ES6 Intro"
+[2-1B]: https://github.com/den-wdi-2/whiteboarding-101 "Whiteboarding 101"
+[2-1C]: https://github.com/den-wdi-2/logic-lab "Computational Thinking Lab"
+[2-1D]: https://github.com/den-wdi-2/js-callbacks-iterators "Callbacks & Iterators"
+[2-1E]: https://github.com/den-wdi-2/js-building-iterators-lab "Callbacks & Iterators Lab"
+[2-1F]: https://google.github.io/styleguide/htmlcssguide.xml "Google Style Guide"
+[2-1G]: https://github.com/airbnb/javascript "AirBNB Style Guide"
+[2-1G]: # "Google Form on Styleguides"
+
+[2-2A]: https://github.com/den-wdi-2/practice_problems/blob/master/1_egg_and_polygon.md "Whiteboarding 1"
+[2-2B]: https://github.com/den-wdi-2/intro-jquery "Intro to jQuery"
+[2-2C]: https://github.com/den-wdi-2/html-forms "HTML Forms"
+[2-2D]: https://github.com/den-wdi-2/css-html-forms-lab "CSS for HTML Forms Lab"
+[2-2E]: https://github.com/den-wdi-2/jquery-and-browser-storage "jQuery and Browser Storage"
+[2-2F]: https://github.com/den-wdi-2/jquery-datepicker-lab "More jQuery Practice"
+
+[2-3A]: https://github.com/den-wdi-2/git-branching-and-pages "Git Branching and gh-pages"
+[2-3B]: https://github.com/den-wdi-2/intermediate-jquery "Intermediate jQuery"
+[2-3C]: https://github.com/den-wdi-2/jquery-selector-lab "jQuery Selector Lab"
+[2-3D]: # "Outcomes"
+[2-3E]: https://github.com/den-wdi-2/tic-tac-toe "Tic Tac Toe"
+[2-3F]: https://www.youtube.com/watch?v=SS-9y0H3Si8 "OOP Prep"
+
+[2-4A]: https://teamtreehouse.com/community/pure-javascript-vs-jquery-2 "Native JS vs jQuery Choice"
+[2-4B]: https://gist.github.com/liamcurry/2597326 "Native JS vs jQuery Code"
+[2-4C]: # "Wireframes"
+[2-4D]: https://github.com/den-wdi-2/js-oop-flower-power "Flower Power OOP Lab"
+[2-4E]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
+[2-4F]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
+[2-4G]: https://github.com/den-wdi-2/week-2-assessment "Lab: Racer Game"
 
 #### Week 3 - Project 1:  Browser Game (11/14-11/18)
 
