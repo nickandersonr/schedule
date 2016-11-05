@@ -75,7 +75,7 @@ Time  | Activity
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
  **9:00am Warm-Up** | [Intro to ES6 (Zeb)][2-1A] | [Whiteboarding (Zeb)][2-2A] | [GH Branching and gh-pages (Zeb)][2-3A] | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] (Zeb) | VETERANS DAY
- **9:30am Module 1** | [Whiteboarding 101 (Zeb)][2-1B] | [Intro to jQuery (Zeb)][2-2B] | [Intermediate jQuery (Zeb)][2-3B] | [Wireframes (Will/Beth)][2-4C] | VETERANS DAY
+ **9:30am Module 1** | [Whiteboarding 101 (Zeb)][2-1B] | [Intro to jQuery (Zeb)][2-2B] | [Intermediate jQuery (Zeb)][2-3B] | [Wireframes (Will)][2-4C] | VETERANS DAY
  **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] | [HTML Forms (Zeb)][2-2C] | [Lab: Create jQuery selector (Zeb)][2-3C] | [OOP in JS (Zeb)][2-4D] | VETERANS DAY
 **1:30pm Module 3** | [Callbacks & Iterators (Nick)][2-1D] | [CSS for HTML Forms Lab (Zeb)][2-2D] | Outcomes (Nick) | [OOP concepts (Zeb)][2-4E] | VETERANS DAY
 **3:00pm Module 4** | [Lab: Callbacks & Iterators (Nick)][2-1E] | [jQuery & Browser Storage (Nick)][2-2E] | [Tic-Tac-Toe (Nick)][2-3E] |  [OOP Refactor Lab (Nick)][2-4F] | VETERANS DAY
