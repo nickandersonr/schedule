@@ -97,7 +97,7 @@ Weekly Goals:
 [2-1D]: https://github.com/den-wdi-2/js-callbacks-iterators "Callbacks & Iterators"
 [2-1E]: https://github.com/den-wdi-2/js-building-iterators-lab "Callbacks & Iterators Lab"
 [2-1F]: https://google.github.io/styleguide/htmlcssguide.xml "Google Style Guide"
-[2-1G]: https://github.com/airbnb/javascript "AirBNB Style Guide"
+[2-1G]: https://github.com/airbnb/javascript/tree/es5-deprecated/es5 "AirBNB Style Guide"
 
 [2-2A]: https://github.com/den-wdi-2/practice_problems/blob/master/1_egg_and_polygon.md "Whiteboarding 1"
 [2-2B]: https://github.com/den-wdi-2/intro-jquery "Intro to jQuery"
