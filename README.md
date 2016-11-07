@@ -57,17 +57,17 @@ Time  | Activity
 [1-5F]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day3.md "Kyrel 3"
 
 **Weekly Goals:**
- *Understand the roles of HTML, CSS, and JS
- *Utilize the main tools of web developers
-  *Git and GitHub
-  *The Terminal
-  *Chrome Developer Tools
- *Build a website with HTML
- *Style a page with CSS
- *Implement Control Flow with loops and conditionals
- *Use the building blocks of Javascript like strings, functions, and objects
- *Manipulate the DOM with Javascript
- *Think about problems programmatically
+ * Understand the roles of HTML, CSS, and JS
+ * Utilize the main tools of web developers
+  * Git and GitHub
+  * The Terminal
+  * Chrome Developer Tools
+ * Build a website with HTML
+ * Style a page with CSS
+ * Implement Control Flow with loops and conditionals
+ * Use the building blocks of Javascript like strings, functions, and objects
+ * Manipulate the DOM with Javascript
+ * Think about problems programmatically
  
 
 #### Week 2 - JavaScript & Front-end Libraries (11/7-11/11)
