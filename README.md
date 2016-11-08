@@ -79,7 +79,7 @@ Time |Day 1                                      | Day 2                        
  **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] | [HTML Forms (Zeb)][2-2C] | [Lab: Create jQuery selector (Zeb)][2-3C] | [OOP in JS (Zeb)][2-4D] | VETERANS DAY
 **1:30pm Module 3** | [Callbacks & Iterators (Nick)][2-1D] | [CSS for HTML Forms Lab (Zeb)][2-2D] | Outcomes (Nick) | [OOP concepts (Zeb)][2-4E] | VETERANS DAY
 **3:00pm Module 4** | [Lab: Callbacks & Iterators (Nick)][2-1E] | [jQuery & Browser Storage (Nick)][2-2E] | [Tic-Tac-Toe (Nick)][2-3E] |  [OOP Refactor Lab (Nick)][2-4F] | VETERANS DAY
-**Training** | Part 1: Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d01_Style_Guides" | [More jQuery Practice][2-2F] | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game][2-4G]  | VETERANS DAY
+**Training** | Part 1: Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d01_Style_Guides" | Finish CSS for HTML Forms Lab | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game][2-4G]  | VETERANS DAY
 **Training** | Part 2: Finish Callbacks and Iterators |  |  |  |
 Weekly Goals:
 * Understand the principles of Object Oriented Programming with Javascript
@@ -104,7 +104,6 @@ Weekly Goals:
 [2-2C]: https://github.com/den-wdi-2/html-forms "HTML Forms"
 [2-2D]: https://github.com/den-wdi-2/css-html-forms-lab "CSS for HTML Forms Lab"
 [2-2E]: https://github.com/den-wdi-2/jquery-and-browser-storage "jQuery and Browser Storage"
-[2-2F]: https://github.com/den-wdi-2/jquery-datepicker-lab "More jQuery Practice"
 
 [2-3A]: https://github.com/den-wdi-2/git-branching-and-pages "Git Branching and gh-pages"
 [2-3B]: https://github.com/den-wdi-2/intermediate-jquery "Intermediate jQuery"
