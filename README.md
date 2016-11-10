@@ -118,7 +118,7 @@ Weekly Goals:
 [2-4D]: https://github.com/den-wdi-2/js-oop-flower-power "Flower Power OOP Lab"
 [2-4E]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
 [2-4F]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
-[2-4G]: https://github.com/den-wdi-2/week-2-assessment "Lab: Racer Game"
+[2-4G]: https://github.com/den-wdi-2/assessment-2 "Lab: Racer Game"
 
 #### Week 3 - Project 1:  Browser Game (11/14-11/18)
 
