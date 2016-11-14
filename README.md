@@ -125,7 +125,7 @@ Weekly Goals:
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Module 1** | [Racer Issue Submission (Zeb)][3-1A] | [Agile development and user stories (Zeb)][3-2A] | [Binary Search (Zeb)][3-3A]  | [Bubble Sort (Zeb)][3-4A] | [Merge Sort (Zeb)][3-5A]
- **10:30am Module 2** | Second Pass and [Questions in a Hat][3-1B] (Zeb) | [Agile Development Lab (Zeb)][3-2B] | Project 1 | Project 1 | Project 1
+ **10:30am Module 2** | [Developer Resources][3-1F] and [Questions in a Hat][3-1B] (Zeb) | [Agile Development Lab (Zeb)][3-2B] | Project 1 | Project 1 | Project 1
 **1:30pm Module 3** | [CSS Transitions & Animations][3-1C] (Nick) | [Project 1 Approvals][3-2C] | Outcomes | Project 1 | Project 1
 **3:00pm Module 4** | [CodeWars Intro][3-1E] and [Project 1 Intro][3-1D] (Zeb) | Project 1 |  Project 1 |  Project 1 |  Project 1 
 **Training** | Project 1 Proposal and Fix Issues | Project 1 | Project 1 | Project 1 | Project 1 
@@ -139,6 +139,7 @@ Weekly Goals:
 [3-1C]: https://github.com/den-wdi-2/css-animations "CSS Transitions & Animations"
 [3-1D]: https://github.com/den-wdi-2/project-1 "Project 1"
 [3-1E]: https://www.codewars.com/dashboard "Code Wars"
+[3-1F]: https://github.com/den-wdi-2/developer-resources "Dev Resources"
 
 [3-2A]: https://github.com/den-wdi-2/software-development-best-practices "Agile development and user stories"
 [3-2B]: https://github.com/den-wdi-2/agile-lab "Agile Lab"
