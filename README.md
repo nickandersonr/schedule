@@ -172,7 +172,7 @@ Time | Day 1                                    | Day 2                         
 [4-2E]: https://github.com/den-wdi-2/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
 [4-2F]: https://github.com/den-wdi-2/muvie-haus "Muvie Haus"
 
-[4-3B]: # "Connecting Forms to APIs"
+[4-3B]: https://github.com/den-wdi-2/forms-and-ajax-lab "Connecting Forms to APIs"
 [4-3C]: https://github.com/den-wdi-2/js-ajax-lab "JS AJAX Lab"
 [4-3D]: https://github.com/den-wdi-2/nodejs "Intro to Node.js"
 [4-3E]: https://github.com/den-wdi-2/node-cli-weather "Intro Node Lab"
