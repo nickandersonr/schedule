@@ -168,7 +168,7 @@ Time | Day 1                                    | Day 2                         
 
 [4-2B]: https://github.com/den-wdi-2/api-intro "API, JSON, and Postman"
 [4-2C]: https://github.com/den-wdi-2/js-ajax-lesson "AJAX Intro"
-[4-2D]: # "Advanced AJAX"
+[4-2D]: https://github.com/den-wdi-2/CORS-and-JSONP "Advanced AJAX"
 [4-2E]: https://github.com/den-wdi-2/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
 [4-2F]: https://github.com/den-wdi-2/muvie-haus "Muvie Haus"
 
