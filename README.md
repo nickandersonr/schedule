@@ -154,7 +154,7 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Final Prep and Submission | Small Algo | Unit 1 Second Pass | T-Gives | T-Gives
+ **9:00am Warm-Up** | Final Prep and Submission | CodeWars | Unit 1 Second Pass | T-Gives | T-Gives
  **9:30am Module 1** | Final Prep and Submission | [API Intro with Postman][4-2B] | [Connecting Forms to APIs via AJAX][4-3B] | T-Gives | T-Gives
 **11:00am Module 2** | Presentations | [Intro to AJAX][4-2C] | [Lab: AJAX Calls to API][4-3C] | T-Gives | T-Gives
 **1:30pm Module 3** | Presentations | [Advanced AJAX: CORS/JSONP/APIs][4-2D] | [Intro to Node.js ()][4-3D] | T-Gives | T-Gives
