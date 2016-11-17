@@ -153,10 +153,10 @@ Weekly Goals:
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
  **9:00am Warm-Up** | Final Prep and Submission | CodeWars | Unit 1 Second Pass | T-Gives | T-Gives
- **9:30am Module 1** | Final Prep and Submission | [API Intro with Postman][4-2B] | [Connecting Forms to APIs via AJAX][4-3B] | T-Gives | T-Gives
-**11:00am Module 2** | Presentations | [Intro to AJAX][4-2C] | [Lab: AJAX Calls to API][4-3C] | T-Gives | T-Gives
-**1:30pm Module 3** | Presentations | [Advanced AJAX: CORS/JSONP/APIs][4-2D] | [Intro to Node.js ()][4-3D] | T-Gives | T-Gives
-**3:00pm Module 4** | Retrospective and [Fix an Issue ()][4-1D] | [Lab: AJAX Calls to API][4-2E] | [Node Lab][4-3E] | T-Gives | T-Gives
+ **9:30am Module 1** | Final Prep and Submission | [API Intro with Postman][4-2B] (Zeb) | [Connecting Forms to APIs via AJAX][4-3B] (Zeb) | T-Gives | T-Gives
+**11:00am Module 2** | Presentations | [Intro to AJAX][4-2C] (Zeb) | [Lab: AJAX Calls to API][4-3C] (Zeb) | T-Gives | T-Gives
+**1:30pm Module 3** | Presentations | [Advanced AJAX: CORS/JSONP/APIs][4-2D] (Zeb) | [Intro to Node.js (Zeb)][4-3D] | T-Gives | T-Gives
+**3:00pm Module 4** | Retrospective and [Fix an Issue (Zeb)][4-1D] | [Lab: AJAX Calls to API][4-2E] (Zeb) | [Node Lab][4-3E] (Zeb) | T-Gives | T-Gives
 **Training** | Fixing Issues | [Lab: Muvie Haus][4-2F] | [Lab: Requesting with Node][4-3F] | T-Gives | T-Gives
 
 [4-1A]: # "Presentations"
@@ -180,12 +180,12 @@ Time | Day 1                                    | Day 2                         
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Interview Prep | Interview Prep | Interview Prep  | Interview Prep | Second Pass and [Questions in a Hat][5-3A]| 
- **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | [Mongo Intro][5-2B] | [Views in Express (Zeb)][5-3B] | [Lab: Full-Stack JS][5-4B] | [Introducing Gulp (Zeb)][5-5B] | 
-**11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | [Mongo Lab][5-2C] | [Lab: Views in Express (Zeb)][5-3C] | [Lab: Full-Stack JS][5-4C] | [Sass Preprocessing (Zeb)][5-5C] | 
-**1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] | Outcomes | [UX Crash Course][5-4D] **needs input from UXD** | [Intro to TDD][5-5D] **Need to split top part out** | 
-**3:00pm Module 4** | [More Express Routes][5-1E] |  [Data Organization in Mongo][5-2E] | [TODO API][5-3E] | [Lab: Personal API][5-4E] | [Testing Lab][5-5E] | 
-**Training** | Finish Labs | Finish Labs | Complete TODO API & [Project 2 Proposal][5-3F] | [Lab: Personal API][5-4F] | [Testing Reading][5-5F] | 
+ **9:00am Warm-Up** | CodeWars | *Interview Prep - need idea* | CodeWars  | *Interview Prep - need idea* | Second Pass and [Questions in a Hat][5-3A] (Zeb)| 
+ **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | [Mongo Intro][5-2B] (Zeb) | [Views in Express (Zeb)][5-3B] | [Lab: Full-Stack JS][5-4B] (Zeb) | [Introducing Gulp (Zeb)][5-5B] | 
+**11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | [Mongo Lab][5-2C] (Zeb) | [Lab: Views in Express (Zeb)][5-3C] | [Lab: Full-Stack JS][5-4C] (Zeb) | [Sass Preprocessing (Zeb)][5-5C] | 
+**1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] (Nick) | Outcomes (Nick) | [UX Crash Course][5-4D] (Nick) **needs input from UXD** | [Intro to TDD][5-5D] (Zeb) **Need to split top part out** | 
+**3:00pm Module 4** | [More Express Routes][5-1E] (Nick) |  [Data Organization in Mongo][5-2E] (Nick) | [TODO API][5-3E] (Nick) | [Lab: Personal API][5-4E] (Nick) | [Testing Lab][5-5E] (Nick) | 
+**Training** | Finish Labs | Finish Labs | TODO API & [Project 2 Proposal][5-3F] | Personal API | [Testing Reading][5-5F] | 
 
 [5-1A]: # "Interview Prep"
 [5-1B]: https://github.com/den-wdi-2/express "Intro to Express.js"
@@ -212,7 +212,6 @@ Time | Day 1                                    | Day 2                         
 [5-4C]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
 [5-4D]: https://github.com/den-wdi-2/ux-crash-course "UX Crash Course"
 [5-4E]: https://github.com/den-wdi-2/express-personal-api "Personal API"
-[5-4F]: https://github.com/den-wdi-2/express-personal-api "Personal API"
 
 [5-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
 [5-5B]: https://github.com/den-wdi-2/gulp "Gulp"
@@ -225,11 +224,11 @@ Time | Day 1                                    | Day 2                         
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [Stacks ()][6-1A] | [Stacks Challenge ()][6-2A] | [Queues ()][6-3A] | [Queues Challenge ()][6-4A] | [Second Pass][6-5A]
- **9:30am Module 1** | [Project 2 Ideation / Wireframes][6-1B] | [Intro to MVC][6-2B] | TBD | [Models in an MVC App][6-4B] | [Security 101][6-5B] **Need to split top part out** | 
- **11:00am Module 2** | [Testing API Calls][6-1C] | [Intro to Foundation][6-2C] | TBD | [Wiring Models to Views][6-4C] | [Lab: Authenticating and Authorizing Users][6-5C] | 
- **1:30pm Module 3** | [Lab: Research and Test External API][6-1D] | [Map Wireframes][6-2D] | Outcomes | [REST Controllers Part 1][6-4D] | Lab: Authenticating and Authorizing Users | 
-**3:00pm Module 4** | [Lab: Research and Test External API][6-1E] | [Map Wireframes][6-2E] | [Lab: MVC Common Apps][6-3E] | [REST Controllers Part 2][6-4E] | Scrum and [Project 2 Review][6-5D] | 
+ **9:00am Warm-Up** | [Stacks (Zeb)][6-1A] | [Stacks Challenge (Zeb)][6-2A] | [Queues (Zeb)][6-3A] | [Queues Challenge (Zeb)][6-4A] | [Second Pass][6-5A] (Zeb)
+ **9:30am Module 1** | [Project 2 Ideation / Wireframes][6-1B] (Zeb) | [Intro to MVC][6-2B] (Zeb) | TBD (Zeb) | [Models in an MVC App][6-4B] (Zeb) | [Security 101][6-5B] (Zeb) **Need to split top part out** | 
+ **11:00am Module 2** | [Testing API Calls][6-1C] (Zeb) | [Intro to Bootstrap][6-2C] (Zeb) | TBD (Zeb) | [Wiring Models to Views][6-4C] (Zeb) | [Lab: Authenticating and Authorizing Users][6-5C] (Zeb) | 
+ **1:30pm Module 3** | [Lab: Research and Test External API][6-1D] (Nick) | [Map Wireframes][6-2D] (Nick) | Outcomes (Nick) | [REST Controllers Part 1][6-4D] (Nick) | Lab: Authenticating and Authorizing Users (Zeb) | 
+**3:00pm Module 4** | [Lab: Research and Test External API][6-1E] (Nick) | [Map Wireframes][6-2E] (Nick) | [Lab: MVC Common Apps][6-3E] (Nick) | [REST Controllers Part 2][6-4E] (Nick) | Scrum and [Project 2 Review][6-5D] (Nick) | 
 **Training** | [Get External API Set Up for Project 2][6-1F] | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Finish Labs | [Polish REST Controllers App][6-4F] | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | 
 
 [6-1A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
@@ -241,7 +240,7 @@ Time | Day 1                                    | Day 2                         
 
 [6-2A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
 [6-2B]: https://github.com/den-wdi-2/mvc-intro "MVC Intro"
-[6-2C]: https://github.com/den-wdi-2/css-foundation "Intro to Foundation"
+[6-2C]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
 [6-2D]: # "Map Wireframes to HTML/CSS Components for Project 2"
 [6-2E]: # "Map Wireframes to HTML/CSS Components for Project 2"
 [6-2F]: # "Mock Project 2"
@@ -272,7 +271,7 @@ Extra Resources:
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Warm-up** | [Interview Prep][7-1A] | [Interview Prep (Preferably CRUD or Auth-related)][7-2A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-3A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-4A] / Retrospective | [ES6 Lesson Part 2][7-5A] | 
- **9:30am Module 1** | [What Is Business/Domain Logic?][7-1B] / Standup | Project 2 | Project 2 | Project 2 Presentations | [Design Thinking and UX][7-5B] | 
+ **9:30am Module 1** | [What Is Business/Domain Logic? (Zeb)][7-1B] / Standup | Project 2 | Project 2 | Project 2 Presentations | [Design Thinking and UX][7-5B] | 
  **11:00am Module 2** | Project 2 | Project 2 | Project 2 | Project 2 Presentations | [User Research][7-5C] | 
  **1:30pm Module 3** | Project 2 | Project 2 | Outcomes | Project 2 Presentations  | [Intro to Angular ()][7-5D] | 
 **3:00pm Module 4** | Project 2 | Project 2 | Project 2 | Self Assessment and [Create Issues ()][7-4C] | [Lab: Intro to Angular][7-5E] | 
@@ -505,11 +504,10 @@ Time | Day 1                                 | Day 2                            
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **Leftovers** | [SQL (Zeb)][14-1A] | [Tune.ly][14-2A] | [More Mongo][14-3A] | [Other Mongo Intro][14-4A] | [Debugging in JavaScript ()][14-5A]
 **Leftovers** | [Developer Resources (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] | Review on [jQuery DOM][14-4B] | [Learn you Node][14-5B] | 
-**Leftovers** | [Intro to Bootstrap ()][14-1C] | [Git and GitHub Lab][14-2C] |[Objects and Prototypes][14-3C] (Zeb) | [Bubble Sort][14-4C] | [Merge Sort][14-5C]
+**Leftovers** |  | [Git and GitHub Lab][14-2C] |[Objects and Prototypes][14-3C] (Zeb) | [Bubble Sort][14-4C] | [Merge Sort][14-5C]
 
 [14-1A]: https://github.com/den-wdi-2/sql "SQL Select Lab"
 [14-1B]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
-[14-1C]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
 
 [14-2A]: https://github.com/den-wdi-2/tunely "Tunely"
 [14-2B]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
