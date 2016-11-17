@@ -111,7 +111,7 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Racer Issue Submission (Zeb)][3-1A] | [Agile development and user stories (Zeb)][3-2A] | Project Week Culture and HW Help | [Binary Search (Zeb)][3-3A] | Standup / Project 1
+**9:00am Module 1** | [Racer Issue Submission (Zeb)][3-1A] | [Agile development and user stories (Zeb)][3-2A] | Project Week Culture and HW Help | [Binary Search (Zeb)][3-3A] | **Decided to skip sorts to give more HW / Project time** Standup / Project 1
  **10:30am Module 2** | Second Pass and [Questions in a Hat][3-1B] (Zeb) | [Agile Development Lab (Zeb)][3-2B] | Project 1 | Standup / Project 1 | Project 1
 **1:30pm Module 3** | [CSS Transitions & Animations][3-1C] (Nick) | [Project 1 Approvals][3-2C] | Outcomes | Project 1 | Project 1
 **3:00pm Module 4** | [CodeWars Intro][3-1E] and [Project 1 Intro][3-1D] (Zeb) | Project 1 |  Project 1 |  Project 1 |  Project 1 
@@ -136,12 +136,10 @@ Weekly Goals:
 [3-3C]: # "Outcomes"
 [3-3D]: # "Project 1"
 
-[3-4A]: https://github.com/den-wdi-2/bubble-sort "Bubble Sort"
 [3-4B]: # "Project 1"
 [3-4C]: # "Project 1"
 [3-4D]: # "Project 1"
 
-[3-5A]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
 [3-5B]: # "Project 1"
 [3-5C]: # "Project 1"
 [3-5D]: # "Project 1"
@@ -507,7 +505,7 @@ Time | Day 1                                 | Day 2                            
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **Leftovers** | [SQL (Zeb)][14-1A] | [Tune.ly][14-2A] | [More Mongo][14-3A] | [Other Mongo Intro][14-4A] | [Debugging in JavaScript ()][14-5A]
 **Leftovers** | [Developer Resources (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] | Review on [jQuery DOM][14-4B] | [Learn you Node][14-5B] | 
-**Leftovers** | [Intro to Bootstrap ()][14-1C] | [Git and GitHub Lab][14-2C] |[Objects and Prototypes][14-3C] (Zeb)
+**Leftovers** | [Intro to Bootstrap ()][14-1C] | [Git and GitHub Lab][14-2C] |[Objects and Prototypes][14-3C] (Zeb) | Bubble Sort[14-4C] | Merge Sort[14-5C]
 
 [14-1A]: https://github.com/den-wdi-2/sql "SQL Select Lab"
 [14-1B]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
@@ -523,10 +521,11 @@ Time | Day 1                                 | Day 2                            
 
 [14-4A]: https://github.com/ga-wdi-lessons/mongo-intro/ "Another Intro to Mongo"
 [14-4B]: https://github.com/den-wdi-2/js-dom-jquery-first "jQuery DOM"
+[14-4C]: https://github.com/den-wdi-2/bubble-sort "Bubble Sort"
 
 [14-5A]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
 [14-5B]: https://github.com/workshopper/learnyounode "Learn you Node"
-
+[14-5C]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
