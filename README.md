@@ -225,8 +225,8 @@ Time | Day 1                                    | Day 2                         
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Warm-Up** | [Stacks (Zeb)][6-1A] | [Stacks Challenge (Zeb)][6-2A] | [Queues (Zeb)][6-3A] | [Queues Challenge (Zeb)][6-4A] | [Second Pass][6-5A] (Zeb)
- **9:30am Module 1** | [Project 2 Ideation / Wireframes][6-1B] (Zeb) | [Intro to MVC][6-2B] (Zeb) | TBD (Zeb) | [Models in an MVC App][6-4B] (Zeb) | [Security 101][6-5B] (Zeb) **Need to split top part out** | 
- **11:00am Module 2** | [Testing API Calls][6-1C] (Zeb) | [Intro to Bootstrap][6-2C] (Zeb) | TBD (Zeb) | [Wiring Models to Views][6-4C] (Zeb) | [Lab: Authenticating and Authorizing Users][6-5C] (Zeb) | 
+ **9:30am Module 1** | [Project 2 Ideation / Wireframes][6-1B] (Zeb) | [Intro to MVC][6-2B] (Zeb) | [Tunely][6-3B] (Zeb) | [Models in an MVC App][6-4B] (Zeb) | [Security 101][6-5B] (Zeb) **Need to split top part out** | 
+ **11:00am Module 2** | [Testing API Calls][6-1C] (Zeb) | [Intro to Bootstrap][6-2C] (Zeb) | [Tunely][6-3C] (Zeb) | [Wiring Models to Views][6-4C] (Zeb) | [Lab: Authenticating and Authorizing Users][6-5C] (Zeb) | 
  **1:30pm Module 3** | [Lab: Research and Test External API][6-1D] (Nick) | [Map Wireframes][6-2D] (Nick) | Outcomes (Nick) | [REST Controllers Part 1][6-4D] (Nick) | Lab: Authenticating and Authorizing Users (Zeb) | 
 **3:00pm Module 4** | [Lab: Research and Test External API][6-1E] (Nick) | [Map Wireframes][6-2E] (Nick) | [Lab: MVC Common Apps][6-3E] (Nick) | [REST Controllers Part 2][6-4E] (Nick) | Scrum and [Project 2 Review][6-5D] (Nick) | 
 **Training** | [Get External API Set Up for Project 2][6-1F] | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Finish Labs | [Polish REST Controllers App][6-4F] | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | 
@@ -246,7 +246,8 @@ Time | Day 1                                    | Day 2                         
 [6-2F]: # "Mock Project 2"
 
 [6-3A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
-
+[6-3B]: https://github.com/den-wdi-2/tunely
+[6-3C]: https://github.com/den-wdi-2/tunely
 [6-3D]: # "Outcomes"
 [6-3E]: # "MVC Common Apps Lab"
 
@@ -502,7 +503,7 @@ Time | Day 1                                 | Day 2                            
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Leftovers** | [SQL (Zeb)][14-1A] | [Tune.ly][14-2A] | [More Mongo][14-3A] | [Other Mongo Intro][14-4A] | [Debugging in JavaScript ()][14-5A]
+**Leftovers** | [SQL (Zeb)][14-1A] |  | [More Mongo][14-3A] | [Other Mongo Intro][14-4A] | [Debugging in JavaScript ()][14-5A]
 **Leftovers** | [Developer Resources (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] | Review on [jQuery DOM][14-4B] | [Learn you Node][14-5B] | 
 **Leftovers** | [ngAdoption Blog][14-1C] | [Git and GitHub Lab][14-2C] |[Objects and Prototypes][14-3C] (Zeb) | [Bubble Sort][14-4C] | [Merge Sort][14-5C]
 
@@ -510,7 +511,6 @@ Time | Day 1                                 | Day 2                            
 [14-1B]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
 [14-1C]: https://github.com/ga-chicago/ngAdoptionBlog
 
-[14-2A]: https://github.com/den-wdi-2/tunely "Tunely"
 [14-2B]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
 [14-2C]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
 
