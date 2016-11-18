@@ -156,7 +156,7 @@ Time | Day 1                                    | Day 2                         
  **9:30am Module 1** | Final Prep and Submission | [API Intro with Postman][4-2B] (Zeb) | Unit 1 Second Pass and [Connecting Forms to APIs via AJAX][4-3B] (Zeb) | T-Gives | T-Gives
 **11:00am Module 2** | Presentations | [Intro to AJAX][4-2C] (Zeb) | [Connecting Forms to APIs via AJAX][4-3B] (Zeb) | T-Gives | T-Gives
 **1:30pm Module 3** | Presentations | [Lab: Intro to AJAX][4-2D] (Zeb) | [Intro to Node.js (Zeb)][4-3D] | T-Gives | T-Gives
-**3:00pm Module 4** | Retrospective and [Fix an Issue (Zeb)][4-1D] | [Advanced AJAX: CORS/JSONP/APIs][4-2E] / [Lab: Shakeitspear][4-2F] (Zeb) | [Node Lab][4-3E] (Zeb) | T-Gives | T-Gives
+**3:00pm Module 4** | Retrospective and [Fix an Issue (Zeb)][4-1D] | [Lab: Shakeitspear][4-2E] (Zeb) | [Node Lab][4-3E] (Zeb) | T-Gives | T-Gives
 **Training** | Fixing Issues | Finish ShakeitSpear Lab | [Lab: Requesting with Node][4-3F] | T-Gives | T-Gives
 
 [4-1A]: # "Presentations"
@@ -167,8 +167,7 @@ Time | Day 1                                    | Day 2                         
 [4-2B]: https://github.com/den-wdi-2/api-intro "API, JSON, and Postman"
 [4-2C]: https://github.com/den-wdi-2/js-ajax-lesson "AJAX Intro"
 [4-2D]: https://github.com/den-wdi-2/js-ajax-lab "JS AJAX Lab"
-[4-2E]: https://github.com/den-wdi-2/CORS-and-JSONP "Advanced AJAX"
-[4-2F]: https://github.com/den-wdi-2/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
+[4-2E]: https://github.com/den-wdi-2/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
 
 [4-3A]: https://github.com/den-wdi-2/api-practice/blob/master/exercise-1.md "API Practice"
 [4-3B]: https://github.com/den-wdi-2/forms-and-ajax-lab "Connecting Forms to APIs"
