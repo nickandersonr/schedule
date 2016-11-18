@@ -152,12 +152,12 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Final Prep and Submission | CodeWars | Unit 1 Second Pass | T-Gives | T-Gives
- **9:30am Module 1** | Final Prep and Submission | [API Intro with Postman][4-2B] (Zeb) | [Connecting Forms to APIs via AJAX][4-3B] (Zeb) | T-Gives | T-Gives
-**11:00am Module 2** | Presentations | [Intro to AJAX][4-2C] (Zeb) | [Lab: AJAX Calls to API][4-3C] (Zeb) | T-Gives | T-Gives
-**1:30pm Module 3** | Presentations | [Advanced AJAX: CORS/JSONP/APIs][4-2D] (Zeb) | [Intro to Node.js (Zeb)][4-3D] | T-Gives | T-Gives
-**3:00pm Module 4** | Retrospective and [Fix an Issue (Zeb)][4-1D] | [Lab: AJAX Calls to API][4-2E] (Zeb) | [Node Lab][4-3E] (Zeb) | T-Gives | T-Gives
-**Training** | Fixing Issues | [Lab: Muvie Haus][4-2F] | [Lab: Requesting with Node][4-3F] | T-Gives | T-Gives
+ **9:00am Warm-Up** | Final Prep and Submission | CodeWars | [API Practice][4-3A] | T-Gives | T-Gives
+ **9:30am Module 1** | Final Prep and Submission | [API Intro with Postman][4-2B] (Zeb) | Unit 1 Second Pass and [Connecting Forms to APIs via AJAX][4-3B] (Zeb) | T-Gives | T-Gives
+**11:00am Module 2** | Presentations | [Intro to AJAX][4-2C] (Zeb) | [Connecting Forms to APIs via AJAX][4-3B] (Zeb) | T-Gives | T-Gives
+**1:30pm Module 3** | Presentations | [Lab: Intro to AJAX][4-2D] (Zeb) | [Intro to Node.js (Zeb)][4-3D] | T-Gives | T-Gives
+**3:00pm Module 4** | Retrospective and [Fix an Issue (Zeb)][4-1D] | [Advanced AJAX: CORS/JSONP/APIs][4-2E] / [Lab: Shakeitspear][4-2F] (Zeb) | [Node Lab][4-3E] (Zeb) | T-Gives | T-Gives
+**Training** | Fixing Issues | Finish ShakeitSpear Lab | [Lab: Requesting with Node][4-3F] | T-Gives | T-Gives
 
 [4-1A]: # "Presentations"
 [4-1B]: # "Presentations"
@@ -166,12 +166,12 @@ Time | Day 1                                    | Day 2                         
 
 [4-2B]: https://github.com/den-wdi-2/api-intro "API, JSON, and Postman"
 [4-2C]: https://github.com/den-wdi-2/js-ajax-lesson "AJAX Intro"
-[4-2D]: https://github.com/den-wdi-2/CORS-and-JSONP "Advanced AJAX"
-[4-2E]: https://github.com/den-wdi-2/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
-[4-2F]: https://github.com/den-wdi-2/muvie-haus "Muvie Haus"
+[4-2D]: https://github.com/den-wdi-2/js-ajax-lab "JS AJAX Lab"
+[4-2E]: https://github.com/den-wdi-2/CORS-and-JSONP "Advanced AJAX"
+[4-2F]: https://github.com/den-wdi-2/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
 
+[4-3A]: https://github.com/den-wdi-2/api-practice/blob/master/exercise-1.md "API Practice"
 [4-3B]: https://github.com/den-wdi-2/forms-and-ajax-lab "Connecting Forms to APIs"
-[4-3C]: https://github.com/den-wdi-2/js-ajax-lab "JS AJAX Lab"
 [4-3D]: https://github.com/den-wdi-2/nodejs "Intro to Node.js"
 [4-3E]: https://github.com/den-wdi-2/node-cli-weather "Intro Node Lab"
 [4-3F]: https://github.com/den-wdi-2/requesting-with-node "Requesting with Node"
@@ -502,7 +502,7 @@ Time | Day 1                                 | Day 2                            
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Leftovers** | [SQL (Zeb)][14-1A] |  | [More Mongo][14-3A] | [Other Mongo Intro][14-4A] | [Debugging in JavaScript ()][14-5A]
+**Leftovers** | [SQL (Zeb)][14-1A] | [Lab: Muvie Haus][14-2A] | [More Mongo][14-3A] | [Other Mongo Intro][14-4A] | [Debugging in JavaScript ()][14-5A]
 **Leftovers** | [Developer Resources (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] | Review on [jQuery DOM][14-4B] | [Learn you Node][14-5B] | 
 **Leftovers** | [ngAdoption Blog][14-1C] | [Git and GitHub Lab][14-2C] |[Objects and Prototypes][14-3C] (Zeb) | [Bubble Sort][14-4C] | [Merge Sort][14-5C]
 
@@ -510,6 +510,7 @@ Time | Day 1                                 | Day 2                            
 [14-1B]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
 [14-1C]: https://github.com/ga-chicago/ngAdoptionBlog
 
+[14-2A]: https://github.com/den-wdi-2/muvie-haus "Muvie Haus"
 [14-2B]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
 [14-2C]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
 
