@@ -164,9 +164,38 @@ Weekly Goals:
 
 #### Week 4 - Node and AJAX (11/21-11/25)
 
+#### Nick out this week
+
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Project 1 | Class | Class | T-Gives - No Class | T-Gives - No Class
+ **9:00am Warm-Up** | Final Prep and Submission | CodeWars | [API Practice][4-3A] | T-Gives | T-Gives
+ **9:30am Module 1** | Final Prep and Submission | [API Intro with Postman][4-2B] (Zeb) | Unit 1 Second Pass and [Connecting Forms to APIs via AJAX][4-3B] (Zeb) | T-Gives | T-Gives
+**11:00am Module 2** | Presentations | [Intro to AJAX][4-2C] (Zeb) | [Connecting Forms to APIs via AJAX][4-3B] (Zeb) | T-Gives | T-Gives
+**1:30pm Module 3** | Presentations | [Lab: Intro to AJAX][4-2D] (Zeb) | [Intro to Node.js (Zeb)][4-3D] | T-Gives | T-Gives
+**3:00pm Module 4** | Retrospective and [Fix an Issue (Zeb)][4-1D] | [Lab: Shakeitspear][4-2E] (Zeb) | [Node Lab][4-3E] (Zeb) | T-Gives | T-Gives
+**Training** | Fixing Issues | Finish ShakeitSpear Lab | [Lab: Requesting with Node][4-3F] | T-Gives | T-Gives
+
+Weekly Goals:
+* Leverage other developers to support and improve projects
+* Communicate between front-end and back-end with APIs and AJAX
+* Create a basic back-end with Node
+
+[4-1A]: # "Presentations"
+[4-1B]: # "Presentations"
+[4-1C]: # "Presentations"
+[4-1D]: https://github.com/den-wdi-2/create-an-issue-project1 "Fix an issue"
+
+[4-2B]: https://github.com/den-wdi-2/api-intro "API, JSON, and Postman"
+[4-2C]: https://github.com/den-wdi-2/js-ajax-lesson "AJAX Intro"
+[4-2D]: https://github.com/den-wdi-2/js-ajax-lab "JS AJAX Lab"
+[4-2E]: https://github.com/den-wdi-2/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
+
+[4-3A]: https://github.com/den-wdi-2/api-practice/blob/master/exercise-1.md "API Practice"
+[4-3B]: https://github.com/den-wdi-2/forms-and-ajax-lab "Connecting Forms to APIs"
+[4-3D]: https://github.com/den-wdi-2/nodejs "Intro to Node.js"
+[4-3E]: https://github.com/den-wdi-2/node-cli-weather "Intro Node Lab"
+[4-3F]: https://github.com/den-wdi-2/requesting-with-node "Requesting with Node"
+
 
 #### Week 5 - Express and Mongo (11/28-12/2)
 
