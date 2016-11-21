@@ -195,7 +195,7 @@ Time | Day 1                                    | Day 2                         
 
 [5-2A]: # "Interview Prep"
 [5-2B]: https://github.com/den-wdi-2/mongo-intro "Intro to Mongo"
-[5-2C]: https://github.com/ga-wdi-exercises/mongo-cli "Mongo Lab"
+[5-2C]: https://github.com/den-wdi-2/mongo-cli "Mongo Lab"
 [5-2D]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
 [5-2E]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
 
