@@ -204,7 +204,7 @@ Time | Day 1                                    | Day 2                         
 [5-3C]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
 [5-3D]: # "Outcomes"
 [5-3E]: https://github.com/den-wdi-2/test-driven-todo-api "Todo Lab"
-[5-3F]: # "Project 2 Proposal"
+[5-3F]: https://github.com/den-wdi-2/project-2 "Project 2 Proposal"
 
 [5-4A]: https://github.com/den-wdi-2/fizzBuzz "FizzBuzz"
 [5-4B]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
