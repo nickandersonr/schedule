@@ -179,7 +179,7 @@ Time | Day 1                                    | Day 2                         
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | CodeWars | [Troubleshooting and Dev Tools][5-2A] | CodeWars  | [FizzBuzz][5-4A] | Second Pass and [Questions in a Hat][5-3A] (Zeb)| 
+ **9:00am Warm-Up** | CodeWars | [Troubleshooting and Dev Tools][5-2A] | [Intro to EJS][5-3A]  | [FizzBuzz][5-4A] | Second Pass and [Questions in a Hat][5-3A] (Zeb)| 
  **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | [Mongo Intro][5-2B] (Zeb) | [Views in Express (Zeb)][5-3B] | [Lab: Full-Stack JS][5-4B] (Zeb) | [Introducing Gulp (Zeb)][5-5B] | 
 **11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | [Mongo Lab][5-2C] (Zeb) | [Lab: Views in Express (Zeb)][5-3C] | [Lab: Full-Stack JS][5-4C] (Zeb) | [Sass Preprocessing (Zeb)][5-5C] | 
 **1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] (Nick) | Outcomes (Nick) | [UX Crash Course][5-4D] (Nick) **needs input from UXD** | [Intro to TDD][5-5D] (Zeb) **Need to split top part out** | 
@@ -199,7 +199,7 @@ Time | Day 1                                    | Day 2                         
 [5-2D]: https://github.com/den-wdi-2/intro-mongoose "Mongo-backed models with Mongoose"
 [5-2E]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
 
-[5-3A]: # "CodeWars"
+[5-3A]: https://github.com/den-wdi-2/intro-ejs "EJS Intro"
 [5-3B]: https://github.com/den-wdi-2/express-views-lesson "Views in Express Lesson"
 [5-3C]: https://github.com/den-wdi-2/express-views-lab "Views in Express Lab"
 [5-3D]: # "Outcomes"
