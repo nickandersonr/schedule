@@ -217,7 +217,7 @@ Time | Day 1                                    | Day 2                         
 [5-5C]: https://github.com/den-wdi-2/gulp "Gulp"
 [5-5D]: https://github.com/den-wdi-2/tdd-and-mocha "Intro to TDD"
 [5-5E]: https://github.com/den-wdi-2/tdd-fibonacci "Testing Lab"
-[5-5F]: # "Testing Reading and Quiz"
+[5-5F]: https://mochajs.org/ "Testing Reading and Quiz"
 
 #### Week 6 - Full-Stack Apps, REST, MVC, and UX (12/5-12/9)
 
