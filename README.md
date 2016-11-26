@@ -215,7 +215,7 @@ Time | Day 1                                    | Day 2                         
 [5-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
 [5-5B]: https://github.com/den-wdi-2/sass-intro/blob/master/sass.md "Sass"
 [5-5C]: https://github.com/den-wdi-2/gulp "Gulp"
-[5-5D]: https://github.com/den-wdi-2/rspec "Intro to TDD"
+[5-5D]: https://github.com/den-wdi-2/tdd-and-mocha "Intro to TDD"
 [5-5E]: https://github.com/den-wdi-2/tdd-fibonacci "Testing Lab"
 [5-5F]: # "Testing Reading and Quiz"
 
