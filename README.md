@@ -175,7 +175,7 @@ Time | Day 1                                    | Day 2                         
 [4-3E]: https://github.com/den-wdi-2/node-cli-weather "Intro Node Lab"
 [4-3F]: https://github.com/den-wdi-2/requesting-with-node "Requesting with Node"
 
-#### Week 5 - Express and SQL (11/28-12/2)
+#### Week 5 - Express and Mongo (11/28-12/2)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
