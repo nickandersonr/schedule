@@ -206,7 +206,7 @@ Time | Day 1                                    | Day 2                         
 **11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | [Mongo Lab][5-2C] (Zeb) | [Lab: Views in Express (Zeb)][5-3C] | [Lab: Full-Stack JS][5-4C] (Zeb) | [Introducing Gulp (Zeb)][5-5C] | 
 **1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] (Nick) | Outcomes (Nick) | [UX Crash Course][5-4D] (Nick) | [Intro to TDD][5-5D] (Zeb) | 
 **3:00pm Module 4** | [More Express Routes][5-1E] (Nick) |  [Data Organization in Mongo][5-2E] (Nick) | [TODO API][5-3E] (Nick) | [Lab: Personal API][5-4E] (Nick) | [Testing Lab][5-5E] (Nick) | 
-**Training** | Finish Labs | Finish Labs | TODO API & [Project 2 Proposal][5-3F] | Personal API | [Testing Reading][5-5F] | 
+**Training** | Candies (Express Routing) Lab | Restaurants (Mongo CLI) Lab | TODO API & [Project 2 Proposal][5-3F] | Personal API | [Testing Reading][5-5F] | 
 
 Weekly Goals:
 * Build a web server with Express
