@@ -227,20 +227,20 @@ Time | Day 1                                    | Day 2                         
  **9:30am Module 1** | [Testing API Calls][6-1B] (Zeb) | [Intro to MVC][6-2B] (Zeb) | [Tunely][6-3B] (Zeb) | [Stacks and Queues][6-4B] (Zeb) | [Second Pass][6-5B] (Zeb) | 
  **11:00am Module 2** | [Lab: Research and Test External API for Project 2][6-1C] (Zeb) | [Sass Preprocessing (Zeb)][6-2C] | [Tunely][6-3C] (Zeb) | [Stacks and Queues][6-4C] (Zeb) | [Security 101][6-5C] (Zeb) **Need to split top part out** | 
  **1:30pm Module 3** | [Lab: Research and Test External API for Project 2][6-1D] (Zeb) | [Intro to Bootstrap][6-2D] (Nick) | Outcomes (Nick) | [Wiring Models to Views][6-4D] (Nick) | [Intro to Passport][6-5D] (Zeb) | 
-**3:00pm Module 4** | [Project 2 Ideation / Wireframes][6-1E] (Nick) | [Map Wireframes][6-2E] (Nick) | [Lab: MVC Common Apps - or Nick's Choice][6-3E] (Nick) | [Wiring to REST Controllers][6-4E] (Nick) | [Project 2 Trello][6-5E] and First Scrum (Zeb) | 
+**3:00pm Module 4** | [Project 2 Ideation / Wireframes][6-1E] (Nick) | [Map Wireframes][6-2E] (Nick) | [Lab: MVC Common Apps - or Nick's Choice][6-3E] (Nick) | [Catch-up and Project 2][6-4E] (Nick) | [Project 2 Trello][6-5E] and First Scrum (Zeb) | 
 **Training** | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Finish Tunely | [Polish REST Controllers App][6-4F] | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | 
 
 [6-1A]: https://github.com/den-wdi-2/fizzBuzz "FizzBuzz"
-[6-1B]: # "Testing API Calls"
-[6-1C]: # "Research and Test External API Lab"
-[6-1D]: # "Research and Test External API Lab"
-[6-1E]: # "Project 2 Ideation / Wireframes"
+[6-1B]: https://github.com/den-wdi-2/api-testing "Testing API Calls"
+[6-1C]: https://github.com/den-wdi-2/external-API-research "Research and Test External API Lab"
+[6-1D]: https://github.com/den-wdi-2/external-API-research "Research and Test External API Lab"
+[6-1E]: https://github.com/den-wdi-2/project-2-ideation "Project 2 Ideation / Wireframes"
 
 [6-2A]: https://www.codewars.com "CodeWars"
 [6-2B]: https://github.com/den-wdi-2/mvc-intro "MVC Intro"
 [6-2C]: https://github.com/den-wdi-2/sass-intro/blob/master/sass.md "Sass"
 [6-2D]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
-[6-2E]: # "Map Wireframes to HTML/CSS Components for Project 2"
+[6-2E]: https://github.com/den-wdi-2/mapping-wireframes "Map Wireframes to HTML/CSS Components for Project 2"
 [6-2F]: # "Mock Project 2"
 
 [6-3A]: https://www.codewars.com "CodeWars"
@@ -252,15 +252,15 @@ Time | Day 1                                    | Day 2                         
 [6-4A]: # "Something Fun"
 [6-4B]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
 [6-4C]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
-[6-4D]: # "Wiring Models to Views"
-[6-4E]: # "Wiring to REST Controllers"
+[6-4D]: https://github.com/den-wdi-2/wiring-models-views "Wiring Models to Views"
+[6-4E]: # "Catch Up and Project 2 Time"
 [6-4F]: # "MVP Of Project 2"
 
 [6-5A]: # "Questions in a Hat"
 [6-5B]: # "Second Pass"
 [6-5C]: https://github.com/den-wdi-2/rails-auth "Security 101"
-[6-5D]: # "Intro to Passport"
-[6-5D]: https://github.com/den-wdi-2/project-2 "Project 2"
+[6-5D]: https://github.com/den-wdi-2/express-passport "Intro to Passport"
+[6-5E]: https://github.com/den-wdi-2/project-2 "Project 2"
 
 Extra Resources:
 
