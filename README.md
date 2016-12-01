@@ -499,12 +499,12 @@ Time | Day 1                                 | Day 2                            
 
 ### Extras:
 
-Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+Type| 1                                 | 2                                               | 3                                              | 4                                     | 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **Should-get-to** | [Bubble Sort][14-1A] | [Merge Sort][14-2A] | [Debugging in JavaScript ()][14-3A] | [Git and GitHub Lab][14-4A] | 
 **May-get-to** | [SQL (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] |  |  | 
 **Probably-No-Time** | [ngAdoption Blog][14-1C] |  |  |  |  | 
-**Helpful-next-time** | Objects and Prototypes][14-1D] (Zeb) |  |  |  |
+**Helpful-next-time** | [Objects and Prototypes][14-1D] (Zeb) |  |  |  |
 
 [14-1A]: https://github.com/den-wdi-2/bubble-sort "Bubble Sort"
 [14-1B]: https://github.com/den-wdi-2/sql "SQL Select Lab"
