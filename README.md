@@ -201,7 +201,7 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | CodeWars | [Troubleshooting and Dev Tools][5-2A] | [Intro to EJS][5-3A]  | [FizzBuzz][5-4A] | Second Pass and [Questions in a Hat][5-5A] (Zeb)| 
+ **9:00am Warm-Up** | CodeWars | [Troubleshooting and Dev Tools][5-2A] | [Intro to EJS][5-3A]  | [Mongoose Data Exercises][5-4A] | Second Pass and [Questions in a Hat][5-5A] (Zeb)| 
  **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | [Mongo Intro][5-2B] (Zeb) | [Views in Express (Zeb)][5-3B] | [Lab: Full-Stack JS][5-4B] (Zeb) | [Sass Preprocessing (Zeb)][5-5B] | 
 **11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | [Mongo Lab][5-2C] (Zeb) | [Lab: Views in Express (Zeb)][5-3C] | [Lab: Full-Stack JS][5-4C] (Zeb) | [Introducing Gulp (Zeb)][5-5C] | 
 **1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] (Nick) | Outcomes (Nick) | [UX Crash Course][5-4D] (Nick) | [Intro to TDD][5-5D] (Zeb) | 
@@ -236,7 +236,7 @@ Weekly Goals:
 [5-3E]: https://github.com/den-wdi-2/test-driven-todo-api "Todo Lab"
 [5-3F]: https://github.com/den-wdi-2/project-2 "Project 2 Proposal"
 
-[5-4A]: https://github.com/den-wdi-2/fizzBuzz "FizzBuzz"
+[5-4A]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
 [5-4B]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
 [5-4C]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
 [5-4D]: https://github.com/den-wdi-2/ux-crash-course "UX Crash Course"
