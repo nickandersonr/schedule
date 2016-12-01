@@ -223,12 +223,12 @@ Time | Day 1                                    | Day 2                         
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [FizzBuzz][6-1A] | [Stacks (Zeb)][6-2A] | [Stacks Challenge (Zeb)][6-3A] | [Stacks Challenge (Zeb)][6-4A] | [Second Pass][6-5A] (Zeb)
- **9:30am Module 1** | [Testing API Calls][6-1B] (Zeb) | [Intro to MVC][6-2B] (Zeb) | [Tunely][6-3B] (Zeb) | [Models in an MVC App][6-4B] (Zeb) | [Security 101][6-5B] (Zeb) **Need to split top part out** | 
- **11:00am Module 2** | [Lab: Research and Test External API for Project 2][6-1C] (Zeb) | [Sass Preprocessing (Zeb)][6-2C] | [Tunely][6-3C] (Zeb) | [Wiring Models to Views][6-4C] (Zeb) | [Lab: Authenticating and Authorizing Users][6-5C] (Zeb) | 
- **1:30pm Module 3** | [Lab: Research and Test External API for Project 2][6-1D] (Zeb) | [Intro to Bootstrap][6-2D] (Zeb) | Outcomes (Nick) | [REST Controllers Part 1][6-4D] (Nick) | Lab: Authenticating and Authorizing Users (Zeb) | 
-**3:00pm Module 4** | [Project 2 Ideation / Wireframes][6-1E] (Nick) | [Map Wireframes][6-2E] (Nick) | [Lab: MVC Common Apps][6-3E] (Nick) | [REST Controllers Part 2][6-4E] (Nick) | Scrum and [Project 2 Review][6-5D] (Nick) | 
-**Training** | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Finish Labs | [Polish REST Controllers App][6-4F] | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | 
+ **9:00am Warm-Up** | [FizzBuzz][6-1A] | [CodeWars][6-2A] | [CodeWars][6-3A] | [TBD - Something Fun][6-4A] | Questions
+ **9:30am Module 1** | [Testing API Calls][6-1B] (Zeb) | [Intro to MVC][6-2B] (Zeb) | [Tunely][6-3B] (Zeb) | [Stacks and Queues][6-4B] (Zeb) | [Second Pass][6-5B] (Zeb) | 
+ **11:00am Module 2** | [Lab: Research and Test External API for Project 2][6-1C] (Zeb) | [Sass Preprocessing (Zeb)][6-2C] | [Tunely][6-3C] (Zeb) | [Stacks and Queues][6-4C] (Zeb) | [Security 101][6-5C] (Zeb) **Need to split top part out** | 
+ **1:30pm Module 3** | [Lab: Research and Test External API for Project 2][6-1D] (Zeb) | [Intro to Bootstrap][6-2D] (Nick) | Outcomes (Nick) | [Wiring Models to Views][6-4D] (Nick) | [Intro to Passport][6-5D] (Zeb) | 
+**3:00pm Module 4** | [Project 2 Ideation / Wireframes][6-1E] (Nick) | [Map Wireframes][6-2E] (Nick) | [Lab: MVC Common Apps - or Nick's Choice][6-3E] (Nick) | [Wiring to REST Controllers][6-4E] (Nick) | [Project 2 Trello][6-5E] and First Scrum (Zeb) | 
+**Training** | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Finish Tunely | [Polish REST Controllers App][6-4F] | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | 
 
 [6-1A]: https://github.com/den-wdi-2/fizzBuzz "FizzBuzz"
 [6-1B]: # "Testing API Calls"
@@ -236,29 +236,30 @@ Time | Day 1                                    | Day 2                         
 [6-1D]: # "Research and Test External API Lab"
 [6-1E]: # "Project 2 Ideation / Wireframes"
 
-[6-2A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
+[6-2A]: https://www.codewars.com "CodeWars"
 [6-2B]: https://github.com/den-wdi-2/mvc-intro "MVC Intro"
 [6-2C]: https://github.com/den-wdi-2/sass-intro/blob/master/sass.md "Sass"
 [6-2D]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
 [6-2E]: # "Map Wireframes to HTML/CSS Components for Project 2"
 [6-2F]: # "Mock Project 2"
 
-[6-3A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
+[6-3A]: https://www.codewars.com "CodeWars"
 [6-3B]: https://github.com/den-wdi-2/tunely
 [6-3C]: https://github.com/den-wdi-2/tunely
 [6-3D]: # "Outcomes"
 [6-3E]: # "MVC Common Apps Lab"
 
-[6-4A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
-[6-4B]: # "Models in MVC"
-[6-4C]: # "Wiring Models to Views"
-[6-4D]: # "Rest Controllers Part 1"
-[6-4E]: # "Rest Controllers Part 2"
-[6-4F]: # "Polish REST Controllers App"
+[6-4A]: # "Something Fun"
+[6-4B]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
+[6-4C]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
+[6-4D]: # "Wiring Models to Views"
+[6-4E]: # "Wiring to REST Controllers"
+[6-4F]: # "MVP Of Project 2"
 
-[6-5A]: # "Second Pass"
-[6-5B]: https://github.com/den-wdi-2/rails-auth "Security 101"
-[6-5C]: # "Authenticating and Authorizing Lab"
+[6-5A]: # "Questions in a Hat"
+[6-5B]: # "Second Pass"
+[6-5C]: https://github.com/den-wdi-2/rails-auth "Security 101"
+[6-5D]: # "Intro to Passport"
 [6-5D]: https://github.com/den-wdi-2/project-2 "Project 2"
 
 Extra Resources:
