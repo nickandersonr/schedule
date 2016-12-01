@@ -497,37 +497,27 @@ Time | Day 1                                 | Day 2                            
 **1:00pm** |Project Work | Project Work | Presentations / Outcomes (1:30) | Final Survey, Certificates, and Recap | NO CLASS
 **Training** |Project Work | Project Work | Project Work | Happy Hour | NO CLASS
 
-
 ### Extras:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Leftovers** | [SQL (Zeb)][14-1A] | [Lab: Muvie Haus][14-2A] | [More Mongo][14-3A] | [Other Mongo Intro][14-4A] | [Debugging in JavaScript ()][14-5A]
-**Leftovers** | [Developer Resources (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] | Review on [jQuery DOM][14-4B] | [Learn you Node][14-5B] | 
-**Leftovers** | [ngAdoption Blog][14-1C] | [Git and GitHub Lab][14-2C] |[Objects and Prototypes][14-3C] (Zeb) | [Bubble Sort][14-4C] | [Merge Sort][14-5C]
-**Leftovers** | [Queues (Zeb)][14-1D] | [Queues Challenge (Zeb)][14-2D]
+**Should-get-to** | [Bubble Sort][14-1A] | [Merge Sort][14-2A] | [Debugging in JavaScript ()][14-3A] | [Git and GitHub Lab][14-4A] | 
+**May-get-to** | [SQL (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] |  |  | 
+**Probably-No-Time** | [ngAdoption Blog][14-1C] |  |  |  |  | 
+**Helpful-next-time** | Objects and Prototypes][14-1D] (Zeb) |  |  |  |
 
-[14-1A]: https://github.com/den-wdi-2/sql "SQL Select Lab"
-[14-1B]: https://github.com/den-wdi-2/developer-resources "Developer Resources"
+[14-1A]: https://github.com/den-wdi-2/bubble-sort "Bubble Sort"
+[14-1B]: https://github.com/den-wdi-2/sql "SQL Select Lab"
 [14-1C]: https://github.com/ga-chicago/ngAdoptionBlog
-[14-1D]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
+[14-1D]: https://github.com/den-wdi-2/js-prototypes-constructors "Objects and Prototypes"
 
-[14-2A]: https://github.com/den-wdi-2/muvie-haus "Muvie Haus"
+[14-2A]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
 [14-2B]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
-[14-2C]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
-[14-2D]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
 
-[14-3A]: https://github.com/ga-wdi-lessons/mongo-relationships "Potential Mongo Furthering"
+[14-3A]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
 [14-3B]: https://github.com/den-wdi-2/handlebars "Handlebars Templating"
-[14-3C]: https://github.com/den-wdi-2/js-prototypes-constructors "Objects and Prototypes"
 
-[14-4A]: https://github.com/ga-wdi-lessons/mongo-intro/ "Another Intro to Mongo"
-[14-4B]: https://github.com/den-wdi-2/js-dom-jquery-first "jQuery DOM"
-[14-4C]: https://github.com/den-wdi-2/bubble-sort "Bubble Sort"
-
-[14-5A]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
-[14-5B]: https://github.com/workshopper/learnyounode "Learn you Node"
-[14-5C]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
+[14-4A]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
