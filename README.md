@@ -201,8 +201,8 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | CodeWars | [Troubleshooting and Dev Tools][5-2A] | [Intro to EJS][5-3A]  | [Mongoose Data Exercises][5-4A] | Second Pass and [Questions in a Hat][5-5A] (Zeb)| 
- **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | [Mongo Intro][5-2B] (Zeb) | [Views in Express (Zeb)][5-3B] | [Lab: Full-Stack JS][5-4B] (Zeb) | [Sass Preprocessing (Zeb)][5-5B] | 
+ **9:00am Warm-Up** | CodeWars | [Troubleshooting and Dev Tools][5-2A] | [Intro to EJS][5-3A]  | [Mongoose Data Exercises][5-4A] | [Questions in a Hat][5-5A] (Zeb)| 
+ **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | [Mongo Intro][5-2B] (Zeb) | [Views in Express (Zeb)][5-3B] | [Lab: Full-Stack JS][5-4B] (Zeb) | [Second Pass (Zeb)][5-5B] | 
 **11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | [Mongo Lab][5-2C] (Zeb) | [Lab: Views in Express (Zeb)][5-3C] | [Lab: Full-Stack JS][5-4C] (Zeb) | [Sass Preprocessing (Zeb)][5-5C] | 
 **1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] (Nick) | Outcomes (Nick) | [UX Crash Course][5-4D] (Nick) | [Intro to TDD][5-5D] (Zeb) | 
 **3:00pm Module 4** | [More Express Routes][5-1E] (Nick) |  [Data Organization in Mongo][5-2E] (Nick) | [TODO API][5-3E] (Nick) | [Lab: Personal API][5-4E] (Nick) | [Testing Lab][5-5E] (Zeb) | 
@@ -243,7 +243,7 @@ Weekly Goals:
 [5-4E]: https://github.com/den-wdi-2/express-personal-api "Personal API"
 
 [5-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
-[5-5B]: https://github.com/den-wdi-2/sass-intro/blob/master/sass.md "Sass"
+[5-5B]: https://github.com/den-wdi-2/unit2_week1_secondpass "Second Pass"
 [5-5C]: https://github.com/den-wdi-2/sass-intro/blob/master/sass.md "Sass"
 [5-5D]: https://github.com/den-wdi-2/tdd-and-mocha "Intro to TDD"
 [5-5E]: https://github.com/den-wdi-2/tdd-fibonacci "Testing Lab"
