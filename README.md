@@ -183,7 +183,7 @@ Time | Day 1                                    | Day 2                         
  **9:30am Module 1** | [Intro to Express (Zeb)][5-1B] | [Mongo Intro][5-2B] (Zeb) | [Views in Express (Zeb)][5-3B] | [Lab: Full-Stack JS][5-4B] (Zeb) | Second Pass | 
 **11:00am Module 2** | [Building Express Routes (Zeb)][5-1C] | [Mongo Lab][5-2C] (Zeb) | [Lab: Views in Express (Zeb)][5-3C] **Did not get to this because previous classes took too long** | [Lab: Full-Stack JS][5-4C] (Zeb) | [Sass Preprocessing (Zeb)][5-5C] | 
 **1:30pm Module 3** | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] (Nick) | Outcomes (Nick) | [UX Crash Course][5-4D] (Nick) **needs input from UXD** | [Intro to TDD][5-5D] (Zeb) **Need to split top part out** | 
-**3:00pm Module 4** | [More Express Routes][5-1E] (Nick) |  [Data Organization in Mongo][5-2E] (Nick) | [TODO API][5-3E] (Nick) | [Lab: Personal API][5-4E] (Nick) | [Testing Lab][5-5E] (Nick) | 
+**3:00pm Module 4** | [More Express Routes][5-1E] (Nick) |  [Data Organization in Mongo][5-2E] (Nick) | [TODO API][5-3E] (Nick) | [Lab: Personal API][5-4E] (Nick) | [Testing Lab][5-5E] (Zeb)  ** No time for this, will do as morning exercise ** | 
 **Training** | Finish Labs | Finish Labs | TODO API & [Project 2 Proposal][5-3F] | Personal API | [Testing Reading][5-5F] | 
 
 [5-1A]: # "CodeWars"
@@ -223,14 +223,14 @@ Time | Day 1                                    | Day 2                         
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [FizzBuzz][6-1A] | [CodeWars][6-2A] | [CodeWars][6-3A] | [A-Ha Moments][6-4A] | Questions
+ **9:00am Warm-Up** | [Testing Lab][6-1A] (Zeb) | [CodeWars][6-2A] | [CodeWars][6-3A] | [A-Ha Moments][6-4A] | Questions
  **9:30am Module 1** | [Testing API Calls][6-1B] (Zeb) | [Intro to MVC][6-2B] (Zeb) | [Tunely][6-3B] (Zeb) | [Stacks and Queues][6-4B] (Zeb) | [Second Pass][6-5B] (Zeb) | 
  **11:00am Module 2** | [Lab: Research and Test External API for Project 2][6-1C] (Zeb) | [Introducing Gulp (Zeb)][6-2C] | [Tunely][6-3C] (Zeb) | [Stacks and Queues][6-4C] (Zeb) | [Security 101][6-5C] (Zeb) **Need to split top part out** | 
  **1:30pm Module 3** | [Lab: Research and Test External API for Project 2][6-1D] (Zeb) | [Intro to Bootstrap][6-2D] (Nick) | Outcomes (Nick) | [Wiring Models to Views][6-4D] (Nick) | [Intro to Passport][6-5D] (Zeb) | 
 **3:00pm Module 4** | [Project 2 Ideation / Wireframes][6-1E] (Nick) | [Map Wireframes][6-2E] (Nick) | [MVC Folder Structure and Nick's Choice][6-3E] (Nick) | [Catch-up and Project 2][6-4E] (Nick) | [Project 2 Trello][6-5E] and First Scrum (Zeb) | 
 **Training** | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Finish Tunely | [Polish REST Controllers App][6-4F] | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | 
 
-[6-1A]: https://github.com/den-wdi-2/fizzBuzz "FizzBuzz"
+[6-1A]: https://github.com/den-wdi-2/tdd-fibonacci "Testing Lab"
 [6-1B]: https://github.com/den-wdi-2/api-testing "Testing API Calls"
 [6-1C]: https://github.com/den-wdi-2/external-API-research "Research and Test External API Lab"
 [6-1D]: https://github.com/den-wdi-2/external-API-research "Research and Test External API Lab"
@@ -270,8 +270,8 @@ Extra Resources:
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-up** | [Interview Prep][7-1A] | [Interview Prep (Preferably CRUD or Auth-related)][7-2A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-3A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-4A] / Retrospective | [ES6 Lesson Part 2][7-5A] | 
- **9:30am Module 1** | [What Is Business/Domain Logic? (Zeb)][7-1B] / Standup | Project 2 | Project 2 | Project 2 Presentations | [Design Thinking and UX][7-5B] | 
+ **9:00am Warm-up** | [FizzBuzz][7-1A] | [Interview Prep (Preferably CRUD or Auth-related)][7-2A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-3A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-4A] / Retrospective | [ES6 Lesson Part 2][7-5A] | 
+ **9:30am Module 1** | Standup | Project 2 | Project 2 | Project 2 Presentations | [Design Thinking and UX][7-5B] | 
  **11:00am Module 2** | Project 2 | Project 2 | Project 2 | Project 2 Presentations | [User Research][7-5C] | 
  **1:30pm Module 3** | Project 2 | Project 2 | Outcomes | Project 2 Presentations  | [Intro to Angular ()][7-5D] | 
 **3:00pm Module 4** | Project 2 | Project 2 | Project 2 | Self Assessment and [Create Issues ()][7-4C] | [Lab: Intro to Angular][7-5E] | 
@@ -280,8 +280,7 @@ Extra Resources:
 Weekly Goals:
 - Something about Angular
 
-[7-1A]: # "Interview Prep"
-[7-1B]: # "Business and Domain Logic"
+[7-1A]: https://github.com/den-wdi-2/fizzBuzz "FizzBuzz"
 
 [7-2A]: # "Interview Prep"
 
