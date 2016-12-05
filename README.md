@@ -257,7 +257,7 @@ Weekly Goals:
  **9:30am Module 1** | [Testing API Calls][6-1B] (Zeb) | [Intro to MVC][6-2B] (Zeb) | [Tunely][6-3B] (Zeb) | [Stacks and Queues][6-4B] (Zeb) | [Second Pass][6-5B] (Zeb) | 
  **11:00am Module 2** | [Lab: Research and Test External API for Project 2][6-1C] (Zeb) | [Introducing Gulp (Zeb)][6-2C] | [Tunely][6-3C] (Zeb) | [Stacks and Queues][6-4C] (Zeb) | [Security 101][6-5C] (Zeb) | 
  **1:30pm Module 3** | [Lab: Research and Test External API for Project 2][6-1D] (Zeb) | [Intro to Bootstrap][6-2D] (Nick) | Outcomes (Nick) | [Wiring Models to Views][6-4D] (Nick) | [Intro to Passport][6-5D] (Zeb) | 
-**3:00pm Module 4** | [Project 2 Ideation / Wireframes][6-1E] (Nick) | [Map Wireframes][6-2E] (Nick) | [MVC Folder Structure and Nick's Choice][6-3E] (Nick) | [Catch-up and Project 2][6-4E] (Nick) | [Project 2 Trello][6-5E] and First Scrum (Zeb) | 
+**3:00pm Module 4** | [Project 2 Ideation / Wireframes][6-1E] (Nick) | [Map Wireframes][6-2E] (Nick) | [MVC Folder Structure and Organization][6-3E] (Nick) | [Catch-up and Project 2][6-4E] (Nick) | [Project 2 Trello][6-5E] and First Scrum (Zeb) | 
 **Training** | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Finish Tunely | [Polish REST Controllers App][6-4F] | [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) / Project 2 | 
 
 Weekly Goals:
