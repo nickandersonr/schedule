@@ -284,7 +284,7 @@ Weekly Goals:
 [6-3B]: https://github.com/den-wdi-2/tunely
 [6-3C]: https://github.com/den-wdi-2/tunely
 [6-3D]: # "Outcomes"
-[6-3E]: # "MVC Structure"
+[6-3E]: https://github.com/den-wdi-2/mvc-folder-structure
 
 [6-4A]: # "Something Fun"
 [6-4B]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
