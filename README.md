@@ -253,7 +253,7 @@ Weekly Goals:
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [Testing Lab][6-1A] (Zeb) | [CodeWars][6-2A] | [ES6 Quiz][6-3A] | [A-Ha Moments][6-4A] | Questions
+ **9:00am Warm-Up** | [Testing Lab][6-1A] (Zeb) | [CodeWars][6-2A] | [CodeWars][6-3A] | [A-Ha Moments][6-4A] | Questions
  **9:30am Module 1** | [Testing API Calls][6-1B] (Zeb) | [Intro to MVC][6-2B] (Zeb) | [Tunely][6-3B] (Zeb) | [Stacks and Queues][6-4B] (Zeb) | [Second Pass][6-5B] (Zeb) | 
  **11:00am Module 2** | [Lab: Research and Test External API for Project 2][6-1C] (Zeb) | [Introducing Gulp (Zeb)][6-2C] | [Tunely][6-3C] (Zeb) | [Stacks and Queues][6-4C] (Zeb) | [Security 101][6-5C] (Zeb) | 
  **1:30pm Module 3** | [Lab: Research and Test External API for Project 2][6-1D] (Zeb) | [Intro to Bootstrap][6-2D] (Nick) | [MVC App Organization][6-3D] (Nick) | Outcomes (Nick) | [Intro to Passport][6-5D] (Zeb) | 
@@ -280,7 +280,7 @@ Weekly Goals:
 [6-2E]: https://github.com/den-wdi-2/mapping-wireframes "Map Wireframes to HTML/CSS Components for Project 2"
 [6-2F]: # "Mock Project 2"
 
-[6-3A]: https://github.com/den-wdi-2/gulp "CodeWars"
+[6-3A]: https://www.codewars.com "CodeWars"
 [6-3B]: https://github.com/den-wdi-2/tunely
 [6-3C]: https://github.com/den-wdi-2/tunely
 [6-3D]: https://github.com/den-wdi-2/mvc-folder-structure "MVC App Organization"
