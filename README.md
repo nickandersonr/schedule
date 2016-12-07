@@ -270,7 +270,7 @@ Extra Resources:
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-up** | [FizzBuzz][7-1A] | [Interview Prep (Preferably CRUD or Auth-related)][7-2A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-3A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-4A] / Retrospective | [ES6 Lesson Part 2][7-5A] | 
+ **9:00am Warm-up** | [FizzBuzz][7-1A] | [Interview Prep (Preferably CRUD or Auth-related)][7-2A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-3A] / Standup | [ES6 Quiz][7-4A] / Retrospective | [ES6 Lesson Part 2][7-5A] | 
  **9:30am Module 1** | Standup | Project 2 | Project 2 | Project 2 Presentations | [Design Thinking and UX][7-5B] | 
  **11:00am Module 2** | Project 2 | Project 2 | Project 2 | Project 2 Presentations | [User Research][7-5C] | 
  **1:30pm Module 3** | Project 2 | Project 2 | Outcomes | Project 2 Presentations  | [Intro to Angular ()][7-5D] | 
@@ -287,7 +287,7 @@ Weekly Goals:
 [7-3A]: # "Interview Prep"
 [7-3C]: # "Outcomes"
 
-[7-4A]: # "Interview Prep"
+[7-4A]: https://github.com/den-wdi-2/gulp "ES6 Quiz"
 [7-4C]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
 
 [7-5A]: https://github.com/den-wdi-2/es6-part2 "More ES6"
