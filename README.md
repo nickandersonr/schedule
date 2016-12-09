@@ -286,15 +286,15 @@ Weekly Goals:
 [6-3D]: https://github.com/den-wdi-2/mvc-folder-structure "MVC App Organization"
 [6-3E]: https://github.com/den-wdi-2/mvc-folder-structure "MVC App Organization"
 
-[6-4A]: # "Something Fun"
+[6-4A]: # "A-Ha Moments"
 [6-4B]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
 [6-4C]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
 [6-4D]: # "Outcomes"
 [6-4E]: # "Catch Up and Project 2 Time"
 [6-4F]: https://github.com/den-wdi-2/project-2 "MVP Of Project 2"
 
-[6-5A]: # "Questions in a Hat"
-[6-5B]: # "Second Pass"
+[6-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-06.md "Questions"
+[6-5B]: https://github.com/den-wdi-2/unit2_week2_secondpass "Second Pass"
 [6-5C]: https://github.com/den-wdi-2/rails-auth "Security 101"
 [6-5D]: https://github.com/den-wdi-2/express-passport "Intro to Passport"
 [6-5E]: https://github.com/den-wdi-2/project-2 "Project 2"
