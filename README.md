@@ -270,11 +270,11 @@ Extra Resources:
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-up** | [FizzBuzz][7-1A] | [Interview Prep (Preferably CRUD or Auth-related)][7-2A] / Standup | [Interview Prep (Preferably CRUD or Auth-related)][7-3A] / Standup | [ES6 Quiz][7-4A] / Retrospective | [ES6 Lesson Part 2][7-5A] | 
- **9:30am Module 1** | Standup | Project 2 | Project 2 | Project 2 Presentations | [Design Thinking and UX][7-5B] | 
- **11:00am Module 2** | Project 2 | Project 2 | Project 2 | Project 2 Presentations | [User Research][7-5C] | 
- **1:30pm Module 3** | Project 2 | Project 2 | Outcomes | Project 2 Presentations  | [Intro to Angular ()][7-5D] | 
-**3:00pm Module 4** | Project 2 | Project 2 | Project 2 | Self Assessment and [Create Issues ()][7-4C] | [Lab: Intro to Angular][7-5E] | 
+ **9:00am Warm-up** | [FizzBuzz][7-1A] | Standup | Standup |  Project 2 | [ES6 Quiz][7-5A] | 
+ **9:30am Module 1** | Standup | Project 2 | Project 2 | Retrospective | [ES6 Lesson Part 2][7-5B] | 
+ **11:00am Module 2** | Project 2 | Project 2 | Project 2 | Project 2 Presentations | [Auth Math (Zeb)][7-5C] | 
+ **1:30pm Module 3** | Project 2 | Project 2 | Project 2 | Outcomes  | [Intro to Angular ()][7-5D] | 
+**3:00pm Module 4** | Project 2 | Project 2 | Project 2 | [Create Issues ()][7-4C] | [Lab: Intro to Angular][7-5E] | 
 **Training** | Project 2 | Project 2 | Project 2 | Fix Issues | [Look over the Angular Documentation][7-5F] + [Check out this blog][7-5G] + [Do this Lab][7-5H] | 
 
 Weekly Goals:
@@ -287,12 +287,11 @@ Weekly Goals:
 [7-3A]: # "Interview Prep"
 [7-3C]: # "Outcomes"
 
-[7-4A]: https://github.com/den-wdi-2/gulp "ES6 Quiz"
 [7-4C]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
 
-[7-5A]: https://github.com/den-wdi-2/es6-part2 "More ES6"
-[7-5B]: # "Design Thinking and UX"
-[7-5C]: # "User Research"
+[7-5A]: https://github.com/den-wdi-2/gulp "ES6 Quiz"
+[7-5B]: https://github.com/den-wdi-2/es6-part2 "More ES6"
+[7-5C]: https://github.com/den-wdi-2/authentication-and-math "Auth Math"
 [7-5D]: https://github.com/den-wdi-2/angular-intro "Intro to Angular"
 [7-5E]: https://github.com/den-wdi-2/angular-intro "Intro to Angular Lab"
 [7-5F]: https://docs.angularjs.org/guide/introduction "Angular Reading"
@@ -305,10 +304,10 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Interview Prep (Angular?)][8-1A] | [User Goals and Flows][8-2A] | [User Goals and Flows Exercise][8-3A] | [Interview Prep (Angular?)][8-4A] | Second Pass and [Questions in a Hat][8-5A] | 
-**9:30am Module 1** | [Competitive Research][8-1B] | [$http and promises ()][8-2B] | [Personas from Research][8-3B] | [$resource ()][8-4B] | [ngAnimate ()][8-5B] | 
+**9:00am Warm-up** | [Interview Prep (Angular?)][8-1A] | [User Goals and Flows][8-2A] | [User Goals and Flows Exercise][8-3A] | [Interview Prep (Angular?)][8-4A] | [Questions in a Line][8-5A] | 
+**9:30am Module 1** | [Competitive Research][8-1B] | [$http and promises ()][8-2B] | [Personas from Research][8-3B] | [$resource ()][8-4B] | Second Pass | 
  **11:00am Module 2** | [Lab: Competitive and User Research][8-1C] | [$http LAB][8-2C] | [Routing ()][8-3C] | [Firebase (Zeb)][8-4C] | [Angular Auth][8-5C] | 
-**1:30pm Module 3** | [Directives Lesson ()][8-1D] | [Angular Hangman][8-2D] | Outcomes | [Almost MEAN App][8-5D] / Mid-Course Survey Somewhere | [Auth Math (Zeb)][8-5D] | 
+**1:30pm Module 3** | [Directives Lesson ()][8-1D] | [Angular Hangman][8-2D] | Outcomes | [Almost MEAN App][8-4D] | [ngAnimate ()][8-5D] | 
 **3:00pm Module 4** | [Directives Lab][8-1E] | [Angular Hangman][8-1E] | [Routing Lab][8-3E] | [Almost MEAN App][8-5E] | [Rapid Prototype][9-1E] | 
 **Training** | Finish Labs | ui-router vs ngRoute readings: [#1][8-2F] + [#2][8-2G] + [#3][8-2H] | Interview Potential Users | Complete MEAN App | Rapid Prototype | 
 
@@ -340,10 +339,10 @@ Time | Day 1                                      | Day 2                       
 [8-4E]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
 
 
-[8-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-10.md "Review / Questions in a Hat"
-[8-5B]: https://github.com/den-wdi-2/angular-animations-intro "ngAnimate"
+[8-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-10.md "Questions in a Line"
+[8-5B]: # "Second Pass"
 [8-5C]: https://github.com/den-wdi-2/angular-auth-satellizer "Angular Auth"
-[8-5D]: https://github.com/den-wdi-2/authentication-and-math "Auth Math"
+[8-5D]: https://github.com/den-wdi-2/angular-animations-intro "ngAnimate"
 [8-5E]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 
 <!--Encourage CodeWars to keep fresh on break -->
@@ -402,7 +401,7 @@ Time | Day 1                           | Day 2                                  
 **9:30am Module 1** | [String Matching (Zeb)][10-1B] | [Linked Lists Challenge ()][10-2B] | Project 3 | Project 3 | [Angular 2 Intro][10-5B] | 
 **11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 Presentations | [Angular 2 Topic 1][10-5C] | 
 **1:30pm Module 3** | Project 3 | Project 3 | Outcomes | Project 3 Presentations | [Angular 2 Topic 2][10-5D] | 
-**3:00pm Module 4** | Project 3 | Project 3 | Project 3 | Self Assessment and [Create Issues ()][10-4C] | [Lab: Angular 2][10-5E] | 
+**3:00pm Module 4** | Project 3 | Project 3 | Project 3 | [Create Issues ()][10-4C] | [Lab: Angular 2][10-5E] | 
 **Training** | Project 3 | Project 3 | Project 3 | Fix Issues | Angular 2 Lab | 
 
 [10-1A]: https://github.com/den-wdi-2/string-matching "String Matching"
