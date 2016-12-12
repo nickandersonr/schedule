@@ -274,7 +274,7 @@ Extra Resources:
  **9:30am Module 1** | Standup | Project 2 | Project 2 | Retrospective | [ES6 Quiz (Zeb)][7-5B] | 
  **11:00am Module 2** | Project 2 | Project 2 | Project 2 | Project 2 Presentations | [Auth Math (Zeb)][7-5C] | 
  **1:30pm Module 3** | Project 2 | Project 2 | Project 2 | Outcomes  | [Intro to Angular (Zeb)][7-5D] | 
-**3:00pm Module 4** | Project 2 | Project 2 | Project 2 | [Create Issues][7-4C] | [Lab: Intro to Angular (Zeb)][7-5E] | 
+**3:00pm Module 4** | Project 2 | Project 2 | Project 2 | [Create Issues][7-4D] | [Lab: Intro to Angular (Zeb)][7-5E] | 
 **Training** | Project 2 | Project 2 | Project 2 | Fix Issues | [Look over the Angular Documentation][7-5F] + [Check out this blog][7-5G] + [Do this Lab][7-5H] | 
 
 Weekly Goals:
@@ -282,12 +282,10 @@ Weekly Goals:
 
 [7-1A]: https://github.com/den-wdi-2/fizzBuzz "FizzBuzz"
 
-[7-2A]: # "Interview Prep"
-
 [7-3A]: # "Interview Prep"
-[7-3C]: # "Outcomes"
 
-[7-4C]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
+[7-4C]: # "Outcomes"
+[7-4D]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
 
 [7-5A]: https://github.com/den-wdi-2/es6-part2 "More ES6"
 [7-5B]: https://github.com/den-wdi-2/gulp "ES6 Quiz"
