@@ -307,7 +307,33 @@ Extra Resources:
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **Class** | Project 2 | Project 2 | Project 2 | Project 2 | Class | 
+ **9:00am Warm-up** | [FizzBuzz][7-1A] | Standup | Standup |  Project 2 | [ES6 Lesson Part 2 (Zeb)][7-5A] | 
+ **9:30am Module 1** | Standup | Project 2 | Project 2 | Retrospective | [ES6 Quiz (Zeb)][7-5B] | 
+ **11:00am Module 2** | Project 2 | Project 2 | Project 2 | Project 2 Presentations | [Auth Math (Zeb)][7-5C] | 
+ **1:30pm Module 3** | Project 2 | Project 2 | Project 2 | Outcomes  | [Intro to Angular (Zeb)][7-5D] | 
+**3:00pm Module 4** | Project 2 | Project 2 | Project 2 | [Create Issues][7-4D] | [Lab: Intro to Angular (Zeb)][7-5E] | 
+**Training** | Project 2 | Project 2 | Project 2 | Fix Issues | [Look over the Angular Documentation][7-5F] + [Check out this blog][7-5G] + [Do this Lab][7-5H] | 
+
+Weekly Goals:
+- Build a personal full-stack Javascript App from scratch
+- Wrap up ES6 Fundamentals
+- Understand what Angular is
+
+[7-1A]: https://github.com/den-wdi-2/fizzBuzz "FizzBuzz"
+
+[7-3A]: # "Interview Prep"
+
+[7-4C]: # "Outcomes"
+[7-4D]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
+
+[7-5A]: https://github.com/den-wdi-2/es6-part2 "More ES6"
+[7-5B]: https://github.com/den-wdi-2/gulp "ES6 Quiz"
+[7-5C]: https://github.com/den-wdi-2/authentication-and-math "Auth Math"
+[7-5D]: https://github.com/den-wdi-2/angular-intro "Intro to Angular"
+[7-5E]: https://github.com/den-wdi-2/angular-intro "Intro to Angular Lab"
+[7-5F]: https://docs.angularjs.org/guide/introduction "Angular Reading"
+[7-5G]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
+[7-5H]: https://github.com/den-wdi-2/intro_angular_challenges
 
 ## Unit 3: Full Stack and Group Work
 
