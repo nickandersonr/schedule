@@ -351,12 +351,12 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Interview Prep (Angular?)][9-1A] | [Trees (Zeb)][9-2A] | [Trees (Zeb)][9-3A] | Second Pass and [Questions in a Hat][9-4A] | Stand-up | 
-**9:30am Module 1** | [Rapid Prototype][9-1B] | [Intro to SQL and Relational DBs][9-2B] | [SQL Relationships][9-3B] | [Team Git Workflow 1][9-4B] | Project 3 | 
- **11:00am Module 2** | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab][9-2C] | [Lab: Relationships and Normalization][9-3C] | [Team Git Workflow 2][9-4C] | Project 3 | 
-**1:30pm Module 3** | [Sketch and Photoshop Basics][9-1D] | [Using SQL in an Express App][9-2D] | Outcomes | [Prioritization and Proposal][9-4D] | Project 3 | 
-**3:00pm Module 4** | [Lab: Relational Data Modeling][9-1E] | [SQL CRUD in Express Lab][9-2E] **Watch the handlebars** | [Inner and Outer Joins][9-3E] | [Lab: Project 3 Pitches][9-4E] | Project 3 | 
-**Training** | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Blog][9-2F] | Prepare Project 3 Pitch / [Lab: Joins][9-3F] | [Project 3 Team Formation][9-4F]  | Project 3 | 
+**9:00am Warm-up** | [Interview Prep (Zeb)][9-1A] | [Interview Prep (Zeb)][9-2A] | [Interview Prep (Zeb)][9-3A] | [Questions in a Hat (Zeb)][9-4A] | Stand-up | 
+**9:30am Module 1** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [SQL Relationships (Zeb)][9-3B] | [Second Pass (Zeb)][9-4B] | Project 3 | 
+ **11:00am Module 2** | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Relationships and Normalization (Zeb)][9-3C] | [Team Git Workflow 1 (Zeb)][9-4C] | Project 3 | 
+**1:30pm Module 3** | [Sketch and Photoshop Basics (Nick)][9-1D] | [Using SQL in an Express App (Zeb)][9-2D] | Outcomes (Nick) | [Team Git Workflow 2 (Zeb)][9-4D] | Project 3 | 
+**3:00pm Module 4** | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL CRUD in Express Lab (Nick)][9-2E] **Watch the handlebars** | [Inner and Outer Joins (Nick)][9-3E] **Quick runthrough on joins then intro lab** | [Lab: Project 3 Pitches][9-4E] | Project 3 | 
+**Training** | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | Finish SQL Express CRUD | Prepare Project 3 Pitch / [Lab: Joins][9-3F] | [Project 3 Team Formation][9-4F] | Project 3 | 
 
 [9-1A]: # "Interview Prep"
 [9-1B]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
@@ -368,25 +368,26 @@ Time | Day 1                                      | Day 2                       
 [9-1H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
 [9-1I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
 
-[9-2A]: https://github.com/den-wdi-2/trees "Trees"
+[9-2A]: # "Interview Prep"
 [9-2B]: https://github.com/den-wdi-2/sql-intro "Relational Databases & SQL"
 [9-2C]: https://github.com/den-wdi-2/sql-carmen-sandiego "SQL CRUD Lab"
 [9-2D]: https://github.com/den-wdi-2/express-sequelize "SQL in an Express App"
 [9-2E]: https://github.com/den-wdi-2/tunr_node_hbs "SQL CRUD in Express Lab"
-[9-2F]: https://github.com/den-wdi-2/node-blog "Blog"
+[9-2F]: # "Finish Tunr_Node"
 
 
-[9-3A]: https://github.com/den-wdi-2/trees "Trees"
+[9-3A]: # "Interview Prep"
 [9-3B]: # "SQL Relationships"
 [9-3C]: # "Relationships and Normalization Lab"
 [9-3D]: # "Outcomes"
-[9-3E]: # "Inner and Outer Joins"
+[9-3E]: https://github.com/den-wdi-2/library_sql "Joins Lab"
 [9-3F]: https://github.com/den-wdi-2/library_sql "Joins Lab"
 
 [9-4A]: # "Questions in a Hat"
-[9-4B]: # "Git Workflow 1"
-[9-4C]: # "Git Workflow 2"
-[9-4D]: # "Prioritization and Proposal"
+[9-4B]: # "Second Pass"
+[9-4C]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
+<!--You should also have something in the second session about how this will apply to group dynamics for project 3 -->
+[9-4D]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
 [9-4E]: # "Project Pitch Lab"
 [9-4F]: https://github.com/den-wdi-2/project-03 "Project 3"
 
@@ -497,9 +498,9 @@ Time | Day 1                                 | Day 2                            
 
 Type| 1                                 | 2                                               | 3                                              | 4                                     | 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Should-get-to** | [Bubble Sort][14-1A] | [Merge Sort][14-2A] | [Debugging in JavaScript ()][14-3A] | [Git and GitHub Lab][14-4A] | 
-**May-get-to** | [SQL (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] |  |  | 
-**Probably-No-Time** | [ngAdoption Blog][14-1C] |  |  |  |  | 
+**Should-get-to** | [Bubble Sort][14-1A] | [Merge Sort][14-2A] | [Debugging in JavaScript ()][14-3A] |  | 
+**May-get-to** | [SQL (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] | [Node Blog][14-4B] |  | 
+**Probably-No-Time** | [ngAdoption Blog][14-1C] | [Trees][14-2C] |  |  |  | 
 **Helpful-next-time** | [Objects and Prototypes][14-1D] (Zeb) |  |  |  |
 
 [14-1A]: https://github.com/den-wdi-2/bubble-sort "Bubble Sort"
@@ -509,11 +510,12 @@ Type| 1                                 | 2                                     
 
 [14-2A]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
 [14-2B]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
+[14-2C]: https://github.com/den-wdi-2/trees "Trees"
 
 [14-3A]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
 [14-3B]: https://github.com/den-wdi-2/handlebars "Handlebars Templating"
 
-[14-4A]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
+[14-4B]: https://github.com/den-wdi-2/node-blog "Blog"
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
