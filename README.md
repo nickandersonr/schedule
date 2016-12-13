@@ -296,51 +296,51 @@ Weekly Goals:
 [7-5G]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
 [7-5H]: https://github.com/den-wdi-2/intro_angular_challenges
 
-## Unit 3: MEAN Stack and Group Work
+## Unit 3: SEAN Stack and Group Work
 
-#### Week 8 - Angular and MEAN Stack (12/19-12/22)
+#### Week 8 - Angular and Angular Tools (12/19-12/22)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Interview Prep (Angular?)][8-1A] | [User Goals and Flows][8-2A] | [User Goals and Flows Exercise][8-3A] | [Interview Prep (Angular?)][8-4A] | [Questions in a Line][8-5A] | 
-**9:30am Module 1** | [Competitive Research][8-1B] | [$http and promises ()][8-2B] | [Personas from Research][8-3B] | [$resource ()][8-4B] | Second Pass | 
- **11:00am Module 2** | [Lab: Competitive and User Research][8-1C] | [$http LAB][8-2C] | [Routing ()][8-3C] | [Firebase (Zeb)][8-4C] | [Angular Auth][8-5C] | 
-**1:30pm Module 3** | [Directives Lesson ()][8-1D] | [Angular Hangman][8-2D] | Outcomes | [Almost MEAN App][8-4D] | [ngAnimate ()][8-5D] | 
-**3:00pm Module 4** | [Directives Lab][8-1E] | [Angular Hangman][8-1E] | [Routing Lab][8-3E] | [Almost MEAN App][8-5E] | [Rapid Prototype][9-1E] | 
-**Training** | Finish Labs | ui-router vs ngRoute readings: [#1][8-2F] + [#2][8-2G] + [#3][8-2H] | Interview Potential Users | Complete MEAN App | Rapid Prototype | 
+**9:00am Warm-up** | [Interview Prep][8-1A] | [Interview Prep][8-2A] | [Interview Prep][8-3A] | [Interview Prep][8-4A] | [Questions in a Line (Zeb)][8-5A] | 
+**9:30am Module 1** | [Directives Lesson (Zeb)][8-1B] | [Angular Hangman (Zeb)][8-2B] | [$resource (Zeb)][8-3B] | [Angular Auth (Zeb)][8-4B] | [Second Pass (Zeb)][8-5B] | 
+ **11:00am Module 2** | [Directives Lab (Zeb)][8-1C] | [Angular Hangman (Zeb)][8-2C] | [Firebase (Zeb)][8-3C] | [ngAnimate (Zeb)][8-4C] | [Rapid Prototype (Zeb)][8-5C] | 
+**1:30pm Module 3** | [$http and promises (Zeb)][8-1D] | [Routing (Zeb)][8-2D] | Outcomes (Nick) | [Almost MEAN App (Zeb)][8-4D] | [Rapid Prototype (Zeb)][8-5D] | 
+**3:00pm Module 4** | [$http LAB (Nick)][8-1E] | [Routing Lab (Nick)][8-2E] | [Competitive and User Research (Nick)][8-3E] | [Almost MEAN App (Zeb)][8-5E] | [Rapid Prototype (Zeb)][8-5E] | 
+**Training** | Finish Directives or $http Lab | ui-router vs ngRoute readings: [#1][8-2F] + [#2][8-2G] + [#3][8-2H] | [Interview Potential Users][8-3F] | Complete MEAN App | Rapid Prototype | 
 
 [8-1A]: # "Interview Prep"
-[8-1B]: # "Competitive Research"
-[8-1C]: # "Competitive and User Research Lab"
-[8-1D]: https://github.com/den-wdi-2/angular-directives-lesson "Directives Lesson"
-[8-1E]: https://github.com/den-wdi-2/angular-directives-lab "Directives Lab"
+[8-1B]: https://github.com/den-wdi-2/angular-directives-lesson "Directives Lesson"
+[8-1C]: https://github.com/den-wdi-2/angular-directives-lab "Directives Lab"
+[8-1D]: https://github.com/den-wdi-2/http-workshop "$http and promises"
+[8-1E]: https://github.com/den-wdi-2/http-lab "$http lab"
 
-[8-2A]: # "User Goals and Flows"
-[8-2B]: https://github.com/den-wdi-2/http-workshop "$http and promises"
-[8-2C]: https://github.com/den-wdi-2/http-lab "$http lab"
-[8-2D]: https://github.com/den-wdi-2/ng-hangman "Angular Hangman"
-[8-2E]: https://github.com/den-wdi-2/ng-hangman "Angular Hangman"
+[8-2A]: # "Interview Prep"
+[8-2B]: https://github.com/den-wdi-2/ng-hangman "Angular Hangman"
+[8-2C]: https://github.com/den-wdi-2/ng-hangman "Angular Hangman"
+[8-2D]: https://github.com/den-wdi-2/angular_routing_lab "Routing"
+[8-2E]: https://github.com/den-wdi-2/angular_routing_lab "Routing"
 [8-2F]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
 [8-2G]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
 [8-2H]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
 
-[8-3A]: # "User Goals and Flows"
-[8-3B]: # "Personas"
-[8-3C]: https://github.com/den-wdi-2/angular_routing_lab "Routing"
+[8-3A]: # "Interview Prep"
+[8-3B]: https://github.com/den-wdi-2/angular-resource "ngResource"
+[8-3C]: https://github.com/den-wdi-2/ng-firebase "Firebase"
 [8-3D]: # "Outcomes"
-[8-3E]: https://github.com/den-wdi-2/angular_routing_lab "Routing"
+[8-3E]: # "Competitive and User Research"
+[8-3F]: # "Competitive and User Research Interviews"
 
 [8-4A]: # "Interview Prep"
-[8-4B]: https://github.com/den-wdi-2/angular-resource "ngResource"
-[8-4C]: https://github.com/den-wdi-2/ng-firebase "Firebase"
+[8-4B]: https://github.com/den-wdi-2/angular-auth-satellizer "Angular Auth"
+[8-4C]: https://github.com/den-wdi-2/angular-animations-intro "ngAnimate"
 [8-4D]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
 [8-4E]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
 
-
 [8-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-10.md "Questions in a Line"
 [8-5B]: # "Second Pass"
-[8-5C]: https://github.com/den-wdi-2/angular-auth-satellizer "Angular Auth"
-[8-5D]: https://github.com/den-wdi-2/angular-animations-intro "ngAnimate"
+[8-5C]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
+[8-5D]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 [8-5E]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 
 <!--Encourage CodeWars to keep fresh on break -->
@@ -353,15 +353,15 @@ Time | Day 1                                      | Day 2                       
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-up** | [Interview Prep (Angular?)][9-1A] | [Trees (Zeb)][9-2A] | [Trees (Zeb)][9-3A] | Second Pass and [Questions in a Hat][9-4A] | Stand-up | 
 **9:30am Module 1** | [Rapid Prototype][9-1B] | [Intro to SQL and Relational DBs][9-2B] | [SQL Relationships][9-3B] | [Team Git Workflow 1][9-4B] | Project 3 | 
- **11:00am Module 2** | [Rapid Prototype][9-1C] | [Carmen Sandiego Lab][9-2C] | [Lab: Relationships and Normalization][9-3C] | [Team Git Workflow 2][9-4C] | Project 3 | 
-**1:30pm Module 3** | [Rapid Prototype Science Fair][9-1D] | [Using SQL in an Express App][9-2D] | Outcomes | [Prioritization and Proposal][9-4D] | Project 3 | 
+ **11:00am Module 2** | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab][9-2C] | [Lab: Relationships and Normalization][9-3C] | [Team Git Workflow 2][9-4C] | Project 3 | 
+**1:30pm Module 3** | [Sketch and Photoshop Basics][9-1D] | [Using SQL in an Express App][9-2D] | Outcomes | [Prioritization and Proposal][9-4D] | Project 3 | 
 **3:00pm Module 4** | [Lab: Relational Data Modeling][9-1E] | [SQL CRUD in Express Lab][9-2E] **Watch the handlebars** | [Inner and Outer Joins][9-3E] | [Lab: Project 3 Pitches][9-4E] | Project 3 | 
 **Training** | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Blog][9-2F] | Prepare Project 3 Pitch / [Lab: Joins][9-3F] | [Project 3 Team Formation][9-4F]  | Project 3 | 
 
 [9-1A]: # "Interview Prep"
 [9-1B]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
-[9-1C]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
-[9-1D]: # "Science Fair"
+[9-1C]: # "Science Fair"
+[9-1D]: # "Sketch and Photoshop"
 [9-1E]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
 [9-1F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
 [9-1G]: http://www.w3schools.com/sql/sql_syntax.asp "SQL Reading Assignment 2"
