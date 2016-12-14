@@ -302,7 +302,7 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Project 3 Intro][8-1A] | [Interview Prep][8-2A] | [Interview Prep][8-3A] | [Interview Prep][8-4A] | [Questions in a Line (Zeb)][8-5A] | 
+**9:00am Warm-up** | [Project 3 Intro][8-1A] | [CodeWars][8-2A] | [CodeWars][8-3A] | [Interview Prep][8-4A] | [Questions in a Line (Zeb)][8-5A] | 
 **9:30am Module 1** | [Directives Lesson (Zeb)][8-1B] | [Angular Hangman (Zeb)][8-2B] | [$resource (Zeb)][8-3B] | [Angular Auth (Zeb)][8-4B] | [Second Pass (Zeb)][8-5B] | 
  **11:00am Module 2** | [Directives Lab (Zeb)][8-1C] | [Angular Hangman (Zeb)][8-2C] | [Firebase (Zeb)][8-3C] | [ngAnimate (Zeb)][8-4C] | [Rapid Prototype (Zeb)][8-5C] | 
 **1:30pm Module 3** | [$http and promises (Nick)][8-1D] | [Routing (Zeb)][8-2D] | Outcomes (Nick) | [Almost MEAN App (Zeb)][8-4D] | [Rapid Prototype (Zeb)][8-5D] | 
@@ -315,7 +315,7 @@ Time | Day 1                                      | Day 2                       
 [8-1D]: https://github.com/den-wdi-2/http-workshop "$http and promises"
 [8-1E]: https://github.com/den-wdi-2/http-lab "$http lab"
 
-[8-2A]: # "Interview Prep"
+[8-2A]: https://www.codewars.com "CodeWars"
 [8-2B]: https://github.com/den-wdi-2/ng-hangman "Angular Hangman"
 [8-2C]: https://github.com/den-wdi-2/ng-hangman "Angular Hangman"
 [8-2D]: https://github.com/den-wdi-2/angular_routing_lab "Routing"
@@ -324,14 +324,14 @@ Time | Day 1                                      | Day 2                       
 [8-2G]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
 [8-2H]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
 
-[8-3A]: # "Interview Prep"
+[8-3A]: https://www.codewars.com "CodeWars"
 [8-3B]: https://github.com/den-wdi-2/angular-resource "ngResource"
 [8-3C]: https://github.com/den-wdi-2/ng-firebase "Firebase"
 [8-3D]: # "Outcomes"
 [8-3E]: # "Competitive and User Research"
 [8-3F]: # "Competitive and User Research Interviews"
 
-[8-4A]: # "Interview Prep"
+[8-4A]: https://github.com/den-wdi-2/roman_js "Roman Numerals"
 [8-4B]: https://github.com/den-wdi-2/angular-auth-satellizer "Angular Auth"
 [8-4C]: https://github.com/den-wdi-2/angular-animations-intro "ngAnimate"
 [8-4D]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
