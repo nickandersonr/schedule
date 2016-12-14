@@ -302,7 +302,7 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Project 3 Intro][8-1A] | [CodeWars][8-2A] | [CodeWars][8-3A] | [Interview Prep][8-4A] | [Questions in a Line (Zeb)][8-5A] | 
+**9:00am Warm-up** | [Project 3 Intro][8-1A] | [CodeWars][8-2A] | [CodeWars][8-3A] | [Roman Numerals][8-4A] | [Questions in a Line (Zeb)][8-5A] | 
 **9:30am Module 1** | [Directives Lesson (Zeb)][8-1B] | [Angular Hangman (Zeb)][8-2B] | [$resource (Zeb)][8-3B] | [Angular Auth (Zeb)][8-4B] | [Second Pass (Zeb)][8-5B] | 
  **11:00am Module 2** | [Directives Lab (Zeb)][8-1C] | [Angular Hangman (Zeb)][8-2C] | [Firebase (Zeb)][8-3C] | [ngAnimate (Zeb)][8-4C] | [Rapid Prototype (Zeb)][8-5C] | 
 **1:30pm Module 3** | [$http and promises (Nick)][8-1D] | [Routing (Zeb)][8-2D] | Outcomes (Nick) | [Almost MEAN App (Zeb)][8-4D] | [Rapid Prototype (Zeb)][8-5D] | 
