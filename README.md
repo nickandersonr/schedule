@@ -323,7 +323,7 @@ Weekly Goals:
 
 [7-3A]: # "Interview Prep"
 
-[7-4C]: # "Outcomes"
+[7-4C]: https://github.com/den-wdi-2/portfolio-starter-kit
 [7-4D]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
 
 [7-5A]: https://github.com/den-wdi-2/es6-part2 "More ES6"
