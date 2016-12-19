@@ -335,7 +335,9 @@ Weekly Goals:
 [7-5G]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
 [7-5H]: https://github.com/den-wdi-2/intro_angular_challenges
 
-## Unit 3: Full Stack and Group Work
+## Unit 3: SEAN Stack and Group Work
+
+#### Week 8 - Angular and Angular Tools (12/19-12/22)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
