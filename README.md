@@ -346,7 +346,7 @@ Time | Day 1                                      | Day 2                       
  **11:00am Module 2** | [Directives Lab (Zeb)][8-1C] | [Angular Hangman (Zeb)][8-2C] | [Firebase (Zeb)][8-3C] | [ngAnimate (Zeb)][8-4C] | [Rapid Prototype (Zeb)][8-5C] | 
 **1:30pm Module 3** | [$http and promises (Nick)][8-1D] | [Routing (Zeb/Nick)][8-2D] | Outcomes (Nick) | [Almost MEAN App (Zeb/Nick)][8-4D] | [Rapid Prototype (Zeb)][8-5D] | 
 **3:00pm Module 4** | [$http LAB (Nick)][8-1E] | [Routing Lab (Zeb/Nick)][8-2E] | [Competitive and User Research (Nick)][8-3E] | [Almost MEAN App (Zeb/Nick)][8-4E] | [Rapid Prototype (Zeb)][8-5E] | 
-**Training** | Finish Directives or $http Lab | ui-router vs ngRoute readings: [#1][8-2F] + [#2][8-2G] + [#3][8-2H] | [Interview Potential Users][8-3F] | Complete MEAN App | Rapid Prototype | 
+**Training** | Finish $http Lab | ui-router vs ngRoute readings: [#1][8-2F] + [#2][8-2G] + [#3][8-2H] | [Interview Potential Users][8-3F] | Complete MEAN App | Rapid Prototype | 
 
 Weekly Goals:
 - Utilize built-in Angular directives and build custom ones
