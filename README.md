@@ -351,7 +351,7 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Interview Prep (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [CodeWars (Zeb)][9-3A] | [Questions in a Hat (Zeb)][9-4A] | Stand-up | 
+**9:00am Warm-up** | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [CodeWars (Zeb)][9-3A] | [Questions in a Hat (Zeb)][9-4A] | Stand-up | 
 **9:30am Module 1** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [SQL Relationships (Zeb)][9-3B] | [Second Pass (Zeb)][9-4B] | Project 3 | 
  **11:00am Module 2** | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Relationships and Normalization (Zeb)][9-3C] | [Team Git Workflow 1 (Zeb)][9-4C] | Project 3 | 
 **1:30pm Module 3** | [Sketch and Photoshop Basics (Nick)][9-1D] | [Using SQL in an Express App (Zeb)][9-2D] | Outcomes (Nick) | [Team Git Workflow 2 (Zeb)][9-4D] | Project 3 | 
