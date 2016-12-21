@@ -378,8 +378,8 @@ Weekly Goals:
 [8-3B]: https://github.com/den-wdi-2/angular-resource "ngResource"
 [8-3C]: https://github.com/den-wdi-2/ng-firebase "Firebase"
 [8-3D]: # "Outcomes"
-[8-3E]: # "Competitive and User Research"
-[8-3F]: # "Competitive and User Research Interviews"
+[8-3E]: https://github.com/den-wdi-2/user-research-and-competitive-analysis "Competitive and User Research"
+[8-3F]: https://github.com/den-wdi-2/user-Research-lab "Competitive and User Research Interviews"
 
 [8-4A]: https://github.com/den-wdi-2/roman_js "Roman Numerals"
 [8-4B]: https://github.com/den-wdi-2/angular-auth-satellizer "Angular Auth"
