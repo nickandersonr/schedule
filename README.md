@@ -388,7 +388,7 @@ Weekly Goals:
 [8-4E]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
 
 [8-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
-[8-5B]: # "Second Pass"
+[8-5B]: https://github.com/den-wdi-2/unit3_week1_secondpass "Second Pass"
 [8-5C]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 [8-5D]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 [8-5E]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
