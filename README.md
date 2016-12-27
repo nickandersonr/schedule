@@ -352,11 +352,11 @@ Time | Day 1                                      | Day 2                       
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-up** | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [CodeWars (Zeb)][9-3A] | [Questions in a Hat (Zeb)][9-4A] | Stand-up | 
-**9:30am Module 1** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [SQL Relationships (Zeb)][9-3B] | [Second Pass (Zeb)][9-4B] | Project 3 | 
- **11:00am Module 2** | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Relationships and Normalization (Zeb)][9-3C] | [Team Git Workflow 1 (Zeb)][9-4C] | Project 3 | 
-**1:30pm Module 3** | [Sketch and Photoshop Basics (Nick)][9-1D] | [Using SQL in an Express App (Zeb)][9-2D] | Outcomes (Nick) | [Team Git Workflow 2 (Zeb)][9-4D] | Project 3 | 
-**3:00pm Module 4** | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL CRUD in Express Lab (Nick)][9-2E] **Watch the handlebars** | [Inner and Outer Joins (Nick)][9-3E] **Quick runthrough on joins then intro lab** | [Lab: Project 3 Pitches][9-4E] | Project 3 | 
-**Training** | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | Finish SQL Express CRUD | Prepare Project 3 Pitch / [Lab: Joins][9-3F] | [Project 3 Team Formation][9-4F] | Project 3 | 
+**9:30am Module 1** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Intro to Sequelize (Zeb)][9-3B] | [Second Pass (Zeb)][9-4B] | Project 3 | 
+ **11:00am Module 2** | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Modeling (Zeb)][9-3C] | [Team Git Workflow 1 (Zeb)][9-4C] | Project 3 | 
+**1:30pm Module 3** | [Sketch and Photoshop Basics (Nick)][9-1D] | Outcomes (Nick) | [Lab: Sequelize Relationships (Zeb)][9-3D] | [Team Git Workflow 2 (Zeb)][9-4D] | Project 3 | 
+**3:00pm Module 4** | [Lab: Relational Data Modeling (Nick)][9-1E] | [Advanced SQL (Zeb)][9-2E] **Quick runthrough on joins then intro lab** | [SQL CRUD in Express Lab (Nick)][9-3E] **Watch the handlebars** | [Lab: Project 3 Pitches][9-4E] | Project 3 | 
+**Training** | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: Joins][9-3F] | Prepare Project 3 Pitch / Work on Tunr | [Project 3 Team Formation][9-4F] | Project 3 | 
 
 [9-1A]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 [9-1B]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
@@ -368,20 +368,20 @@ Time | Day 1                                      | Day 2                       
 [9-1H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
 [9-1I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
 
-[9-2A]: # "Interview Prep"
+[9-2A]: https://www.codewars.com "CodeWars"
 [9-2B]: https://github.com/den-wdi-2/sql-intro "Relational Databases & SQL"
 [9-2C]: https://github.com/den-wdi-2/sql-carmen-sandiego "SQL CRUD Lab"
-[9-2D]: https://github.com/den-wdi-2/express-sequelize "SQL in an Express App"
-[9-2E]: https://github.com/den-wdi-2/tunr_node_hbs "SQL CRUD in Express Lab"
-[9-2F]: # "Finish Tunr_Node"
+[9-2D]: # "Outcomes"
+[9-2E]: https://github.com/den-wdi-2/joins-and-more "Joins and Advanced SQL" 
+[9-2F]: https://github.com/den-wdi-2/library_sql "Joins Lab"
 
 
-[9-3A]: # "Interview Prep"
-[9-3B]: # "SQL Relationships"
-[9-3C]: # "Relationships and Normalization Lab"
-[9-3D]: # "Outcomes"
-[9-3E]: https://github.com/den-wdi-2/library_sql "Joins Lab"
-[9-3F]: https://github.com/den-wdi-2/library_sql "Joins Lab"
+[9-3A]: https://www.codewars.com "CodeWars"
+[9-3B]: https://github.com/den-wdi-2/express-sequelize "Intro to Sequelize"
+[9-3C]: https://github.com/den-wdi-2/modeling-tunr "Sequelize Modeling Lab"
+[9-3D]: https://github.com/den-wdi-2/tunr-relationships "Sequelize Relationships"
+[9-3E]: https://github.com/den-wdi-2/tunr_node_hbs "More Tunr"
+[9-3F]: # "Finish Tunr_Node"
 
 [9-4A]: # "Questions in a Hat"
 [9-4B]: # "Second Pass"
