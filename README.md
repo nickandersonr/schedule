@@ -356,7 +356,7 @@ Time | Day 1                                      | Day 2                       
  **11:00am Module 2** | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Modeling (Zeb)][9-3C] | [Team Git Workflow 1 (Zeb)][9-4C] | Project 3 | 
 **1:30pm Module 3** | [Sketch and Photoshop Basics (Nick)][9-1D] | Outcomes (Nick) | [Lab: Sequelize Relationships (Zeb)][9-3D] | [Team Git Workflow 2 (Zeb)][9-4D] | Project 3 | 
 **3:00pm Module 4** | [Lab: Relational Data Modeling (Nick)][9-1E] | [Advanced SQL (Zeb)][9-2E] **Quick runthrough on joins then intro lab** | [SQL CRUD in Express Lab (Nick)][9-3E] **Watch the handlebars** | [Lab: Project 3 Pitches][9-4E] | Project 3 | 
-**Training** | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: Joins][9-3F] | Prepare Project 3 Pitch / Work on Tunr | [Project 3 Team Formation][9-4F] | Project 3 | 
+**Training** | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: Joins][9-2F] | Prepare Project 3 Pitch / Work on Tunr | [Project 3 Team Formation][9-4F] | Project 3 | 
 
 [9-1A]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 [9-1B]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
