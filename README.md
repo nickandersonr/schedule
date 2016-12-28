@@ -377,7 +377,7 @@ Time | Day 1                                      | Day 2                       
 
 
 [9-3A]: https://www.codewars.com "CodeWars"
-[9-3B]: https://github.com/den-wdi-2/express-sequelize "Intro to Sequelize"
+[9-3B]: https://github.com/den-wdi-2/sequelize_intro "Intro to Sequelize"
 [9-3C]: https://github.com/den-wdi-2/modeling-tunr "Sequelize Modeling Lab"
 [9-3D]: https://github.com/den-wdi-2/tunr-relationships "Sequelize Relationships"
 [9-3E]: https://github.com/den-wdi-2/tunr_node_hbs "More Tunr"
