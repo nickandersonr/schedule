@@ -355,7 +355,7 @@ Time | Day 1                                      | Day 2                       
 **9:30am Module 1** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Intro to Sequelize (Zeb)][9-3B] | [Second Pass (Zeb)][9-4B] | Project 3 | 
  **11:00am Module 2** | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Modeling (Zeb)][9-3C] | [Team Git Workflow 1 (Zeb)][9-4C] | Project 3 | 
 **1:30pm Module 3** | [Sketch and Photoshop Basics (Nick)][9-1D] | Outcomes (Nick) | [Lab: Sequelize Relationships (Zeb)][9-3D] | [Team Git Workflow 2 (Zeb)][9-4D] | Project 3 | 
-**3:00pm Module 4** | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL Relationships and JOINs (Zeb)][9-2E] | [SQL CRUD in Express - Tunr (Zeb)][9-3E] **Watch the handlebars** | [Lab: Project 3 Pitches][9-4E] | Project 3 | 
+**3:00pm Module 4** | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL Relationships and JOINs (Zeb)][9-2E] | [Continue Tunr (Zeb)][9-3E] | [Lab: Project 3 Pitches][9-4E] | Project 3 | 
 **Training** | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: SQL Practice][9-2F] | Prepare Project 3 Pitch / Work on Tunr | [Project 3 Team Formation][9-4F] | Project 3 | 
 
 [9-1A]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
@@ -380,8 +380,8 @@ Time | Day 1                                      | Day 2                       
 [9-3B]: https://github.com/den-wdi-2/sequelize_intro "Intro to Sequelize"
 [9-3C]: https://github.com/den-wdi-2/modeling-tunr "Sequelize Modeling Lab"
 [9-3D]: https://github.com/den-wdi-2/tunr-relationships "Sequelize Relationships"
-[9-3E]: https://github.com/den-wdi-2/tunr_node_hbs "More Tunr"
-[9-3F]: # "Finish Tunr_Node"
+[9-3E]: https://github.com/den-wdi-2/tunr-relationships "More Tunr"
+[9-3F]: # "Finish Tunr Relationships"
 
 [9-4A]: # "Questions in a Hat"
 [9-4B]: # "Second Pass"
