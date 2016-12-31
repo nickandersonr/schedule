@@ -361,7 +361,7 @@ Time | Day 1                                      | Day 2                       
 [9-1A]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 [9-1B]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
 [9-1C]: # "Science Fair"
-[9-1D]: # "Sketch and Photoshop"
+[9-1D]: https://github.com/den-wdi-2/sketch-photoshop-basics "Sketch and Photoshop"
 [9-1E]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
 [9-1F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
 [9-1G]: http://www.w3schools.com/sql/sql_syntax.asp "SQL Reading Assignment 2"
