@@ -500,7 +500,7 @@ Type| 1                                 | 2                                     
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **Should-get-to** | [Bubble Sort][14-1A] | [Merge Sort][14-2A] | [Debugging in JavaScript ()][14-3A] |  | 
 **May-get-to** | [SQL (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] | [Node Blog][14-4B] |  | 
-**Probably-No-Time** | [ngAdoption Blog][14-1C] | [Trees][14-2C] |  |  |  | 
+**Probably-No-Time** | [ngAdoption Blog][14-1C] | [Trees][14-2C] | [TDD Lab][14-3C] |  |  | 
 **Helpful-next-time** | [Objects and Prototypes][14-1D] (Zeb) |  |  |  |
 
 [14-1A]: https://github.com/den-wdi-2/bubble-sort "Bubble Sort"
@@ -514,6 +514,7 @@ Type| 1                                 | 2                                     
 
 [14-3A]: https://github.com/den-wdi-2/debugging-javascript "Debugging in JS"
 [14-3B]: https://github.com/den-wdi-2/handlebars "Handlebars Templating"
+[14-3C]: https://gist.github.com/mahuntington/c8e13b2f43685523828ec2901d32158a "Huntington's More Independent Lab"
 
 [14-4B]: https://github.com/den-wdi-2/node-blog "Blog"
 
