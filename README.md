@@ -353,8 +353,8 @@ Time | Day 1                                      | Day 2                       
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-up** | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [CodeWars (Zeb)][9-3A] | [Questions in a Hat (Zeb)][9-4A] | Stand-up | 
 **9:30am Module 1** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Intro to Sequelize (Zeb)][9-3B] | [Second Pass (Zeb)][9-4B] | Project 3 | 
- **11:00am Module 2** | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Modeling (Zeb)][9-3C] | [Team Git Workflow 1 (Zeb)][9-4C] | Project 3 | 
-**1:30pm Module 3** | [Sketch and Photoshop Basics (Nick)][9-1D] | Outcomes (Nick) | [Lab: Sequelize Relationships (Zeb)][9-3D] | [Team Git Workflow 2 (Zeb)][9-4D] | Project 3 | 
+ **11:00am Module 2** | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Modeling (Zeb)][9-3C] | [Team Git Workflow (Zeb)][9-4C] | Project 3 | 
+**1:30pm Module 3** | [Sketch and Photoshop Basics (Nick)][9-1D] | Outcomes (Nick) | [Lab: Sequelize Relationships (Zeb)][9-3D] | [Flexbox (Nick)][9-4D] | Project 3 | 
 **3:00pm Module 4** | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL Relationships and JOINs (Zeb)][9-2E] | [Continue Tunr (Zeb)][9-3E] | [Lab: Project 3 Pitches][9-4E] | Project 3 | 
 **Training** | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: SQL Practice][9-2F] | Prepare Project 3 Pitch / Work on Tunr | [Project 3 Team Formation][9-4F] | Project 3 | 
 
@@ -385,9 +385,8 @@ Time | Day 1                                      | Day 2                       
 
 [9-4A]: # "Questions in a Hat"
 [9-4B]: # "Second Pass"
-[9-4C]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
-<!--You should also have something in the second session about how this will apply to group dynamics for project 3 -->
-[9-4D]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
+[9-4C]: https://github.com/den-wdi-2/github-collaboration "GitHub Team Workflow"
+[9-4D]: https://github.com/den-wdi-2/flexbox "Git and GitHub lab"
 [9-4E]: # "Project Pitch Lab"
 [9-4F]: https://github.com/den-wdi-2/project-03 "Project 3"
 
@@ -437,13 +436,13 @@ Time | Day 1                                 | Day 2                            
 [11-2D]: https://github.com/den-wdi-2/redux "Redux"
 [11-2E]: # "React Lab"
 
-[11-3A]: # "Interview Prep"
+[11-3A]: https://github.com/den-wdi-2/gh-lab "Git Fork and Clone Workflow"
 [11-3B]: # "Intro to Legacy Code"
 [11-3C]: https://github.com/den-wdi-2/legacy-code-denver "Legacy Code"
 [11-3D]: # "Outcomes"
 [11-3E]: https://github.com/den-wdi-2/legacy-code-denver "Legacy Code"
 
-[11-4A]: # "Interview Prep"
+[11-4A]: https://github.com/den-wdi-2/gh-lab "Git Fork and Clone Workflow"
 [11-4B]: # "PHP Intro"
 [11-4C]: # "PHP Intro Lab"
 [11-4D]: # "PHP Wordpress"
