@@ -397,11 +397,58 @@ Weekly Goals:
 
 #### BREAK (12/26-12/29)
 
-#### Week 9 - SQL and Prototyping (1/2-1/6)
+#### Week 9 - SQL, Project Planning, and Prototyping (1/2-1/6)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**Class** | Class | Class | Class | Class | Project 3 | 
+**9:00am Warm-up** | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [CodeWars (Zeb)][9-3A] | [Questions in a Hat (Zeb)][9-4A] | Stand-up | 
+**9:30am Module 1** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Intro to Sequelize (Zeb)][9-3B] | [Second Pass (Zeb)][9-4B] | Project 3 | 
+ **11:00am Module 2** | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Modeling (Zeb)][9-3C] | [Team Git Workflow 1 (Zeb)][9-4C] | Project 3 | 
+**1:30pm Module 3** | [Sketch and Photoshop Basics (Nick)][9-1D] | Outcomes (Nick) | [Lab: Sequelize Relationships (Zeb)][9-3D] | [Team Git Workflow 2 (Zeb)][9-4D] | Project 3 | 
+**3:00pm Module 4** | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL Relationships and JOINs (Zeb)][9-2E] | [Continue Tunr (Zeb)][9-3E] | [Lab: Project 3 Pitches][9-4E] | Project 3 | 
+**Training** | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: SQL Practice][9-2F] | Prepare Project 3 Pitch / Work on Tunr | [Project 3 Team Formation][9-4F] | Project 3 | 
+
+Weekly Goals:
+- Prepare and present a prototype built on a short time scale
+- Understand the basics of Sketch and Photoshop
+- Map out data relations for a web app
+- Create a SQL DB and perform queries on it
+- Use Sequelize to create a CRUDable model with SQL and Node
+- Use Sequelize to create inter-connected models with data mappings
+- Manage group code submissions with GitHub
+
+[9-1A]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
+[9-1B]: https://github.com/den-wdi-2/rapid-prototype "Rapid Prototyping"
+[9-1C]: # "Science Fair"
+[9-1D]: https://github.com/den-wdi-2/sketch-photoshop-basics "Sketch and Photoshop"
+[9-1E]: https://github.com/den-wdi-2/data-modeling "Relational Data Modeling"
+[9-1F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
+[9-1G]: http://www.w3schools.com/sql/sql_syntax.asp "SQL Reading Assignment 2"
+[9-1H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
+[9-1I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
+
+[9-2A]: https://www.codewars.com "CodeWars"
+[9-2B]: https://github.com/den-wdi-2/sql-intro "Relational Databases & SQL"
+[9-2C]: https://github.com/den-wdi-2/sql-carmen-sandiego "SQL CRUD Lab"
+[9-2D]: # "Outcomes"
+[9-2E]: https://github.com/den-wdi-2/joins-and-more "Joins and Advanced SQL" 
+[9-2F]: https://github.com/den-wdi-2/library_sql "Joins Lab"
+
+
+[9-3A]: https://www.codewars.com "CodeWars"
+[9-3B]: https://github.com/den-wdi-2/sequelize_intro "Intro to Sequelize"
+[9-3C]: https://github.com/den-wdi-2/modeling-tunr "Sequelize Modeling Lab"
+[9-3D]: https://github.com/den-wdi-2/tunr-relationships "Sequelize Relationships"
+[9-3E]: https://github.com/den-wdi-2/tunr-relationships "More Tunr"
+[9-3F]: # "Finish Tunr Relationships"
+
+[9-4A]: # "Questions in a Hat"
+[9-4B]: # "Second Pass"
+[9-4C]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
+<!--You should also have something in the second session about how this will apply to group dynamics for project 3 -->
+[9-4D]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
+[9-4E]: # "Project Pitch Lab"
+[9-4F]: https://github.com/den-wdi-2/project-03 "Project 3"
 
 #### Week 10 - Project 3: Group Project and Angular 2 (1/9-1/13)
 
