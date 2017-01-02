@@ -446,7 +446,7 @@ Weekly Goals:
 [9-4B]: # "Second Pass"
 [9-4C]: https://github.com/den-wdi-2/gh-lab "Git and GitHub lab"
 <!--You should also have something in the second session about how this will apply to group dynamics for project 3 -->
-[9-4D]: https://github.com/den-wdi-2/team-git-workflow "Team Git Workflow"
+[9-4D]: https://github.com/den-wdi-2/github-collaboration "Team Git Workflow"
 [9-4E]: # "Project Pitch Lab"
 [9-4F]: https://github.com/den-wdi-2/project-03 "Project 3"
 
