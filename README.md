@@ -401,7 +401,7 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [Intro to Sequelize (Zeb)][9-3A] | [Questions in a Hat (Zeb)][9-4A] | Stand-up | 
+**9:00am Warm-up** | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [Intro to Sequelize (Zeb)][9-3A] | [Questions in a Line (Zeb)][9-4A] | Stand-up | 
 **9:30am Module 1** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3B] | [Second Pass (Zeb)][9-4B] | Project 3 | 
  **11:00am Module 2** | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3C] | [Team Git Workflow (Zeb)][9-4C] | Project 3 | 
 **1:30pm Module 3** | [Sketch and Photoshop Basics (Nick)][9-1D] | Outcomes (Nick) | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3D] | [Flexbox (Nick)][9-4D] | Project 3 | 
@@ -442,7 +442,7 @@ Weekly Goals:
 [9-3E]: https://github.com/den-wdi-2/tunr-relationships "More Tunr"
 [9-3F]: # "Finish Tunr Relationships"
 
-[9-4A]: # "Questions in a Hat"
+[9-4A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-09.md "Questions in a Hat"
 [9-4B]: # "Second Pass"
 [9-4C]: https://github.com/den-wdi-2/github-collaboration "Team Git Workflow"
 [9-4D]: https://github.com/den-wdi-2/flexbox "Flexbox"
