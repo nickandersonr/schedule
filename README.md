@@ -397,7 +397,7 @@ Time | Day 1                           | Day 2                                  
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00 Warm-upam** | [String Matching (Zeb)][10-1A] | [Linked Lists Intro ()][10-2A] | [Interview Prep][10-3A] | Project 3 Retro | [Interview Prep][10-5A] | 
 **9:30am Module 1** | [String Matching (Zeb)][10-1B] | [Linked Lists Challenge ()][10-2B] | Project 3 | Project 3 | [Angular 2 Intro][10-5B] | 
-**11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 Presentations | [Angular 2 Topic 1][10-5C] | 
+**11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 | [Angular 2 Topic 1][10-5C] | 
 **1:30pm Module 3** | Project 3 | Project 3 | Outcomes | Project 3 Presentations | [Angular 2 Topic 2][10-5D] | 
 **3:00pm Module 4** | Project 3 | Project 3 | Project 3 | [Create Issues ()][10-4C] | [Lab: Angular 2][10-5E] | 
 **Training** | Project 3 | Project 3 | Project 3 | Fix Issues | Angular 2 Lab | 
