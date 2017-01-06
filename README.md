@@ -443,7 +443,7 @@ Weekly Goals:
 [9-3F]: # "Finish Tunr Relationships"
 
 [9-4A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-09.md "Questions in a Hat"
-[9-4B]: https://github.com/den-wdi-2/unit3_week1_secondpass "Second Pass"
+[9-4B]: https://github.com/den-wdi-2/unit3_week2_secondpass "Second Pass"
 [9-4C]: https://github.com/den-wdi-2/github-collaboration "Team Git Workflow"
 [9-4D]: https://github.com/den-wdi-2/flexbox "Flexbox"
 [9-4E]: # "Project Pitch Lab"
