@@ -395,28 +395,25 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00 Warm-upam** | [String Matching (Zeb)][10-1A] | [Linked Lists Intro ()][10-2A] | [Interview Prep][10-3A] | Project 3 Retro | [Interview Prep][10-5A] | 
-**9:30am Module 1** | [String Matching (Zeb)][10-1B] | [Linked Lists Challenge ()][10-2B] | Project 3 | Project 3 | [Angular 2 Intro][10-5B] | 
-**11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 | [Angular 2 Topic 1][10-5C] | 
-**1:30pm Module 3** | Project 3 | Project 3 | Outcomes | Project 3 Presentations | [Angular 2 Topic 2][10-5D] | 
-**3:00pm Module 4** | Project 3 | Project 3 | Project 3 | [Create Issues ()][10-4C] | [Lab: Angular 2][10-5E] | 
+**9:00 Warm-upam** | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Tell Me About a Time][10-2A] | [Interview Prep][10-3A] | Project 3 Retro | [String Matching (Zeb)][10-5A] | 
+**9:30am Module 1** | [Linked Lists Challenge ()][10-1B] | Project 3 | Project 3 | Project 3 | [String Matching (Zeb)][10-5B] | 
+**11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 | [Intro to TypeScript][10-5C] | 
+**1:30pm Module 3** | Project 3 | Project 3 | Outcomes | Project 3 Presentations | [What's Different in Angular 2][10-5D] | 
+**3:00pm Module 4** | Project 3 | Project 3 | Project 3 | [Create Issues][10-4C] | [Lab: Angular 2 Refactor][10-5E] | 
 **Training** | Project 3 | Project 3 | Project 3 | Fix Issues | Angular 2 Lab | 
 
-[10-1A]: https://github.com/den-wdi-2/string-matching "String Matching"
-[10-1B]: https://github.com/den-wdi-2/string-matching "String Matching"
+[10-1A]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
+[10-1B]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
 
-[10-2A]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
-[10-2B]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
-
-[10-3A]: # "Interview Prep"
+[10-2A]: https://github.com/den-wdi-2/behavioral-interview-warmup "Behavioral Interview"
 
 [10-4C]: # "Project 3 Issues"
 
-[10-5A]: # "Interview Prep"
-[10-5B]: # "Angular 2 Intro"
-[10-5C]: # "Angular 2 Topic 1"
-[10-5D]: # "Angular 2 Topic 2"
-[10-5E]: # "Angular 2 Lab"
+[10-5A]: https://github.com/den-wdi-2/string-matching "String Matching"
+[10-5B]: https://github.com/den-wdi-2/string-matching "String Matching"
+[10-5C]: https://github.com/den-wdi-2/intro-typescript "Intro to Typescript"
+[10-5D]: https://github.com/den-wdi-2/angular-2-differences "Angular 2 What's Different?"
+[10-5E]: https://github.com/den-wdi-2/angular-2-refactor "Angular 2 Refactor Lab"
 
 ## Unit 4: Becoming a Developer
 
