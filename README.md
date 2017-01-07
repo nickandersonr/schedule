@@ -395,12 +395,12 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00 Warm-upam** | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Tell Me About a Time][10-2A] | [Interview Prep][10-3A] | Project 3 Retro | [String Matching (Zeb)][10-5A] | 
+**9:00 Warm-upam** | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Behavioral][10-2A] | Project 3 | Project 3 Retro | [String Matching (Zeb)][10-5A] | 
 **9:30am Module 1** | [Linked Lists Challenge ()][10-1B] | Project 3 | Project 3 | Project 3 | [String Matching (Zeb)][10-5B] | 
 **11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 | [Intro to TypeScript][10-5C] | 
 **1:30pm Module 3** | Project 3 | Project 3 | Outcomes | Project 3 Presentations | [What's Different in Angular 2][10-5D] | 
 **3:00pm Module 4** | Project 3 | Project 3 | Project 3 | [Create Issues][10-4C] | [Lab: Angular 2 Refactor][10-5E] | 
-**Training** | Project 3 | Project 3 | Project 3 | Fix Issues | Angular 2 Lab | 
+**Training** | Project 3 | Project 3 | Project 3 | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-5F] | 
 
 [10-1A]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
 [10-1B]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
@@ -414,6 +414,7 @@ Time | Day 1                           | Day 2                                  
 [10-5C]: https://github.com/den-wdi-2/intro-typescript "Intro to Typescript"
 [10-5D]: https://github.com/den-wdi-2/angular-2-differences "Angular 2 What's Different?"
 [10-5E]: https://github.com/den-wdi-2/angular-2-refactor "Angular 2 Refactor Lab"
+[10-5F]: https://angular.io/docs/ts/latest/tutorial/ "Angular 2torial"
 
 ## Unit 4: Becoming a Developer
 
@@ -421,12 +422,12 @@ Time | Day 1                           | Day 2                                  
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** |  MLK DAY | Second Pass on Unit 3 | [Interview Prep][11-3A] | [Interview Prep][11-4A] | Second Pass
+**9:00am Warm-up** |  MLK DAY | Second Pass on Unit 3 | [Mock Interviews - Hybrid][11-3A] | [Mock Interviews - Technical][11-4A] | Second Pass
 **9:30am Module 1** | MLK DAY | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code][11-3B] | PHP Intro | PHP CRUD | 
-**11:00am Module 2** | MLK DAY | [React ()][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | Lab: PHP Intro | Lab: PHP CRUD | 
-**1:30pm Module 3** | MLK DAY | [Redux (Zeb)][11-2D] | Outcomes | PHP Wordpress | Elance/Freelancer Wordpress | 
-**3:00pm Module 4** | MLK DAY | [Lab: Create React Page][11-2E] | [Legacy Code Lab (Zeb)][11-3E] | Lab: PHP Wordpress | Elance/Freelancer Wordpress | 
-**Training** | MLK DAY | Finish React Lab | Continue Legacy Code | PHP Lab | Complete Elance Job
+**11:00am Module 2** | MLK DAY | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | Lab: PHP Intro | Lab: PHP CRUD | 
+**1:30pm Module 3** | MLK DAY | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | PHP Wordpress | Elance/Freelancer Wordpress | 
+**3:00pm Module 4** | MLK DAY | [Lab: Create React Page][11-2E] | Outcomes | Lab: PHP Wordpress | Elance/Freelancer Wordpress | 
+**Training** | MLK DAY | Continue React Page | Continue Legacy Code | Continue Wordpress Site | Complete Elance Job
 
 [11-2B]: https://github.com/den-wdi-2/intro-to-ops "Dev Ops Intro"
 [11-2C]: https://github.com/den-wdi-2/react "React"
