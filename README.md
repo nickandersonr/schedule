@@ -453,7 +453,7 @@ Weekly Goals:
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00 Warm-upam** | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Behavioral][10-2A] | Project 3 | Project 3 Retro | [Merge Sort Intro (Zeb)][10-5A] | 
+**9:00 Warm-upam** | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Behavioral][10-2A] | [Getting a Freelance Gig][10-3A] | Project 3 Retro | [Merge Sort Intro (Zeb)][10-5A] | 
 **9:30am Module 1** | [Linked Lists Challenge (Zeb)][10-1B] | Project 3 | Project 3 | Project 3 | [Merge Sort Challenge (Zeb)][10-5B] | 
 **11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 | [Intro to TypeScript][10-5C] | 
 **1:30pm Module 3** | Project 3 | Project 3 | Outcomes | Project 3 Presentations | [What's Different in Angular 2][10-5D] | 
@@ -464,6 +464,8 @@ Time | Day 1                           | Day 2                                  
 [10-1B]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
 
 [10-2A]: https://github.com/den-wdi-2/behavioral-interview-warmup "Behavioral Interview"
+
+[10-3A]: https://github.com/den-wdi-2/landing-a-freelance-gig "Freelance Gig"
 
 [10-4E]: https://github.com/den-wdi-2/create-an-issue-project3 "Project 3 Issues"
 
