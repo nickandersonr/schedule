@@ -399,7 +399,7 @@ Time | Day 1                           | Day 2                                  
 **9:30am Module 1** | [Linked Lists Challenge (Zeb)][10-1B] | Project 3 | Project 3 | Project 3 | [Merge Sort Challenge (Zeb)][10-5B] | 
 **11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 | [Intro to TypeScript][10-5C] | 
 **1:30pm Module 3** | Project 3 | Project 3 | Outcomes | Project 3 Presentations | [What's Different in Angular 2][10-5D] | 
-**3:00pm Module 4** | Project 3 | Project 3 | Project 3 | [Create Issues][10-4C] | [Lab: Angular 2 Refactor][10-5E] | 
+**3:00pm Module 4** | Project 3 | Project 3 | Project 3 | [Create Issues][10-4E] | [Lab: Angular 2 Refactor][10-5E] | 
 **Training** | Project 3 | Project 3 | Project 3 | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-5F] | 
 
 [10-1A]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
@@ -407,7 +407,7 @@ Time | Day 1                           | Day 2                                  
 
 [10-2A]: https://github.com/den-wdi-2/behavioral-interview-warmup "Behavioral Interview"
 
-[10-4C]: # "Project 3 Issues"
+[10-4E]: https://github.com/den-wdi-2/create-an-issue-project3 "Project 3 Issues"
 
 [10-5A]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
 [10-5B]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
