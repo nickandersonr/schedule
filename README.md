@@ -395,8 +395,8 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00 Warm-upam** | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Behavioral][10-2A] | Project 3 | Project 3 Retro | [String Matching (Zeb)][10-5A] | 
-**9:30am Module 1** | [Linked Lists Challenge (Zeb)][10-1B] | Project 3 | Project 3 | Project 3 | [String Matching (Zeb)][10-5B] | 
+**9:00 Warm-upam** | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Behavioral][10-2A] | Project 3 | Project 3 Retro | [Merge Sort Intro (Zeb)][10-5A] | 
+**9:30am Module 1** | [Linked Lists Challenge (Zeb)][10-1B] | Project 3 | Project 3 | Project 3 | [Merge Sort Challenge (Zeb)][10-5B] | 
 **11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 | [Intro to TypeScript][10-5C] | 
 **1:30pm Module 3** | Project 3 | Project 3 | Outcomes | Project 3 Presentations | [What's Different in Angular 2][10-5D] | 
 **3:00pm Module 4** | Project 3 | Project 3 | Project 3 | [Create Issues][10-4C] | [Lab: Angular 2 Refactor][10-5E] | 
@@ -409,8 +409,8 @@ Time | Day 1                           | Day 2                                  
 
 [10-4C]: # "Project 3 Issues"
 
-[10-5A]: https://github.com/den-wdi-2/string-matching "String Matching"
-[10-5B]: https://github.com/den-wdi-2/string-matching "String Matching"
+[10-5A]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
+[10-5B]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
 [10-5C]: https://github.com/den-wdi-2/intro-typescript "Intro to Typescript"
 [10-5D]: https://github.com/den-wdi-2/angular-2-differences "Angular 2 What's Different?"
 [10-5E]: https://github.com/den-wdi-2/angular-2-refactor "Angular 2 Refactor Lab"
@@ -495,7 +495,7 @@ Time | Day 1                                 | Day 2                            
 
 Type| 1                                 | 2                                               | 3                                              | 4                                     | 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Should-get-to** | [Bubble Sort][14-1A] | [Merge Sort][14-2A] | [Debugging in JavaScript ()][14-3A] |  | 
+**Should-get-to** | [Bubble Sort][14-1A] | [String Matching (Zeb)][14-2A] | [Debugging in JavaScript ()][14-3A] |  | 
 **May-get-to** | [SQL (Zeb)][14-1B] | [Responsive CSS & Flexbox (Zeb) -- Main part finished Week 1, but no Flexbox][14-2B] | [Handlebars Templating (Zeb)][14-3B] | [Node Blog][14-4B] |  | 
 **Probably-No-Time** | [ngAdoption Blog][14-1C] | [Trees][14-2C] | [TDD Lab][14-3C] |  |  | 
 **Helpful-next-time** | [Objects and Prototypes][14-1D] (Zeb) |  |  |  |
@@ -505,7 +505,7 @@ Type| 1                                 | 2                                     
 [14-1C]: https://github.com/ga-chicago/ngAdoptionBlog
 [14-1D]: https://github.com/den-wdi-2/js-prototypes-constructors "Objects and Prototypes"
 
-[14-2A]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
+[14-2A]: https://github.com/den-wdi-2/string-matching "String Matching"
 [14-2B]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
 [14-2C]: https://github.com/den-wdi-2/trees "Trees"
 
