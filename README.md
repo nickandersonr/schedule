@@ -422,7 +422,7 @@ Time | Day 1                           | Day 2                                  
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** |  MLK DAY | Second Pass on Unit 3 | [Mock Interviews - Hybrid][11-3A] | [Mock Interviews - Technical][11-4A] | Second Pass
+**9:00am Warm-up** |  MLK DAY | Second Pass on Unit 3 | [GH Lab Round One][11-3A] | [GH Lab Round Two][11-4A] | Second Pass
 **9:30am Module 1** | MLK DAY | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code][11-3B] | PHP Intro | PHP CRUD | 
 **11:00am Module 2** | MLK DAY | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | Lab: PHP Intro | Lab: PHP CRUD | 
 **1:30pm Module 3** | MLK DAY | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | PHP Wordpress | Elance/Freelancer Wordpress | 
@@ -456,7 +456,7 @@ Time | Day 1                                 | Day 2                            
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [IoT Primer][12-1A] | [Interview Prep][12-2A] | Lightning Talks Prep | [Interview Prep][12-4A] | [Interview Prep][12-5A] |
+**9:00am Warm-up** | [IoT Primer][12-1A] | [Mock Interviews - Hybrid][12-2A] | Lightning Talks Prep | [Mock Interviews - Technical][12-4A] | Project 4 |
 **9:30am Module 1** | [Intro to IoT][12-1B] | TBD | [Lightning Talks][12-3B] | Project 4 Planning | Project 4 |
 **11:00am Module 2** | IoT Hackathon | TBD | Lightning Talks | Approvals | Project 4 |
 **1:30pm Module 3** | IoT Hackathon | TBD | Outcomes | Approvals | Project 4 |  |
