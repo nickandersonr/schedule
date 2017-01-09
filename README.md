@@ -435,19 +435,19 @@ Time | Day 1                                 | Day 2                            
 [11-2E]: # "React Lab"
 
 [11-3A]: https://github.com/den-wdi-2/gh-lab "Git Fork and Clone Workflow"
-[11-3B]: # "Intro to Legacy Code"
+[11-3B]: https://github.com/den-wdi-2/legacy-code-intro "Intro to Legacy Code"
 [11-3C]: https://github.com/den-wdi-2/legacy-code-denver "Legacy Code"
 [11-3D]: # "Outcomes"
 [11-3E]: https://github.com/den-wdi-2/legacy-code-denver "Legacy Code"
 
 [11-4A]: https://github.com/den-wdi-2/gh-lab "Git Fork and Clone Workflow"
-[11-4B]: # "PHP Intro"
+[11-4B]: https://github.com/den-wdi-2/php-intro "PHP Intro"
 [11-4C]: # "PHP Intro Lab"
-[11-4D]: # "PHP Wordpress"
+[11-4D]: https://github.com/den-wdi-2/php-wordpress "PHP Wordpress"
 [11-4E]: # "PHP Wordpress Lab"
 
 [11-5A]: # "Second Pass"
-[11-5B]: # "PHP CRUD"
+[11-5B]: https://github.com/den-wdi-2/php-crud "PHP CRUD"
 [11-5C]: # "PHP CRUD Lab"
 [11-5D]: # "Elance/Freelancer Wordpress"
 [11-5E]: # "Elance/Freelancer Wordpress" 
