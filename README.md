@@ -485,10 +485,10 @@ Time | Day 1                                 | Day 2                            
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am** | Scrum | Scrum | Scrum | Project Work | NO CLASS
-**9:30am** | Project Work | Project Work | Project Work | Make-up Project Work | NO CLASS 
-**11am** | Project Work | Mock Interviews | Mock Interviews | Make-up Project Work | NO CLASS
-**1:00pm** |Project Work | Project Work | Presentations / Outcomes (1:30) | Final Survey, Certificates, and Recap | NO CLASS
+**9:00am** | Scrum | Scrum | Scrum | Make-up Project Work | NO CLASS
+**11:00am** | Project Work | Mock Interviews / Project Work | Project Work | Mock Interviews | NO CLASS 
+**2:00pm** | Project Work | Mock Interviews / Project Work | Presentations | Practice Showcase | NO CLASS
+**3:00pm** |Project Work | Mock Interviews / Project Work | Presentations | Final Survey, Certificates, and Recap (Graduation) | NO CLASS
 **Training** |Project Work | Project Work | Project Work | Happy Hour | NO CLASS
 
 ### Extras:
