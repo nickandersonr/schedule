@@ -453,9 +453,9 @@ Weekly Goals:
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00 Warm-upam** | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Behavioral][10-2A] | [Getting a Freelance Gig][10-3A] | Project 3 Retro | [Merge Sort Intro (Zeb)][10-5A] | 
+**9:00 Warm-upam** | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Behavioral][10-2A] | [Getting a Freelance Gig][10-3A] | Project 3 | [Merge Sort Intro (Zeb)][10-5A] | 
 **9:30am Module 1** | [Linked Lists Challenge (Zeb)][10-1B] | Project 3 | Project 3 | Project 3 | [Merge Sort Challenge (Zeb)][10-5B] | 
-**11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 | [Intro to TypeScript][10-5C] | 
+**11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 Retro | [Intro to TypeScript][10-5C] | 
 **1:30pm Module 3** | Project 3 | Project 3 | Outcomes | Project 3 Presentations | [What's Different in Angular 2][10-5D] | 
 **3:00pm Module 4** | Project 3 | Project 3 | Project 3 | [Create Issues][10-4E] | [Lab: Angular 2 Refactor][10-5E] | 
 **Training** | Project 3 | Project 3 | Project 3 | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-5F] | 
