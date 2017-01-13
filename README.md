@@ -458,7 +458,7 @@ Time | Day 1                           | Day 2                                  
 **11:00am Module 2** | Project 3  | Project 3 | Project 3 | Project 3 Retro | [Intro to TypeScript][10-5C] | 
 **1:30pm Module 3** | Project 3 | Project 3 | Outcomes | Project 3 Presentations | [What's Different in Angular 2][10-5D] | 
 **3:00pm Module 4** | Project 3 | Project 3 | Project 3 | [Create Issues][10-4E] | [Lab: Angular 2 Refactor][10-5E] | 
-**Training** | Project 3 | Project 3 | Project 3 | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-5F] | 
+**Training** | Project 3 | Project 3 | Project 3 | Fix Issues | [**Optional:** Tour of Heroes Angular 2 Tutorial][10-5F] | 
 
 [10-1A]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
 [10-1B]: https://github.com/den-wdi-2/linked-lists "Linked Lists"
