@@ -424,7 +424,7 @@ Time | Day 1                                 | Day 2                            
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am Warm-up** |  MLK DAY | Second Pass on Unit 3 | [GH Lab Round One][11-3A] | [GH Lab Round Two][11-4A] | Second Pass
 **9:30am Module 1** | MLK DAY | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code][11-3B] | [PHP Intro][11-4B] | [PHP CRUD][11-5B] | 
-**11:00am Module 2** | MLK DAY | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | Lab: PHP Intro | Lab: PHP CRUD | 
+**11:00am Module 2** | MLK DAY | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | [Lab: PHP Intro][11-4C] | Lab: PHP CRUD | 
 **1:30pm Module 3** | MLK DAY | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | [PHP Wordpress][11-4D] | Elance/Freelancer Wordpress | 
 **3:00pm Module 4** | MLK DAY | [Lab: Create React Page][11-2E] | Outcomes | Lab: PHP Wordpress | Elance/Freelancer Wordpress | 
 **Training** | MLK DAY | Continue React Page | Continue Legacy Code | Continue Wordpress Site | Complete Elance Job
@@ -442,7 +442,7 @@ Time | Day 1                                 | Day 2                            
 
 [11-4A]: https://github.com/den-wdi-2/gh-lab "Git Fork and Clone Workflow"
 [11-4B]: https://github.com/den-wdi-2/php-intro "PHP Intro"
-[11-4C]: # "PHP Intro Lab"
+[11-4C]: https://github.com/den-wdi-2/php-exercises "PHP Intro Lab"
 [11-4D]: https://github.com/den-wdi-2/php-wordpress "PHP Wordpress"
 [11-4E]: # "PHP Wordpress Lab"
 
