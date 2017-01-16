@@ -444,7 +444,7 @@ Time | Day 1                                 | Day 2                            
 [11-4B]: https://github.com/den-wdi-2/php-intro "PHP Intro"
 [11-4C]: https://github.com/den-wdi-2/php-exercises "PHP Intro Lab"
 [11-4D]: https://github.com/den-wdi-2/php-wordpress "PHP Wordpress"
-[11-4E]: # "PHP Wordpress Lab"
+[11-4E]: https://github.com/den-wdi-2/wordpress-lab "PHP Wordpress Lab"
 
 [11-5A]: # "Second Pass"
 [11-5B]: https://github.com/den-wdi-2/php-crud "PHP CRUD"
