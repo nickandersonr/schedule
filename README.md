@@ -426,13 +426,13 @@ Time | Day 1                                 | Day 2                            
 **9:30am Module 1** | MLK DAY | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code][11-3B] | [PHP Intro][11-4B] | [PHP CRUD][11-5B] | 
 **11:00am Module 2** | MLK DAY | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | [Lab: PHP Intro][11-4C] | Lab: PHP CRUD | 
 **1:30pm Module 3** | MLK DAY | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | [PHP Wordpress][11-4D] | Elance/Freelancer Wordpress | 
-**3:00pm Module 4** | MLK DAY | [Lab: Create React Page][11-2E] | Outcomes | [Lab: PHP Wordpress][11-4E] | Elance/Freelancer Wordpress | 
-**Training** | MLK DAY | Continue React Page | Continue Legacy Code | Continue Wordpress Site | Complete Elance Job
+**3:00pm Module 4** | MLK DAY | [Lab: React Tic-Tac-Toe Tutorial][11-2E] | Outcomes | [Lab: PHP Wordpress][11-4E] | Elance/Freelancer Wordpress | 
+**Training** | MLK DAY | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site | Complete Elance Job
 
 [11-2B]: https://github.com/den-wdi-2/intro-to-ops "Dev Ops Intro"
 [11-2C]: https://github.com/den-wdi-2/react "React"
 [11-2D]: https://github.com/den-wdi-2/redux "Redux"
-[11-2E]: # "React Lab"
+[11-2E]: https://facebook.github.io/react/tutorial/tutorial.html "React Lab"
 
 [11-3A]: https://github.com/den-wdi-2/gh-lab "Git Fork and Clone Workflow"
 [11-3B]: https://github.com/den-wdi-2/legacy-code-intro "Intro to Legacy Code"
