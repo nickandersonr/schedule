@@ -422,13 +422,14 @@ Time | Day 1                           | Day 2                                  
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** |  MLK DAY | Second Pass on Unit 3 | [GH Lab Round One][11-3A] | [GH Lab Round Two][11-4A] | Second Pass
+**9:00am Warm-up** |  MLK DAY | [Getting Sequelize and Satellizer Together][11-2A] | [GH Lab Round One][11-3A] | [GH Lab Round Two][11-4A] | Second Pass
 **9:30am Module 1** | MLK DAY | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code][11-3B] | [PHP Intro][11-4B] | [PHP CRUD][11-5B] | 
 **11:00am Module 2** | MLK DAY | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | [Lab: PHP Intro][11-4C] | Lab: PHP CRUD | 
 **1:30pm Module 3** | MLK DAY | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | [PHP Wordpress][11-4D] | Elance/Freelancer Wordpress | 
 **3:00pm Module 4** | MLK DAY | [Lab: React Tic-Tac-Toe Tutorial][11-2E] | Outcomes | [Lab: PHP Wordpress][11-4E] | Elance/Freelancer Wordpress | 
 **Training** | MLK DAY | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site | Complete Elance Job
 
+[11-2A]: https://github.com/den-wdi-2/angular-auth-satellizer/tree/solution "Satellequelizer"
 [11-2B]: https://github.com/den-wdi-2/intro-to-ops "Dev Ops Intro"
 [11-2C]: https://github.com/den-wdi-2/react "React"
 [11-2D]: https://github.com/den-wdi-2/redux "Redux"
