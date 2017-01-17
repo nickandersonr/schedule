@@ -484,11 +484,48 @@ Weekly Goals:
 
 ## Unit 4: Becoming a Developer
 
-#### Week 11 - React, Legacy Code, and PHP (1/16-1/20)
+#### Week 11 - React, Legacy, and PHP (1/16-1/20)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Class** |  MLK DAY - No Class | Class | Class | Class | Class
+**9:00am Warm-up** |  MLK DAY | [Getting Sequelize and Satellizer Together][11-2A] | [GH Lab Round One][11-3A] | [GH Lab Round Two][11-4A] | Second Pass
+**9:30am Module 1** | MLK DAY | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code][11-3B] | [PHP Intro][11-4B] | [PHP CRUD][11-5B] | 
+**11:00am Module 2** | MLK DAY | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | [Lab: PHP Intro][11-4C] | Lab: PHP CRUD | 
+**1:30pm Module 3** | MLK DAY | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | [PHP Wordpress][11-4D] | Freelance Project | 
+**3:00pm Module 4** | MLK DAY | [Lab: React Tic-Tac-Toe Tutorial][11-2E] | Outcomes | [Lab: PHP Wordpress][11-4E] | Freelance Project | 
+**Training** | MLK DAY | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site | Continue Outside Project
+
+[11-2A]: https://github.com/den-wdi-2/angular-auth-satellizer/tree/solution "Satellequelizer"
+[11-2B]: https://github.com/den-wdi-2/intro-to-ops "Dev Ops Intro"
+[11-2C]: https://github.com/den-wdi-2/react "React"
+[11-2D]: https://github.com/den-wdi-2/redux "Redux"
+[11-2E]: https://facebook.github.io/react/tutorial/tutorial.html "React Lab"
+
+[11-3A]: https://github.com/den-wdi-2/gh-lab "Git Fork and Clone Workflow"
+[11-3B]: https://github.com/den-wdi-2/legacy-code-intro "Intro to Legacy Code"
+[11-3C]: https://github.com/den-wdi-2/legacy-code-denver "Legacy Code"
+[11-3D]: # "Outcomes"
+[11-3E]: https://github.com/den-wdi-2/legacy-code-denver "Legacy Code"
+
+[11-4A]: https://github.com/den-wdi-2/gh-lab "Git Fork and Clone Workflow"
+[11-4B]: https://github.com/den-wdi-2/php-intro "PHP Intro"
+[11-4C]: https://github.com/den-wdi-2/php-exercises "PHP Intro Lab"
+[11-4D]: https://github.com/den-wdi-2/php-wordpress "PHP Wordpress"
+[11-4E]: https://github.com/den-wdi-2/wordpress-lab "PHP Wordpress Lab"
+
+[11-5A]: # "Second Pass"
+[11-5B]: https://github.com/den-wdi-2/php-crud "PHP CRUD"
+[11-5C]: # "PHP CRUD Lab"
+[11-5D]: # "Elance/Freelancer Wordpress"
+[11-5E]: # "Elance/Freelancer Wordpress" 
+
+Weekly Goals:
+- Create a React app
+- Improve Legacy Code
+- Create a PHP CRUD App
+- Create a Wordpress App
+- Understand basic operations and web-dev IT
+- Do work for someone outside of the class
 
 #### Week 12: IoT and Developer-Chosen Topics (1/23-1/27)
 
