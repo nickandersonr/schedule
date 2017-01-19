@@ -457,7 +457,7 @@ Time | Day 1                                 | Day 2                            
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [IoT Primer][12-1A] | [Mock Interviews - Hybrid][12-2A] | Lightning Talks Prep | [Mock Interviews - Technical][12-4A] | Project 4 |
+**9:00am Warm-up** | [IoT Primer][12-1A] | Hackathon Presentations | [Mock Interviews - Hybrid][12-3A] | [Mock Interviews - Technical][12-4A] | Project 4 |
 **9:30am Module 1** | [Intro to IoT][12-1B] | [Intro to Ruby][12-2B] | Lightning Talks Prep | Project 4 Planning | Project 4 |
 **11:00am Module 2** | IoT Hackathon | [Intro to Rails][12-2C] | Lightning Talks Prep | Approvals | Project 4 |
 **1:30pm Module 3** | IoT Hackathon | Outcomes | [Lightning Talks][12-3D] | Approvals | Project 4 |  |
@@ -471,13 +471,13 @@ Time | Day 1                                 | Day 2                            
 [12-1E]: # "IoT Hackathon"
 [12-1F]: https://github.com/den-wdi-2/lighting-talks "Lightning Talk Topic Selection"
 
-[12-2A]: https://github.com/den-wdi-2/troubleshooting-interview "Interview Prep"
+[12-2A]: # "Hackathon Presentations"
 [12-2B]: https://github.com/den-wdi-2/intro-ruby "Intro Ruby"
 [12-2C]: https://github.com/den-wdi-2/intro-to-rails "Intro Rails"
 [12-2D]: # "Outcomes"
 [12-2E]: https://github.com/den-wdi-2/lighting-talks "Lightning Talk Prep"
 
-[12-3A]: # "Lightning Talk Prep"
+[12-3A]: https://github.com/den-wdi-2/troubleshooting-interview "Interview Prep"
 [12-3B]: # "Lightning Talk Prep"
 [12-3C]: # "Lightning Talk Prep"
 [12-3D]: https://github.com/den-wdi-2/lighting-talks "Lighting Talks"
