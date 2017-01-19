@@ -462,7 +462,7 @@ Time | Day 1                                 | Day 2                            
 **11:00am Module 2** | IoT Hackathon | [Intro to Rails][12-2C] | Lightning Talks Prep | Approvals | Project 4 |
 **1:30pm Module 3** | IoT Hackathon | Outcomes | [Lightning Talks][12-3D] | Approvals | Project 4 |  |
 **3:00pm Module 4** | IoT Hackathon | Lightning Talks Prep | [Project 4 Intro][12-3D] | Project 4 | Project 4 |
-**Training** | [Pick a Lightning Talk Topic][12-1F] | Lightning Talks Prep | Project Ideation | Project 4 | Project 4 |
+**Training** | [Pick a Lightning Talk Topic][12-1F] | Lightning Talks Prep | Intro to Ionic 5-7pm | Project 4 | Project 4 |
 
 [12-1A]: https://github.com/den-wdi-2/intro-iot "IoT Primer"
 [12-1B]: https://github.com/den-wdi-2/IoT-Hobby-Projects "Intro to IoT"
