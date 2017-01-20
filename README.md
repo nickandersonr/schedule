@@ -488,7 +488,7 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** |  MLK DAY | [Getting Sequelize and Satellizer Together (Zeb)][11-2A] | [GH Lab (Zeb)][11-3A] | [CodeWars][11-4A] | Second Pass (Zeb)
+**9:00am Warm-up** |  MLK DAY | [Getting Sequelize and Satellizer Together (Zeb)][11-2A] | [GH Lab (Zeb)][11-3A] | [CodeWars][11-4A] | [Second Pass (Zeb)][11-5A]
 **9:30am Module 1** | MLK DAY | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code (Zeb)][11-3B] | [PHP Intro (Zeb)][11-4B] | [PHP CRUD (Zeb)][11-5B] | 
 **11:00am Module 2** | MLK DAY | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | [Lab: PHP Intro (Zeb)][11-4C] | Lab: PHP CRUD (Zeb) | 
 **1:30pm Module 3** | MLK DAY | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | [PHP Wordpress (Nick)][11-4D] | Freelance Project | 
@@ -513,7 +513,7 @@ Time | Day 1                                 | Day 2                            
 [11-4D]: https://github.com/den-wdi-2/php-wordpress "PHP Wordpress"
 [11-4E]: https://github.com/den-wdi-2/wordpress-lab "PHP Wordpress Lab"
 
-[11-5A]: # "Second Pass"
+[11-5A]: https://github.com/den-wdi-2/unit4_week1_secondpass "Second Pass"
 [11-5B]: https://github.com/den-wdi-2/php-crud "PHP CRUD"
 [11-5C]: # "PHP CRUD Lab"
 [11-5D]: # "Elance/Freelancer Wordpress"
