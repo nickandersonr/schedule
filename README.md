@@ -531,7 +531,40 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Class** | Class | Class | Class | Project 4 | Project 4 |
+**9:00am Warm-up** | [Mock Interviews - Hybrid][12-1A] | Hackathon Presentations | Lightning Talks Prep | [Mock Interviews - Technical][12-4A] | Project 4 |
+**9:30am Module 1** | [IoT Primer][12-1B] | [Intro to Ruby][12-2B] | Lightning Talks Prep | Project 4 Planning | Project 4 |
+**11:00am Module 2** | [Intro to IoT][12-1C] | [Intro to Rails][12-2C] | Lightning Talks Prep | Approvals | Project 4 |
+**1:30pm Module 3** | IoT Hackathon | Outcomes | [Lightning Talks][12-3D] | Approvals | Project 4 |  |
+**3:00pm Module 4** | IoT Hackathon | Lightning Talks Prep | [Project 4 Intro][12-3D] | Project 4 | Project 4 |
+**Training** | [Pick a Lightning Talk Topic][12-1F] | Lightning Talks Prep | Intro to Ionic 5-7pm | Project 4 | Project 4 |
+
+[12-1A]: https://github.com/den-wdi-2/troubleshooting-interview "Interview Prep"
+[12-1B]: https://github.com/den-wdi-2/intro-iot "IoT Primer"
+[12-1C]: https://github.com/den-wdi-2/IoT-Hobby-Projects "Intro to IoT"
+[12-1D]: # "IoT Hackathon"
+[12-1E]: # "IoT Hackathon"
+[12-1F]: https://github.com/den-wdi-2/lighting-talks "Lightning Talk Topic Selection"
+
+[12-2A]: # "Hackathon Presentations"
+[12-2B]: https://github.com/den-wdi-2/intro-ruby "Intro Ruby"
+[12-2C]: https://github.com/den-wdi-2/intro-to-rails "Intro Rails"
+[12-2D]: # "Outcomes"
+[12-2E]: https://github.com/den-wdi-2/lighting-talks "Lightning Talk Prep"
+
+[12-3A]: # "Lightning Talk Prep"
+[12-3B]: # "Lightning Talk Prep"
+[12-3C]: # "Lightning Talk Prep"
+[12-3D]: https://github.com/den-wdi-2/lighting-talks "Lighting Talks"
+[12-3E]: https://github.com/den-wdi-2/project-4 "Project 4"
+
+[12-4A]: https://github.com/den-wdi-2/mock-technical-interview "Interview Prep"
+
+Weekly Goals:
+- Create a software-hardware hybrid project
+- Distill and deliver a lesson on a modern technology
+- Understand the major differences between JS and Ruby
+- Build a basic Rails app
+- Answer technical and quasi-technical interview questions
 
 #### Week 13 - Final Project and Interview Prep (1/30-2/3)
 
