@@ -571,9 +571,9 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am** | Scrum | Scrum | Scrum | Make-up Project Work | NO CLASS
-**11:00am** | Project Work | Mock Interviews / Project Work | Project Work | Mock Interviews | NO CLASS 
-**2:00pm** | Project Work | Mock Interviews / Project Work | Presentations | Practice Showcase | NO CLASS
+**9:00am** | Scrum | Scrum | Scrum | Make-up Project Work | Zeb Available for Mock Interviews / Portfolio Help
+**11:00am** | Project Work | Mock Interviews / Project Work | Project Work | Mock Interviews | Zeb Available for Mock Interviews / Portfolio Help
+**2:00pm** | Project Work | Mock Interviews / Project Work | Presentations | Practice Showcase | Zeb Available for Mock Interviews / Portfolio Help
 **3:00pm** |Project Work | Mock Interviews / Project Work | Presentations | Final Survey, Certificates, and Recap (Graduation) | NO CLASS
 **Training** |Project Work | Project Work | Project Work | Happy Hour | NO CLASS
 
@@ -582,6 +582,8 @@ Weekly Goals:
 - Fully formulate an idea for a full-stack project and execute it independently
 - Answer mock interview questions from instructors and outside developers
 - Demonstrate work to technical and non-technical observers
+
+>**Note:** Monday 2/6 through Thursday 2/9 (Showcase Day), Zeb will be available **by appointment** for mock interviews and portfolio help.  Please set up a time with Zeb by Direct Messaging him in Slack.
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
