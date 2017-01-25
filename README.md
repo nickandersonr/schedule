@@ -560,17 +560,28 @@ Time | Day 1                                 | Day 2                            
 [12-4A]: https://github.com/den-wdi-2/mock-technical-interview "Interview Prep"
 
 Weekly Goals:
+
 - Create a software-hardware hybrid project
 - Distill and deliver a lesson on a modern technology
 - Understand the major differences between JS and Ruby
 - Build a basic Rails app
 - Answer technical and quasi-technical interview questions
 
-#### Week 13 - Final Project and Interview Prep (1/30-2/3)
+#### Week 13 - Final Project and Interview Work (1/30-2/3)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Class** | Project 4 | Project 4 | Project 4 | Graduation | NO CLASS
+**9:00am** | Scrum | Scrum | Scrum | Make-up Project Work | NO CLASS
+**11:00am** | Project Work | Mock Interviews / Project Work | Project Work | Mock Interviews | NO CLASS 
+**2:00pm** | Project Work | Mock Interviews / Project Work | Presentations | Practice Showcase | NO CLASS
+**3:00pm** |Project Work | Mock Interviews / Project Work | Presentations | Final Survey, Certificates, and Recap (Graduation) | NO CLASS
+**Training** |Project Work | Project Work | Project Work | Happy Hour | NO CLASS
+
+Weekly Goals:
+
+- Fully formulate an idea for a full-stack project and execute it independently
+- Answer mock interview questions from instructors and outside developers
+- Demonstrate work to technical and non-technical observers
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
