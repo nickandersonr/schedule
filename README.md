@@ -131,7 +131,7 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Agile development and user stories (Zeb)][3-2A] | [Binary Search (Zeb)][3-3A] | [Bubble Sort][14-1A] | Standup / Project 1 | Final Prep
+**9:00am Module 1** | [Agile development and user stories (Zeb)][3-2A] | [Binary Search (Zeb)][3-3A] | [Stacks and Queues][3-4A] | Standup / Project 1 | Final Prep
  **10:30am Module 2** | [Agile Development Lab (Zeb)][3-2B] | Standup / Project 1 | Standup / Project 1 | Project 1 | Final Prep and Submission
 **1:30pm Module 3** | [Project 1 Approvals][3-2C] | Outcomes | Project 1 | Project 1 | Presentations
 **3:00pm Module 4** | Project 1 |  Project 1 |  Project 1 | Project 1 | Retrospective and [Fix an Issue (Zeb)][4-1D]
@@ -150,7 +150,7 @@ Weekly Goals:
 [3-3C]: # "Outcomes"
 [3-3D]: # "Project 1"
 
-[3-4A]: https://github.com/den-wdi-2/bubble-sort "Bubble Sort"
+[3-4A]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
 [3-4B]: # "Project 1"
 [3-4C]: # "Project 1"
 [3-4D]: # "Project 1"
@@ -165,18 +165,16 @@ Weekly Goals:
 [4-1C]: # "Presentations"
 [4-1D]: https://github.com/den-wdi-2/create-an-issue-project1 "Fix an issue"
 
-[14-1A]: https://github.com/den-wdi-2/bubble-sort "Bubble Sort"
-
 ## Unit 2: The Server
 
 #### Week 4 - Node and AJAX (4/3-4/7)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | CodeWars | [API Practice][4-3A] | CodeWars | [Troubleshooting and Dev Tools][5-2A] | [Intro to EJS][5-3A] 
+ **9:00am Warm-Up** | Intro to Full-Stack (Diagram and Key Terms) | [API Practice][4-3A] | CodeWars | [Troubleshooting and Dev Tools][5-2A] | [Intro to EJS][5-3A] 
  **9:30am Module 1** | [API Intro with Postman][4-2B] (Zeb) | [Lab: Shakeitspear][4-3B] (Zeb) | [Intro to Express (Zeb)][5-1B] | [Mongo Intro][5-2B] (Zeb) | [Views in Express (Zeb)][5-3B]
 **11:00am Module 2** | [Intro to AJAX][4-2C] (Zeb) | [Connecting Forms to APIs via AJAX][4-3C] (Zeb) | [Building Express Routes (Zeb)][5-1C] | [Mongo Lab][5-2C] (Zeb) | [Lab: Views in Express (Zeb)][5-3C]
-**1:30pm Module 3** | Presentations | [Lab: Intro to AJAX][4-2D] (Zeb) | [Intro to Node.js (Zeb)][4-3D] | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] (Nick) | Outcomes (Nick)
+**1:30pm Module 3** | [Lab: Intro to AJAX][4-2D] (Zeb) | [Intro to Node.js (Zeb)][4-3D] | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] (Nick) | Outcomes (Nick)
 **3:00pm Module 4** | More Cats | [Node Lab][4-3E] (Zeb) | [More Express Routes][5-1E] (Nick) |  [Data Organization in Mongo][5-2E] (Nick) | [TODO API][5-3E] (Nick)
 **Training** | Finish Cats Lab | [Lab: Requesting with Node][4-3F] | Candies (Express Routing) Lab | Restaurants (Mongo CLI) Lab | TODO API & [Project 2 Proposal][5-3F]
 
@@ -221,11 +219,11 @@ Weekly Goals:
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
  **9:00am Warm-Up** | [Mongoose Data Exercises][5-4A] | [Questions in a Hat][5-5A] (Zeb) | [Testing Lab][6-1A] (Zeb) | [CodeWars][6-2A] | [CodeWars][6-3A]
- **9:30am Module 1** | [Lab: Full-Stack JS][5-4B] (Zeb) | [Second Pass (Zeb)][5-5B] | [Testing API Calls][6-1B] (Zeb) | [Intro to MVC][6-2B] (Zeb) | [Tunely][6-3B] (Zeb)
-**11:00am Module 2** | [Lab: Full-Stack JS][5-4C] (Zeb) | [Sass Preprocessing (Zeb)][5-5C] | [Lab: Research and Test External API for Project 2][6-1C] (Zeb) | [Introducing Gulp (Zeb)][6-2C] | [Tunely][6-3C] (Zeb) |
+ **9:30am Module 1** | [Lab: Full-Stack JS][5-4B] (Zeb) | [Second Pass (Zeb)][5-5B] | [Testing API Calls][6-1B] (Zeb) | [Sass Preprocessing (Zeb)][6-2C] | [Tunely][6-3B] (Zeb)
+**11:00am Module 2** | [Lab: Full-Stack JS][5-4C] (Zeb) | [Intro to MVC][5-5C] (Zeb) | [Lab: Research and Test External API for Project 2][6-1C] (Zeb) | [Introducing Gulp (Zeb)][6-2C] | [Tunely][6-3C] (Zeb) |
 **1:30pm Module 3** | [UX Crash Course][5-4D] (Nick) | [Intro to TDD][5-5D] (Zeb) | [Lab: Research and Test External API for Project 2][6-1D] (Zeb) | [Intro to Bootstrap][6-2D] (Nick) | [MVC App Organization][6-3D] (Nick)
 **3:00pm Module 4** | [Lab: Personal API][5-4E] (Nick) | [Testing Lab][5-5E] (Zeb) | [Project 2 Ideation / Wireframes][6-1E] (Nick) | [Map Wireframes][6-2E] (Nick) | [MVC App Organization][6-3E] (Nick)
-**Training** | Personal API | [Testing Reading][5-5F] | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Finish Tunely
+**Training** | Personal API | [Testing Reading][5-5F] | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Continue Tunely
 
 Weekly Goals:
 * Build a web server with Express
@@ -243,7 +241,7 @@ Weekly Goals:
 
 [5-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
 [5-5B]: https://github.com/den-wdi-2/unit2_week1_secondpass "Second Pass"
-[5-5C]: https://github.com/den-wdi-2/sass-intro/blob/master/sass.md "Sass"
+[5-5C]: https://github.com/den-wdi-2/mvc-intro "MVC Intro"
 [5-5D]: https://github.com/den-wdi-2/tdd-and-mocha "Intro to TDD"
 [5-5E]: https://github.com/den-wdi-2/tdd-fibonacci "Testing Lab"
 [5-5F]: https://mochajs.org/ "Testing Reading and Quiz"
@@ -255,7 +253,7 @@ Weekly Goals:
 [6-1E]: https://github.com/den-wdi-2/project-2-ideation "Project 2 Ideation / Wireframes"
 
 [6-2A]: https://www.codewars.com "CodeWars"
-[6-2B]: https://github.com/den-wdi-2/mvc-intro "MVC Intro"
+[6-2B]: https://github.com/den-wdi-2/sass-intro/blob/master/sass.md "Sass"
 [6-2C]: https://github.com/den-wdi-2/gulp "Gulp"
 [6-2D]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
 [6-2E]: https://github.com/den-wdi-2/mapping-wireframes "Map Wireframes to HTML/CSS Components for Project 2"
@@ -271,11 +269,11 @@ Weekly Goals:
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [A-Ha Moments][6-4A] | [Questions][6-5A] | [FizzBuzz][7-1A] | Standup | Standup
- **9:30am Module 1** | [Stacks and Queues][6-4B] (Zeb) | [Second Pass][6-5B] (Zeb) | Standup | Project 2 | Project 2
- **11:00am Module 2** [Stacks and Queues][6-4C] (Zeb) | [Security 101][6-5C] (Zeb) | Project 2 | Project 2 | Project 2
- **1:30pm Module 3** | Outcomes (Nick) | [Intro to Passport][6-5D] (Zeb) | Project 2 | Project 2 | Project 2 
-**3:00pm Module 4** | [Catch-up and Project 2][6-4E] (Nick) | [Project 2 Trello][6-5E] and First Scrum (Zeb) | Project 2 | Project 2 | Project 2
+ **9:00am Warm-Up** | [Questions][6-5A] | [A-Ha Moments][6-4A] | [FizzBuzz][7-1A] | Standup | Standup
+ **9:30am Module 1** | [Second Pass][6-5B] (Zeb) | [Project 2 Trello][6-5E] and First Scrum (Zeb) | Standup | Project 2 | Project 2
+ **11:00am Module 2** | [Security 101][6-5C] (Zeb) | Project 2 | Project 2 | Project 2 | Project 2
+ **1:30pm Module 3** | [Intro to Passport][6-5D] (Zeb) | Outcomes (Nick) | Project 2 | Project 2 | Project 2 
+**3:00pm Module 4** | Passport Lab - TBD | Project 2 | Project 2 | Project 2 | Project 2
 **Training** | [Work on Project 2 Structure][6-4F] | Project 2 | Project 2 | Project 2 | Project 2
 
 Weekly Goals:
@@ -286,10 +284,10 @@ Weekly Goals:
 * Understand and create a user model with authentication
 
 [6-4A]: # "A-Ha Moments"
-[6-4B]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
-[6-4C]: https://github.com/den-wdi-2/stacks-and-queues "Stacks and Queues"
+[6-4B]: # "Project 2"
+[6-4C]: # "Project 2 Time"
 [6-4D]: # "Outcomes"
-[6-4E]: # "Catch Up and Project 2 Time"
+[6-4E]: # "Project 2 Time"
 [6-4F]: https://github.com/den-wdi-2/project-2 "MVP Of Project 2"
 
 [6-5A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-06.md "Questions"
@@ -305,6 +303,8 @@ Weekly Goals:
 Extra Resources:
 
 * [Deploy to Heroku](https://gist.github.com/awhit012/bd544c8c252434d1fe6fe01cbfa252d6)
+
+## Unit 3: SEAN Stack and Group Work
 
 #### Week 7 - Project 2: Node/Express Single-Resource App, Angular Intro (4/24-4/28)
 
@@ -355,8 +355,6 @@ Weekly Goals:
 [8-3D]: # "Outcomes"
 [8-3E]: https://github.com/den-wdi-2/user-research-and-competitive-analysis "Competitive and User Research"
 [8-3F]: https://github.com/den-wdi-2/user-Research-lab "Competitive and User Research Interviews"
-
-## Unit 3: SEAN Stack and Group Work
 
 #### Week 8 - Angular and Angular Tools (5/1-5/5)
 
