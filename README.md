@@ -132,7 +132,7 @@ Weekly Goals:
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Module 1** | [Agile development and user stories (Zeb)][3-2A] | [Binary Search (Zeb)][3-3A] | [Bubble Sort][14-1A] | Standup / Project 1 | Final Prep
- **10:30am Module 2** | [Agile Development Lab (Zeb)][3-2B] | Project 1 | Standup / Project 1 | Project 1 | Final Prep and Submission
+ **10:30am Module 2** | [Agile Development Lab (Zeb)][3-2B] | Standup / Project 1 | Standup / Project 1 | Project 1 | Final Prep and Submission
 **1:30pm Module 3** | [Project 1 Approvals][3-2C] | Outcomes | Project 1 | Project 1 | Presentations
 **3:00pm Module 4** | Project 1 |  Project 1 |  Project 1 | Project 1 | Retrospective and [Fix an Issue (Zeb)][4-1D]
 **Training** | Project 1 | Project 1 | Project 1 | Project 1 | Fixing Issues
