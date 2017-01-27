@@ -16,12 +16,12 @@ Time  | Activity
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [Welcome to GA][1-1A] | [CSS selector basics (Zeb)][1-2A] | Issue Session | [Kyrel 1 (Zeb)][1-4A] | [Kyrel 2 (Zeb)][1-5A]
+ **9:00am Warm-Up** | [Welcome to GA][1-1A] | [CSS selector basics (Zeb)][1-2A] | Work through Lab Issues | [Kyrel 1 (Zeb)][1-4A] | [Kyrel 2 (Zeb)][1-5A]
  **9:30am Module 1** | [Orientation (Zeb)][1-1B] | [Box model and positioning (Zeb)][1-2B] | [JS Data types, variables, and arrays (Zeb)][1-3B] |  [Functions and scope (Zeb)][1-4B] | [Second Pass](https://github.com/den-wdi-2/week1_secondPass) and [Questions in a Line (Zeb)][1-5B]
  **11:00am Module 2** | [How the internet works (Zeb)][1-1C] | [Lab: Mockup to HTML/CSS (Zeb)][1-2C] | [Objects in JavaScript (Zeb)][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
  **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | Outcomes (Nick) | [DOM manipulation and events (Nick)][1-4D] | [Responsive Design and Media Queries (Zeb)][1-5D]
-**3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E]   
-**Training** | [Lab: Command line][1-1F] (Zeb) | Finish Design/CSS Lab | **Optional**: [Lab: Build a website (Zeb)][1-3F] | Finish LOTR Lab | Finish Instagram Recreation and [Kyrel 3 (Zeb)][1-5F]
+**3:00pm Module 4** | [WDI Diagnostic][1-1E] and GH Issue Session | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E]   
+**Training** | [Lab: Command line][1-1F] (Zeb) | Finish Design/CSS Lab | [Lab: Build a website (Zeb)][1-3F] | Finish LOTR Lab | Continue Instagram Recreation
 
 [1-1A]: https://github.com/den-wdi-2/icebreakers "Icebreakers"
 [1-1B]: https://github.com/den-wdi-2/orientation "Orientation"
@@ -54,7 +54,6 @@ Time  | Activity
 [1-5C]: https://github.com/den-wdi-2/control-flow "Mastering Control Flow"
 [1-5D]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox "Grid System & Media Queries"
 [1-5E]: https://github.com/den-wdi-2/week-1-assessment "Pixel Perfect Recreation"
-[1-5F]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day3.md "Kyrel 3"
 
 **Weekly Goals:**
  * Understand the roles of HTML, CSS, and JS
@@ -76,11 +75,12 @@ Time |Day 1                                      | Day 2                        
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
  **9:00am Warm-Up** | [Intro to ES6 (Zeb)][2-1A] | [Whiteboarding (Zeb)][2-2A] | [GH Branching and gh-pages (Zeb)][2-3A] | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] (Zeb) | [Developer Resources][3-1F]
  **9:30am Module 1** | [Whiteboarding 101 (Zeb)][2-1B] | [Intro to jQuery (Zeb)][2-2B] | [Intermediate jQuery (Zeb)][2-3B] | [Wireframes (Will)][2-4C] | Solutions Run-through and [Questions in a Hat][3-1B] (Zeb)
- **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] | [HTML Forms (Zeb)][2-2C] | [Lab: Create jQuery selector (Zeb)][2-3C] | [OOP in JS (Zeb)][2-4D] | [Racer Issue Submission (Zeb)][3-1A]
+ **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] | [HTML Forms (Zeb)][2-2C] | [Lab: Create jQuery selector (Zeb)][2-3C] | [OOP in JS (Zeb)][2-4D] | [Second Pass (Zeb)][3-1A]
 **1:30pm Module 3** | [Callbacks & Iterators (Nick)][2-1D] | [CSS for HTML Forms Lab (Zeb)][2-2D] | Outcomes (Nick) | [OOP concepts (Zeb)][2-4E] | [CSS Transitions & Animations][3-1C] (Nick)
 **3:00pm Module 4** | [Lab: Callbacks & Iterators (Nick)][2-1E] | [jQuery & Browser Storage (Nick)][2-2E] | [Tic-Tac-Toe (Nick)][2-3E] |  [OOP Refactor Lab (Nick)][2-4F] | [CodeWars Intro][3-1E] and [Project 1 Intro][3-1D] (Zeb)
-**Training** | Part 1: Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d01_Style_Guides" | Finish CSS for HTML Forms Lab | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game][2-4G] | Project 1 Proposal and Fix Issues
-**Training** | Part 2: Finish Callbacks and Iterators |  |  |  |
+**Training** | Part 1: Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d01_Style_Guides" | Finish CSS for HTML Forms Lab | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game][2-4G] | Continue Racer Game
+**Training** | Part 2: Continue Callbacks and Iterators |  |  |  | Project 1 Proposal
+
 Weekly Goals:
 * Understand the principles of Object Oriented Programming with Javascript
 * Answer technical questions on a whiteboard
@@ -120,7 +120,7 @@ Weekly Goals:
 [2-4F]: https://github.com/den-wdi-2/oop-concepts "OOP Concepts"
 [2-4G]: https://github.com/den-wdi-2/assessment-2 "Lab: Racer Game"
 
-[3-1A]: https://github.com/den-wdi-2/create-an-issue/ "Create an Issue"
+[3-1A]: # "Second Pass"
 [3-1B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
 [3-1C]: https://github.com/den-wdi-2/css-animations "CSS Transitions & Animations"
 [3-1D]: https://github.com/den-wdi-2/project-1 "Project 1"
@@ -131,7 +131,7 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Agile development and user stories (Zeb)][3-2A] | Project Week Culture and HW Help | [Binary Search (Zeb)][3-3A] | Standup / Project 1 | Final Prep
+**9:00am Module 1** | [Agile development and user stories (Zeb)][3-2A] | [Binary Search (Zeb)][3-3A] | [Bubble Sort][14-1A] | Standup / Project 1 | Final Prep
  **10:30am Module 2** | [Agile Development Lab (Zeb)][3-2B] | Project 1 | Standup / Project 1 | Project 1 | Final Prep and Submission
 **1:30pm Module 3** | [Project 1 Approvals][3-2C] | Outcomes | Project 1 | Project 1 | Presentations
 **3:00pm Module 4** | Project 1 |  Project 1 |  Project 1 | Project 1 | Retrospective and [Fix an Issue (Zeb)][4-1D]
@@ -164,6 +164,8 @@ Weekly Goals:
 [4-1B]: # "Presentations"
 [4-1C]: # "Presentations"
 [4-1D]: https://github.com/den-wdi-2/create-an-issue-project1 "Fix an issue"
+
+[14-1A]: https://github.com/den-wdi-2/bubble-sort "Bubble Sort"
 
 ## Unit 2: The Server
 
