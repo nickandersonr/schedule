@@ -225,10 +225,10 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | [Mongoose Data Exercises][5-4A] | [Questions in a Hat][5-5A] (Zeb) | [Testing Lab][6-1A] (Zeb) | [CodeWars][6-2A] | [CodeWars][6-3A]
- **9:30am Module 1** | [Lab: Full-Stack JS][5-4B] (Zeb) | [Second Pass (Zeb)][5-5B] | [Testing API Calls][6-1B] (Zeb) | [Sass Preprocessing (Zeb)][6-2C] | [Tunely][6-3B] (Zeb)
-**11:00am Module 2** | [Lab: Full-Stack JS][5-4C] (Zeb) | [Intro to MVC][5-5C] (Zeb) | [Lab: Research and Test External API for Project 2][6-1C] (Zeb) | [Introducing Gulp (Zeb)][6-2C] | [Tunely][6-3C] (Zeb) |
-**1:30pm Module 3** | [UX Crash Course][5-4D] (Nick) | [Intro to TDD][5-5D] (Zeb) | [Lab: Research and Test External API for Project 2][6-1D] (Zeb) | [Intro to Bootstrap][6-2D] (Nick) | [MVC App Organization][6-3D] (Nick)
+ **9:00am Warm-Up** | [Questions in a Hat][5-5A] (Zeb) | [Mongoose Data Exercises][5-4A] | [Testing Lab][6-1A] (Zeb) | [CodeWars][6-2A] | [CodeWars][6-3A]
+ **9:30am Module 1** | [Second Pass (Zeb)][5-5B] | [Intro to MVC][5-5C] (Zeb) | [Testing API Calls][6-1B] (Zeb) | [Sass Preprocessing (Zeb)][6-2C] | [Tunely][6-3B] (Zeb)
+**11:00am Module 2** | [Lab: Full-Stack JS][5-4C] (Zeb) | [Intro to TDD][5-5D] (Zeb) | [Lab: Research and Test External API for Project 2][6-1C] (Zeb) | [Introducing Gulp (Zeb)][6-2C] | [Tunely][6-3C] (Zeb) |
+**1:30pm Module 3** | [Lab: Full-Stack JS][5-4B] (Zeb) | [UX Crash Course][5-4D] (Nick) | [Lab: Research and Test External API for Project 2][6-1D] (Zeb) | [Intro to Bootstrap][6-2D] (Nick) | [MVC App Organization][6-3D] (Nick)
 **3:00pm Module 4** | [Lab: Personal API][5-4E] (Nick) | [Testing Lab][5-5E] (Zeb) | [Project 2 Ideation / Wireframes][6-1E] (Nick) | [Map Wireframes][6-2E] (Nick) | [MVC App Organization][6-3E] (Nick)
 **Training** | Personal API | [Testing Reading][5-5F] | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Continue Tunely
 
