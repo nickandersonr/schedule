@@ -321,7 +321,7 @@ Extra Resources:
  **11:00am Module 2** | Project 2 Presentations | [Auth Math (Zeb)][7-5C] | [Directives Lab (Zeb)][8-1C] | [Angular Hangman (Zeb)][8-2C] | [Firebase (Zeb)][8-3C]
  **1:30pm Module 3** | [Outcomes][7-4C] | [Intro to Angular (Zeb)][7-5D] | [$http and promises (Nick)][8-1D] | [Routing (Zeb/Nick)][8-2D] | Outcomes (Nick)
 **3:00pm Module 4** | [Create Issues][7-4D] | [Lab: Intro to Angular (Zeb)][7-5E] | [$http LAB (Nick)][8-1E] | [Routing Lab (Zeb/Nick)][8-2E] | [Competitive and User Research (Nick)][8-3E]
-**Training** | Finish $http Lab | ui-router vs ngRoute readings: [#1][8-2F] + [#2][8-2G] + [#3][8-2H] | [Interview Potential Users][8-3F] | Fix Issues | [Look over the Angular Documentation][7-5F] + [Check out this blog][7-5G] + [Do this Lab][7-5H] | 
+**Training** | Fix Issues | [Look over the Angular Documentation][7-5F] + [Check out this blog][7-5G] + [Do this Lab][7-5H] | Finish $http Lab | ui-router vs ngRoute readings: [#1][8-2F] + [#2][8-2G] + [#3][8-2H] | [Interview Potential Users][8-3F] | 
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -371,9 +371,9 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Roman Numerals][8-4A] | [Questions in a Line (Zeb)][8-5A] | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [Intro to Sequelize (Zeb)][9-3A]
-**9:30am Module 1** | [Angular Auth (Zeb)][8-4B] **Elongate/supplement** | [Second Pass (Zeb)][8-5B] | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3B]
- **11:00am Module 2** | [ngAnimate (Zeb)][8-4C] | [Rapid Prototype (Zeb)][8-5C] | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3C]
+**9:00am Warm-up** | [Questions in a Line (Zeb)][8-5A] | [Roman Numerals][8-4A] | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [Intro to Sequelize (Zeb)][9-3A]
+**9:30am Module 1** | [Second Pass (Zeb)][8-5B] | [Angular Auth (Zeb)][8-4B] **Elongate/supplement** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3B]
+ **11:00am Module 2** | [Angular UI (Zeb)][8-4C] | [Rapid Prototype (Zeb)][8-5C] | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3C]
 **1:30pm Module 3** | [Almost MEAN App (Zeb/Nick)][8-4D] | [Rapid Prototype (Zeb)][8-5D] | [Sketch and Photoshop Basics (Nick)][9-1D] | Outcomes (Nick) | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3D]
 **3:00pm Module 4** | [Almost MEAN App (Zeb/Nick)][8-4E] | [Rapid Prototype (Zeb)][8-5E] | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL Relationships and JOINs (Zeb)][9-2E] | [Lab: Sequelize/Tunr Relationships (Zeb)][9-3E]
 **Training** | Complete MEAN App | Rapid Prototype | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: SQL Practice][9-2F] | Prepare Project 3 Pitch
@@ -429,8 +429,8 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | Ionic? | [Second Pass (Zeb)][9-4B] | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Behavioral][10-2A] | [Getting a Freelance Gig][10-3A]
-**9:30am Module 1** | Maybe? | Stand-up | [Linked Lists Challenge (Zeb)][10-1B] | Project 3 | Project 3
+**9:00am Warm-up** | [Second Pass (Zeb)][9-4B] | TBD | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Behavioral][10-2A] | [Getting a Freelance Gig][10-3A]
+**9:30am Module 1** | TBD | Stand-up | [Linked Lists Challenge (Zeb)][10-1B] | Project 3 | Project 3
  **11:00am Module 2** | [Team Git Workflow (Zeb)][9-4C] | Project 3 | Project 3  | Project 3 | Project 3
 **1:30pm Module 3** | [Flexbox (Nick)][9-4D] | Project 3 | Project 3 | Project 3 | Outcomes
 **3:00pm Module 4** | [Lab: Project 3 Pitches][9-4E] | Project 3 | Project 3 | Project 3 | Project 3
@@ -462,11 +462,11 @@ Weekly Goals:
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00 Warm-upam** | Project 3 | Project 3 | [Getting Sequelize and Satellizer Together (Zeb)][11-2A] | [GH Lab (Zeb)][11-3A] | [CodeWars][11-4A]
-**9:30am Module 1** | Project 3 | Project 3 | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code (Zeb)][11-3B] | [PHP Intro (Zeb)][11-4B]
-**11:00am Module 2** | Project 3 Retro | [Intro to TypeScript][10-5C] | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | [Lab: PHP Intro (Zeb)][11-4C]
-**1:30pm Module 3** | Project 3 Presentations | [What's Different in Angular 2][10-5D] | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | [PHP Wordpress (Nick)][11-4D]
-**3:00pm Module 4** | [Create Issues][10-4E] | [Lab: Angular 2 Refactor][10-5E] | [Lab: React Tic-Tac-Toe Tutorial (Zeb)][11-2E] | Outcomes (Nick) | [Lab: PHP Wordpress (Nick)][11-4E]
+**9:00 Warm-upam** | Project 3 | [Intro to TypeScript][10-5C] | [Getting Sequelize and Satellizer Together (Zeb)][11-2A] | [GH Lab (Zeb)][11-3A] | [CodeWars][11-4A]
+**9:30am Module 1** | Project 3 | [What's Different in Angular 2][10-5D] | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code (Zeb)][11-3B] | [PHP Intro (Zeb)][11-4B]
+**11:00am Module 2** | Project 3 Retro | [Lab: Angular 2 Refactor][10-5E] | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | [Lab: PHP Intro (Zeb)][11-4C]
+**1:30pm Module 3** | Project 3 Presentations | [Intro to Ionic][12-3E] | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | [PHP Wordpress (Nick)][11-4D]
+**3:00pm Module 4** | [Create Issues][10-4E] | [Intro to Ionic][12-3E] | [Lab: React Tic-Tac-Toe Tutorial (Zeb)][11-2E] | Outcomes (Nick) | [Lab: PHP Wordpress (Nick)][11-4E]
 **Training** | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-5F] | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site
 
 [10-4E]: https://github.com/den-wdi-2/create-an-issue-project3 "Project 3 Issues"
@@ -474,6 +474,7 @@ Time | Day 1                           | Day 2                                  
 [10-5C]: https://github.com/den-wdi-2/intro-typescript "Intro to Typescript"
 [10-5D]: https://github.com/den-wdi-2/angular-2-differences "Angular 2 What's Different?"
 [10-5E]: https://github.com/den-wdi-2/angular-2-refactor "Angular 2 Refactor Lab"
+[12-3E]: https://github.com/den-wdi-2/intro-ionic "Intro to Ionic"
 [10-5F]: https://angular.io/docs/ts/latest/tutorial/ "Angular 2torial"
 
 [11-2A]: https://github.com/den-wdi-2/angular-auth-satellizer/tree/solution "Satellequelizer"
@@ -512,7 +513,7 @@ Time | Day 1                                 | Day 2                            
 **11:00am Module 2** | Lab: PHP CRUD (Zeb) | [Intro to IoT][12-1C] | [Intro to Rails][12-2C] | Lightning Talks Prep | Approvals
 **1:30pm Module 3** | Freelance Project | IoT Hackathon | Outcomes | [Lightning Talks][12-3C] | Approvals
 **3:00pm Module 4** | Freelance Project | IoT Hackathon | Lightning Talks Prep | [Project 4 Intro][12-3D] | Project 4
-**Training** | Continue Outside Project | [Pick a Lightning Talk Topic][12-1F] | Lightning Talks Prep | [Intro to Ionic 5-7pm][12-3E] | Project 4
+**Training** | Continue Outside Project | [Pick a Lightning Talk Topic][12-1F] | Lightning Talks Prep | Project 4 | Project 4
 
 [11-5A]: https://github.com/den-wdi-2/unit4_week1_secondpass "Second Pass"
 [11-5B]: https://github.com/den-wdi-2/php-crud "PHP CRUD"
@@ -537,7 +538,6 @@ Time | Day 1                                 | Day 2                            
 [12-3B]: # "Lightning Talk Prep"
 [12-3C]: https://github.com/den-wdi-2/lighting-talks "Lighting Talks"
 [12-3D]: https://github.com/den-wdi-2/project-4 "Project 4"
-[12-3E]: https://github.com/den-wdi-2/intro-ionic "Intro to Ionic"
 
 [12-4A]: https://github.com/den-wdi-2/mock-technical-interview "Interview Prep"
 
