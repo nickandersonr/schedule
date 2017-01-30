@@ -131,8 +131,8 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Agile development and user stories (Zeb)][3-2A] | [Binary Search (Zeb)][3-3A] | [Stacks and Queues][3-4A] | Standup / Project 1 | Final Prep
- **10:30am Module 2** | [Agile Development Lab (Zeb)][3-2B] | Standup / Project 1 | Standup / Project 1 | Project 1 | Final Prep and Submission
+**9:00am Module 1** | [Agile development and user stories (Zeb)][3-2A] | [Binary Search (Zeb)][3-3A] | [Stacks and Queues][3-4A] | [Merge Sort][3-5A] | Final Prep
+ **10:30am Module 2** | [Agile Development Lab (Zeb)][3-2B] | Standup / Project 1 | Standup / Project 1 | Standup / Project 1 | Final Prep and Submission
 **1:30pm Module 3** | [Project 1 Approvals][3-2C] | Outcomes | Project 1 | Project 1 | Presentations
 **3:00pm Module 4** | Project 1 |  Project 1 |  Project 1 | Project 1 | Retrospective and [Fix an Issue (Zeb)][4-1D]
 **Training** | Project 1 | Project 1 | Project 1 | Project 1 | Fixing Issues
@@ -140,6 +140,10 @@ Time | Day 1                                      | Day 2                       
 Weekly Goals:
 * Create a browser-based game for your porfolio
 * Learn about common ways software companies organize projects
+* Explain the binary search algorithm
+* Explain the structure of stacks and queues
+* Explain the merge sort algorithm
+* Leverage other developers to support and improve projects
 
 [3-2A]: https://github.com/den-wdi-2/software-development-best-practices "Agile development and user stories"
 [3-2B]: https://github.com/den-wdi-2/agile-lab "Agile Lab"
@@ -167,7 +171,7 @@ Weekly Goals:
 
 ## Unit 2: The Server
 
-#### Week 4 - Node and AJAX (4/3-4/7)
+#### Week 4 - Full-Stack JS: AJAX, Node, Express, and Mongo (4/3-4/7)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -179,9 +183,12 @@ Time | Day 1                                    | Day 2                         
 **Training** | Finish Cats Lab | [Lab: Requesting with Node][4-3F] | Candies (Express Routing) Lab | Restaurants (Mongo CLI) Lab | TODO API & [Project 2 Proposal][5-3F]
 
 Weekly Goals:
-* Leverage other developers to support and improve projects
 * Communicate between front-end and back-end with APIs and AJAX
 * Create a basic back-end with Node
+* Build a web server with Express
+* Define server responses with routes and controllers
+* Save JSON-like data to a server's Mongo database
+* Utilize server-side rendering with templates
 
 [4-2B]: https://github.com/den-wdi-2/api-intro "API, JSON, and Postman"
 [4-2C]: https://github.com/den-wdi-2/js-ajax-lesson "AJAX Intro"
@@ -214,7 +221,7 @@ Weekly Goals:
 [5-3E]: https://github.com/den-wdi-2/test-driven-todo-api "Todo Lab"
 [5-3F]: https://github.com/den-wdi-2/project-2 "Project 2 Proposal"
 
-#### Week 5 - Express and Mongo (4/10-4/14)
+#### Week 5 - Full-Stack Apps, MVC, and Testing (4/10-4/14)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -226,12 +233,13 @@ Time | Day 1                                    | Day 2                         
 **Training** | Personal API | [Testing Reading][5-5F] | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Continue Tunely
 
 Weekly Goals:
-* Build a web server with Express
-* Define server responses with routes and controllers
-* Save JSON-like data to a server's Mongo database
 * Utilize Sass to improve and DRY out CSS code
 * Utilize Gulp to save time on repetitive tasks
 * Write a software test suite with Mocha and Chai
+* Build and test an API integration
+* Design a full-stack app
+* Understand and create Models, Views, and Controllers
+* Integrate tools like Gulp, Sass, and Bootstrap to improve development
 
 [5-4A]: https://github.com/den-wdi-2/mongo-structured-data "Data Organization in Mongo"
 [5-4B]: https://github.com/den-wdi-2/mongoose-books-app "Full Stack JavaScript Lab"
@@ -265,7 +273,7 @@ Weekly Goals:
 [6-3D]: https://github.com/den-wdi-2/mvc-folder-structure "MVC App Organization"
 [6-3E]: https://github.com/den-wdi-2/mvc-folder-structure "MVC App Organization"
 
-#### Week 6 - Full-Stack Apps, MVC, and User Management (4/17-4/21)
+#### Week 6 - User Management and Project 2: Full-stack CRUD App (4/17-4/21)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
@@ -277,11 +285,9 @@ Weekly Goals:
 **Training** | [Work on Project 2 Structure][6-4F] | Project 2 | Project 2 | Project 2 | Project 2
 
 Weekly Goals:
-* Build and test an API integration
-* Design a full-stack app
-* Understand and create Models, Views, and Controllers
-* Integrate tools like Gulp, Sass, and Bootstrap to improve development
+
 * Understand and create a user model with authentication
+* Build a personal full-stack Javascript App from scratch
 
 [6-4A]: # "A-Ha Moments"
 [6-4B]: # "Project 2"
@@ -306,7 +312,7 @@ Extra Resources:
 
 ## Unit 3: SEAN Stack and Group Work
 
-#### Week 7 - Project 2: Node/Express Single-Resource App, Angular Intro (4/24-4/28)
+#### Week 7 - Angular and Angular Tools (4/24-4/28)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
@@ -318,9 +324,14 @@ Extra Resources:
 **Training** | Finish $http Lab | ui-router vs ngRoute readings: [#1][8-2F] + [#2][8-2G] + [#3][8-2H] | [Interview Potential Users][8-3F] | Fix Issues | [Look over the Angular Documentation][7-5F] + [Check out this blog][7-5G] + [Do this Lab][7-5H] | 
 
 Weekly Goals:
-- Build a personal full-stack Javascript App from scratch
 - Wrap up ES6 Fundamentals
 - Understand what Angular is
+- Utilize built-in Angular directives and build custom ones
+- Use $http to communicate from Angular front-end to back-end
+- Configure front-end routing with Angular and ngRoute
+- Use $resource to DRY out CRUD apps
+- Save data to Firebase
+- Understand the basics of user and competitive research
 
 [7-4C]: https://github.com/den-wdi-2/portfolio-starter-kit
 [7-4D]: https://github.com/den-wdi-2/create-an-issue-project2 "Create Issues"
@@ -356,31 +367,31 @@ Weekly Goals:
 [8-3E]: https://github.com/den-wdi-2/user-research-and-competitive-analysis "Competitive and User Research"
 [8-3F]: https://github.com/den-wdi-2/user-Research-lab "Competitive and User Research Interviews"
 
-#### Week 8 - Angular and Angular Tools (5/1-5/5)
+#### Week 8 - More Angular/Full-stack and SQL (5/1-5/5)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-up** | [Roman Numerals][8-4A] | [Questions in a Line (Zeb)][8-5A] | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [Intro to Sequelize (Zeb)][9-3A]
-**9:30am Module 1** | [Angular Auth (Zeb)][8-4B] | [Second Pass (Zeb)][8-5B] | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3B]
+**9:30am Module 1** | [Angular Auth (Zeb)][8-4B] **Elongate/supplement** | [Second Pass (Zeb)][8-5B] | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3B]
  **11:00am Module 2** | [ngAnimate (Zeb)][8-4C] | [Rapid Prototype (Zeb)][8-5C] | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3C]
 **1:30pm Module 3** | [Almost MEAN App (Zeb/Nick)][8-4D] | [Rapid Prototype (Zeb)][8-5D] | [Sketch and Photoshop Basics (Nick)][9-1D] | Outcomes (Nick) | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3D]
 **3:00pm Module 4** | [Almost MEAN App (Zeb/Nick)][8-4E] | [Rapid Prototype (Zeb)][8-5E] | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL Relationships and JOINs (Zeb)][9-2E] | [Lab: Sequelize/Tunr Relationships (Zeb)][9-3E]
-**Training** | Complete MEAN App | SOMETHING SOMETHING | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: SQL Practice][9-2F] | Prepare Project 3 Pitch
+**Training** | Complete MEAN App | Rapid Prototype | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: SQL Practice][9-2F] | Prepare Project 3 Pitch
 
 Weekly Goals:
-- Utilize built-in Angular directives and build custom ones
-- Use $http to communicate from Angular front-end to back-end
-- Configure front-end routing with Angular and ngRoute
-- Use $resource to DRY out CRUD apps
-- Save data to Firebase
-- Understand the basics of user and competitive research
 - Perform authentication with Angular and Satellizer
 - Perform animations with Angular and ngAnimate
 - Internalize the steps of building a MEAN stack app
+- Prepare and present a prototype built on a short time scale
+- Understand the basics of Sketch and Photoshop
+- Map out data relations for a web app
+- Create a SQL DB and perform queries on it
+- Use Sequelize to create a CRUDable model with SQL and Node
+- Use Sequelize to create inter-connected models with data mappings
 
 [8-4A]: https://github.com/den-wdi-2/roman_js "Roman Numerals"
 [8-4B]: https://github.com/den-wdi-2/angular-auth-satellizer "Angular Auth"
-[8-4C]: https://github.com/den-wdi-2/angular-animations-intro "ngAnimate"
+[8-4C]: https://github.com/den-wdi-2/angular-ui-practice "Angular UI Practice"
 [8-4D]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
 [8-4E]: https://github.com/den-wdi-2/fullStack-JS-App "Not-so-MEAN App"
 
@@ -414,7 +425,7 @@ Weekly Goals:
 [9-3E]: https://github.com/den-wdi-2/tunr-relationships "More Tunr"
 [9-3F]: # "Finish Tunr Relationships"
 
-#### Week 9 - SQL, Project Planning, and Prototyping (5/8-5/12)
+#### Week 9 - Project 3: SEAN Stack Group Project (5/8-5/12)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -426,13 +437,10 @@ Time | Day 1                                      | Day 2                       
 **Training** | [Questions in a Line (Zeb)][9-4A] and [Project 3 Team Formation][9-4F] | Project 3 | Project 3 | Project 3 | Project 3
 
 Weekly Goals:
-- Prepare and present a prototype built on a short time scale
-- Understand the basics of Sketch and Photoshop
-- Map out data relations for a web app
-- Create a SQL DB and perform queries on it
-- Use Sequelize to create a CRUDable model with SQL and Node
-- Use Sequelize to create inter-connected models with data mappings
 - Manage group code submissions with GitHub
+- Create a full-stack application as part of a development team
+- Learn the basics of Linked Lists to prepare for interviews
+- Thoughtfully answer behavioral interview questions
 
 [9-4A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-09.md "Questions in a Hat"
 [9-4B]: https://github.com/den-wdi-2/unit3_week2_secondpass "Second Pass"
@@ -450,21 +458,19 @@ Weekly Goals:
 
 ## Unit 4: Becoming a Developer
 
-#### Week 10 - Project 3: Group Project and Angular 2 (5/15-5/19)
+#### Week 10 - Angular 2, React, PHP, and Legacy Code (5/15-5/19)
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00 Warm-upam** | Project 3 | [Merge Sort Intro (Zeb)][10-5A] | [Getting Sequelize and Satellizer Together (Zeb)][11-2A] | [GH Lab (Zeb)][11-3A] | [CodeWars][11-4A]
-**9:30am Module 1** | Project 3 | [Merge Sort Challenge (Zeb)][10-5B] | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code (Zeb)][11-3B] | [PHP Intro (Zeb)][11-4B]
+**9:00 Warm-upam** | Project 3 | Project 3 | [Getting Sequelize and Satellizer Together (Zeb)][11-2A] | [GH Lab (Zeb)][11-3A] | [CodeWars][11-4A]
+**9:30am Module 1** | Project 3 | Project 3 | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code (Zeb)][11-3B] | [PHP Intro (Zeb)][11-4B]
 **11:00am Module 2** | Project 3 Retro | [Intro to TypeScript][10-5C] | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | [Lab: PHP Intro (Zeb)][11-4C]
 **1:30pm Module 3** | Project 3 Presentations | [What's Different in Angular 2][10-5D] | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | [PHP Wordpress (Nick)][11-4D]
 **3:00pm Module 4** | [Create Issues][10-4E] | [Lab: Angular 2 Refactor][10-5E] | [Lab: React Tic-Tac-Toe Tutorial (Zeb)][11-2E] | Outcomes (Nick) | [Lab: PHP Wordpress (Nick)][11-4E]
-**Training** | Fix Issues | [**Optional:** Tour of Heroes Angular 2 Tutorial][10-5F] | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site
+**Training** | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-5F] | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site
 
 [10-4E]: https://github.com/den-wdi-2/create-an-issue-project3 "Project 3 Issues"
 
-[10-5A]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
-[10-5B]: https://github.com/den-wdi-2/merge-sort "Merge Sort"
 [10-5C]: https://github.com/den-wdi-2/intro-typescript "Intro to Typescript"
 [10-5D]: https://github.com/den-wdi-2/angular-2-differences "Angular 2 What's Different?"
 [10-5E]: https://github.com/den-wdi-2/angular-2-refactor "Angular 2 Refactor Lab"
@@ -489,13 +495,15 @@ Time | Day 1                           | Day 2                                  
 [11-4E]: https://github.com/den-wdi-2/wordpress-lab "PHP Wordpress Lab"
 
 Weekly Goals:
-- Create a full-stack application as part of a development team
-- Learn the basics of Linked Lists and Merge Sort to prepare for interviews
-- Practice behavioral interview questions
-- Create a basic Angular 2 app from scratch and from an Angular 1 base
 
-#### Week 11 - React, Legacy, and PHP (5/22-5/26)
-#### Week X: IoT and Developer-Chosen Topics ()
+- Create a basic Angular 2 app from scratch and from an Angular 1 base
+- Create a React app
+- Improve Legacy Code
+- Create a PHP CRUD App
+- Create a Wordpress App
+- Understand basic operations and web-dev IT
+
+#### Week 11 - IoT and Developer-Chosen Topics/Projects (5/22-5/26)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -534,15 +542,7 @@ Time | Day 1                                 | Day 2                            
 [12-4A]: https://github.com/den-wdi-2/mock-technical-interview "Interview Prep"
 
 Weekly Goals:
-- Create a React app
-- Improve Legacy Code
-- Create a PHP CRUD App
-- Create a Wordpress App
-- Understand basic operations and web-dev IT
 - Do work for someone outside of the class
-
-Weekly Goals:
-
 - Create a software-hardware hybrid project
 - Distill and deliver a lesson on a modern technology
 - Understand the major differences between JS and Ruby
