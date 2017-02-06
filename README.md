@@ -16,18 +16,15 @@ Time  | Activity
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [Welcome to GA][1-1A] - Don't Need | [CSS selector basics (Zeb)][1-2A] - Need | Work through Lab Issues - Need | [Kyrel 1 (Zeb)][1-4A] - Need | [Kyrel 2 (Zeb)][1-5A] - Need
- **9:30am Module 1** | [Orientation (Zeb)][1-1B] - Don't Need | [Box model and positioning (Zeb)][1-2B] - Need | [JS Data types, variables, and arrays (Zeb)][1-3B] - Need |  [Functions and scope (Zeb)][1-4B] - Need | [Second Pass](https://github.com/den-wdi-2/week1_secondPass) and [Questions in a Line (Zeb)][1-5B] - If Time
- **11:00am Module 2** | [How the internet works (Zeb)][1-1C] - Need | [Lab: Mockup to HTML/CSS (Zeb)][1-2C] - Need | [Objects in JavaScript (Zeb)][1-3C] - Need | [Lab: JavaScript functions (Zeb)][1-4C] - Need | [Mastering control flow (Zeb)][1-5C] - Need
- **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] - Need | [Git and GitHub (Zeb)][1-2D] - Need | Outcomes (Nick) - Don't Need | [DOM manipulation and events (Nick)][1-4D] - Need | [Responsive Design and Media Queries (Zeb)][1-5D] - Need
-**3:00pm Module 4** | [WDI Diagnostic][1-1E] and GH Issue Session - Don't Need | [Lab: Design and CSS Challenge (Nick)][1-2E] - Need (need to make it easier though) | [Chrome dev tools (Nick)][1-3E] - Need | [Lab: DOM manipulation LoTR (Nick)][1-4E] - Need | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E] - Need 
-**Training** | [Lab: Command line][1-1F] (Zeb) - If Time | Finish Design/CSS Lab - Need | [Lab: Build a website (Zeb)][1-3F] - Need | Finish LOTR Lab - Need | Continue Instagram Recreation - Need
+ **Class 1** | Get Coding 101 Slides to Explain Internet and [Navigating the file system + some meta skills][1-1D] |  | Work through Lab Issues - Need | [Kyrel 1 (Zeb)][1-4A] - Need | [Kyrel 2 (Zeb)][1-5A] - Need
+ **Class 2** | Get Coding 101 Slides for HTML |  | [JS Data types, variables, and arrays (Zeb)][1-3B] - Need |  [Functions and scope (Zeb)][1-4B] - Need | [Second Pass](https://github.com/den-wdi-2/week1_secondPass) and [Questions in a Line (Zeb)][1-5B] - If Time
+ **Class 3** | [CSS selector basics (Zeb)][1-2A] | [Lab: Mockup to HTML/CSS (Zeb)][1-2C] - Need | [Objects in JavaScript (Zeb)][1-3C] - Need | [Lab: JavaScript functions (Zeb)][1-4C] - Need | [Mastering control flow (Zeb)][1-5C] - Need
+ **Class 4** | [Box model and positioning (Zeb)][1-2B] | [Git and GitHub (Zeb)][1-2D] - Need | Outcomes (Nick) - Don't Need | [DOM manipulation and events (Nick)][1-4D] - Need | [Responsive Design and Media Queries (Zeb)][1-5D] - Need
+**Homework** | [Lab: Command line][1-1F] | [Lab: Design and CSS Challenge (Nick)][1-2E] - Need (need to make it easier though) | [Chrome dev tools (Nick)][1-3E] - Need | [Lab: DOM manipulation LoTR (Nick)][1-4E] - Need | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E] - Need 
 
-[1-1A]: https://github.com/den-wdi-2/icebreakers "Icebreakers"
-[1-1B]: https://github.com/den-wdi-2/orientation "Orientation"
-[1-1C]: https://github.com/den-wdi-2/how-the-internet-works "How the Internet Works"
+**Training** |  | Finish Design/CSS Lab - Need | [Lab: Build a website (Zeb)][1-3F] - Need | Finish LOTR Lab - Need | Continue Instagram Recreation - Need
+
 [1-1D]: https://github.com/den-wdi-2/terminal-basics-navigating-the-filesystem/ "Navigating the file system"
-[1-1E]: https://github.com/den-wdi-2/shared_modules/tree/master/assessments/27-28/day-01 "Diagnostic"
 [1-1F]: https://github.com/den-wdi-2/command-line-lab/ "Lab: Command Line"
 
 [1-2A]: https://github.com/den-wdi-2/css-selector-basics "CSS Selector Basics"
