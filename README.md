@@ -1,28 +1,14 @@
-#### Daily Schedule Overview
-
-Time  | Activity
------ | ------------------ 
-9:00  | Morning Warm-Up
-9:30 | Module 1
-11:00 | Module 2
-12:30 | Lunch
-1:30  | Module 3
-3:00  | Module 4
-4:00  | Independent Work
-
-## Unit 1: The Client
-
-#### Week 1 - Fundamentals and Tools (3/13-3/17)
+#### Group 1 - The Essentials
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **Class 1** | Get Coding 101 Slides to Explain Internet and [Navigating the file system + some meta skills][1-1D] |  | Work through Lab Issues - Need | [Kyrel 1 (Zeb)][1-4A] - Need | [Kyrel 2 (Zeb)][1-5A] - Need
- **Class 2** | Get Coding 101 Slides for HTML |  | [JS Data types, variables, and arrays (Zeb)][1-3B] - Need |  [Functions and scope (Zeb)][1-4B] - Need | [Second Pass](https://github.com/den-wdi-2/week1_secondPass) and [Questions in a Line (Zeb)][1-5B] - If Time
- **Class 3** | [CSS selector basics (Zeb)][1-2A] | [Lab: Mockup to HTML/CSS (Zeb)][1-2C] - Need | [Objects in JavaScript (Zeb)][1-3C] - Need | [Lab: JavaScript functions (Zeb)][1-4C] - Need | [Mastering control flow (Zeb)][1-5C] - Need
- **Class 4** | [Box model and positioning (Zeb)][1-2B] | [Git and GitHub (Zeb)][1-2D] - Need | Outcomes (Nick) - Don't Need | [DOM manipulation and events (Nick)][1-4D] - Need | [Responsive Design and Media Queries (Zeb)][1-5D] - Need
-**Homework** | [Lab: Command line][1-1F] | [Lab: Design and CSS Challenge (Nick)][1-2E] - Need (need to make it easier though) | [Chrome dev tools (Nick)][1-3E] - Need | [Lab: DOM manipulation LoTR (Nick)][1-4E] - Need | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E] - Need 
+ **Class 1** | Get Coding 101 Slides to Explain Internet and [Navigating the file system + some meta skills][1-1D] | [Lab: Mockup to HTML/CSS][1-2C] | [JS Data types, variables, and arrays][1-3B] | [Second Pass](https://github.com/den-wdi-2/week1_secondPass) and [Questions in a Line (Zeb)][1-5B] | 
+ **Class 2** | Get Coding 101 Slides for HTML | [Git and GitHub][1-2D] | [Chrome dev tools (Nick)][1-3E] | [Responsive Design and Media Queries (Zeb)][1-5D] | 
+ **Class 3** | [CSS selector basics][1-2A] | [Lab: Design and CSS Challenge][1-2E] (need to make it easier though) | [Kyrel 1][1-4A] and [Kyrel 2][1-5A] |  | 
+ **Class 4** | [Box model and positioning (Zeb)][1-2B] | Work through Lab Issues - Decompression |  |  | 
+**Homework** | [Lab: Command line][1-1F] | Finish Design/CSS Lab | [Lab: Build a website (Zeb)][1-3F] - Need | Make-up Time for Last Two HWs | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E] - Need 
 
-**Training** |  | Finish Design/CSS Lab - Need | [Lab: Build a website (Zeb)][1-3F] - Need | Finish LOTR Lab - Need | Continue Instagram Recreation - Need
+**Training** |  |   |  | Finish LOTR Lab - Need | Continue Instagram Recreation - Need
 
 [1-1D]: https://github.com/den-wdi-2/terminal-basics-navigating-the-filesystem/ "Navigating the file system"
 [1-1F]: https://github.com/den-wdi-2/command-line-lab/ "Lab: Command Line"
@@ -70,7 +56,7 @@ Time  | Activity
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Warm-Up** | [Intro to ES6 (Zeb)][2-1A] - Don't Need | [Whiteboarding (Zeb)][2-2A] | [GH Branching and gh-pages (Zeb)][2-3A] - If Time | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] (Zeb) - Don't Need | [Developer Resources][3-1F] - Need
+ **9:00am Warm-Up** | [Objects in JavaScript (Zeb)][1-3C] | [Whiteboarding (Zeb)][2-2A] | [GH Branching and gh-pages (Zeb)][2-3A] - If Time | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] (Zeb) - Don't Need | [Developer Resources][3-1F] - Need
  **9:30am Module 1** | [Whiteboarding 101 (Zeb)][2-1B] - Don't Need | [Intro to jQuery (Zeb)][2-2B] - Need | [Intermediate jQuery (Zeb)][2-3B] - If Time | [Wireframes (Will)][2-4C] - Don't Need | Solutions Run-through and [Questions in a Hat][3-1B] (Zeb) - If Time
  **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] - Don't Need | [HTML Forms (Zeb)][2-2C] - If Time | [Lab: Create jQuery selector (Zeb)][2-3C] - Don't Need | [OOP in JS (Zeb)][2-4D] - Don't Need | [Second Pass (Zeb)][3-1A] - If Time
 **1:30pm Module 3** | [Callbacks & Iterators (Nick)][2-1D] - Don't Need | [CSS for HTML Forms Lab (Zeb)][2-2D] - If Time | Outcomes (Nick) - Don't Need | [OOP concepts (Zeb)][2-4E] - Don't Need | [CSS Transitions & Animations][3-1C] (Nick) - Need
