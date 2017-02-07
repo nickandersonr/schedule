@@ -2,11 +2,11 @@
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **Class 1** | Get Coding 101 Slides to Explain Internet and [Navigating the file system + some meta skills][1-1A] | [Lab: Mockup to HTML/CSS][1-2A] | [JS Data types, variables, and arrays][1-3A] | [Responsive Design and Media Queries][1-4A] | [Intro to jQuery][1-5A]
- **Class 2** | [Get Coding 101 Slides for HTML][1-1B] | [Git and GitHub][1-2B] | [Chrome dev tools][1-3B] | [Developer Resources][1-4B] | [Questions in a Line][1-5B] and [Second Pass (I think this was just a Q&A sesh)][1-5C]
- **Class 3** | [CSS selector basics][1-1C] | [Lab: Design and CSS Challenge][1-2C] (need to make it easier though) | [Kyrel 1][1-3C] and [Kyrel 2][1-3D] | [CSS Transitions & Animations][1-4C] | [Agile development and user stories][1-5D]
- **Class 4** | [Box model and positioning][1-1D] | Work through Lab Issues - Decompression | [Second Pass](https://github.com/den-wdi-2/week1_secondPass) and [Questions in a Line][1-3E] | [Intro Bootstrap][1-4D] | [Agile Development Lab (Zeb)][1-5E]
-**Homework** | [Lab: Command line][1-1E] | Continue Design/CSS Lab | [Lab: Build a website][1-3F] | Make-up Time for Last Two HWs | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5F] **Assuming this is what Project 4 is, you can morph this for your needs**
+ **Class 1** | Get Coding 101 Slides to Explain Internet and [Navigating the file system + some meta skills][1-1A] | [Lab: Mockup to HTML/CSS][1-2A] | [JS Data types, variables, and arrays][1-3A] | [Second Pass](https://github.com/den-wdi-2/week1_secondPass) and [Questions in a Line][1-4A] | [Intro to jQuery][1-5A]
+ **Class 2** | [Get Coding 101 Slides for HTML][1-1B] | [Git and GitHub][1-2B] | [Developer Resources][1-3B] | [Responsive Design and Media Queries][1-4B] | [Questions in a Line][1-5B] and [Second Pass (I think this was just a Q&A sesh)][1-5C]
+ **Class 3** | [CSS selector basics][1-1C] | [Lab: Design and CSS Challenge][1-2C] (need to make it easier though) | [Chrome dev tools][1-3C] | [CSS Transitions & Animations][1-4C] | [Agile development and user stories][1-5D]
+ **Class 4** | [Box model and positioning][1-1D] | Work through Lab Issues - Decompression | [Kyrel 1][1-3D] and [Kyrel 2][1-3E] | [Intro Bootstrap][1-4D] | [Agile Development Lab][1-5E]
+**Homework** | [Lab: Command line][1-1E] | Continue Design/CSS Lab | [Lab: Build a website][1-3F] | Make-up Time for Last Two HWs | [Week 1 Assessment: Pixel Perfect Website][1-5F] **Assuming this is what Project 4 is, you can morph this for your needs**
 
 [1-1A]: https://github.com/den-wdi-2/terminal-basics-navigating-the-filesystem/ "Navigating the file system"
 [1-1B]: # "HTML Lesson"
@@ -19,14 +19,14 @@
 [1-2C]: https://github.com/den-wdi-2/design-and-css-challenge-lab "Design and CSS Challenge Lab"
 
 [1-3A]: https://github.com/den-wdi-2/js-data-types "Data types, Variables and Arrays"
-[1-3B]: https://github.com/den-wdi-2/chrome-dev-tools "Chrome Dev Tools"
+[1-3B]: https://github.com/den-wdi-2/developer-resources "Dev Resources"
+[1-3C]: https://github.com/den-wdi-2/chrome-dev-tools "Chrome Dev Tools"
 [1-3C]: https://github.com/den-wdi-2/kyrel "Kyrel 1"
 [1-3D]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day2.md "Kyrel 2"
-[1-3E]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
 [1-3F]: https://github.com/den-wdi-2/build-a-website "Lab: Build a website"
 
-[1-4A]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox "Grid System & Media Queries"
-[1-4B]: https://github.com/den-wdi-2/developer-resources "Dev Resources"
+[1-4A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
+[1-4B]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox "Grid System & Media Queries"
 [1-4C]: https://github.com/den-wdi-2/css-animations "CSS Transitions & Animations"
 [1-4D]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
 
