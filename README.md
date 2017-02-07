@@ -21,8 +21,8 @@
 [1-3A]: https://github.com/den-wdi-2/js-data-types "Data types, Variables and Arrays"
 [1-3B]: https://github.com/den-wdi-2/developer-resources "Dev Resources"
 [1-3C]: https://github.com/den-wdi-2/chrome-dev-tools "Chrome Dev Tools"
-[1-3C]: https://github.com/den-wdi-2/kyrel "Kyrel 1"
-[1-3D]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day2.md "Kyrel 2"
+[1-3D]: https://github.com/den-wdi-2/kyrel "Kyrel 1"
+[1-3E]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day2.md "Kyrel 2"
 [1-3F]: https://github.com/den-wdi-2/build-a-website "Lab: Build a website"
 
 [1-4A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
@@ -31,8 +31,8 @@
 [1-4D]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
 
 [1-5A]: https://github.com/den-wdi-2/intro-jquery "Intro to jQuery"
-[1-5B]: # "Second Pass"
-[1-5C]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
+[1-5B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
+[1-5C]: # "Second Pass"
 [1-5D]: https://github.com/den-wdi-2/software-development-best-practices "Agile development and user stories"
 [1-5E]: https://github.com/den-wdi-2/agile-lab "Agile Lab"
 [1-5F]: https://github.com/den-wdi-2/week-1-assessment "Pixel Perfect Recreation"
@@ -51,7 +51,7 @@
  * Use jQuery for DOM manipulation
  * Learn about common ways software companies organize projects
 
-#### Week 2 - JavaScript & Front-end Libraries (3/20-3/24)
+#### Back-up Classes - Advanced Topics
 
 Time |Day 1                                      | 
 ----- |--------------------------------           | 
