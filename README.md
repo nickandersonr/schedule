@@ -430,7 +430,7 @@ Weekly Goals:
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-up** | [Second Pass (Zeb)][9-4B] | TBD | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Behavioral][10-2A] | [Getting a Freelance Gig][10-3A]
-**9:30am Module 1** | TBD | Stand-up | [Linked Lists Challenge (Zeb)][10-1B] | Project 3 | Project 3
+**9:30am Module 1** | Actually 1-4, but we should do a Boomtown Shadow afternoon this day | Stand-up | [Linked Lists Challenge (Zeb)][10-1B] | Project 3 | Project 3
  **11:00am Module 2** | [Team Git Workflow (Zeb)][9-4C] | Project 3 | Project 3  | Project 3 | Project 3
 **1:30pm Module 3** | [Flexbox (Nick)][9-4D] | Project 3 | Project 3 | Project 3 | Outcomes
 **3:00pm Module 4** | [Lab: Project 3 Pitches][9-4E] | Project 3 | Project 3 | Project 3 | Project 3
