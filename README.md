@@ -467,7 +467,7 @@ Time | Day 1                           | Day 2                                  
 **11:00am Module 2** | Project 3 Retro | [Lab: Angular 2 Refactor][10-5E] | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | [Lab: PHP Intro (Zeb)][11-4C]
 **1:30pm Module 3** | Project 3 Presentations | [Intro to Ionic][12-3E] | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | [PHP Wordpress (Nick)][11-4D]
 **3:00pm Module 4** | [Create Issues][10-4E] | [Intro to Ionic][12-3E] | [Lab: React Tic-Tac-Toe Tutorial (Zeb)][11-2E] | Outcomes (Nick) | [Lab: PHP Wordpress (Nick)][11-4E]
-**Training** | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-5F] | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site
+**Training** | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-5F] | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site / Hackathon Tomorrow
 
 [10-4E]: https://github.com/den-wdi-2/create-an-issue-project3 "Project 3 Issues"
 
