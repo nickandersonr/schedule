@@ -8,34 +8,34 @@
  **Class 4** | [Box model and positioning][1-1D] | Work through Lab Issues - Decompression | [Kyrel 1][1-3D] and [Kyrel 2][1-3E] | [Intro Bootstrap][1-4D] | [Agile Development Lab][1-5E]
 **Homework** | [Lab: Command line][1-1E] | Continue Design/CSS Lab | [Lab: Build a website][1-3F] | Make-up Time for Last Two HWs | [Week 1 Assessment: Pixel Perfect Website][1-5F] **Assuming this is what Project 4 is, you can morph this for your needs**
 
-[1-1A]: https://github.com/den-wdi-2/terminal-basics-navigating-the-filesystem/ "Navigating the file system"
+[1-1A]: https://github.com/den-materials/terminal-basics-navigating-the-filesystem/ "Navigating the file system"
 [1-1B]: # "HTML Lesson"
-[1-1C]: https://github.com/den-wdi-2/css-selector-basics "CSS Selector Basics"
-[1-1D]: https://github.com/den-wdi-2/css-box-model-and-positioning "Box Model and Positioning"
-[1-1E]: https://github.com/den-wdi-2/command-line-lab/ "Lab: Command Line"
+[1-1C]: https://github.com/den-materials/css-selector-basics "CSS Selector Basics"
+[1-1D]: https://github.com/den-materials/css-box-model-and-positioning "Box Model and Positioning"
+[1-1E]: https://github.com/den-materials/command-line-lab/ "Lab: Command Line"
 
-[1-2A]: https://github.com/den-wdi-2/mockup-to-site-lab "Mockup to HTML/CSS Lab"
-[1-2B]: https://github.com/den-wdi-2/git-and-github "Git and GitHub"
-[1-2C]: https://github.com/den-wdi-2/design-and-css-challenge-lab "Design and CSS Challenge Lab"
+[1-2A]: https://github.com/den-materials/mockup-to-site-lab "Mockup to HTML/CSS Lab"
+[1-2B]: https://github.com/den-materials/git-and-github "Git and GitHub"
+[1-2C]: https://github.com/den-materials/design-and-css-challenge-lab "Design and CSS Challenge Lab"
 
-[1-3A]: https://github.com/den-wdi-2/js-data-types "Data types, Variables and Arrays"
-[1-3B]: https://github.com/den-wdi-2/developer-resources "Dev Resources"
-[1-3C]: https://github.com/den-wdi-2/chrome-dev-tools "Chrome Dev Tools"
-[1-3D]: https://github.com/den-wdi-2/kyrel "Kyrel 1"
-[1-3E]: https://github.com/den-wdi-2/kyrel/blob/master/challenges/day2.md "Kyrel 2"
-[1-3F]: https://github.com/den-wdi-2/build-a-website "Lab: Build a website"
+[1-3A]: https://github.com/den-materials/js-data-types "Data types, Variables and Arrays"
+[1-3B]: https://github.com/den-materials/developer-resources "Dev Resources"
+[1-3C]: https://github.com/den-materials/chrome-dev-tools "Chrome Dev Tools"
+[1-3D]: https://github.com/den-materials/kyrel "Kyrel 1"
+[1-3E]: https://github.com/den-materials/kyrel/blob/master/challenges/day2.md "Kyrel 2"
+[1-3F]: https://github.com/den-materials/build-a-website "Lab: Build a website"
 
-[1-4A]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
-[1-4B]: https://github.com/den-wdi-2/css-responsive-design-and-flexbox "Grid System & Media Queries"
-[1-4C]: https://github.com/den-wdi-2/css-animations "CSS Transitions & Animations"
-[1-4D]: https://github.com/den-wdi-2/bootstrap "Intro to Bootstrap"
+[1-4A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
+[1-4B]: https://github.com/den-materials/css-responsive-design-and-flexbox "Grid System & Media Queries"
+[1-4C]: https://github.com/den-materials/css-animations "CSS Transitions & Animations"
+[1-4D]: https://github.com/den-materials/bootstrap "Intro to Bootstrap"
 
-[1-5A]: https://github.com/den-wdi-2/intro-jquery "Intro to jQuery"
-[1-5B]: https://github.com/den-wdi-2/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
+[1-5A]: https://github.com/den-materials/intro-jquery "Intro to jQuery"
+[1-5B]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
 [1-5C]: # "Second Pass"
-[1-5D]: https://github.com/den-wdi-2/software-development-best-practices "Agile development and user stories"
-[1-5E]: https://github.com/den-wdi-2/agile-lab "Agile Lab"
-[1-5F]: https://github.com/den-wdi-2/week-1-assessment "Pixel Perfect Recreation"
+[1-5D]: https://github.com/den-materials/software-development-best-practices "Agile development and user stories"
+[1-5E]: https://github.com/den-materials/agile-lab "Agile Lab"
+[1-5F]: https://github.com/den-materials/week-1-assessment "Pixel Perfect Recreation"
 
 **Weekly Goals:**
  * Understand the roles of HTML, CSS, and JS
@@ -65,10 +65,10 @@ Weekly Goals:
 * Utilize advanced features of jQuery
 * Create and use HTML Forms
 
-[2-1A]: https://github.com/den-wdi-2/js-objects "JavaScript Objects"
-[2-1B]: https://github.com/den-wdi-2/intermediate-jquery "Intermediate jQuery"
-[2-1C]: https://github.com/den-wdi-2/html-forms "HTML Forms"
-[2-1D]: https://github.com/den-wdi-2/css-html-forms-lab "CSS for HTML Forms Lab"
+[2-1A]: https://github.com/den-materials/js-objects "JavaScript Objects"
+[2-1B]: https://github.com/den-materials/intermediate-jquery "Intermediate jQuery"
+[2-1C]: https://github.com/den-materials/html-forms "HTML Forms"
+[2-1D]: https://github.com/den-materials/css-html-forms-lab "CSS for HTML Forms Lab"
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
