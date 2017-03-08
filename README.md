@@ -19,7 +19,7 @@ Time  | Activity
  **9:00am Warm-Up** | [Welcome to GA][1-1A] (Both) | [CSS selector basics (Nick)][1-2A] | Work through Lab Issues | [Kyrel 1 (Zeb)][1-4A] | [Kyrel 2 (Zeb)][1-5A]
  **9:30am Module 1** | [Orientation][1-1B] (Both) | [Box model and positioning (Nick)][1-2B] | [JS Data types, variables, and arrays (Zeb)][1-3B] |  [Functions and scope (Zeb)][1-4B] | [Second Pass](https://github.com/den-wdi-2/week1_secondPass) and [Questions in a Line (Zeb)][1-5B]
  **11:00am Module 2** | [How the internet works (Zeb)][1-1C] | [Lab: Mockup to HTML/CSS (Nick)][1-2C] | [Objects in JavaScript (Zeb)][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
- **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | Outcomes (Nick and Becca) | [DOM manipulation and events (Nick)][1-4D] | [Responsive Design and Media Queries (Zeb)][1-5D]
+ **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | Outcomes (Nick and Becca) | [DOM manipulation and events (Nick)][1-4D] | [Responsive Design and Media Queries (Nick)][1-5D]
 **3:00pm Module 4** | [WDI Diagnostic][1-1E] and GH Issue Session (Nick) | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E]   
 **Training** | [Lab: Command line][1-1F] (Zeb) | Continue Design/CSS Lab | [Lab: Build a website (Nick)][1-3F] | Continue LOTR Lab | Continue Instagram Recreation
 
@@ -75,9 +75,9 @@ Time |Day 1                                      | Day 2                        
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
  **9:00am Warm-Up** | [Intro to ES6 (Zeb)][2-1A] | [Whiteboarding (Zeb)][2-2A] | [GH Branching and gh-pages (Zeb)][2-3A] | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] (Zeb) | [Developer Resources][2-5A]
  **9:30am Module 1** | [Whiteboarding 101 (Zeb)][2-1B] | [Intro to jQuery (Zeb)][2-2B] | [Intermediate jQuery (Zeb)][2-3B] | [OOP in JS (Zeb)][2-4C] | Solutions Run-through and [Questions in a Hat][2-5B] (Zeb)
- **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] | [HTML Forms (Zeb)][2-2C] | [Lab: Create jQuery selector (Zeb)][2-3C] | [OOP concepts (Zeb)][2-4D] | [Second Pass (Zeb)][2-5C]
-**1:30pm Module 3** | [Callbacks & Iterators (Nick)][2-1D] | [CSS for HTML Forms Lab (Nick)][2-2D] | [CSS Transitions & Animations][2-3D] (Nick) | [OOP Refactor Lab (Nick)][2-4E] | [Wireframes (Will)][2-5D]
-**3:00pm Module 4** | [Lab: Callbacks & Iterators (Nick)][2-1E] | [jQuery & Browser Storage (Nick)][2-2E] | [Tic-Tac-Toe (Nick)][2-3E] | [Outcomes (Nick)][2-4F] | [CodeWars Intro][2-5E] and [Project 1 Intro][2-5F] (Zeb)
+ **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] | [jQuery & Browser Storage (Zeb)][2-2C] | [Lab: Create jQuery selector (Zeb)][2-3C] | [OOP concepts (Zeb)][2-4D] | [Second Pass (Zeb)][2-5C]
+**1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [HTML Forms (Nick)][2-2D] | [CSS Transitions & Animations][2-3D] (Nick) | [OOP Refactor Lab (Zeb)][2-4E] | [Wireframes (Will or Nick?)][2-5D]
+**3:00pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1E] | [CSS for HTML Forms Lab (Nick)][2-2E] | [Tic-Tac-Toe (Nick)][2-3E] | [Outcomes (Nick)][2-4F] | [CodeWars Intro][2-5E] and [Project 1 Intro][2-5F] (Zeb)
 **Training** | Part 1: Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d01_Style_Guides" | Finish CSS for HTML Forms Lab | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game][2-4G] (Zeb) | Continue Racer Game
 **Training** | Part 2: Continue Callbacks and Iterators |  |  |  | Project 1 Proposal
 
@@ -101,9 +101,9 @@ Weekly Goals:
 
 [2-2A]: https://github.com/den-materials/practice_problems/blob/master/1_egg_and_polygon.md "Whiteboarding 1"
 [2-2B]: https://github.com/den-materials/intro-jquery "Intro to jQuery"
-[2-2C]: https://github.com/den-materials/html-forms "HTML Forms"
-[2-2D]: https://github.com/den-materials/css-html-forms-lab "CSS for HTML Forms Lab"
-[2-2E]: https://github.com/den-materials/jquery-and-browser-storage "jQuery and Browser Storage"
+[2-2C]: https://github.com/den-materials/jquery-and-browser-storage "jQuery and Browser Storage"
+[2-2D]: https://github.com/den-materials/html-forms "HTML Forms"
+[2-2E]: https://github.com/den-materials/css-html-forms-lab "CSS for HTML Forms Lab"
 
 [2-3A]: https://github.com/den-materials/git-branching-and-pages "Git Branching and gh-pages"
 [2-3B]: https://github.com/den-materials/intermediate-jquery "Intermediate jQuery"
