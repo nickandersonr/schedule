@@ -221,6 +221,8 @@ Weekly Goals:
 [5-3E]: https://github.com/den-materials/test-driven-todo-api "Todo Lab"
 [5-3F]: https://github.com/den-materials/project-2 "Project 2 Proposal"
 
+* It would be good to have non-tech lightning talk either Tuesday, Thursday, or Friday
+
 #### Week 5 - Full-Stack Apps, MVC, and Testing (4/10-4/14)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
