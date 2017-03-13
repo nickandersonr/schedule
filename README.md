@@ -5,7 +5,7 @@ Time  | Activity
 9:00  | Morning Warm-Up
 9:30 | Module 1
 11:00 | Module 2
-12:30 | Lunch 
+12:30 | Lunch
 1:30  | Module 3
 3:00  | Module 4
 4:00  | Independent Work
@@ -19,7 +19,7 @@ Time  | Activity
  **9:00am Warm-Up** | [Welcome to GA][1-1A] (Both) | [CSS selector basics (Nick)][1-2A] | Work through Lab Issues | [Kyrel 1 (Zeb)][1-4A] | [Kyrel 2 (Zeb)][1-5A]
  **9:30am Module 1** | [Orientation][1-1B] (Both) | [Box model and positioning (Nick)][1-2B] | [JS Data types, variables, and arrays (Zeb)][1-3B] |  [Functions and scope (Zeb)][1-4B] | [Second Pass](https://github.com/den-wdi-2/week1_secondPass) and [Questions in a Line (Zeb)][1-5B]
  **11:00am Module 2** | [How the internet works (Zeb)][1-1C] - Student Profile and Headshot | [Lab: Mockup to HTML/CSS (Nick)][1-2C] | [Objects in JavaScript (Zeb)][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
- **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | Outcomes (Nick and Becca) | [DOM manipulation and events (Nick)][1-4D] | [Responsive Design and Media Queries (Nick)][1-5D]
+ **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | [Outcomes (Nick and Becca)][1-3D] | [DOM manipulation and events (Nick)][1-4D] | [Responsive Design and Media Queries (Nick)][1-5D]
 **3:00pm Module 4** | [WDI Diagnostic][1-1E] (Zeb) - And GH Issue Lab | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E]   
 **Training** | [Lab: Command line][1-1F] (Zeb) | Continue Design/CSS Lab | [Lab: Build a website (Nick)][1-3F] | Continue LOTR Lab | Continue Instagram Recreation
 
@@ -39,7 +39,7 @@ Time  | Activity
 [1-3A]: # "Floats and Clears"
 [1-3B]: https://github.com/den-materials/js-data-types "Data types, Variables and Arrays"
 [1-3C]: https://github.com/den-materials/js-objects "JavaScript Objects"
-[1-3D]: # "Outcomes"
+[1-3D]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [1-3E]: https://github.com/den-materials/chrome-dev-tools "Chrome Dev Tools"
 [1-3F]: https://github.com/den-materials/build-a-website "Lab: Build a website"
 
