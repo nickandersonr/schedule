@@ -19,7 +19,7 @@ Time  | Activity
  **9:00am Warm-Up** | [Welcome to GA][1-1A] (Both) | [CSS selector basics (Nick)][1-2A] | Work through Lab Issues | [Kyrel 1 (Zeb)][1-4A] | [Kyrel 2 (Zeb)][1-5A]
  **9:30am Module 1** | [Orientation][1-1B] (Both) | [Box model and positioning (Nick)][1-2B] | [JS Data types, variables, and arrays (Zeb)][1-3B] |  [Functions and scope (Zeb)][1-4B] | [Second Pass](https://github.com/den-wdi-2/week1_secondPass) and [Questions in a Line (Zeb)][1-5B]
  **11:00am Module 2** | [How the internet works (Zeb)][1-1C] - GH Issue Lab | [Lab: Mockup to HTML/CSS (Nick)][1-2C] | [Objects in JavaScript (Zeb)][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
- **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | Outcomes (Nick and Becca) | [DOM manipulation and events (Nick)][1-4D] | [Responsive Design and Media Queries (Nick)][1-5D]
+ **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | [Outcomes (Nick and Becca)][1-3D] | [DOM manipulation and events (Nick)][1-4D] | [Responsive Design and Media Queries (Nick)][1-5D]
 **3:00pm Module 4** | [WDI Diagnostic][1-1E] | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E]   
 **Training** | [Lab: Command line][1-1F] (Zeb) | Continue Design/CSS Lab | [Lab: Build a website (Nick)][1-3F] | Continue LOTR Lab | Continue Instagram Recreation
 
@@ -39,7 +39,7 @@ Time  | Activity
 [1-3A]: # "Floats and Clears"
 [1-3B]: https://github.com/den-materials/js-data-types "Data types, Variables and Arrays"
 [1-3C]: https://github.com/den-materials/js-objects "JavaScript Objects"
-[1-3D]: # "Outcomes"
+[1-3D]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [1-3E]: https://github.com/den-materials/chrome-dev-tools "Chrome Dev Tools"
 [1-3F]: https://github.com/den-materials/build-a-website "Lab: Build a website"
 
@@ -117,7 +117,7 @@ Weekly Goals:
 [2-4C]: https://github.com/den-materials/js-oop-flower-power "Flower Power OOP Lab"
 [2-4D]: https://github.com/den-materials/oop-concepts "OOP Concepts"
 [2-4E]: https://github.com/den-materials/oop-concepts "OOP Refactor"
-[2-4F]: # "Outcomes"
+[2-4F]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [2-4G]: https://github.com/den-materials/assessment-2 "Lab: Racer Game"
 
 [2-5A]: https://github.com/den-materials/developer-resources "Dev Resources"
@@ -133,7 +133,7 @@ Time | Day 1                                      | Day 2                       
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Module 1** | [Agile development and user stories (Zeb)][3-2A] | [Binary Search (Zeb)][3-3A] | [Stacks and Queues (Zeb)][3-4A] | [Merge Sort (Zeb)][3-5A] | Final Prep
  **10:30am Module 2** | [Agile Development Lab (Zeb)][3-2B] | Standup / Project 1 | Standup / Project 1 | Standup / Project 1 | Final Prep and Submission
-**1:30pm Module 3** | [Project 1 Approvals][3-2C] | Outcomes | Project 1 | Project 1 | Presentations
+**1:30pm Module 3** | [Project 1 Approvals][3-2C] | [Outcomes][3-3C] | Project 1 | Project 1 | Presentations
 **3:00pm Module 4** | Project 1 |  Project 1 |  Project 1 | Project 1 | Retrospective and [Fix an Issue (Zeb)][4-1D]
 **Training** | Project 1 | Project 1 | Project 1 | Project 1 | Fixing Issues
 
@@ -151,7 +151,7 @@ Weekly Goals:
 
 [3-3A]: https://github.com/den-materials/binary-search "Binary Search"
 [3-3B]: # "Project 1"
-[3-3C]: # "Outcomes"
+[3-3C]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [3-3D]: # "Project 1"
 
 [3-4A]: https://github.com/den-materials/stacks-and-queues "Stacks and Queues"
@@ -178,7 +178,7 @@ Time | Day 1                                    | Day 2                         
  **9:00am Warm-Up** | Intro to Full-Stack (Diagram and Key Terms) | [API Practice][4-3A] | CodeWars | [Troubleshooting and Dev Tools][5-2A] | [Intro to EJS][5-3A] 
  **9:30am Module 1** | [API Intro with Postman][4-2B] (Zeb) | [Lab: Shakeitspear][4-3B] (Zeb) | [Intro to Express (Zeb)][5-1B] | [Mongo Intro][5-2B] (Zeb) | [Views in Express (Zeb)][5-3B]
 **11:00am Module 2** | [Intro to AJAX][4-2C] (Zeb) | [Connecting Forms to APIs via AJAX][4-3C] (Zeb) | [Building Express Routes (Zeb)][5-1C] | [Mongo Lab][5-2C] (Zeb) | [Lab: Views in Express (Zeb)][5-3C]
-**1:30pm Module 3** | [Lab: Intro to AJAX][4-2D] (Zeb) | [Intro to Node.js (Zeb)][4-3D] | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] (Nick) | Outcomes (Nick)
+**1:30pm Module 3** | [Lab: Intro to AJAX][4-2D] (Zeb) | [Intro to Node.js (Zeb)][4-3D] | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] (Nick) | [Outcomes (Nick)][5-3D]
 **3:00pm Module 4** | More Cats | [Node Lab][4-3E] (Zeb) | [More Express Routes][5-1E] (Nick) |  [Data Organization in Mongo][5-2E] (Nick) | [TODO API][5-3E] (Nick)
 **Training** | Finish Cats Lab | [Lab: Requesting with Node][4-3F] | Candies (Express Routing) Lab | Restaurants (Mongo CLI) Lab | TODO API & [Project 2 Proposal][5-3F]
 
@@ -217,7 +217,7 @@ Weekly Goals:
 [5-3A]: https://github.com/den-materials/intro-ejs "EJS Intro"
 [5-3B]: https://github.com/den-materials/express-views-lesson "Views in Express Lesson"
 [5-3C]: https://github.com/den-materials/express-views-lab "Views in Express Lab"
-[5-3D]: # "Outcomes"
+[5-3D]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [5-3E]: https://github.com/den-materials/test-driven-todo-api "Todo Lab"
 [5-3F]: https://github.com/den-materials/project-2 "Project 2 Proposal"
 
@@ -282,7 +282,7 @@ Weekly Goals:
  **9:00am Warm-Up** | [Questions][6-5A] | [A-Ha Moments][6-4A] | [FizzBuzz][7-1A] | Standup | Standup
  **9:30am Module 1** | [Second Pass][6-5B] (Zeb) | [Project 2 Trello][6-5E] and First Scrum (Zeb) | Standup | Project 2 | Project 2
  **11:00am Module 2** | [Security 101][6-5C] (Zeb) | Project 2 | Project 2 | Project 2 | Project 2
- **1:30pm Module 3** | [Intro to Passport][6-5D] (Zeb) | Outcomes (Nick) | Project 2 | Project 2 | Project 2 
+ **1:30pm Module 3** | [Intro to Passport][6-5D] (Zeb) | [Outcomes (Nick)][6-4D] | Project 2 | Project 2 | Project 2 
 **3:00pm Module 4** | Passport Lab - TBD | Project 2 | Project 2 | Project 2 | Project 2
 **Training** | [Work on Project 2 Structure][6-4F] | Project 2 | Project 2 | Project 2 | Project 2
 
@@ -294,7 +294,7 @@ Weekly Goals:
 [6-4A]: # "A-Ha Moments"
 [6-4B]: # "Project 2"
 [6-4C]: # "Project 2 Time"
-[6-4D]: # "Outcomes"
+[6-4D]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [6-4E]: # "Project 2 Time"
 [6-4F]: https://github.com/den-materials/project-2 "MVP Of Project 2"
 
@@ -321,7 +321,7 @@ Extra Resources:
  **9:00am Warm-up** |  Project 2 | [ES6 Lesson Part 2 (Zeb)][7-5A] | [Project 3 Intro][8-1A] | [CodeWars][8-2A] | [CodeWars][8-3A]
  **9:30am Module 1** | Retrospective | [ES6 Quiz (Zeb)][7-5B] | [Directives Lesson (Zeb)][8-1B] | [Angular Hangman (Zeb)][8-2B] | [$resource (Zeb)][8-3B]
  **11:00am Module 2** | Project 2 Presentations | [Auth Math (Zeb)][7-5C] | [Directives Lab (Zeb)][8-1C] | [Angular Hangman (Zeb)][8-2C] | [Firebase (Zeb)][8-3C]
- **1:30pm Module 3** | [Outcomes][7-4C] | [Intro to Angular (Zeb)][7-5D] | [$http and promises (Nick)][8-1D] | [Routing (Zeb/Nick)][8-2D] | Outcomes (Nick)
+ **1:30pm Module 3** | [Outcomes][7-4C] | [Intro to Angular (Zeb)][7-5D] | [$http and promises (Nick)][8-1D] | [Routing (Zeb/Nick)][8-2D] | [Outcomes (Nick)][8-3D]
 **3:00pm Module 4** | [Create Issues][7-4D] | [Lab: Intro to Angular (Zeb)][7-5E] | [$http LAB (Nick)][8-1E] | [Routing Lab (Zeb/Nick)][8-2E] | [Competitive and User Research (Nick)][8-3E]
 **Training** | Fix Issues | [Look over the Angular Documentation][7-5F] + [Check out this blog][7-5G] + [Do this Lab][7-5H] | Finish $http Lab | ui-router vs ngRoute readings: [#1][8-2F] + [#2][8-2G] + [#3][8-2H] | [Interview Potential Users][8-3F] | 
 
@@ -335,7 +335,7 @@ Weekly Goals:
 - Save data to Firebase
 - Understand the basics of user and competitive research
 
-[7-4C]: https://github.com/den-materials/portfolio-starter-kit
+[7-4C]: https://github.com/den-materials/portfolio-starter-kit "Make a Portfolio!"
 [7-4D]: https://github.com/den-materials/create-an-issue-project2 "Create Issues"
 
 [7-5A]: https://github.com/den-materials/es6-part2 "More ES6"
@@ -365,7 +365,7 @@ Weekly Goals:
 [8-3A]: https://www.codewars.com "CodeWars"
 [8-3B]: https://github.com/den-materials/angular-resource "ngResource"
 [8-3C]: https://github.com/den-materials/ng-firebase "Firebase"
-[8-3D]: # "Outcomes"
+[8-3D]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [8-3E]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
 [8-3F]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
 
@@ -376,7 +376,7 @@ Time | Day 1                                      | Day 2                       
 **9:00am Warm-up** | [Questions in a Line (Zeb)][8-5A] | [Roman Numerals][8-4A] | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [Intro to Sequelize (Zeb)][9-3A]
 **9:30am Module 1** | [Second Pass (Zeb)][8-5B] | [Angular Auth (Zeb)][8-4B] **Elongate/supplement** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3B]
  **11:00am Module 2** | [Angular UI (Zeb)][8-4C] | [Rapid Prototype (Zeb)][8-5C] | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3C]
-**1:30pm Module 3** | [Almost MEAN App (Zeb/Nick)][8-4D] | [Rapid Prototype (Zeb)][8-5D] | [Sketch and Photoshop Basics (Nick)][9-1D] | Outcomes (Nick) | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3D]
+**1:30pm Module 3** | [Almost MEAN App (Zeb/Nick)][8-4D] | [Rapid Prototype (Zeb)][8-5D] | [Sketch and Photoshop Basics (Nick)][9-1D] | [Outcomes (Nick)][9-2D] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3D]
 **3:00pm Module 4** | [Almost MEAN App (Zeb/Nick)][8-4E] | [Rapid Prototype (Zeb)][8-5E] | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL Relationships and JOINs (Zeb)][9-2E] | [Lab: Sequelize/Tunr Relationships (Zeb)][9-3E]
 **Training** | Complete MEAN App | Rapid Prototype | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: SQL Practice][9-2F] | Prepare Project 3 Pitch
 
@@ -416,7 +416,7 @@ Weekly Goals:
 [9-2A]: https://www.codewars.com "CodeWars"
 [9-2B]: https://github.com/den-materials/sql-intro "Relational Databases & SQL"
 [9-2C]: https://github.com/den-materials/sql-carmen-sandiego "SQL CRUD Lab"
-[9-2D]: # "Outcomes"
+[9-2D]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [9-2E]: https://github.com/den-materials/joins-and-more "Joins and Advanced SQL" 
 [9-2F]: https://github.com/den-materials/library_sql "Joins Lab"
 
@@ -434,7 +434,7 @@ Time | Day 1                                      | Day 2                       
 **9:00am Warm-up** | [Second Pass (Zeb)][9-4B] | TBD | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Behavioral][10-2A] | [Getting a Freelance Gig][10-3A]
 **9:30am Module 1** | Actually 1-4, but we should do a Boomtown Shadow afternoon this day | Stand-up | [Linked Lists Challenge (Zeb)][10-1B] | Project 3 | Project 3
  **11:00am Module 2** | [Team Git Workflow (Zeb)][9-4C] | Project 3 | Project 3  | Project 3 | Project 3
-**1:30pm Module 3** | [Flexbox (Nick)][9-4D] | Project 3 | Project 3 | Project 3 | Outcomes
+**1:30pm Module 3** | [Flexbox (Nick)][9-4D] | Project 3 | Project 3 | Project 3 | [Outcomes][9-5E]
 **3:00pm Module 4** | [Lab: Project 3 Pitches][9-4E] | Project 3 | Project 3 | Project 3 | Project 3
 **Training** | [Questions in a Line (Zeb)][9-4A] and [Project 3 Team Formation][9-4F] | Project 3 | Project 3 | Project 3 | Project 3
 
@@ -450,6 +450,7 @@ Weekly Goals:
 [9-4D]: https://github.com/den-materials/flexbox "Flexbox"
 [9-4E]: # "Project Pitch Lab"
 [9-4F]: https://github.com/den-materials/project-03 "Project 3"
+[9-5E]: https://github.com/den-materials/outcomes-resources "Outcomes"
 
 [10-1A]: https://github.com/den-materials/linked-lists "Linked Lists"
 [10-1B]: https://github.com/den-materials/linked-lists "Linked Lists"
@@ -468,7 +469,7 @@ Time | Day 1                           | Day 2                                  
 **9:30am Module 1** | Project 3 | [What's Different in Angular 2][10-5D] | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code (Zeb)][11-3B] | [PHP Intro (Zeb)][11-4B]
 **11:00am Module 2** | Project 3 Retro | [Lab: Angular 2 Refactor][10-5E] | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | [Lab: PHP Intro (Zeb)][11-4C]
 **1:30pm Module 3** | Project 3 Presentations | [Intro to Ionic][12-3E] | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | [PHP Wordpress (Nick)][11-4D]
-**3:00pm Module 4** | [Create Issues][10-4E] | [Intro to Ionic][12-3E] | [Lab: React Tic-Tac-Toe Tutorial (Zeb)][11-2E] | Outcomes (Nick) | [Lab: PHP Wordpress (Nick)][11-4E]
+**3:00pm Module 4** | [Create Issues][10-4E] | [Intro to Ionic][12-3E] | [Lab: React Tic-Tac-Toe Tutorial (Zeb)][11-2E] | [Outcomes (Nick)][11-4F] | [Lab: PHP Wordpress (Nick)][11-4E]
 **Training** | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-5F] | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site / Hackathon Tomorrow
 
 [10-4E]: https://github.com/den-materials/create-an-issue-project3 "Project 3 Issues"
@@ -488,7 +489,7 @@ Time | Day 1                           | Day 2                                  
 [11-3A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
 [11-3B]: https://github.com/den-materials/legacy-code-intro "Intro to Legacy Code"
 [11-3C]: https://github.com/den-materials/legacy-code-denver "Legacy Code"
-[11-3D]: # "Outcomes"
+[11-3D]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [11-3E]: https://github.com/den-materials/legacy-code-denver "Legacy Code"
 
 [11-4A]: https://www.codewars.com "CodeWars"
@@ -496,6 +497,7 @@ Time | Day 1                           | Day 2                                  
 [11-4C]: https://github.com/den-materials/php-exercises "PHP Intro Lab"
 [11-4D]: https://github.com/den-materials/php-wordpress "PHP Wordpress"
 [11-4E]: https://github.com/den-materials/wordpress-lab "PHP Wordpress Lab"
+[11-4F]: https://github.com/den-materials/outcomes-resources "Outcomes"
 
 Weekly Goals:
 
@@ -513,7 +515,7 @@ Time | Day 1                                 | Day 2                            
 **9:00am Warm-up** | [Second Pass (Zeb)][11-5A] | [Mock Interviews - Hybrid][12-1A] | Hackathon Presentations | Lightning Talks Prep | [Mock Interviews - Technical][12-4A]
 **9:30am Module 1** | [PHP CRUD (Zeb)][11-5B] | [IoT Primer][12-1B] | [Intro to Ruby][12-2B] | Lightning Talks Prep | Project 4 Planning
 **11:00am Module 2** | Lab: PHP CRUD (Zeb) | [Intro to IoT][12-1C] | [Intro to Rails][12-2C] | Lightning Talks Prep | Approvals
-**1:30pm Module 3** | Freelance Project | IoT Hackathon | Outcomes | [Lightning Talks][12-3C] | Approvals
+**1:30pm Module 3** | Freelance Project | IoT Hackathon | [Outcomes][12-2D] | [Lightning Talks][12-3C] | Approvals
 **3:00pm Module 4** | Freelance Project | IoT Hackathon | Lightning Talks Prep | [Project 4 Intro][12-3D] | Project 4
 **Training** | Continue Outside Project | [Pick a Lightning Talk Topic][12-1F] | Lightning Talks Prep | Project 4 | Project 4
 
@@ -533,7 +535,7 @@ Time | Day 1                                 | Day 2                            
 [12-2A]: # "Hackathon Presentations"
 [12-2B]: https://github.com/den-materials/intro-ruby "Intro Ruby"
 [12-2C]: https://github.com/den-materials/intro-to-rails "Intro Rails"
-[12-2D]: # "Outcomes"
+[12-2D]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [12-2E]: https://github.com/den-materials/lighting-talks "Lightning Talk Prep"
 
 [12-3A]: # "Lightning Talk Prep"
