@@ -73,10 +73,10 @@ Time  | Activity
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
  **9:00am Warm-Up** | [Intro to ES6 (Zeb)][2-1A] | [Whiteboarding (Zeb)][2-2A] | [GH Branching and gh-pages (Zeb)][2-3A] | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] (Zeb) | [Developer Resources][2-5A]
- **9:30am Module 1** | [Whiteboarding 101 (Zeb)][2-1B] | [Intro to jQuery (Zeb)][2-2B] | [Intermediate jQuery (Zeb)][2-3B] | [OOP in JS (Zeb)][2-4C] | Solutions Run-through and [Questions in a Hat][2-5B] (Zeb)
- **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] | [jQuery & Browser Storage (Zeb)][2-2C] | [Lab: Create jQuery selector (Zeb)][2-3C] | [OOP concepts (Zeb)][2-4D] | [Second Pass (Zeb)][2-5C]
-**1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [HTML Forms (Nick)][2-2D] | [CSS Transitions & Animations][2-3D] (Nick) | [OOP Refactor Lab (Zeb)][2-4E] | [Wireframes (Nick)][2-5D]
-**3:00pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1E] | [CSS for HTML Forms Lab (Nick)][2-2E] | [Tic-Tac-Toe (Nick)][2-3E] | [Outcomes (Nick)][2-4F] | [CodeWars Intro][2-5E] and [Project 1 Intro][2-5F] (Zeb)
+ **9:30am Module 1** | [Whiteboarding 101 (Zeb)][2-1B] | [Intro to jQuery (Zeb)][2-2B] | [Intermediate jQuery (Zeb)][2-3B] | [Outcomes (Nick)][2-4C] | Solutions Run-through and [Questions in a Hat][2-5B] (Zeb)
+ **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] | [jQuery & Browser Storage (Zeb)][2-2C] | [Lab: Create jQuery selector (Zeb)][2-3C] | [OOP in JS (Zeb)][2-4D] | [Second Pass (Zeb)][2-5C]
+**1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [HTML Forms (Nick)][2-2D] | [CSS Transitions & Animations][2-3D] (Nick) | [OOP concepts (Zeb)][2-4E] | [Wireframes (Nick)][2-5D]
+**3:00pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1E] | [CSS for HTML Forms Lab (Nick)][2-2E] | [Tic-Tac-Toe (Nick)][2-3E] | [OOP Refactor Lab (Zeb)][2-4F] | [CodeWars Intro][2-5E] and [Project 1 Intro][2-5F] (Zeb)
 **Training** | Part 1: Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d01_Style_Guides" | Finish CSS for HTML Forms Lab | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game][2-4G] (Zeb) | Continue Racer Game
 **Training** | Part 2: Continue Callbacks and Iterators |  |  |  | Project 1 Proposal
 
@@ -113,10 +113,10 @@ Weekly Goals:
 
 [2-4A]: https://teamtreehouse.com/community/pure-javascript-vs-jquery-2 "Native JS vs jQuery Choice"
 [2-4B]: https://gist.github.com/liamcurry/2597326 "Native JS vs jQuery Code"
-[2-4C]: https://github.com/den-materials/js-oop-flower-power "Flower Power OOP Lab"
-[2-4D]: https://github.com/den-materials/oop-concepts "OOP Concepts"
-[2-4E]: https://github.com/den-materials/oop-concepts "OOP Refactor"
-[2-4F]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[2-4C]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[2-4D]: https://github.com/den-materials/js-oop-flower-power "Flower Power OOP Lab"
+[2-4E]: https://github.com/den-materials/oop-concepts "OOP Concepts"
+[2-4F]: https://github.com/den-materials/oop-concepts "OOP Refactor"
 [2-4G]: https://github.com/den-materials/assessment-2 "Lab: Racer Game"
 
 [2-5A]: https://github.com/den-materials/developer-resources "Dev Resources"
