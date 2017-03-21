@@ -78,7 +78,7 @@ Time |Day 1                                      | Day 2                        
  **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] | [jQuery & Browser Storage (Zeb)][2-2C] - We should remove vanilla JS from the sample HTML files here, replace with all jQuery | [Lab: Create jQuery selector (Zeb)][2-3C] | [OOP concepts (Zeb)][2-4D] | [Second Pass (Zeb)][2-5C]
 **1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [HTML Forms (Nick)][2-2D] | [CSS Transitions & Animations][2-3D] (Nick) | [OOP Refactor Lab (Zeb)][2-4E] | [Wireframes (Nick)][2-5D]
 **3:00pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1E] | [CSS for HTML Forms Lab (Nick)][2-2E] - Same thing here, we should use only jQuery here | [Tic-Tac-Toe (Nick)][2-3E] | [Outcomes (Nick)][2-4F] | [CodeWars Intro][2-5E] and [Project 1 Intro][2-5F] (Zeb)
-**Training** | Part 1: Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d01_Style_Guides" | Finish CSS for HTML Forms Lab | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game][2-4G] (Zeb) | Continue Racer Game
+**Training** | Part 1: Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d01_Style_Guides" - we did not clarify they had to do this, so had to do as an exercise later in the week | Finish CSS for HTML Forms Lab | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game][2-4G] (Zeb) | Continue Racer Game
 **Training** | Part 2: Continue Callbacks and Iterators |  |  |  | Project 1 Proposal
 
 Weekly Goals:
