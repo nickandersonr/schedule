@@ -142,7 +142,7 @@ Weekly Goals:
 
 [2-5A]: https://github.com/den-materials/developer-resources "Dev Resources"
 [2-5B]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
-[2-5C]: # "Second Pass"
+[2-5C]: https://github.com/den-wdi-3/week2_secondPass "Second Pass"
 [2-5D]: # "Wireframes"
 [2-5E]: https://www.codewars.com/dashboard "Code Wars"
 [2-5F]: https://github.com/den-materials/project-1 "Project 1"
