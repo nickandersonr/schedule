@@ -10,7 +10,16 @@ Time  | Activity           |  Meta Resources
 3:00  | Module 4           |
 4:00  | Independent Work   |
 
-<div style="float: right;">
+<style>
+	.metaLinks {
+		float: left;
+	    position: relative;
+	    top: -300px;
+	    left: 500px;
+	}
+</style>
+
+<div class="metaLinks">
 	<ul>
 		<li>
 			<a href="https://github.com/den-materials/developer-resources">Developer 
