@@ -2,13 +2,32 @@
 
 Time  | Activity           |  Meta Resources
 ----- | ------------------ | -----------------
-9:00  | Morning Warm-Up    |  - [Developer Resources](https://github.com/den-materials/developer-resources)
-9:30  | Module 1           |  - [Outcomes Resources](https://github.com/den-materials/outcomes-resources)
-11:00 | Module 2           |  - [How To Learn](https://github.com/den-materials/how-to-learn)
+9:00  | Morning Warm-Up    |  [Developer Resources](https://github.com/den-materials/developer-resources)
+9:30  | Module 1           |  [Outcomes Resources](https://github.com/den-materials/outcomes-resources)
+11:00 | Module 2           |  [How To Learn](https://github.com/den-materials/how-to-learn)
 12:30 | Lunch              |
 1:30  | Module 3           |
 3:00  | Module 4           |
 4:00  | Independent Work   |
+
+<div style="float: right;">
+	<ul>
+		<li>
+			<a href="https://github.com/den-materials/developer-resources">Developer 
+				Resources
+			</a>
+		</li>
+		<li>
+			<a href="https://github.com/den-materials/outcomes-resources">Outcomes 
+				Resources
+			</a>
+		</li>
+		<li>
+			<a href="https://github.com/den-materials/how-to-learn">How To Learn
+			</a>
+		</li>
+	</ul>
+</div>
 
 ## Unit 1: The Client
 
