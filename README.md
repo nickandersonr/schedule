@@ -10,6 +10,26 @@ Time  | Activity
 3:00  | Module 4
 4:00  | Independent Work
 
+<div class="metaLinks">
+	<h2>Meta Links:</h2>
+	<ul>
+		<li>
+			<a href="https://github.com/den-materials/developer-resources">Developer 
+				Resources
+			</a>
+		</li>
+		<li>
+			<a href="https://github.com/den-materials/outcomes-resources">Outcomes 
+				Resources
+			</a>
+		</li>
+		<li>
+			<a href="https://github.com/den-materials/how-to-learn">How To Learn
+			</a>
+		</li>
+	</ul>
+</div>
+
 ## Unit 1: The Client
 
 #### Week 1 - Fundamentals and Tools (3/13-3/17)
