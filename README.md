@@ -195,12 +195,12 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Intro to Full-Stack (Diagram and Key Terms) | [API Practice][4-3A] | CodeWars | [Troubleshooting and Dev Tools][5-2A] | [Intro to EJS][5-3A] 
- **9:30am Module 1** | [API Intro with Postman][4-2B] (Zeb) | [Lab: Shakeitspear][4-3B] (Zeb) | [Intro to Express (Zeb)][5-1B] | [Mongo Intro][5-2B] (Zeb) | [Views in Express (Zeb)][5-3B]
-**11:00am Module 2** | [Intro to AJAX][4-2C] (Zeb) | [Connecting Forms to APIs via AJAX][4-3C] (Zeb) | [Building Express Routes (Zeb)][5-1C] | [Mongo Lab][5-2C] (Zeb) | [Lab: Views in Express (Zeb)][5-3C]
-**1:30pm Module 3** | [Lab: Intro to AJAX][4-2D] (Zeb) | [Intro to Node.js (Zeb)][4-3D] | [Building Express Routes Lab (Zeb)][5-1D] | [Mongoose Intro][5-2D] (Nick) | [Outcomes (Nick)][5-3D]
-**3:00pm Module 4** | More Cats | [Node Lab][4-3E] (Zeb) | [More Express Routes][5-1E] (Nick) |  [Data Organization in Mongo][5-2E] (Nick) | [TODO API][5-3E] (Nick)
-**Training** | Finish Cats Lab | [Lab: Requesting with Node][4-3F] | Candies (Express Routing) Lab | Restaurants (Mongo CLI) Lab | TODO API & [Project 2 Proposal][5-3F]
+ **9:00am Warm-Up** | Intro to Full-Stack (Diagram and Key Terms) | [API Practice][4-2A] (Nick) | CodeWars | [Troubleshooting and Dev Tools][4-4A] (Zeb) | [Intro to EJS][4-5A] (Zeb)
+ **9:30am Module 1** | [API Intro with Postman][4-1B] (Zeb) | [Lab: Shakeitspear][4-2B] (Nick) | [Intro to Express (Zeb)][4-3B] | [Mongo Intro][4-4B] (Nick) | [Views in Express (Zeb)][4-5B]
+**11:00am Module 2** | [Intro to AJAX][4-1C] (Zeb) | [Connecting Forms to APIs via AJAX][4-2C] (Nick) | [Building Express Routes (Zeb)][4-3C] | [Mongo Lab][4-4C] (Nick) | [Lab: Views in Express (Zeb)][4-5C]
+**1:30pm Module 3** | [Lab: Intro to AJAX][4-1D] (Zeb) | [Intro to Node.js (Zeb)][4-2D] | [Building Express Routes Lab (Zeb)][4-3D] | [Mongoose Intro][4-4D] (Nick) | [Outcomes (Nick)][4-5D]
+**3:00pm Module 4** | More Cats | [Node Lab][4-2E] (Zeb) | [More Express Routes][4-3E] (Nick) |  [Data Organization in Mongo][4-4E] (Nick) | [TODO API][4-5E] (Nick)
+**Training** | Finish Cats Lab | [Lab: Requesting with Node][4-2F] | Candies (Express Routing) Lab | Restaurants (Mongo CLI) Lab | TODO API & [Project 2 Proposal][4-5F]
 
 Weekly Goals:
 * Communicate between front-end and back-end with APIs and AJAX
@@ -210,49 +210,47 @@ Weekly Goals:
 * Save JSON-like data to a server's Mongo database
 * Utilize server-side rendering with templates
 
-[4-2B]: https://github.com/den-materials/api-intro "API, JSON, and Postman"
-[4-2C]: https://github.com/den-materials/js-ajax-lesson "AJAX Intro"
-[4-2D]: https://github.com/den-materials/js-ajax-lab "JS AJAX Lab"
+[4-1B]: https://github.com/den-materials/api-intro "API, JSON, and Postman"
+[4-1C]: https://github.com/den-materials/js-ajax-lesson "AJAX Intro"
+[4-1D]: https://github.com/den-materials/js-ajax-lab "JS AJAX Lab"
 
-[4-3A]: https://github.com/den-materials/api-practice/blob/master/exercise-1.md "API Practice"
-[4-3B]: https://github.com/den-materials/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
-[4-3C]: https://github.com/den-materials/forms-and-ajax-lab "Connecting Forms to APIs"
-[4-3D]: https://github.com/den-materials/nodejs "Intro to Node.js"
-[4-3E]: https://github.com/den-materials/node-cli-weather "Intro Node Lab"
-[4-3F]: https://github.com/den-materials/requesting-with-node "Requesting with Node"
+[4-2A]: https://github.com/den-materials/api-practice/blob/master/exercise-1.md "API Practice"
+[4-2B]: https://github.com/den-materials/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
+[4-2C]: https://github.com/den-materials/forms-and-ajax-lab "Connecting Forms to APIs"
+[4-2D]: https://github.com/den-materials/nodejs "Intro to Node.js"
+[4-2E]: https://github.com/den-materials/node-cli-weather "Intro Node Lab"
+[4-2F]: https://github.com/den-materials/requesting-with-node "Requesting with Node"
 
-[5-1A]: # "CodeWars"
-[5-1B]: https://github.com/den-materials/express "Intro to Express.js"
-[5-1C]: https://github.com/den-materials/express-routing-lesson "Building Express Routes part 1"
-[5-1D]: https://github.com/den-materials/express-routing-lab "Building Express Routes part 2"
-[5-1E]: https://github.com/den-materials/more-express-routes "More Express Routes"
-[5-1F]: # "Finish Labs"
+[4-3A]: # "CodeWars"
+[4-3B]: https://github.com/den-materials/express "Intro to Express.js"
+[4-3C]: https://github.com/den-materials/express-routing-lesson "Building Express Routes part 1"
+[4-3D]: https://github.com/den-materials/express-routing-lab "Building Express Routes part 2"
+[4-3E]: https://github.com/den-materials/more-express-routes "More Express Routes"
+[4-3F]: # "Finish Labs"
 
-[5-2A]: https://github.com/den-materials/mini-tShoot "Dev Tools and Troubleshooting"
-[5-2B]: https://github.com/den-materials/mongo-intro "Intro to Mongo"
-[5-2C]: https://github.com/den-materials/mongo-cli "Mongo Lab"
-[5-2D]: https://github.com/den-materials/intro-mongoose "Mongo-backed models with Mongoose"
-[5-2E]: https://github.com/den-materials/mongo-structured-data "Data Organization in Mongo"
+[4-4A]: https://github.com/den-materials/mini-tShoot "Dev Tools and Troubleshooting"
+[4-4B]: https://github.com/den-materials/mongo-intro "Intro to Mongo"
+[4-4C]: https://github.com/den-materials/mongo-cli "Mongo Lab"
+[4-4D]: https://github.com/den-materials/intro-mongoose "Mongo-backed models with Mongoose"
+[4-4E]: https://github.com/den-materials/mongo-structured-data "Data Organization in Mongo"
 
-[5-3A]: https://github.com/den-materials/intro-ejs "EJS Intro"
-[5-3B]: https://github.com/den-materials/express-views-lesson "Views in Express Lesson"
-[5-3C]: https://github.com/den-materials/express-views-lab "Views in Express Lab"
-[5-3D]: https://github.com/den-materials/outcomes-resources "Outcomes"
-[5-3E]: https://github.com/den-materials/test-driven-todo-api "Todo Lab"
-[5-3F]: https://github.com/den-materials/project-2 "Project 2 Proposal"
-
-**It would be good to have non-tech lightning talk either Tuesday, Thursday, or Friday**
+[4-5A]: https://github.com/den-materials/intro-ejs "EJS Intro"
+[4-5B]: https://github.com/den-materials/express-views-lesson "Views in Express Lesson"
+[4-5C]: https://github.com/den-materials/express-views-lab "Views in Express Lab"
+[4-5D]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[4-5E]: https://github.com/den-materials/test-driven-todo-api "Todo Lab"
+[4-5F]: https://github.com/den-materials/project-2 "Project 2 Proposal"
 
 #### Week 5 - Full-Stack Apps, MVC, and Testing (4/10-4/14)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | [Questions in a Hat][5-5A] (Zeb) | [Mongoose Data Exercises][5-4A] | [Testing Lab][6-1A] (Zeb) | [CodeWars][6-2A] | [CodeWars][6-3A]
- **9:30am Module 1** | [Second Pass (Zeb)][5-5B] | [Intro to MVC][5-5C] (Zeb) | [Testing API Calls][6-1B] (Zeb) | [Sass Preprocessing (Zeb)][6-2C] | [Tunely][6-3B] (Zeb)
-**11:00am Module 2** | [Lab: Full-Stack JS][5-4C] (Zeb) | [Intro to TDD][5-5D] (Zeb) | [Lab: Research and Test External API for Project 2][6-1C] (Zeb) | [Introducing Gulp (Zeb)][6-2C] | [Tunely][6-3C] (Zeb) |
-**1:30pm Module 3** | [Lab: Full-Stack JS][5-4B] (Zeb) | [UX Crash Course][5-4D] (Nick) | [Lab: Research and Test External API for Project 2][6-1D] (Zeb) | [Intro to Bootstrap][6-2D] (Nick) | [MVC App Organization][6-3D] (Nick)
-**3:00pm Module 4** | [Lab: Personal API][5-4E] (Nick) | [Testing Lab][5-5E] (Zeb) | [Project 2 Ideation / Wireframes][6-1E] (Nick) | [Map Wireframes][6-2E] (Nick) | [MVC App Organization][6-3E] (Nick)
-**Training** | Personal API | [Testing Reading][5-5F] | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][6-2F] | Continue Tunely
+ **9:00am Warm-Up** | [Questions in a Hat][5-1A] (Zeb) | [Non-Tech Lightning Talks][5-2A] | [Non-Tech Lightning Talks][5-3A] | [CodeWars][5-4A] | [CodeWars][5-5A]
+ **9:30am Module 1** | [Second Pass (Zeb)][5-1B] | [UX Crash Course][5-2B] (Nick) | [Testing API Calls][5-3B] (Zeb) | [Outcomes (Nick)][5-4B] | [Tunely][5-5B] (Zeb)
+**11:00am Module 2** | [Lab: Full-Stack JS][5-1C] (Nick) | [Intro to MVC][5-2C] (Zeb) | [Lab: Research and Test External API for Project 2][5-3C] (Zeb) | [Introducing Gulp (Zeb)][5-4C] | [Tunely][5-5C] (Zeb) |
+**1:30pm Module 3** | [Lab: Full-Stack JS][5-1D] (Nick) | [Intro to TDD][5-2D] (Zeb) | [Lab: Research and Test External API for Project 2][5-3D] (Zeb) | [Intro to Bootstrap][5-4D] (Nick) | [MVC App Organization][5-5D] (Nick)
+**3:00pm Module 4** | [Lab: Personal API][5-1E] (Nick) | [Testing Lab][5-2E] (Zeb) | [Project 2 Ideation / Wireframes][5-3E] (Nick) | [Map Wireframes][5-4E] (Nick) | [MVC App Organization][5-5E] (Nick)
+**Training** | Personal API | [Testing Reading][5-2F] | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][5-4F] | Continue Tunely
 
 Weekly Goals:
 * Utilize Sass to improve and DRY out CSS code
@@ -263,70 +261,68 @@ Weekly Goals:
 * Understand and create Models, Views, and Controllers
 * Integrate tools like Gulp, Sass, and Bootstrap to improve development
 
-[5-4A]: https://github.com/den-materials/mongo-structured-data "Data Organization in Mongo"
-[5-4B]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
-[5-4C]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
-[5-4D]: https://github.com/den-materials/ux-crash-course "UX Crash Course"
-[5-4E]: https://github.com/den-materials/express-personal-api "Personal API"
+[5-1A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
+[5-1B]: https://github.com/den-materials/unit2_week1_secondpass "Second Pass"
+[5-1C]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
+[5-1D]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
+[5-1E]: https://github.com/den-materials/express-personal-api "Personal API"
 
-[5-5A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
-[5-5B]: https://github.com/den-materials/unit2_week1_secondpass "Second Pass"
-[5-5C]: https://github.com/den-materials/mvc-intro "MVC Intro"
-[5-5D]: https://github.com/den-materials/tdd-and-mocha "Intro to TDD"
-[5-5E]: https://github.com/den-materials/tdd-fibonacci "Testing Lab"
-[5-5F]: https://mochajs.org/ "Testing Reading and Quiz"
+[5-2A]: # "Non-Tech Lightning Talks"
+[5-2B]: https://github.com/den-materials/ux-crash-course "UX Crash Course"
+[5-2C]: https://github.com/den-materials/mvc-intro "MVC Intro"
+[5-2D]: https://github.com/den-materials/tdd-and-mocha "Intro to TDD"
+[5-2E]: https://github.com/den-materials/tdd-fibonacci "Testing Lab"
+[5-2F]: https://mochajs.org/ "Testing Reading and Quiz"
 
-[6-1A]: https://github.com/den-materials/tdd-fibonacci "Testing Lab"
-[6-1B]: https://github.com/den-materials/api-testing "Testing API Calls"
-[6-1C]: https://github.com/den-materials/external-API-research "Research and Test External API Lab"
-[6-1D]: https://github.com/den-materials/external-API-research "Research and Test External API Lab"
-[6-1E]: https://github.com/den-materials/project-2-ideation "Project 2 Ideation / Wireframes"
+[5-3A]: # "Non-Tech Lightning Talks"
+[5-3B]: https://github.com/den-materials/api-testing "Testing API Calls"
+[5-3C]: https://github.com/den-materials/external-API-research "Research and Test External API Lab"
+[5-3D]: https://github.com/den-materials/external-API-research "Research and Test External API Lab"
+[5-3E]: https://github.com/den-materials/project-2-ideation "Project 2 Ideation / Wireframes"
 
-[6-2A]: https://www.codewars.com "CodeWars"
-[6-2B]: https://github.com/den-materials/sass-intro/blob/master/sass.md "Sass"
-[6-2C]: https://github.com/den-materials/gulp "Gulp"
-[6-2D]: https://github.com/den-materials/bootstrap "Intro to Bootstrap"
-[6-2E]: https://github.com/den-materials/mapping-wireframes "Map Wireframes to HTML/CSS Components for Project 2"
-[6-2F]: # "Mock Project 2"
+[5-4A]: https://www.codewars.com "CodeWars"
+[5-4B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[5-4C]: https://github.com/den-materials/gulp "Gulp"
+[5-4D]: https://github.com/den-materials/bootstrap "Intro to Bootstrap"
+[5-4E]: https://github.com/den-materials/mapping-wireframes "Map Wireframes to HTML/CSS Components for Project 2"
+[5-4F]: # "Mock Project 2"
 
-[6-3A]: https://www.codewars.com "CodeWars"
-[6-3B]: https://github.com/den-materials/tunely
-[6-3C]: https://github.com/den-materials/tunely
-[6-3D]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
-[6-3E]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
+[5-5A]: https://www.codewars.com "CodeWars"
+[5-5B]: https://github.com/den-materials/tunely
+[5-5C]: https://github.com/den-materials/tunely
+[5-5D]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
+[5-5E]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
 
 #### Week 6 - User Management and Project 2: Full-stack CRUD App (4/17-4/21)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [Questions][6-5A] | [A-Ha Moments][6-4A] | [FizzBuzz][7-1A] | Standup | Standup
- **9:30am Module 1** | [Second Pass][6-5B] (Zeb) | [Project 2 Trello][6-5E] and First Scrum (Zeb) | Standup | Project 2 | Project 2
- **11:00am Module 2** | [Security 101][6-5C] (Zeb) | Project 2 | Project 2 | Project 2 | Project 2
- **1:30pm Module 3** | [Intro to Passport][6-5D] (Zeb) | [Outcomes (Nick)][6-4D] | Project 2 | Project 2 | Project 2 
-**3:00pm Module 4** | Passport Lab - TBD | Project 2 | Project 2 | Project 2 | Project 2
-**Training** | [Work on Project 2 Structure][6-4F] | Project 2 | Project 2 | Project 2 | Project 2
+ **9:00am Warm-Up** | [Questions][6-1A] | [A-Ha Moments][6-2A] | [FizzBuzz][6-3A] | Standup | Standup
+ **9:30am Module 1** | [Second Pass][6-1B] (Zeb) | [Outcomes (Nick)][6-2B] | Standup | Project 2 | Project 2
+ **11:00am Module 2** | [Security 101][6-1C] (Zeb) | [Project 2 Trello][6-2C] and First Scrum (Zeb) | Project 2 | Project 2 | Project 2
+ **1:30pm Module 3** | [Intro to Passport][6-1D] (Zeb) | Project 2 | Project 2 | Project 2 | Project 2 
+**3:00pm Module 4** | [Passport Lab - TBD][6-1E] | Project 2 | Project 2 | Project 2 | Project 2
+**Training** | [Work on Project 2 Structure][6-1F] | Project 2 | Project 2 | Project 2 | Project 2
 
 Weekly Goals:
 
 * Understand and create a user model with authentication
 * Build a personal full-stack Javascript App from scratch
 
-[6-4A]: # "A-Ha Moments"
-[6-4B]: # "Project 2"
-[6-4C]: # "Project 2 Time"
-[6-4D]: https://github.com/den-materials/outcomes-resources "Outcomes"
-[6-4E]: # "Project 2 Time"
+[6-1A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-06.md "Questions"
+[6-1B]: https://github.com/den-materials/unit2_week2_secondpass "Second Pass"
+[6-1C]: https://github.com/den-materials/rails-auth "Security 101"
+[6-1D]: https://github.com/den-materials/express-passport "Intro to Passport"
+[6-1E]: # "More Passport"
 [6-4F]: https://github.com/den-materials/project-2 "MVP Of Project 2"
 
-[6-5A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-06.md "Questions"
-[6-5B]: https://github.com/den-materials/unit2_week2_secondpass "Second Pass"
-[6-5C]: https://github.com/den-materials/rails-auth "Security 101"
-[6-5D]: https://github.com/den-materials/express-passport "Intro to Passport"
-[6-5E]: https://github.com/den-materials/project-2 "Project 2"
+[6-2A]: # "A-Ha Moments"
+[6-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[6-2C]: # "Project 2"
+[6-2D]: # "Project 2 Time"
+[6-2E]: # "Project 2 Time"
 
-[7-1A]: https://github.com/den-materials/fizzBuzz "FizzBuzz"
-
-[7-3A]: # "Interview Prep"
+[6-3A]: https://github.com/den-materials/fizzBuzz "FizzBuzz"
 
 Extra Resources:
 
@@ -341,7 +337,7 @@ Extra Resources:
  **9:00am Warm-up** |  Project 2 | [ES6 Lesson Part 2 (Zeb)][7-5A] | [Project 3 Intro][8-1A] | [CodeWars][8-2A] | [CodeWars][8-3A]
  **9:30am Module 1** | Retrospective | [ES6 Quiz (Zeb)][7-5B] | [Directives Lesson (Zeb)][8-1B] | [Angular Hangman (Zeb)][8-2B] | [$resource (Zeb)][8-3B]
  **11:00am Module 2** | Project 2 Presentations | [Auth Math (Zeb)][7-5C] | [Directives Lab (Zeb)][8-1C] | [Angular Hangman (Zeb)][8-2C] | [Firebase (Zeb)][8-3C]
- **1:30pm Module 3** | [Outcomes][7-4C] | [Intro to Angular (Zeb)][7-5D] | [$http and promises (Nick)][8-1D] | [Routing (Zeb/Nick)][8-2D] | [Outcomes (Nick)][8-3D]
+ **1:30pm Module 3** | [Outcomes][7-4C] | [Intro to Angular (Zeb)][7-5D] | [$http and promises (Nick)][8-1D] | [Routing (Zeb/Nick)][8-2D] | [Sass Preprocessing (Zeb)][8-3D]
 **3:00pm Module 4** | [Create Issues][7-4D] | [Lab: Intro to Angular (Zeb)][7-5E] | [$http LAB (Nick)][8-1E] | [Routing Lab (Zeb/Nick)][8-2E] | [Competitive and User Research (Nick)][8-3E]
 **Training** | Fix Issues | [Look over the Angular Documentation][7-5F] + [Check out this blog][7-5G] + [Do this Lab][7-5H] | Finish $http Lab | ui-router vs ngRoute readings: [#1][8-2F] + [#2][8-2G] + [#3][8-2H] | [Interview Potential Users][8-3F] | 
 
@@ -385,7 +381,7 @@ Weekly Goals:
 [8-3A]: https://www.codewars.com "CodeWars"
 [8-3B]: https://github.com/den-materials/angular-resource "ngResource"
 [8-3C]: https://github.com/den-materials/ng-firebase "Firebase"
-[8-3D]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[8-3D]: https://github.com/den-materials/sass-intro/blob/master/sass.md "Sass"
 [8-3E]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
 [8-3F]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
 
