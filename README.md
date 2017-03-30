@@ -195,11 +195,11 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Intro to Full-Stack (Diagram and Key Terms) | [API Practice][4-2A] (Nick) | CodeWars | [Troubleshooting and Dev Tools][4-4A] (Zeb) | [Intro to EJS][4-5A] (Zeb)
+ **9:00am Warm-Up** | Intro to Full-Stack (Diagram and Key Terms) | CodeWars | CodeWars | [Troubleshooting and Dev Tools][4-4A] (Zeb) | [Intro to EJS][4-5A] (Zeb)
  **9:30am Module 1** | [API Intro with Postman][4-1B] (Zeb) | [Lab: Shakeitspear][4-2B] (Nick) | [Intro to Express (Zeb)][4-3B] | [Mongo Intro][4-4B] (Nick) | [Views in Express (Zeb)][4-5B]
 **11:00am Module 2** | [Intro to AJAX][4-1C] (Zeb) | [Connecting Forms to APIs via AJAX][4-2C] (Nick) | [Building Express Routes (Zeb)][4-3C] | [Mongo Lab][4-4C] (Nick) | [Lab: Views in Express (Zeb)][4-5C]
 **1:30pm Module 3** | [Lab: Intro to AJAX][4-1D] (Zeb) | [Intro to Node.js (Zeb)][4-2D] | [Building Express Routes Lab (Zeb)][4-3D] | [Mongoose Intro][4-4D] (Nick) | [Outcomes (Nick)][4-5D]
-**3:00pm Module 4** | More Cats | [Node Lab][4-2E] (Zeb) | [More Express Routes][4-3E] (Nick) |  [Data Organization in Mongo][4-4E] (Nick) | [TODO API][4-5E] (Nick)
+**3:00pm Module 4** |[API Practice][4-2A] (Nick) | [Node Lab][4-2E] (Zeb) | [More Express Routes][4-3E] (Nick) |  [Data Organization in Mongo][4-4E] (Nick) | [TODO API][4-5E] (Nick)
 **Training** | Finish Cats Lab | [Lab: Requesting with Node][4-2F] | Candies (Express Routing) Lab | Restaurants (Mongo CLI) Lab | TODO API & [Project 2 Proposal][4-5F]
 
 Weekly Goals:
@@ -213,8 +213,9 @@ Weekly Goals:
 [4-1B]: https://github.com/den-materials/api-intro "API, JSON, and Postman"
 [4-1C]: https://github.com/den-materials/js-ajax-lesson "AJAX Intro"
 [4-1D]: https://github.com/den-materials/js-ajax-lab "JS AJAX Lab"
+[4-1E]: https://github.com/den-materials/api-practice/blob/master/exercise-1.md "API Practice"
 
-[4-2A]: https://github.com/den-materials/api-practice/blob/master/exercise-1.md "API Practice"
+[4-2A]: # "CodeWars"
 [4-2B]: https://github.com/den-materials/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
 [4-2C]: https://github.com/den-materials/forms-and-ajax-lab "Connecting Forms to APIs"
 [4-2D]: https://github.com/den-materials/nodejs "Intro to Node.js"
