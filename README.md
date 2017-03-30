@@ -151,7 +151,7 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Agile development and user stories (Zeb)][3-1A] | [Binary Search (Zeb)][3-2A] | [Stacks and Queues (Zeb)][3-3A] | [Merge Sort (Zeb)][3-4A] | Final Prep
+**9:00am Module 1** | [Agile development and user stories (Zeb)][3-1A] | [Binary Search (Zeb)][3-2A] | [Stacks and Queues (Zeb)][3-3A] | Project 1 | Final Prep
  **10:30am Module 2** | [Agile Development Lab (Zeb)][3-1B] | Standup / Project 1 | Standup / Project 1 | Standup / Project 1 | Final Prep and Submission
 **1:30pm Module 3** | [Project 1 Approvals][3-1C] | [Outcomes][3-2C] | Project 1 | Project 1 | Presentations
 **3:00pm Module 4** | Project 1 |  Project 1 |  Project 1 | Project 1 | Retrospective and [Fix an Issue (Zeb)][3-5D]
@@ -179,7 +179,7 @@ Weekly Goals:
 [3-3C]: # "Project 1"
 [3-3D]: # "Project 1"
 
-[3-4A]: https://github.com/den-materials/merge-sort "Merge Sort"
+[3-4A]: # "Project 1"
 [3-4B]: # "Project 1"
 [3-4C]: # "Project 1"
 [3-4D]: # "Project 1"
@@ -297,8 +297,8 @@ Weekly Goals:
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [Questions][6-1A] | [A-Ha Moments][6-2A] | [FizzBuzz][6-3A] | Standup | Standup
- **9:30am Module 1** | [Second Pass][6-1B] (Zeb) | [Outcomes (Nick)][6-2B] | Standup | Project 2 | Project 2
+ **9:00am Warm-Up** | [Questions][6-1A] | [A-Ha Moments][6-2A] | [FizzBuzz][6-3A] | [Merge Sort (Zeb)][6-4A] | Standup
+ **9:30am Module 1** | [Second Pass][6-1B] (Zeb) | [Outcomes (Nick)][6-2B] | Standup | Standup | Project 2
  **11:00am Module 2** | [Security 101][6-1C] (Zeb) | [Project 2 Trello][6-2C] and First Scrum (Zeb) | Project 2 | Project 2 | Project 2
  **1:30pm Module 3** | [Intro to Passport][6-1D] (Zeb) | Project 2 | Project 2 | Project 2 | Project 2 
 **3:00pm Module 4** | [Passport Lab - TBD][6-1E] | Project 2 | Project 2 | Project 2 | Project 2
@@ -323,6 +323,8 @@ Weekly Goals:
 [6-2E]: # "Project 2 Time"
 
 [6-3A]: https://github.com/den-materials/fizzBuzz "FizzBuzz"
+
+[6-4A]: https://github.com/den-materials/merge-sort "Merge Sort"
 
 Extra Resources:
 
