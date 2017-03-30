@@ -151,7 +151,7 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Agile development and user stories (Zeb)][3-1A] | [Binary Search (Zeb)][3-2A] | [Stacks and Queues (Zeb)][3-3A] | [Merge Sort (Zeb)][3-4A] | Final Prep
+**9:00am Module 1** | [Agile development and user stories (Zeb)][3-1A] | [Binary Search (Zeb)][3-2A] | [Stacks and Queues (Zeb)][3-3A] | Project 1 | Final Prep
  **10:30am Module 2** | [Agile Development Lab (Zeb)][3-1B] | Standup / Project 1 | Standup / Project 1 | Standup / Project 1 | Final Prep and Submission
 **1:30pm Module 3** | [Project 1 Approvals][3-1C] | [Outcomes][3-2C] | Project 1 | Project 1 | Presentations
 **3:00pm Module 4** | Project 1 |  Project 1 |  Project 1 | Project 1 | Retrospective and [Fix an Issue (Zeb)][3-5D]
@@ -179,7 +179,7 @@ Weekly Goals:
 [3-3C]: # "Project 1"
 [3-3D]: # "Project 1"
 
-[3-4A]: https://github.com/den-materials/merge-sort "Merge Sort"
+[3-4A]: # "Project 1"
 [3-4B]: # "Project 1"
 [3-4C]: # "Project 1"
 [3-4D]: # "Project 1"
