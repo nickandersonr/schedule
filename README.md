@@ -199,7 +199,7 @@ Time | Day 1                                    | Day 2                         
  **9:30am Module 1** | [API Intro with Postman][4-1B] (Zeb) | [Connecting Forms to APIs via AJAX][4-2B] (Nick) | [Intro to Express (Zeb)][4-3B] | [Mongo Intro][4-4B] (Nick) | [Views in Express (Zeb)][4-5B]
 **11:00am Module 2** | [Intro to AJAX][4-1C] (Zeb) | [Intro to Node.js (Zeb)][4-2C] | [Building Express Routes (Zeb)][4-3C] | [Mongo Lab][4-4C] (Nick) | [Lab: Views in Express (Zeb)][4-5C]
 **1:30pm Module 3** | [Lab: Intro to AJAX][4-1D] (Zeb) | [Node Lab][4-2D] (Zeb) | [Building Express Routes Lab (Zeb)][4-3D] | [Mongoose Intro][4-4D] (Nick) | [Outcomes (Nick)][4-5D]
-**3:00pm Module 4** |[API Practice][4-2A] (Nick) | [Lab: Requesting with Node][4-2E] | [More Express Routes][4-3E] (Nick) |  [Data Organization in Mongo][4-4E] (Nick) | [TODO API][4-5E] (Nick)
+**3:00pm Module 4** |[API Practice][4-2A] (Nick) | [Lab: Requesting with Node][4-2E] (Zeb) | [More Express Routes][4-3E] (Nick) |  [Data Organization in Mongo][4-4E] (Nick) | [TODO API][4-5E] (Nick)
 **Training** | Finish Cats Lab | Continue Requesting with Node (OMDB) Lab | Candies (Express Routing) Lab | Restaurants (Mongo CLI) Lab | TODO API & [Project 2 Proposal][4-5F]
 
 Weekly Goals:
@@ -246,10 +246,10 @@ Weekly Goals:
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
  **9:00am Warm-Up** | [Questions in a Hat][5-1A] (Zeb) | [Non-Tech Lightning Talks][5-2A] | [Non-Tech Lightning Talks][5-3A] | [CodeWars][5-4A] | [CodeWars][5-5A]
- **9:30am Module 1** | [Second Pass (Zeb)][5-1B] | [UX Crash Course][5-2B] (Nick) | [Testing API Calls][5-3B] (Zeb) | [Outcomes (Nick)][5-4B] | [Tunely][5-5B] (Zeb)
-**11:00am Module 2** | [Lab: Full-Stack JS][5-1C] (Nick) | [Intro to MVC][5-2C] (Zeb) | [Lab: Research and Test External API for Project 2][5-3C] (Zeb) | [Introducing Gulp (Zeb)][5-4C] | [Tunely][5-5C] (Zeb) |
-**1:30pm Module 3** | [Lab: Full-Stack JS][5-1D] (Nick) | [Intro to TDD][5-2D] (Zeb) | [Lab: Research and Test External API for Project 2][5-3D] (Zeb) | [Intro to Bootstrap][5-4D] (Nick) | [MVC App Organization][5-5D] (Nick)
-**3:00pm Module 4** | [Lab: Personal API][5-1E] (Nick) | [Testing Lab][5-2E] (Zeb) | [Project 2 Ideation / Wireframes][5-3E] (Nick) | [Map Wireframes][5-4E] (Nick) | [MVC App Organization][5-5E] (Nick)
+ **9:30am Module 1** | [Second Pass (Zeb)][5-1B] | [UX Crash Course][5-2B] (Nick) | [Testing API Calls][5-3B] (Zeb) | [Outcomes (Nick)][5-4B] | [MVC App Organization][5-5B] (Nick)
+**11:00am Module 2** | [Lab: Full-Stack JS][5-1C] (Nick) | [Intro to MVC][5-2C] (Zeb) | [Lab: Research and Test External API for Project 2][5-3C] (Zeb) | [Introducing Gulp (Zeb)][5-4C] | [MVC App Organization][5-5C] (Nick) |
+**1:30pm Module 3** | [Lab: Full-Stack JS][5-1D] (Nick) | [Intro to TDD][5-2D] (Zeb) | [Lab: Research and Test External API for Project 2][5-3D] (Zeb) | [Intro to Bootstrap][5-4D] (Nick) | [Tunely][5-5D] (Zeb)
+**3:00pm Module 4** | [Lab: Personal API][5-1E] (Nick) | [Testing Lab][5-2E] (Zeb) | [Project 2 Ideation / Wireframes][5-3E] (Nick) | [Map Wireframes][5-4E] (Nick) | [Tunely][5-5E] (Zeb)
 **Training** | Personal API | [Testing Reading][5-2F] | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][5-4F] | Continue Tunely
 
 Weekly Goals:
@@ -288,10 +288,10 @@ Weekly Goals:
 [5-4F]: # "Mock Project 2"
 
 [5-5A]: https://www.codewars.com "CodeWars"
-[5-5B]: https://github.com/den-materials/tunely
-[5-5C]: https://github.com/den-materials/tunely
-[5-5D]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
-[5-5E]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
+[5-5B]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
+[5-5C]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
+[5-5D]: https://github.com/den-materials/tunely
+[5-5E]: https://github.com/den-materials/tunely
 
 #### Week 6 - User Management and Project 2: Full-stack CRUD App (4/17-4/21)
 
