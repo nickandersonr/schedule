@@ -2,7 +2,7 @@
 
 Time  | Activity
 ----- | ------------------ 
-9:00  | Morning Warm-Up
+9:00  | Morning Warm-Up 
 9:30 | Module 1
 11:00 | Module 2
 12:30 | Lunch
