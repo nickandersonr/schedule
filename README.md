@@ -195,7 +195,7 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Intro to Full-Stack (Diagram and Key Terms) | [Lab: Shakeitspear][4-2A] (Nick) | CodeWars | [Troubleshooting and Dev Tools][4-4A] (Zeb) | [Intro to EJS][4-5A] (Zeb)
+ **9:00am Warm-Up** | Intro to Full-Stack (Diagram and Key Terms) | [Lab: Shakeitspear][4-2A] (Nick) | [Troubleshooting and Dev Tools][4-3A] (Zeb) | [Intro to EJS][4-4A] (Zeb) | CodeWars
  **9:30am Module 1** | [API Intro with Postman][4-1B] (Zeb) | [Connecting Forms to APIs via AJAX][4-2B] (Nick) | [Intro to Express (Zeb)][4-3B] | [Mongo Intro][4-4B] (Nick) | [Views in Express (Zeb)][4-5B]
 **11:00am Module 2** | [Intro to AJAX][4-1C] (Zeb) | [Intro to Node.js (Zeb)][4-2C] | [Building Express Routes (Zeb)][4-3C] | [Mongo Lab][4-4C] (Nick) | [Lab: Views in Express (Zeb)][4-5C]
 **1:30pm Module 3** | [Lab: Intro to AJAX][4-1D] (Zeb) | [Node Lab][4-2D] (Zeb) | [Building Express Routes Lab (Zeb)][4-3D] | [Mongoose Intro][4-4D] (Nick) | [Outcomes (Nick)][4-5D]
@@ -221,20 +221,20 @@ Weekly Goals:
 [4-2D]: https://github.com/den-materials/node-cli-weather "Intro Node Lab"
 [4-2E]: https://github.com/den-materials/requesting-with-node "Requesting with Node"
 
-[4-3A]: # "CodeWars"
+[4-3A]: https://github.com/den-materials/mini-tShoot "Dev Tools and Troubleshooting"
 [4-3B]: https://github.com/den-materials/express "Intro to Express.js"
 [4-3C]: https://github.com/den-materials/express-routing-lesson "Building Express Routes part 1"
 [4-3D]: https://github.com/den-materials/express-routing-lab "Building Express Routes part 2"
 [4-3E]: https://github.com/den-materials/more-express-routes "More Express Routes"
 [4-3F]: # "Finish Labs"
 
-[4-4A]: https://github.com/den-materials/mini-tShoot "Dev Tools and Troubleshooting"
+[4-4A]: https://github.com/den-materials/intro-ejs "EJS Intro"
 [4-4B]: https://github.com/den-materials/mongo-intro "Intro to Mongo"
 [4-4C]: https://github.com/den-materials/mongo-cli "Mongo Lab"
 [4-4D]: https://github.com/den-materials/intro-mongoose "Mongo-backed models with Mongoose"
 [4-4E]: https://github.com/den-materials/mongo-structured-data "Data Organization in Mongo"
 
-[4-5A]: https://github.com/den-materials/intro-ejs "EJS Intro"
+[4-5A]: # "CodeWars"
 [4-5B]: https://github.com/den-materials/express-views-lesson "Views in Express Lesson"
 [4-5C]: https://github.com/den-materials/express-views-lab "Views in Express Lab"
 [4-5D]: https://github.com/den-materials/outcomes-resources "Outcomes"
