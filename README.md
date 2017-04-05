@@ -267,14 +267,14 @@ Weekly Goals:
 [5-1D]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
 [5-1E]: https://github.com/den-materials/express-personal-api "Personal API"
 
-[5-2A]: # "Non-Tech Lightning Talks"
+[5-2A]: https://github.com/den-materials/non-tech-lightning-talk "Non-Tech Lightning Talks"
 [5-2B]: https://github.com/den-materials/ux-crash-course "UX Crash Course"
 [5-2C]: https://github.com/den-materials/mvc-intro "MVC Intro"
 [5-2D]: https://github.com/den-materials/tdd-and-mocha "Intro to TDD"
 [5-2E]: https://github.com/den-materials/tdd-fibonacci "Testing Lab"
 [5-2F]: https://mochajs.org/ "Testing Reading and Quiz"
 
-[5-3A]: # "Non-Tech Lightning Talks"
+[5-3A]: https://github.com/den-materials/non-tech-lightning-talk "Non-Tech Lightning Talks"
 [5-3B]: https://github.com/den-materials/api-testing "Testing API Calls"
 [5-3C]: https://github.com/den-materials/external-API-research "Research and Test External API Lab"
 [5-3D]: https://github.com/den-materials/external-API-research "Research and Test External API Lab"
