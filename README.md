@@ -245,7 +245,12 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **Plan** | CLASS | CLASS | CLASS | CLASS | CLASS
+ **9:00am Warm-Up** | [Questions in a Hat][5-1A] (Zeb) | [Non-Tech Lightning Talks][5-2A] | [Non-Tech Lightning Talks][5-3A] | [CodeWars][5-4A] | [CodeWars][5-5A]
+ **9:30am Module 1** | [Second Pass (Zeb)][5-1B] | [UX Crash Course][5-2B] (Nick) | [Testing API Calls][5-3B] (Zeb) | [Outcomes (Nick)][5-4B] | [MVC App Organization][5-5B] (Nick)
+**11:00am Module 2** | [Lab: Full-Stack JS][5-1C] (Nick) | [Intro to MVC][5-2C] (Zeb) | [Lab: Research and Test External API for Project 2][5-3C] (Zeb) | [Introducing Gulp (Zeb)][5-4C] | [MVC App Organization][5-5C] (Nick) |
+**1:30pm Module 3** | [Lab: Full-Stack JS][5-1D] (Nick) | [Intro to TDD][5-2D] (Zeb) | [Lab: Research and Test External API for Project 2][5-3D] (Zeb) | [Intro to Bootstrap][5-4D] (Nick) | [Tunely][5-5D] (Zeb)
+**3:00pm Module 4** | [Lab: Personal API][5-1E] (Nick) | [Testing Lab][5-2E] (Zeb) | [Project 2 Ideation / Wireframes][5-3E] (Nick) | [Map Wireframes][5-4E] (Nick) | [Tunely][5-5E] (Zeb)
+**Training** | Personal API | [Testing Reading][5-2F] | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][5-4F] | Continue Tunely
 
 Weekly Goals:
 * Utilize Sass to improve and DRY out CSS code
@@ -255,6 +260,38 @@ Weekly Goals:
 * Design a full-stack app
 * Understand and create Models, Views, and Controllers
 * Integrate tools like Gulp, Sass, and Bootstrap to improve development
+
+[5-1A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
+[5-1B]: https://github.com/den-materials/unit2_week1_secondpass "Second Pass"
+[5-1C]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
+[5-1D]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
+[5-1E]: https://github.com/den-materials/express-personal-api "Personal API"
+
+[5-2A]: https://github.com/den-materials/non-tech-lightning-talk "Non-Tech Lightning Talks"
+[5-2B]: https://github.com/den-materials/ux-crash-course "UX Crash Course"
+[5-2C]: https://github.com/den-materials/mvc-intro "MVC Intro"
+[5-2D]: https://github.com/den-materials/tdd-and-mocha "Intro to TDD"
+[5-2E]: https://github.com/den-materials/tdd-fibonacci "Testing Lab"
+[5-2F]: https://mochajs.org/ "Testing Reading and Quiz"
+
+[5-3A]: https://github.com/den-materials/non-tech-lightning-talk "Non-Tech Lightning Talks"
+[5-3B]: https://github.com/den-materials/api-testing "Testing API Calls"
+[5-3C]: https://github.com/den-materials/external-API-research "Research and Test External API Lab"
+[5-3D]: https://github.com/den-materials/external-API-research "Research and Test External API Lab"
+[5-3E]: https://github.com/den-materials/project-2-ideation "Project 2 Ideation / Wireframes"
+
+[5-4A]: https://www.codewars.com "CodeWars"
+[5-4B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[5-4C]: https://github.com/den-materials/gulp "Gulp"
+[5-4D]: https://github.com/den-materials/bootstrap "Intro to Bootstrap"
+[5-4E]: https://github.com/den-materials/mapping-wireframes "Map Wireframes to HTML/CSS Components for Project 2"
+[5-4F]: # "Mock Project 2"
+
+[5-5A]: https://www.codewars.com "CodeWars"
+[5-5B]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
+[5-5C]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
+[5-5D]: https://github.com/den-materials/tunely
+[5-5E]: https://github.com/den-materials/tunely
 
 #### Week 6 - User Management and Project 2: Full-stack CRUD App (4/17-4/21)
 
