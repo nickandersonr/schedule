@@ -267,7 +267,7 @@ Weekly Goals:
 [5-1D]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
 [5-1E]: https://github.com/den-materials/express-personal-api "Personal API"
 
-[5-2A]: https://github.com/den-materials/unit2_week1_secondpass "Second Pass"
+[5-2A]: https://github.com/den-wdi-3/unit2_week1_secondpass "Second Pass"
 [5-2B]: https://github.com/den-materials/ux-crash-course "UX Crash Course"
 [5-2C]: https://github.com/den-materials/mvc-intro "MVC Intro"
 [5-2D]: https://github.com/den-materials/tdd-and-mocha "Intro to TDD"
