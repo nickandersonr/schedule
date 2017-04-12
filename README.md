@@ -311,7 +311,7 @@ Weekly Goals:
 
 [6-1A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-06.md "Questions"
 [6-1B]: https://github.com/den-materials/unit2_week2_secondpass "Second Pass"
-[6-1C]: https://github.com/den-materials/rails-auth "Security 101"
+[6-1C]: https://github.com/den-materials/intro-auth "Security 101"
 [6-1D]: https://github.com/den-materials/express-passport "Intro to Passport"
 [6-1E]: # "More Passport"
 [6-4F]: https://github.com/den-materials/project-2 "MVP Of Project 2"
