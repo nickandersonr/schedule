@@ -297,7 +297,7 @@ Weekly Goals:
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [Questions][6-1A] | [A-Ha Moments][6-2A] | [FizzBuzz][6-3A] | [Merge Sort (Zeb)][6-4A] | Standup
+ **9:00am Warm-Up** | [Questions][6-1A] | [Sass Preprocessing (Zeb)][6-2A] | [FizzBuzz][6-3A] | [A-Ha Moments][6-4A] | Standup
  **9:30am Module 1** | [Second Pass][6-1B] (Zeb) | [Outcomes (Nick)][6-2B] | Standup | Standup | Project 2
  **11:00am Module 2** | [Security 101][6-1C] (Zeb) | [Project 2 Trello][6-2C] and First Scrum (Zeb) | Project 2 | Project 2 | Project 2
  **1:30pm Module 3** | [Intro to Passport][6-1D] (Zeb) | Project 2 | Project 2 | Project 2 | Project 2 
@@ -316,7 +316,7 @@ Weekly Goals:
 [6-1E]: # "More Passport"
 [6-4F]: https://github.com/den-materials/project-2 "MVP Of Project 2"
 
-[6-2A]: # "A-Ha Moments"
+[6-2A]: https://github.com/den-materials/sass-intro/blob/master/sass.md "Sass"
 [6-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [6-2C]: # "Project 2"
 [6-2D]: # "Project 2 Time"
@@ -324,7 +324,7 @@ Weekly Goals:
 
 [6-3A]: https://github.com/den-materials/fizzBuzz "FizzBuzz"
 
-[6-4A]: https://github.com/den-materials/merge-sort "Merge Sort"
+[6-4A]: # "A-Ha Moments"
 
 Extra Resources:
 
@@ -339,7 +339,7 @@ Extra Resources:
  **9:00am Warm-up** |  Project 2 | [ES6 Lesson Part 2 (Zeb)][7-5A] | [Project 3 Intro][8-1A] | [CodeWars][8-2A] | [CodeWars][8-3A]
  **9:30am Module 1** | Retrospective | [ES6 Quiz (Zeb)][7-5B] | [Directives Lesson (Zeb)][8-1B] | [Angular Hangman (Zeb)][8-2B] | [$resource (Zeb)][8-3B]
  **11:00am Module 2** | Project 2 Presentations | [Auth Math (Zeb)][7-5C] | [Directives Lab (Zeb)][8-1C] | [Angular Hangman (Zeb)][8-2C] | [Firebase (Zeb)][8-3C]
- **1:30pm Module 3** | [Outcomes][7-4C] | [Intro to Angular (Zeb)][7-5D] | [$http and promises (Nick)][8-1D] | [Routing (Zeb/Nick)][8-2D] | [Sass Preprocessing (Zeb)][8-3D]
+ **1:30pm Module 3** | [Outcomes][7-4C] | [Intro to Angular (Zeb)][7-5D] | [$http and promises (Nick)][8-1D] | [Routing (Zeb/Nick)][8-2D] | [Sass Part 2][8-3D]
 **3:00pm Module 4** | [Create Issues][7-4D] | [Lab: Intro to Angular (Zeb)][7-5E] | [$http LAB (Nick)][8-1E] | [Routing Lab (Zeb/Nick)][8-2E] | [Competitive and User Research (Nick)][8-3E]
 **Training** | Fix Issues | [Look over the Angular Documentation][7-5F] + [Check out this blog][7-5G] + [Do this Lab][7-5H] | Finish $http Lab | ui-router vs ngRoute readings: [#1][8-2F] + [#2][8-2G] + [#3][8-2H] | [Interview Potential Users][8-3F] | 
 
@@ -383,7 +383,7 @@ Weekly Goals:
 [8-3A]: https://www.codewars.com "CodeWars"
 [8-3B]: https://github.com/den-materials/angular-resource "ngResource"
 [8-3C]: https://github.com/den-materials/ng-firebase "Firebase"
-[8-3D]: https://github.com/den-materials/sass-intro/blob/master/sass.md "Sass"
+[8-3D]: https://github.com/den-materials/sass-intro "More Sass"
 [8-3E]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
 [8-3F]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
 
@@ -586,6 +586,12 @@ Weekly Goals:
 - Fully formulate an idea for a full-stack project and execute it independently
 - Answer mock interview questions from instructors and outside developers
 - Demonstrate work to technical and non-technical observers
+
+#### More CS:
+
+[Merge Sort][13-A]
+
+[13-A]: https://github.com/den-materials/merge-sort "Merge Sort"
 
 >**Note:** Zeb will be available **by appointment** for mock interviews and portfolio help after graduation.  More details to come toward the end of class.  Please set up a time with Zeb by Direct Messaging him in Slack.
 
