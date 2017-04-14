@@ -396,7 +396,7 @@ Time | Day 1                                      | Day 2                       
  **11:00am Module 2** | [Angular UI (Zeb)][8-4C] | [Rapid Prototype (Zeb)][8-5C] | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3C]
 **1:30pm Module 3** | [Almost MEAN App (Zeb/Nick)][8-4D] | [Rapid Prototype (Zeb)][8-5D] | [Sketch and Photoshop Basics (Nick)][9-1D] | [Outcomes (Nick)][9-2D] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3D]
 **3:00pm Module 4** | [Almost MEAN App (Zeb/Nick)][8-4E] | [Rapid Prototype (Zeb)][8-5E] | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL Relationships and JOINs (Zeb)][9-2E] | [Lab: Sequelize/Tunr Relationships (Zeb)][9-3E]
-**Training** | Complete MEAN App | Rapid Prototype | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: SQL Practice][9-2F] | Prepare Project 3 Pitch
+**Training** | Complete MEAN App | Rapid Prototype | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: SQL Practice][9-2F] | Prepare Project 3 Pitch and Work on Boomtown Prototype
 
 Weekly Goals:
 - Perform authentication with Angular and Satellizer
