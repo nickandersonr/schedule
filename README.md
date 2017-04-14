@@ -434,7 +434,7 @@ Weekly Goals:
 [9-2A]: https://www.codewars.com "CodeWars"
 [9-2B]: https://github.com/den-materials/sql-intro "Relational Databases & SQL"
 [9-2C]: https://github.com/den-materials/sql-carmen-sandiego "SQL CRUD Lab"
-[9-2D]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[9-2D]: https://github.com/den-materials/portfolio-starter-kit "Outcomes"
 [9-2E]: https://github.com/den-materials/joins-and-more "Joins and Advanced SQL" 
 [9-2F]: https://github.com/den-materials/library_sql "Joins Lab"
 
