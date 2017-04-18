@@ -301,7 +301,7 @@ Weekly Goals:
  **9:00am Warm-Up** | [Questions][6-1A] | [Second Pass][6-2A] (Zeb) | [FizzBuzz][6-3A] | [A-Ha Moments][6-4A] | Standup
  **9:30am Module 1** | [Sass Preprocessing (Zeb)][6-1B] | [Outcomes (Becca)][6-2B] | Standup | Standup | Project 2
  **11:00am Module 2** | [Security 101][6-1C] (Zeb) | [Project 2 Trello][6-2C] and First Scrum (Zeb) | Project 2 | Project 2 | Project 2
- **1:30pm Module 3** | [Intro to Passport][6-1D] (Zeb) | Project 2 | Project 2 | Project 2 | Project 2 
+ **1:30pm Module 3** | [Intro to Passport][6-1D] (Zeb) | [Project 2][6-2D] | Project 2 | Project 2 | Project 2 
 **3:00pm Module 4** | [Integrate Passport into Project 2][6-1E] | Project 2 | Project 2 | Project 2 | Project 2
 **Training** | [Work on Project 2 Structure][6-1F] | Project 2 | Project 2 | Project 2 | Project 2
 
@@ -319,8 +319,8 @@ Weekly Goals:
 
 [6-2A]: https://github.com/den-materials/unit2_week2_secondpass "Second Pass"
 [6-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
-[6-2C]: # "Project 2"
-[6-2D]: # "Project 2 Time"
+[6-2C]: https://github.com/den-materials/project-2 "Project 2"
+[6-2D]: https://github.com/den-materials/project-2 "Project 2 Time"
 [6-2E]: # "Project 2 Time"
 
 [6-3A]: https://github.com/den-materials/fizzBuzz "FizzBuzz"
