@@ -338,10 +338,10 @@ Extra Resources:
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Warm-up** |  Project 2 | [Project 3 Intro][7-2A] | [CodeWars][7-3A] | [CodeWars][7-4A] | [CodeWars][7-5A]
  **9:30am Module 1** | Retrospective | [ES6 Lesson Part 2 (Zeb)][7-2B] | [Directives Lesson (Zeb)][7-3B] | [Angular Hangman (Zeb)][7-4B] | [$resource (Zeb)][7-5B]
- **11:00am Module 2** | Project 2 Presentations | [Auth Math (Zeb)][7-2C] | [Directives Lab (Zeb)][7-3C] | [Angular Hangman (Zeb)][7-4C] | [Firebase (Zeb)][7-5C]
- **1:30pm Module 3** | [Outcomes (Becca)][7-1C] | [Intro to Angular (Zeb)][7-2D] | [$http and promises (Stefan)][7-3D] | [Routing (Stefan)][7-4D] | [Sass Part 2][7-5D]
-**3:00pm Module 4** | [Create Issues (Zeb)][7-1D] | [Lab: Intro to Angular (Zeb)][7-2E] | [$http LAB (Stefan)][7-3E] | [Routing Lab (Stefan)][7-4E] | [Competitive and User Research (Nick)][7-5E]
-**Training** | Fix Issues | [Look over the Angular Documentation][7-2F] + [Check out this blog][7-2G] + [Do this Lab][7-2H] | Finish $http Lab | ui-router vs ngRoute readings: [#1][7-4F] + [#2][7-4G] + [#3][7-4H] | [Interview Potential Users][7-5F] | 
+ **11:00am Module 2** | Project 2 Presentations | [Auth Math (Zeb)][7-2C] | [Directives Lab (Zeb)][7-3C] | [Angular Hangman (Zeb)][7-4C] | [Angular UI (Zeb)][7-5C]
+ **1:30pm Module 3** | [Outcomes (Becca)][7-1C] | [Intro to Angular (Zeb)][7-2D] | [$http and promises (Stefan)][7-3D] | [Routing (Stefan)][7-4D] | [Almost MEAN App (Zeb)][7-5D]
+**3:00pm Module 4** | [Create Issues (Zeb)][7-1D] | [Lab: Intro to Angular (Zeb)][7-2E] | [$http LAB (Stefan)][7-3E] | [Routing Lab (Stefan)][7-4E] | [Almost MEAN App (Zeb)][7-5E]
+**Training** | Fix Issues | [Look over the Angular Documentation][7-2F] + [Check out this blog][7-2G] + [Do this Lab][7-2H] | Finish $http Lab | ui-router vs ngRoute readings: [#1][7-4F] + [#2][7-4G] + [#3][7-4H] | Complete MEAN App | 
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -382,21 +382,20 @@ Weekly Goals:
 
 [7-5A]: https://www.codewars.com "CodeWars"
 [7-5B]: https://github.com/den-materials/angular-resource "ngResource"
-[7-5C]: https://github.com/den-materials/ng-firebase "Firebase"
-[7-5D]: https://github.com/den-materials/sass-intro "More Sass"
-[7-5E]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
-[7-5F]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
+[7-5C]: https://github.com/den-materials/angular-ui-practice "Angular UI Practice"
+[7-5D]: https://github.com/den-materials/fullStack-JS-App "Not-so-MEAN App"
+[7-5E]: https://github.com/den-materials/fullStack-JS-App "Not-so-MEAN App"
 
 #### Week 8 - More Angular/Full-stack and SQL (5/1-5/5)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Questions in a Line (Zeb)][8-5A] | [Roman Numerals][8-4A] | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [Intro to Sequelize (Zeb)][9-3A]
-**9:30am Module 1** | [Second Pass (Zeb)][8-5B] | [Angular Auth (Zeb)][8-4B] **Elongate/supplement** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3B]
- **11:00am Module 2** | [Angular UI (Zeb)][8-4C] | [Rapid Prototype (Zeb)][8-5C] | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3C]
-**1:30pm Module 3** | [Almost MEAN App (Zeb/Nick)][8-4D] | [Rapid Prototype (Zeb)][8-5D] | [Sketch and Photoshop Basics (Nick)][9-1D] | [Outcomes (Nick)][9-2D] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3D]
-**3:00pm Module 4** | [Almost MEAN App (Zeb/Nick)][8-4E] | [Rapid Prototype (Zeb)][8-5E] | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL Relationships and JOINs (Zeb)][9-2E] | [Lab: Sequelize/Tunr Relationships (Zeb)][9-3E]
-**Training** | Complete MEAN App | Rapid Prototype | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: SQL Practice][9-2F] | Prepare Project 3 Pitch and Work on Boomtown Prototype
+**9:00am Warm-up** | [Questions in a Line (Zeb)][8-4A] | [Roman Numerals][8-5A] | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [Intro to Sequelize (Zeb)][9-3A]
+**9:30am Module 1** | [Second Pass (Zeb)][8-4B] | [Angular Auth (Zeb)][8-5B] **Elongate/supplement** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3B]
+ **11:00am Module 2** | [Firebase (Zeb)][8-4C] | [Rapid Prototype (Zeb)][8-5C] | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3C]
+**1:30pm Module 3** | [Sass Part 2][8-4D] | [Rapid Prototype (Zeb)][8-5D] | [Sketch and Photoshop Basics (Nick)][9-1D] | [Outcomes (Nick)][9-2D] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3D]
+**3:00pm Module 4** | [Competitive and User Research (Nick)][8-4E] | [Rapid Prototype (Zeb)][8-5E] | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL Relationships and JOINs (Zeb)][9-2E] | [Lab: Sequelize/Tunr Relationships (Zeb)][9-3E]
+**Training** | [Interview Potential Users][8-4F] | Rapid Prototype | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: SQL Practice][9-2F] | Prepare Project 3 Pitch and Work on Boomtown Prototype
 
 Weekly Goals:
 - Perform authentication with Angular and Satellizer
@@ -409,14 +408,16 @@ Weekly Goals:
 - Use Sequelize to create a CRUDable model with SQL and Node
 - Use Sequelize to create inter-connected models with data mappings
 
-[8-4A]: https://github.com/den-materials/roman_js "Roman Numerals"
-[8-4B]: https://github.com/den-materials/angular-auth-satellizer "Angular Auth"
-[8-4C]: https://github.com/den-materials/angular-ui-practice "Angular UI Practice"
-[8-4D]: https://github.com/den-materials/fullStack-JS-App "Not-so-MEAN App"
-[8-4E]: https://github.com/den-materials/fullStack-JS-App "Not-so-MEAN App"
 
-[8-5A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
-[8-5B]: https://github.com/den-materials/unit3_week1_secondpass "Second Pass"
+[8-4A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
+[8-4B]: https://github.com/den-materials/unit3_week1_secondpass "Second Pass"
+[8-4C]: https://github.com/den-materials/ng-firebase "Firebase"
+[8-4D]: https://github.com/den-materials/sass-intro "More Sass"
+[8-4E]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
+[8-4F]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
+
+[8-5A]: https://github.com/den-materials/roman_js "Roman Numerals"
+[8-5B]: https://github.com/den-materials/angular-auth-satellizer "Angular Auth"
 [8-5C]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
 [8-5D]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
 [8-5E]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
