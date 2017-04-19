@@ -241,6 +241,8 @@ Weekly Goals:
 [4-5E]: https://github.com/den-materials/test-driven-todo-api "Todo Lab"
 [4-5F]: https://github.com/den-materials/project-2 "Project 2 Proposal"
 
+- We should fit a morning exercise end of this week or beginning of next where devs pair up: one does back end API, other does front end rendering
+
 #### Week 5 - Full-Stack Apps, MVC, and Testing (4/10-4/14)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
