@@ -390,12 +390,12 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Questions in a Line (Zeb)][8-4A] | [Roman Numerals][8-5A] | [Rapid Prototype (Zeb)][9-1A] | [CodeWars (Zeb)][9-2A] | [Intro to Sequelize (Zeb)][9-3A]
-**9:30am Module 1** | [Second Pass (Zeb)][8-4B] | [Angular Auth (Zeb)][8-5B] **Elongate/supplement** | [Rapid Prototype (Zeb)][9-1B] | [Intro to SQL and Relational DBs (Zeb)][9-2B] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3B]
- **11:00am Module 2** | [Firebase (Zeb)][8-4C] | [Rapid Prototype (Zeb)][8-5C] | [Rapid Prototype Science Fair][9-1C] | [Carmen Sandiego Lab (Zeb)][9-2C] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3C]
-**1:30pm Module 3** | [Sass Part 2][8-4D] | [Rapid Prototype (Zeb)][8-5D] | [Sketch and Photoshop Basics (Nick)][9-1D] | [Outcomes (Nick)][9-2D] | [Lab: Sequelize Models / SEAN Stack (Zeb)][9-3D]
-**3:00pm Module 4** | [Competitive and User Research (Nick)][8-4E] | [Rapid Prototype (Zeb)][8-5E] | [Lab: Relational Data Modeling (Nick)][9-1E] | [SQL Relationships and JOINs (Zeb)][9-2E] | [Lab: Sequelize/Tunr Relationships (Zeb)][9-3E]
-**Training** | [Interview Potential Users][8-4F] | Rapid Prototype | Reading Assignments: DBs and SQL [#1][9-1F] [#2][9-1G] [#3][9-1H] and [Quiz][9-1I] | [Lab: SQL Practice][9-2F] | Prepare Project 3 Pitch and Work on Boomtown Prototype
+**9:00am Warm-up** | [Questions in a Line (Zeb)][8-1A] | [Roman Numerals][8-2A] | [Rapid Prototype (Zeb)][8-3A] | [CodeWars (Zeb)][8-4A] | [Intro to Sequelize (Zeb)][8-5A]
+**9:30am Module 1** | [Second Pass (Zeb)][8-1B] | [Angular Auth (Zeb)][8-2B] **Elongate/supplement** | [Rapid Prototype (Zeb)][8-3B] | [Intro to SQL and Relational DBs (Zeb)][8-4B] | [Lab: Sequelize Models / SEAN Stack (Zeb)][8-5B]
+ **11:00am Module 2** | [Firebase (Zeb)][8-1C] | [Rapid Prototype (Zeb)][8-2C] | [Rapid Prototype Science Fair][8-3C] | [Carmen Sandiego Lab (Zeb)][8-4C] | [Lab: Sequelize Models / SEAN Stack (Zeb)][8-5C]
+**1:30pm Module 3** | [Sass Part 2 (Nick)][8-1D] | [Rapid Prototype (Zeb)][8-2D] | [Sketch and Photoshop Basics (Nick)][8-3D] | [Outcomes (Nick)][8-4D] | [Lab: Sequelize Models / SEAN Stack (Zeb)][8-5D]
+**3:00pm Module 4** | [Competitive and User Research (Nick)][8-1E] | [Rapid Prototype (Zeb)][8-2E] | [Lab: Relational Data Modeling (Nick)][8-3E] | [SQL Relationships and JOINs (Zeb)][8-4E] | [Lab: Sequelize/Tunr Relationships (Zeb)][8-5E]
+**Training** | [Interview Potential Users][8-1F] | Rapid Prototype | Reading Assignments: DBs and SQL [#1][8-3F] [#2][8-3G] [#3][8-3H] and [Quiz][8-3I] | [Lab: SQL Practice][8-4F] | Work on Boomtown Prototype
 
 Weekly Goals:
 - Perform authentication with Angular and Satellizer
@@ -409,53 +409,53 @@ Weekly Goals:
 - Use Sequelize to create inter-connected models with data mappings
 
 
-[8-4A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
-[8-4B]: https://github.com/den-materials/unit3_week1_secondpass "Second Pass"
-[8-4C]: https://github.com/den-materials/ng-firebase "Firebase"
-[8-4D]: https://github.com/den-materials/sass-intro "More Sass"
-[8-4E]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
-[8-4F]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
+[8-1A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
+[8-1B]: https://github.com/den-materials/unit3_week1_secondpass "Second Pass"
+[8-1C]: https://github.com/den-materials/ng-firebase "Firebase"
+[8-1D]: https://github.com/den-materials/sass-intro "More Sass"
+[8-1E]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
+[8-1F]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
 
-[8-5A]: https://github.com/den-materials/roman_js "Roman Numerals"
-[8-5B]: https://github.com/den-materials/angular-auth-satellizer "Angular Auth"
-[8-5C]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
-[8-5D]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
-[8-5E]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
+[8-2A]: https://github.com/den-materials/roman_js "Roman Numerals"
+[8-2B]: https://github.com/den-materials/angular-auth-satellizer "Angular Auth"
+[8-2C]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
+[8-2D]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
+[8-2E]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
 
-[9-1A]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
-[9-1B]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
-[9-1C]: # "Science Fair"
-[9-1D]: https://github.com/den-materials/sketch-photoshop-basics "Sketch and Photoshop"
-[9-1E]: https://github.com/den-materials/data-modeling "Relational Data Modeling"
-[9-1F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
-[9-1G]: http://www.w3schools.com/sql/sql_syntax.asp "SQL Reading Assignment 2"
-[9-1H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
-[9-1I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
+[8-3A]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
+[8-3B]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
+[8-3C]: # "Science Fair"
+[8-3D]: https://github.com/den-materials/sketch-photoshop-basics "Sketch and Photoshop"
+[8-3E]: https://github.com/den-materials/data-modeling "Relational Data Modeling"
+[8-3F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
+[8-3G]: http://www.w3schools.com/sql/sql_syntax.asp "SQL Reading Assignment 2"
+[8-3H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
+[8-3I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
 
-[9-2A]: https://www.codewars.com "CodeWars"
-[9-2B]: https://github.com/den-materials/sql-intro "Relational Databases & SQL"
-[9-2C]: https://github.com/den-materials/sql-carmen-sandiego "SQL CRUD Lab"
-[9-2D]: https://github.com/den-materials/portfolio-starter-kit "Outcomes"
-[9-2E]: https://github.com/den-materials/joins-and-more "Joins and Advanced SQL" 
-[9-2F]: https://github.com/den-materials/library_sql "Joins Lab"
+[8-4A]: https://www.codewars.com "CodeWars"
+[8-4B]: https://github.com/den-materials/sql-intro "Relational Databases & SQL"
+[8-4C]: https://github.com/den-materials/sql-carmen-sandiego "SQL CRUD Lab"
+[8-4D]: https://github.com/den-materials/portfolio-starter-kit "Outcomes"
+[8-4E]: https://github.com/den-materials/joins-and-more "Joins and Advanced SQL" 
+[8-4F]: https://github.com/den-materials/library_sql "Joins Lab"
 
-[9-3A]: https://github.com/den-materials/sequelize_intro "Intro to Sequelize"
-[9-3B]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
-[9-3C]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
-[9-3D]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
-[9-3E]: https://github.com/den-materials/tunr-relationships "More Tunr"
-[9-3F]: # "Finish Tunr Relationships"
+[8-5A]: https://github.com/den-materials/sequelize_intro "Intro to Sequelize"
+[8-5B]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
+[8-5C]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
+[8-5D]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
+[8-5E]: https://github.com/den-materials/tunr-relationships "More Tunr"
+[8-5F]: # "Boomtown Work"
 
 #### Week 9 - Project 3: SEAN Stack Group Project (5/8-5/12)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Second Pass (Zeb)][9-4B] | TBD | [Linked Lists Intro (Zeb)][10-1A] | [Mock Interviews - Behavioral][10-2A] | [Getting a Freelance Gig][10-3A]
-**9:30am Module 1** | Actually 1-4, but we should do a Boomtown Shadow afternoon this day | Stand-up | [Linked Lists Challenge (Zeb)][10-1B] | Project 3 | Project 3
- **11:00am Module 2** | [Team Git Workflow (Zeb)][9-4C] | Project 3 | Project 3  | Project 3 | Project 3
-**1:30pm Module 3** | [Flexbox (Nick)][9-4D] | Project 3 | Project 3 | Project 3 | [Outcomes][9-5E]
-**3:00pm Module 4** | [Lab: Project 3 Pitches][9-4E] | Project 3 | Project 3 | Project 3 | Project 3
-**Training** | [Questions in a Line (Zeb)][9-4A] and [Project 3 Team Formation][9-4F] | Project 3 | Project 3 | Project 3 | Project 3
+**9:00am Warm-up** | [Questions in a Line (Zeb)][9-1A] | [Flexbox (Nick)][9-2A] | [Linked Lists Intro (Zeb)][9-3A] | [Mock Interviews - Behavioral][9-4A] | [Getting a Freelance Gig][9-5A]
+**9:30am Module 1** | [Second Pass (Zeb)][9-1B] | [Outcomes][9-2B] | [Linked Lists Challenge (Zeb)][9-3B] | Project 3 | Project 3
+ **11:00am Module 2** | [Team Git Workflow (Zeb)][9-1C] | Project 3 | Project 3  | Project 3 | Project 3
+**1:30pm Module 3** | BoomTown | Project 3 | Project 3 | Project 3 | 
+**3:00pm Module 4** | BoomTown | Project 3 | Project 3 | Project 3 | Project 3
+**Training** |  Project 3 | Project 3 | Project 3 | Project 3 | Project 3
 
 Weekly Goals:
 - Manage group code submissions with GitHub
@@ -463,20 +463,19 @@ Weekly Goals:
 - Learn the basics of Linked Lists to prepare for interviews
 - Thoughtfully answer behavioral interview questions
 
-[9-4A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-09.md "Questions in a Hat"
-[9-4B]: https://github.com/den-materials/unit3_week2_secondpass "Second Pass"
-[9-4C]: https://github.com/den-materials/github-collaboration "Team Git Workflow"
-[9-4D]: https://github.com/den-materials/flexbox "Flexbox"
-[9-4E]: # "Project Pitch Lab"
-[9-4F]: https://github.com/den-materials/project-03 "Project 3"
-[9-5E]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[9-1A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-09.md "Questions in a Hat"
+[9-1B]: https://github.com/den-materials/unit3_week2_secondpass "Second Pass"
+[9-1C]: https://github.com/den-materials/github-collaboration "Team Git Workflow"
 
-[10-1A]: https://github.com/den-materials/linked-lists "Linked Lists"
-[10-1B]: https://github.com/den-materials/linked-lists "Linked Lists"
+[9-2A]: https://github.com/den-materials/flexbox "Flexbox"
+[9-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
 
-[10-2A]: https://github.com/den-materials/behavioral-interview-warmup "Behavioral Interview"
+[9-3A]: https://github.com/den-materials/linked-lists "Linked Lists"
+[9-3B]: https://github.com/den-materials/linked-lists "Linked Lists"
 
-[10-3A]: https://github.com/den-materials/landing-a-freelance-gig "Freelance Gig"
+[9-4A]: https://github.com/den-materials/behavioral-interview-warmup "Behavioral Interview"
+
+[9-5A]: https://github.com/den-materials/landing-a-freelance-gig "Freelance Gig"
 
 ## Unit 4: Becoming a Developer
 
