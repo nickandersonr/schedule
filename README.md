@@ -383,7 +383,7 @@ Weekly Goals:
 
 [7-5A]: https://www.codewars.com "CodeWars"
 [7-5B]: https://github.com/den-materials/angular-resource "ngResource"
-[7-5C]: https://github.com/den-materials/angular-ui-practice "Angular UI Practice"
+[7-5C]: https://github.com/den-materials/angular-animations-intro "Angular UI Practice"
 [7-5D]: https://github.com/den-materials/fullStack-JS-App "Not-so-MEAN App"
 [7-5E]: https://github.com/den-materials/fullStack-JS-App "Not-so-MEAN App"
 
