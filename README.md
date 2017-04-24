@@ -337,7 +337,12 @@ Extra Resources:
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **Plan** | CLASS | CLASS | CLASS | CLASS | CLASS
+ **9:00am Warm-up** |  Project 2 | [Project 3 Intro][7-2A] | [Project 3 Pitches][7-3A] | [CodeWars][7-4A] | [CodeWars][7-5A]
+ **9:30am Module 1** | Retrospective | [ES6 Lesson Part 2 (Zeb)][7-2B] | [Directives Lesson (Zeb)][7-3B] | [Angular Hangman (Zeb)][7-4B] | [$resource (Zeb)][7-5B]
+ **11:00am Module 2** | Project 2 Presentations | [Auth Math (Zeb)][7-2C] | [Directives Lab (Zeb)][7-3C] | [Angular Hangman (Zeb)][7-4C] | [Angular UI (Zeb)][7-5C]
+ **1:30pm Module 3** | [Outcomes (Becca)][7-1C] | [Intro to Angular (Zeb)][7-2D] | [$http and promises (Stefan)][7-3D] | [Routing Lab (Stefan)][7-4D] | [Almost MEAN App (Zeb)][7-5D]
+**3:00pm Module 4** | [Create Issues (Zeb)][7-1D] | [Lab: Intro to Angular (Zeb)][7-2E] | [$http LAB (Stefan)][7-3E] | [Routing Lab (Stefan)][7-4E] | [Almost MEAN App (Zeb)][7-5E]
+**Training** | Fix Issues | Project 3 Pitch Prep & Angular Intro: [Look over the Angular Documentation][7-2F] + [Check out this blog][7-2G] + [Do this Lab][7-2H] | Finish $http Lab | ui-router vs ngRoute readings: [#1][7-4F] + [#2][7-4G] + [#3][7-4H] | Complete MEAN App | 
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -348,6 +353,39 @@ Weekly Goals:
 - Use $resource to DRY out CRUD apps
 - Save data to Firebase
 - Understand the basics of user and competitive research
+
+[7-1C]: https://github.com/den-materials/portfolio-starter-kit "Make a Portfolio!"
+[7-1D]: https://github.com/den-materials/create-an-issue-project2 "Create Issues"
+
+[7-2A]: https://github.com/den-materials/project-03 "Project 3"
+[7-2B]: https://github.com/den-materials/es6-part2 "More ES6"
+[7-2C]: https://github.com/den-materials/authentication-and-math "Auth Math"
+[7-2D]: https://github.com/den-materials/angular-intro "Intro to Angular"
+[7-2E]: https://github.com/den-materials/angular-intro "Intro to Angular Lab"
+[7-2F]: https://docs.angularjs.org/guide/introduction "Angular Reading"
+[7-2G]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
+[7-2H]: https://github.com/den-materials/intro_angular_challenges
+
+[7-3A]: https://github.com/den-materials/project-03 "Project 3 Pitch"
+[7-3B]: https://github.com/den-materials/angular-directives-lesson "Directives Lesson"
+[7-3C]: https://github.com/den-materials/angular-directives-lab "Directives Lab"
+[7-3D]: https://github.com/den-materials/http-workshop "$http and promises"
+[7-3E]: https://github.com/den-materials/http-lab "$http lab"
+
+[7-4A]: https://www.codewars.com "CodeWars"
+[7-4B]: https://github.com/den-materials/ng-hangman "Angular Hangman"
+[7-4C]: https://github.com/den-materials/ng-hangman "Angular Hangman"
+[7-4D]: https://github.com/den-materials/angular_routing_lab "Routing"
+[7-4E]: https://github.com/den-materials/angular_routing_lab "Routing"
+[7-4F]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
+[7-4G]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
+[7-4H]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
+
+[7-5A]: https://www.codewars.com "CodeWars"
+[7-5B]: https://github.com/den-materials/angular-resource "ngResource"
+[7-5C]: https://github.com/den-materials/angular-ui-practice "Angular UI Practice"
+[7-5D]: https://github.com/den-materials/fullStack-JS-App "Not-so-MEAN App"
+[7-5E]: https://github.com/den-materials/fullStack-JS-App "Not-so-MEAN App"
 
 #### Week 8 - More Angular/Full-stack and SQL (5/1-5/5)
 
