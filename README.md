@@ -329,7 +329,7 @@ Weekly Goals:
 
 Extra Resources:
 
-* [Deploy to Heroku](https://gist.github.com/awhit012/bd544c8c252434d1fe6fe01cbfa252d6)
+* [Deploy to Heroku](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md)
 
 ## Unit 3: SEAN Stack and Group Work
 
