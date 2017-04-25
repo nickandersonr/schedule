@@ -330,6 +330,7 @@ Weekly Goals:
 Extra Resources:
 
 * [Deploy to Heroku](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md)
+* [External API Notes](https://github.com/den-materials/API-developer-notes)
 
 ## Unit 3: SEAN Stack and Group Work
 
@@ -351,7 +352,7 @@ Weekly Goals:
 - Use $http to communicate from Angular front-end to back-end
 - Configure front-end routing with Angular and ngRoute
 - Use $resource to DRY out CRUD apps
-- Save data to Firebase
+- Perform animations with Angular and ngAnimate
 - Understand the basics of user and competitive research
 
 [7-1C]: https://github.com/den-materials/portfolio-starter-kit "Make a Portfolio!"
@@ -395,7 +396,7 @@ Time | Day 1                                      | Day 2                       
 
 Weekly Goals:
 - Perform authentication with Angular and Satellizer
-- Perform animations with Angular and ngAnimate
+- Save data to Firebase
 - Internalize the steps of building a MEAN stack app
 - Prepare and present a prototype built on a short time scale
 - Understand the basics of Sketch and Photoshop
