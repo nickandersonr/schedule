@@ -412,7 +412,7 @@ Weekly Goals:
 
 
 [8-1A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
-[8-1B]: https://github.com/den-materials/unit3_week1_secondpass "Second Pass"
+[8-1B]: https://github.com/den-wdi-3/unit3_week1_secondpass "Second Pass"
 [8-1C]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
 [8-1D]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
 [8-1E]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
