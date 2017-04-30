@@ -466,7 +466,7 @@ Weekly Goals:
 - Thoughtfully answer behavioral interview questions
 
 [9-1A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-09.md "Questions in a Hat"
-[9-1B]: https://github.com/den-materials/unit3_week2_secondpass "Second Pass"
+[9-1B]: https://github.com/den-wdi-3/unit3_week2_secondpass "Second Pass"
 [9-1C]: https://github.com/den-materials/github-collaboration "Team Git Workflow"
 
 [9-2A]: https://github.com/den-materials/flexbox "Flexbox"
