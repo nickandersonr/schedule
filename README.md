@@ -395,7 +395,7 @@ Time | Day 1                                      | Day 2                       
 **9:00am Warm-up** | [Questions in a Line (Zeb)][8-1A] | [Rapid Prototype (Zeb)][8-2A] | [Roman Numerals][8-3A] | [CodeWars (Zeb)][8-4A] | [Intro to Sequelize (Zeb)][8-5A]
 **9:30am Module 1** | [Second Pass (Zeb)][8-1B] | [Rapid Prototype (Zeb)][8-2B] | [Angular Auth (Zeb)][8-3B] | [Intro to SQL and Relational DBs (Zeb)][8-4B] | [Lab: Sequelize Models / SEAN Stack (Zeb)][8-5B]
  **11:00am Module 2** | [Rapid Prototype (Zeb)][8-1C] | [Rapid Prototype Science Fair][8-2C] | [Firebase (Zeb)][8-3C] | [Carmen Sandiego Lab (Zeb)][8-4C] | [Lab: Sequelize Models / SEAN Stack (Zeb)][8-5C]
-**1:30pm Module 3** | [Rapid Prototype (Zeb)][8-1D] | [Sass Part 2 (Nick)][8-2D] | [Sketch and Photoshop Basics (Nick)][8-3D] | [Outcomes (Nick)][8-4D] | [Lab: Sequelize Models / SEAN Stack (Zeb)][8-5D]
+**1:30pm Module 3** | [Rapid Prototype (Zeb)][8-1D] | [Sassy Node (Nick)][8-2D] | [Sketch and Photoshop Basics (Nick)][8-3D] | [Outcomes (Nick)][8-4D] | [Lab: Sequelize Models / SEAN Stack (Zeb)][8-5D]
 **3:00pm Module 4** | [Rapid Prototype (Zeb)][8-1E] | [Competitive and User Research (Nick)][8-2E] | [Lab: Relational Data Modeling (Nick)][8-3E] | [SQL Relationships and JOINs (Zeb)][8-4E] | [Lab: Sequelize/Tunr Relationships (Zeb)][8-5E]
 **Training** | Rapid Prototype | [Interview Potential Users][8-2F] | Reading Assignments: DBs and SQL [#1][8-3F] [#2][8-3G] [#3][8-3H] and [Quiz][8-3I] | [Lab: SQL Practice][8-4F] | Work on Boomtown Prototype
 
@@ -419,7 +419,7 @@ Weekly Goals:
 [8-2A]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
 [8-2B]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
 [8-2C]: # "Science Fair"
-[8-2D]: https://github.com/den-materials/sass-intro "More Sass"
+[8-2D]: https://github.com/den-materials/sassy-node "Sassy Node"
 [8-2E]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
 [8-2F]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
 
