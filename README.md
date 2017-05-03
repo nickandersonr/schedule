@@ -392,7 +392,7 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Questions in a Line (Zeb)][8-1A] | [Rapid Prototype (Zeb)][8-2A] | [Roman Numerals][8-3A] | [CodeWars (Zeb)][8-4A] | [Intro to Sequelize (Zeb)][8-5A]
+**9:00am Warm-up** | [Questions in a Line (Zeb)][8-1A] | [Rapid Prototype (Zeb)][8-2A] | [Angular Troubleshooting (Zeb)][8-3A] | [Roman Numerals (Zeb)][8-4A] | [Intro to Sequelize (Zeb)][8-5A]
 **9:30am Module 1** | [Second Pass (Zeb)][8-1B] | [Rapid Prototype (Zeb)][8-2B] | [Angular Auth (Zeb)][8-3B] | [Intro to SQL and Relational DBs (Zeb)][8-4B] | [Lab: Sequelize Models / SEAN Stack (Zeb)][8-5B]
  **11:00am Module 2** | [Rapid Prototype (Zeb)][8-1C] | [Rapid Prototype Science Fair][8-2C] | [Firebase (Zeb)][8-3C] | [Carmen Sandiego Lab (Zeb)][8-4C] | [Lab: Sequelize Models / SEAN Stack (Zeb)][8-5C]
 **1:30pm Module 3** | [Rapid Prototype (Zeb)][8-1D] | [Sassy Node (Nick)][8-2D] | [Sketch and Photoshop Basics (Nick)][8-3D] | [Outcomes (Nick)][8-4D] | [Lab: Sequelize Models / SEAN Stack (Zeb)][8-5D]
@@ -423,7 +423,7 @@ Weekly Goals:
 [8-2E]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
 [8-2F]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
 
-[8-3A]: https://github.com/den-materials/roman_js "Roman Numerals"
+[8-3A]: https://github.com/den-materials/angular-tShoot "Angular Troubleshooting"
 [8-3B]: https://github.com/den-materials/angular-auth-satellizer "Angular Auth"
 [8-3C]: https://github.com/den-materials/ng-firebase "Firebase"
 [8-3D]: https://github.com/den-materials/sketch-photoshop-basics "Sketch and Photoshop"
@@ -433,7 +433,7 @@ Weekly Goals:
 [8-3H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
 [8-3I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
 
-[8-4A]: https://www.codewars.com "CodeWars"
+[8-4A]: https://github.com/den-materials/roman_js "Roman Numerals"
 [8-4B]: https://github.com/den-materials/sql-intro "Relational Databases & SQL"
 [8-4C]: https://github.com/den-materials/sql-carmen-sandiego "SQL CRUD Lab"
 [8-4D]: https://github.com/den-materials/portfolio-starter-kit "Outcomes"
