@@ -486,39 +486,38 @@ Weekly Goals:
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00 Warm-upam** | Project 3 | [Intro to TypeScript][10-5C] | [CodeWars][11-2A] | [GH Lab (Zeb)][11-3A] | [CodeWars][11-4A]
-**9:30am Module 1** | Project 3 | [What's Different in Angular 2][10-5D] | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code (Zeb)][11-3B] | [PHP Intro (Zeb)][11-4B]
-**11:00am Module 2** | Project 3 Retro | [Lab: Angular 2 Refactor][10-5E] | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | [Lab: PHP Intro (Zeb)][11-4C]
-**1:30pm Module 3** | Project 3 Presentations | [Intro to Ionic][12-3E] | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | [PHP Wordpress (Nick)][11-4D]
-**3:00pm Module 4** | [Create Issues][10-4E] | [Intro to Ionic][12-3E] | [Lab: React Tic-Tac-Toe Tutorial (Zeb)][11-2E] | [Outcomes (Nick)][11-4F] | [Lab: PHP Wordpress (Nick)][11-4E]
-**Training** | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-5F] | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site / Hackathon Tomorrow
+**9:00 Warm-upam** | Project 3 | [Intro to TypeScript (Zeb)][10-2A] | [CodeWars][10-3A] | [GH Lab (Zeb)][10-4A] | [CodeWars][10-5A]
+**9:30am Module 1** | Project 3 | [What's Different in Angular 2 (Zeb)][10-2B] | [Intro to Ops (Zeb)][10-3B] | [Outcomes (Nick)][10-4B] | [PHP Intro (Zeb)][10-5B]
+**11:00am Module 2** | Project 3 Retro | [Lab: Angular 2 Refactor (Zeb)][10-2C] | [React (Nick)][10-3C] | [Intro to Legacy Code (Zeb)][10-4C] | [Lab: PHP Intro (Zeb)][10-5C]
+**1:30pm Module 3** | Project 3 Presentations | [Intro to Ionic (Zeb)][10-2D] | [Redux (Nick)][10-3D] | [Legacy Code Lab (Zeb)][10-4D] | [PHP Wordpress (Nick)][10-5D]
+**3:00pm Module 4** | [Create Issues (Zeb)][10-1E] | [Intro to Ionic (Zeb)][10-2D] | [Lab: React Tic-Tac-Toe Tutorial (Nick)][10-3E] | [Legacy Code Lab (Zeb)][10-4E] | [Lab: PHP Wordpress (Nick)][10-5E]
+**Training** | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-2E] | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site / Hackathon Tomorrow
 
-[10-4E]: https://github.com/den-materials/create-an-issue-project3 "Project 3 Issues"
+[10-1E]: https://github.com/den-materials/create-an-issue-project3 "Project 3 Issues"
 
-[10-5C]: https://github.com/den-materials/intro-typescript "Intro to Typescript"
-[10-5D]: https://github.com/den-materials/angular-2-differences "Angular 2 What's Different?"
-[10-5E]: https://github.com/den-materials/angular-2-refactor "Angular 2 Refactor Lab"
-[12-3E]: https://github.com/den-materials/intro-ionic "Intro to Ionic"
-[10-5F]: https://angular.io/docs/ts/latest/tutorial/ "Angular 2torial"
+[10-2A]: https://github.com/den-materials/intro-typescript "Intro to Typescript"
+[10-2B]: https://github.com/den-materials/angular-2-differences "Angular 2 What's Different?"
+[10-2C]: https://github.com/den-materials/angular-2-refactor "Angular 2 Refactor Lab"
+[10-2D]: https://github.com/den-materials/intro-ionic "Intro to Ionic"
+[10-2E]: https://angular.io/docs/ts/latest/tutorial/ "Angular 2torial"
 
-[11-2A]: https://www.codewars.com "CodeWars"
-[11-2B]: https://github.com/den-materials/intro-to-ops "Dev Ops Intro"
-[11-2C]: https://github.com/den-materials/react "React"
-[11-2D]: https://github.com/den-materials/redux "Redux"
-[11-2E]: https://facebook.github.io/react/tutorial/tutorial.html "React Lab"
+[10-3A]: https://www.codewars.com "CodeWars"
+[10-3B]: https://github.com/den-materials/intro-to-ops "Dev Ops Intro"
+[10-3C]: https://github.com/den-materials/react "React"
+[10-3D]: https://github.com/den-materials/redux "Redux"
+[10-3E]: https://facebook.github.io/react/tutorial/tutorial.html "React Lab"
 
-[11-3A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
-[11-3B]: https://github.com/den-materials/legacy-code-intro "Intro to Legacy Code"
-[11-3C]: https://github.com/den-materials/legacy-code-denver "Legacy Code"
-[11-3D]: https://github.com/den-materials/outcomes-resources "Outcomes"
-[11-3E]: https://github.com/den-materials/legacy-code-denver "Legacy Code"
+[10-4A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
+[10-4B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[10-4C]: https://github.com/den-materials/legacy-code-intro "Intro to Legacy Code"
+[10-4D]: https://github.com/den-materials/legacy-code-denver "Legacy Code"
+[10-4E]: https://github.com/den-materials/legacy-code-denver "Legacy Code"
 
-[11-4A]: https://www.codewars.com "CodeWars"
-[11-4B]: https://github.com/den-materials/php-intro "PHP Intro"
-[11-4C]: https://github.com/den-materials/php-exercises "PHP Intro Lab"
-[11-4D]: https://github.com/den-materials/php-wordpress "PHP Wordpress"
-[11-4E]: https://github.com/den-materials/wordpress-lab "PHP Wordpress Lab"
-[11-4F]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[10-5A]: https://www.codewars.com "CodeWars"
+[10-5B]: https://github.com/den-materials/php-intro "PHP Intro"
+[10-5C]: https://github.com/den-materials/php-exercises "PHP Intro Lab"
+[10-5D]: https://github.com/den-materials/php-wordpress "PHP Wordpress"
+[10-5E]: https://github.com/den-materials/wordpress-lab "PHP Wordpress Lab"
 
 Weekly Goals:
 
