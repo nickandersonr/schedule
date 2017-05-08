@@ -454,7 +454,7 @@ Time | Day 1                                      | Day 2                       
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-up** | [Questions in a Line (Zeb)][9-1A] | [Flexbox (Nick)][9-2A] | [Linked Lists Intro (Zeb)][9-3A] | [Mock Interviews - Behavioral][9-4A] | [Getting a Freelance Gig][9-5A]
 **9:30am Module 1** | [Second Pass (Zeb)][9-1B] | [Outcomes][9-2B] | [Linked Lists Challenge (Zeb)][9-3B] | Project 3 | Project 3
- **11:00am Module 2** | BoomTown Prep | [Team Git Workflow (Zeb)][9-2C] | Project 3  | Project 3 | Project 3
+ **11:00am Module 2** | BoomTown Prep | [Team Git Workflow (Zeb)][9-2C] | [Getting Sequelize and Satellizer Together (Zeb)][9-3C]  | Project 3 | Project 3
 **1:30pm Module 3** | BoomTown | Project 3 | Project 3 | Project 3 | 
 **3:00pm Module 4** | BoomTown | Project 3 | Project 3 | Project 3 | Project 3
 **Training** |  Project 3 | Project 3 | Project 3 | Project 3 | Project 3
@@ -474,6 +474,7 @@ Weekly Goals:
 
 [9-3A]: https://github.com/den-materials/linked-lists "Linked Lists"
 [9-3B]: https://github.com/den-materials/linked-lists "Linked Lists"
+[9-3C]: https://github.com/den-materials/angular-auth-satellizer/tree/solution "Satellequelizer"
 
 [9-4A]: https://github.com/den-materials/behavioral-interview-warmup "Behavioral Interview"
 
@@ -485,7 +486,7 @@ Weekly Goals:
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00 Warm-upam** | Project 3 | [Intro to TypeScript][10-5C] | [Getting Sequelize and Satellizer Together (Zeb)][11-2A] | [GH Lab (Zeb)][11-3A] | [CodeWars][11-4A]
+**9:00 Warm-upam** | Project 3 | [Intro to TypeScript][10-5C] | [CodeWars][11-2A] | [GH Lab (Zeb)][11-3A] | [CodeWars][11-4A]
 **9:30am Module 1** | Project 3 | [What's Different in Angular 2][10-5D] | [Intro to Ops (Zeb)][11-2B] | [Intro to Legacy Code (Zeb)][11-3B] | [PHP Intro (Zeb)][11-4B]
 **11:00am Module 2** | Project 3 Retro | [Lab: Angular 2 Refactor][10-5E] | [React (Zeb)][11-2C] | [Legacy Code Lab (Zeb)][11-3C] | [Lab: PHP Intro (Zeb)][11-4C]
 **1:30pm Module 3** | Project 3 Presentations | [Intro to Ionic][12-3E] | [Redux (Zeb)][11-2D] | [Legacy Code Lab (Zeb)][11-3E] | [PHP Wordpress (Nick)][11-4D]
@@ -500,7 +501,7 @@ Time | Day 1                           | Day 2                                  
 [12-3E]: https://github.com/den-materials/intro-ionic "Intro to Ionic"
 [10-5F]: https://angular.io/docs/ts/latest/tutorial/ "Angular 2torial"
 
-[11-2A]: https://github.com/den-materials/angular-auth-satellizer/tree/solution "Satellequelizer"
+[11-2A]: https://www.codewars.com "CodeWars"
 [11-2B]: https://github.com/den-materials/intro-to-ops "Dev Ops Intro"
 [11-2C]: https://github.com/den-materials/react "React"
 [11-2D]: https://github.com/den-materials/redux "Redux"
