@@ -454,7 +454,7 @@ Time | Day 1                                      | Day 2                       
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-up** | [Questions in a Line (Zeb)][9-1A] | [Flexbox (Nick)][9-2A] | [Linked Lists Intro (Zeb)][9-3A] | [Mock Interviews - Behavioral][9-4A] | [Getting a Freelance Gig][9-5A]
 **9:30am Module 1** | [Second Pass (Zeb)][9-1B] | [Outcomes][9-2B] | [Linked Lists Challenge (Zeb)][9-3B] | Project 3 | Project 3
- **11:00am Module 2** | [Team Git Workflow (Zeb)][9-1C] | Project 3 | Project 3  | Project 3 | Project 3
+ **11:00am Module 2** | BoomTown Prep | [Team Git Workflow (Zeb)][9-2C] | Project 3  | Project 3 | Project 3
 **1:30pm Module 3** | BoomTown | Project 3 | Project 3 | Project 3 | 
 **3:00pm Module 4** | BoomTown | Project 3 | Project 3 | Project 3 | Project 3
 **Training** |  Project 3 | Project 3 | Project 3 | Project 3 | Project 3
@@ -466,11 +466,11 @@ Weekly Goals:
 - Thoughtfully answer behavioral interview questions
 
 [9-1A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-09.md "Questions in a Hat"
-[9-1B]: https://github.com/den-wdi-3/unit3_week2_secondpass "Second Pass"
-[9-1C]: https://github.com/den-materials/github-collaboration "Team Git Workflow"
+[9-1B]: https://github.com/den-wdi-3/week9_secondPass "Second Pass"
 
 [9-2A]: https://github.com/den-materials/flexbox "Flexbox"
 [9-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[9-2C]: https://github.com/den-materials/github-collaboration "Team Git Workflow"
 
 [9-3A]: https://github.com/den-materials/linked-lists "Linked Lists"
 [9-3B]: https://github.com/den-materials/linked-lists "Linked Lists"
