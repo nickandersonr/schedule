@@ -451,10 +451,10 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [Questions in a Line (Zeb)][9-1A] | [Flexbox (Nick)][9-2A] | [Linked Lists Intro (Zeb)][9-3A] | [Mock Interviews - Behavioral][9-4A] | [Getting a Freelance Gig][9-5A]
-**9:30am Module 1** | [Second Pass (Zeb)][9-1B] | [Outcomes][9-2B] | [Linked Lists Challenge (Zeb)][9-3B] | Project 3 | Project 3
+**9:00am Warm-up** | [Questions in a Line (Zeb)][9-1A] | [Flexbox (Nick)][9-2A] | [Linked Lists Intro (Zeb)][9-3A] | [Mock Interviews - Behavioral (Zeb)][9-4A] | [Getting a Freelance Gig (Zeb)][9-5A]
+**9:30am Module 1** | [Second Pass (Zeb)][9-1B] | [Outcomes (Nick)][9-2B] | [Linked Lists Challenge (Zeb)][9-3B] | Project 3 | Project 3
  **11:00am Module 2** | BoomTown Prep | [Team Git Workflow (Zeb)][9-2C] | [Getting Sequelize and Satellizer Together (Zeb)][9-3C]  | Project 3 | Project 3
-**1:30pm Module 3** | BoomTown | Project 3 | Project 3 | Project 3 | 
+**1:30pm Module 3** | BoomTown | Project 3 | Project 3 | Project 3 | Project 3
 **3:00pm Module 4** | BoomTown | Project 3 | Project 3 | Project 3 | Project 3
 **Training** |  Project 3 | Project 3 | Project 3 | Project 3 | Project 3
 
