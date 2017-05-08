@@ -533,9 +533,9 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [Second Pass (Zeb)][11-5A] | [IoT Primer][12-1B] | Hackathon Wrap-up | Lightning Talks Prep | [Mock Interviews - Technical][12-4A]
-**9:30am Module 1** | [PHP CRUD (Zeb)][11-5B] | [Intro to IoT][12-1C] | Hackathon Presentations | Lightning Talks Prep | Project 4 Planning
-**11:00am Module 2** | Lab: PHP CRUD (Zeb) | IoT Hackathon | [Mock Interviews - Hybrid][12-1A] | Lightning Talks Prep | Approvals
+**9:00am Warm-up** | [Second Pass (Zeb)][11-5A] | [IoT Primer][12-1A] | Hackathon Wrap-up | Lightning Talks Prep | [Mock Interviews - Technical][12-4A]
+**9:30am Module 1** | [PHP CRUD (Zeb)][11-5B] | [Intro to IoT][12-1B] | Hackathon Presentations | Lightning Talks Prep | Project 4 Planning
+**11:00am Module 2** | Lab: PHP CRUD (Zeb) | IoT Hackathon | [Mock Interviews - Hybrid][12-2C] | Lightning Talks Prep | Approvals
 **1:30pm Module 3** | Freelance Project | IoT Hackathon | [Outcomes][12-2D] | [Lightning Talks][12-3C] | Approvals
 **3:00pm Module 4** | Freelance Project | IoT Hackathon | Lightning Talks Prep | [Project 4 Intro][12-3D] | Project 4
 **Training** | Continue Outside Project | [Pick a Lightning Talk Topic][12-1F] | Lightning Talks Prep | Project 4 | Project 4
