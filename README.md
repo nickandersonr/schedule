@@ -532,38 +532,38 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [Second Pass (Zeb)][11-5A] | [IoT Primer][12-1A] | Hackathon Wrap-up | Lightning Talks Prep | [Mock Interviews - Technical][12-4A]
-**9:30am Module 1** | [PHP CRUD (Zeb)][11-5B] | [Intro to IoT][12-1B] | Hackathon Presentations | Lightning Talks Prep | Project 4 Planning
-**11:00am Module 2** | Lab: PHP CRUD (Zeb) | IoT Hackathon | [Mock Interviews - Hybrid][12-2C] | Lightning Talks Prep | Approvals
-**1:30pm Module 3** | Freelance Project | IoT Hackathon | [Outcomes][12-2D] | [Lightning Talks][12-3C] | Approvals
-**3:00pm Module 4** | Freelance Project | IoT Hackathon | Lightning Talks Prep | [Project 4 Intro][12-3D] | Project 4
-**Training** | Continue Outside Project | [Pick a Lightning Talk Topic][12-1F] | Lightning Talks Prep | Project 4 | Project 4
+**9:00am Warm-up** | [Second Pass (Zeb)][11-1A] | [IoT Primer (Zeb)][11-2A] | Hackathon Wrap-up | Lightning Talks Prep | [Mock Interviews - Technical (Zeb)][11-5A]
+**9:30am Module 1** | [PHP CRUD (Nick)][11-1B] | [Intro to IoT (Zeb)][11-2B] | Hackathon Presentations | Lightning Talks Prep | Project 4 Planning
+**11:00am Module 2** | Lab: PHP CRUD (Nick) | IoT Hackathon | [Mock Interviews - Hybrid (Zeb)][11-3C] | Lightning Talks Prep | Approvals
+**1:30pm Module 3** | Freelance Project | IoT Hackathon | [Outcomes][11-3D] | [Lightning Talks][11-4C] | Approvals
+**3:00pm Module 4** | Freelance Project | IoT Hackathon | Lightning Talks Prep | [Project 4 Intro (Zeb)][11-4D] | Project 4
+**Training** | Continue Outside Project | [Pick a Lightning Talk Topic][11-2F] | [Lightning Talks Prep][11-3E] | Project 4 | Project 4
 
-[11-5A]: https://github.com/den-materials/unit4_week1_secondpass "Second Pass"
-[11-5B]: https://github.com/den-materials/php-crud "PHP CRUD"
-[11-5C]: # "PHP CRUD Lab"
-[11-5D]: # "Elance/Freelancer Wordpress"
-[11-5E]: # "Elance/Freelancer Wordpress" 
+[11-1A]: https://github.com/den-materials/unit4_week1_secondpass "Second Pass"
+[11-1B]: https://github.com/den-materials/php-crud "PHP CRUD"
+[11-1C]: # "PHP CRUD Lab"
+[11-1D]: # "Freelance Project"
+[11-1E]: # "Freelance Project" 
 
-[12-1A]: https://github.com/den-materials/intro-iot "IoT Primer"
-[12-1B]: https://github.com/den-materials/IoT-Hobby-Projects "Intro to IoT"
-[12-1C]: # "IoT Hackathon"
-[12-1D]: # "IoT Hackathon"
-[12-1E]: # "IoT Hackathon"
-[12-1F]: https://github.com/den-materials/lighting-talks "Lightning Talk Topic Selection"
+[11-2A]: https://github.com/den-materials/intro-iot "IoT Primer"
+[11-2B]: https://github.com/den-materials/IoT-Hobby-Projects "Intro to IoT"
+[11-2C]: # "IoT Hackathon"
+[11-2D]: # "IoT Hackathon"
+[11-2E]: # "IoT Hackathon"
+[11-2F]: https://github.com/den-materials/lighting-talks "Lightning Talk Topic Selection"
 
-[12-2A]: # "IoT Hackathon"
-[12-2B]: # "Hackathon Presentations"
-[12-2C]: https://github.com/den-materials/troubleshooting-interview "Interview Prep"
-[12-2D]: https://github.com/den-materials/outcomes-resources "Outcomes"
-[12-2E]: https://github.com/den-materials/lighting-talks "Lightning Talk Prep"
+[11-3A]: # "IoT Hackathon"
+[11-3B]: # "Hackathon Presentations"
+[11-3C]: https://github.com/den-materials/troubleshooting-interview "Interview Prep"
+[11-3D]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[11-3E]: https://github.com/den-materials/lighting-talks "Lightning Talk Prep"
 
-[12-3A]: # "Lightning Talk Prep"
-[12-3B]: # "Lightning Talk Prep"
-[12-3C]: https://github.com/den-materials/lighting-talks "Lighting Talks"
-[12-3D]: https://github.com/den-materials/project-4 "Project 4"
+[11-4A]: # "Lightning Talk Prep"
+[11-4B]: # "Lightning Talk Prep"
+[11-4C]: https://github.com/den-materials/lighting-talks "Lighting Talks"
+[11-4D]: https://github.com/den-materials/project-4 "Project 4"
 
-[12-4A]: https://github.com/den-materials/mock-technical-interview "Interview Prep"
+[11-5A]: https://github.com/den-materials/mock-technical-interview "Interview Prep"
 
 Weekly Goals:
 - Do work for someone outside of the class
@@ -595,7 +595,7 @@ Weekly Goals:
 
 [13-A]: https://github.com/den-materials/merge-sort "Merge Sort"
 
->**Note:** Zeb will be available **by appointment** for mock interviews and portfolio help after graduation.  More details to come toward the end of class.  Please set up a time with Zeb by Direct Messaging him in Slack.
+>**Note:** Zeb will be available **by appointment** for mock interviews and portfolio help the Monday after graduation.  Stefan will be available **by appointment** for the remainder of the week after graduation.  More details to come toward the end of class.  Please set up a time with Zeb or Stefan by Direct Messaging them in Slack.
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
