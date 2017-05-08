@@ -533,9 +533,9 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [Second Pass (Zeb)][11-5A] | [Mock Interviews - Hybrid][12-1A] | Hackathon Presentations | Lightning Talks Prep | [Mock Interviews - Technical][12-4A]
-**9:30am Module 1** | [PHP CRUD (Zeb)][11-5B] | [IoT Primer][12-1B] | [Intro to Ruby][12-2B] | Lightning Talks Prep | Project 4 Planning
-**11:00am Module 2** | Lab: PHP CRUD (Zeb) | [Intro to IoT][12-1C] | [Intro to Rails][12-2C] | Lightning Talks Prep | Approvals
+**9:00am Warm-up** | [Second Pass (Zeb)][11-5A] | [IoT Primer][12-1B] | Hackathon Wrap-up | Lightning Talks Prep | [Mock Interviews - Technical][12-4A]
+**9:30am Module 1** | [PHP CRUD (Zeb)][11-5B] | [Intro to IoT][12-1C] | Hackathon Presentations | Lightning Talks Prep | Project 4 Planning
+**11:00am Module 2** | Lab: PHP CRUD (Zeb) | IoT Hackathon | [Mock Interviews - Hybrid][12-1A] | Lightning Talks Prep | Approvals
 **1:30pm Module 3** | Freelance Project | IoT Hackathon | [Outcomes][12-2D] | [Lightning Talks][12-3C] | Approvals
 **3:00pm Module 4** | Freelance Project | IoT Hackathon | Lightning Talks Prep | [Project 4 Intro][12-3D] | Project 4
 **Training** | Continue Outside Project | [Pick a Lightning Talk Topic][12-1F] | Lightning Talks Prep | Project 4 | Project 4
@@ -546,16 +546,16 @@ Time | Day 1                                 | Day 2                            
 [11-5D]: # "Elance/Freelancer Wordpress"
 [11-5E]: # "Elance/Freelancer Wordpress" 
 
-[12-1A]: https://github.com/den-materials/troubleshooting-interview "Interview Prep"
-[12-1B]: https://github.com/den-materials/intro-iot "IoT Primer"
-[12-1C]: https://github.com/den-materials/IoT-Hobby-Projects "Intro to IoT"
+[12-1A]: https://github.com/den-materials/intro-iot "IoT Primer"
+[12-1B]: https://github.com/den-materials/IoT-Hobby-Projects "Intro to IoT"
+[12-1C]: # "IoT Hackathon"
 [12-1D]: # "IoT Hackathon"
 [12-1E]: # "IoT Hackathon"
 [12-1F]: https://github.com/den-materials/lighting-talks "Lightning Talk Topic Selection"
 
-[12-2A]: # "Hackathon Presentations"
-[12-2B]: https://github.com/den-materials/intro-ruby "Intro Ruby"
-[12-2C]: https://github.com/den-materials/intro-to-rails "Intro Rails"
+[12-2A]: # "IoT Hackathon"
+[12-2B]: # "Hackathon Presentations"
+[12-2C]: https://github.com/den-materials/troubleshooting-interview "Interview Prep"
 [12-2D]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [12-2E]: https://github.com/den-materials/lighting-talks "Lightning Talk Prep"
 
