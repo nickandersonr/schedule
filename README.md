@@ -153,10 +153,10 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Agile development and user stories (Zeb)][3-1A] | [Binary Search (Zeb)][3-2A] | [Stacks and Queues (Zeb)][3-3A] | Project 1 | Final Prep
- **10:30am Module 2** | [Agile Development Lab (Zeb)][3-1B] | Standup / Project 1 | Standup / Project 1 | Standup / Project 1 | Final Prep and Submission
-**1:30pm Module 3** | [Project 1 Approvals][3-1C] | [Outcomes][3-2C] | Project 1 | Project 1 | Presentations
-**3:00pm Module 4** | Project 1 |  Project 1 |  Project 1 | Project 1 | Retrospective and [Fix an Issue (Zeb)][3-5D]
+**9:00am Module 1** | [**Agile Development** - *Pair Programming, TDD, and User Stories* (Zeb)][3-1A] | [**Phone Books and Bottles of Beer** - *Binary Search* (Zeb)][3-2A] | [**Pancakes and Line Cutters** - *Stacks and Queues* (Zeb)][3-3A] | Project 1 | Final Prep
+ **10:30am Module 2** | [**Lab: Plan Project 1** - *Agile Development* (Zeb)][3-1B] | Standup / Project 1 | Standup / Project 1 | Standup / Project 1 | Final Prep and Submission
+**1:30pm Module 3** | [**Project 1 Approvals**][3-1C] | [**Outcomes**][3-2C] | Project 1 | Project 1 | **Presentations**
+**3:00pm Module 4** | Project 1 |  Project 1 |  Project 1 | Project 1 | **Retrospective** and [**Fix an Issue** (Zeb)][3-5D]
 **Training** | Project 1 | Project 1 | Project 1 | Project 1 | Fixing Issues
 
 Weekly Goals:
