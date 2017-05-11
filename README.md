@@ -485,12 +485,12 @@ Weekly Goals:
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00 Warm-upam** | Project 3 | [Intro to TypeScript (Zeb)][10-2A] | [CodeWars][10-3A] | [GH Lab (Zeb)][10-4A] | [CodeWars][10-5A]
-**9:30am Module 1** | Project 3 | [What's Different in Angular 2 (Zeb)][10-2B] | [Intro to Ops (Zeb)][10-3B] | [Outcomes (Nick)][10-4B] | [PHP Intro (Zeb)][10-5B]
-**11:00am Module 2** | Project 3 Retro | [Lab: Angular 2 Refactor (Zeb)][10-2C] | [React (Nick)][10-3C] | [Intro to Legacy Code (Zeb)][10-4C] | [Lab: PHP Intro (Zeb)][10-5C]
-**1:30pm Module 3** | Project 3 Presentations | [Intro to Ionic (Zeb)][10-2D] | [Redux (Nick)][10-3D] | [Legacy Code Lab (Zeb)][10-4D] | [PHP Wordpress (Nick)][10-5D]
-**3:00pm Module 4** | [Create Issues (Zeb)][10-1E] | [Intro to Ionic (Zeb)][10-2D] | [Lab: React Tic-Tac-Toe Tutorial (Nick)][10-3E] | [Legacy Code Lab (Zeb)][10-4E] | [Lab: PHP Wordpress (Nick)][10-5E]
-**Training** | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-2E] | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site / Hackathon Tomorrow
+**9:00 Warm-upam** | Project 3 | [**Game of Thrones and Math** - *Intro to TypeScript* (Zeb)][10-2A] | [**CodeWars**][10-3A] | [**Git and GitHub Refresher** (Zeb)][10-4A] | [**CodeWars**][10-5A]
+**9:30am Module 1** | Project 3 | [**What's Different in Angular 2** (Zeb)][10-2B] | [**Hacking Round Two** - *Intro to Ops* (Zeb)][10-3B] | [**Outcomes** (Nick)][10-4B] | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)][10-5B]
+**11:00am Module 2** | Project 3 Retro | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-2C] | [**Components and Blog Posts** - *React* (Nick)][10-3C] | [**Intro to Legacy Code** (Zeb)][10-4C] | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)][10-5C]
+**1:30pm Module 3** | **Project 3 Presentations** | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][10-2D] | [**Likes and Stores** - *Redux* (Nick)][10-3D] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-4D] | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][10-5D]
+**3:00pm Module 4** | [**Create Issues (Zeb)**][10-1E] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][10-2D] | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][10-3E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-4E] | [**Lab: Poop Tulips** - *PHP Wordpress* (Nick)][10-5E]
+**Training** | Fix Issues | [**Tour of Heroes** - *Angular 2 Tutorial*][10-2E] | Continue React Tutorial | Continue Legacy Code | Continue Wordpress Site
 
 [10-1E]: https://github.com/den-materials/create-an-issue-project3 "Project 3 Issues"
 
