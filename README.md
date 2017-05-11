@@ -197,12 +197,12 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | Intro to Full-Stack (Diagram and Key Terms) | [Lab: Shakeitspear][4-2A] (Nick) | [Troubleshooting and Dev Tools][4-3A] (Zeb) | [Intro to EJS][4-4A] (Zeb) | CodeWars
- **9:30am Module 1** | [API Intro with Postman][4-1B] (Zeb) | [Connecting Forms to APIs via AJAX][4-2B] (Nick) | [Intro to Express (Zeb)][4-3B] | [Mongo Intro][4-4B] (Nick) | [Views in Express (Zeb)][4-5B]
-**11:00am Module 2** | [Intro to AJAX][4-1C] (Zeb) | [Intro to Node.js (Zeb)][4-2C] | [Building Express Routes (Zeb)][4-3C] | [Mongo Lab][4-4C] (Nick) | [Lab: Views in Express (Zeb)][4-5C]
-**1:30pm Module 3** | [Lab: Intro to AJAX][4-1D] (Zeb) | [Node Lab][4-2D] (Zeb) | [Building Express Routes Lab (Zeb)][4-3D] | [Mongoose Intro][4-4D] (Nick) | [Outcomes (Nick)][4-5D]
-**3:00pm Module 4** |[API Practice][4-1E] (Nick) | [Lab: Requesting with Node][4-2E] (Zeb) | [More Express Routes][4-3E] (Nick) |  [Data Organization in Mongo][4-4E] (Nick) | [TODO API][4-5E] (Nick)
-**Training** | Finish Cats Lab | Continue Requesting with Node (OMDB) Lab | Candies (Express Routing) Lab | Restaurants (Mongo CLI) Lab | TODO API & [Project 2 Proposal][4-5F]
+ **9:00am Warm-Up** | **Intro to Full-Stack** - *Diagram and Key Terms* | [**Lab: Shakeitspear** - *AJAX API Calls*][4-2A] (Nick) | [**Troubleshooting for Steve** - *Dev Tools*][4-3A] (Zeb) | [**School Supplies** - *Intro to EJS*][4-4A] (Zeb) | [**CodeWars**][4-5A]
+ **9:30am Module 1** | [**Cats API** - *Requests and Postman*][4-1B] (Zeb) | [**Build a Search Engine** - *Connecting Forms to APIs via AJAX*][4-2B] (Nick) | [**Routing, Tacos, and Cats** - *Intro to Express* (Zeb)][4-3B] | [**Restaurants and More** - *Mongo Intro*][4-4B] (Nick) | [**Candies Again** - *Views in Express* (Zeb)][4-5B]
+**11:00am Module 2** | [**Cats API Pt 2** - *AJAX*][4-1C] (Zeb) | [**Intro to Node.js** - *Asynchronicity, TDD, File I/O, HTTP Server, and Modules* (Zeb)][4-2C] | [**Time and Bicycles** - *Building Express Routes* (Zeb)][4-3C] | [**Lab: Restaurants** - *Mongo CLI*][4-4C] (Nick) | [**Lab: Quotes** - *Views in Express* (Zeb)][4-5C]
+**1:30pm Module 3** | [**Lab: Cats API** *AJAX*][4-1D] (Zeb) | [**Lab: Weather Underground** - *Node CLI*][4-2D] (Zeb) | [**Lab: Candies** - *Building Express Routes* (Zeb)][4-3D] | [**Reminders** - *Mongoose Intro*][4-4D] (Nick) | [**Outcomes** (Nick)][4-5D]
+**3:00pm Module 4** |[**OMDB Queries** - *API Practice*][4-1E] (Nick) | [**Lab: OMDB Favorite Movies** - *Requesting with Node*][4-2E] (Zeb) | [**Burgers and Tacos** - *Express, Parameters, and Middleware*][4-3E] (Nick) |  [**Organizing Food and Tweets** - *Referenced and Embedded Data with Mongo*][4-4E] (Nick) | [**Lab: TODO API** - *JSON API Creation*][4-5E] (Nick)
+**Training** | Continue Cats API (AJAX) Lab | Continue Requesting with Node (OMDB) Lab | Continue Candies (Express Routing) Lab | Continue Restaurants (Mongo CLI) Lab | Continue TODO API & [**Project 2 Proposal**][4-5F]
 
 Weekly Goals:
 * Communicate between front-end and back-end with APIs and AJAX
@@ -236,7 +236,7 @@ Weekly Goals:
 [4-4D]: https://github.com/den-materials/intro-mongoose "Mongo-backed models with Mongoose"
 [4-4E]: https://github.com/den-materials/mongo-structured-data "Data Organization in Mongo"
 
-[4-5A]: # "CodeWars"
+[4-5A]: https://www.codewars.com "CodeWars"
 [4-5B]: https://github.com/den-materials/express-views-lesson "Views in Express Lesson"
 [4-5C]: https://github.com/den-materials/express-views-lab "Views in Express Lab"
 [4-5D]: https://github.com/den-materials/outcomes-resources "Outcomes"
