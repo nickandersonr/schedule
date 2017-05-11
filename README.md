@@ -33,7 +33,7 @@ Time  | Activity
 
 ## Unit 1: The Client
 
-#### Week 1 - Fundamentals and Tools (3/13-3/17)
+#### Week 1 - Fundamentals and Tools (6/26-6/30)
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
@@ -91,7 +91,7 @@ Time  | Activity
  * Manipulate the DOM with Javascript
  * Think about problems programmatically
  
-#### Week 2 - JavaScript & Front-end Libraries (3/20-3/24)
+#### Week 2 - JavaScript & Front-end Libraries (7/3-7/7)
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
@@ -149,7 +149,7 @@ Weekly Goals:
 [2-5E]: https://www.codewars.com/dashboard "Code Wars"
 [2-5F]: https://github.com/den-materials/project-1 "Project 1"
 
-#### Week 3 - Project 1:  Browser Game (3/27-3/31)
+#### Week 3 - Project 1:  Browser Game (7/10-7/14)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -193,7 +193,7 @@ Weekly Goals:
 
 ## Unit 2: The Server
 
-#### Week 4 - Full-Stack JS: AJAX, Node, Express, and Mongo (4/3-4/7)
+#### Week 4 - Full-Stack JS: AJAX, Node, Express, and Mongo (7/17-7/21)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -243,7 +243,7 @@ Weekly Goals:
 [4-5E]: https://github.com/den-materials/test-driven-todo-api "Todo Lab"
 [4-5F]: https://github.com/den-materials/project-2 "Project 2 Proposal"
 
-#### Week 5 - Full-Stack Apps, MVC, and Testing (4/10-4/14)
+#### Week 5 - Full-Stack Apps, MVC, and Testing (7/24-7/28)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -295,7 +295,7 @@ Weekly Goals:
 [5-5D]: https://github.com/den-materials/tunely
 [5-5E]: https://github.com/den-materials/tunely
 
-#### Week 6 - User Management and Project 2: Full-stack CRUD App (4/17-4/21)
+#### Week 6 - User Management and Project 2: Full-stack CRUD App (7/31-8/4)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
@@ -334,7 +334,7 @@ Extra Resources:
 
 ## Unit 3: SEAN Stack and Group Work
 
-#### Week 7 - Angular and Angular Tools (4/24-4/28)
+#### Week 7 - Angular and Angular Tools (8/7-8/11)
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
@@ -388,7 +388,7 @@ Weekly Goals:
 [7-5D]: https://github.com/den-materials/fullStack-JS-App "Not-so-MEAN App"
 [7-5E]: https://github.com/den-materials/fullStack-JS-App "Not-so-MEAN App"
 
-#### Week 8 - More Angular/Full-stack and SQL (5/1-5/5)
+#### Week 8 - More Angular/Full-stack and SQL (8/14-8/18)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -447,7 +447,7 @@ Weekly Goals:
 [8-5E]: https://github.com/den-materials/tunr-relationships "More Tunr"
 [8-5F]: https://github.com/den-materials/boomtown-project "Boomtown Work"
 
-#### Week 9 - Project 3: SEAN Stack Group Project (5/8-5/12)
+#### Week 9 - Project 3: SEAN Stack Group Project (8/21-8/25)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -481,7 +481,7 @@ Weekly Goals:
 
 ## Unit 4: Becoming a Developer
 
-#### Week 10 - Angular 2, React, PHP, and Legacy Code (5/15-5/19)
+#### Week 10 - Angular 2, React, PHP, and Legacy Code (8/28-9/1)
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -527,7 +527,7 @@ Weekly Goals:
 - Create a Wordpress App
 - Understand basic operations and web-dev IT
 
-#### Week 11 - IoT and Developer-Chosen Topics/Projects (5/22-5/26)
+#### Week 11 - IoT and Developer-Chosen Topics/Projects (9/4-9/8)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -570,7 +570,7 @@ Weekly Goals:
 - Distill and deliver a lesson on a modern technology
 - Answer technical and quasi-technical interview questions
 
-#### Week 12 - Final Project and Interview Work (5/29-6/2)
+#### Week 12 - Final Project and Interview Work (9/11-9/15)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -586,7 +586,7 @@ Weekly Goals:
 - Answer mock interview questions from instructors and outside developers
 - Demonstrate work to technical and non-technical observers
 
->**Note:** Zeb will be available **by appointment** for mock interviews and portfolio help the Monday after graduation.  Stefan will be available **by appointment** for the remainder of the week after graduation.  More details to come toward the end of class.  Please set up a time with Zeb or Stefan by Direct Messaging them in Slack.
+>**Note:** Someone will be available **by appointment** for mock interviews and portfolio help after graduation.  Please set up a time with them by Direct Messaging them in Slack.
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
