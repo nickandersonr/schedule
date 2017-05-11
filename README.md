@@ -247,12 +247,12 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | [Questions in a Hat][5-1A] (Zeb) | [Second Pass (Zeb)][5-2A] | [Non-Tech Lightning Talks][5-3A] | [Non-Tech Lightning Talks][5-4A] | [CodeWars][5-5A]
- **9:30am Module 1** | [Lab: Full-Stack JS][5-1B] (Nick) | [UX Crash Course][5-2B] (Nick) | [Testing API Calls][5-3B] (Zeb) | [Outcomes (Nick)][5-4B] | [MVC App Organization][5-5B] (Nick)
-**11:00am Module 2** | [Lab: Full-Stack JS][5-1C] (Nick) | [Intro to MVC][5-2C] (Zeb) and [Project 2 Intro][5-2G] | [Lab: Research and Test External API for Project 2][5-3C] (Zeb) | [Introducing Gulp (Zeb)][5-4C] | [MVC App Organization][5-5C] (Nick) |
-**1:30pm Module 3** | [Lab: Full-Stack JS][5-1D] (Nick) | [Intro to TDD][5-2D] (Zeb) | [Lab: Research and Test External API for Project 2][5-3D] (Zeb) | [Intro to Bootstrap][5-4D] (Nick) | [Tunely][5-5D] (Zeb)
-**3:00pm Module 4** | [Lab: Personal API][5-1E] (Nick) | [Testing Lab][5-2E] (Zeb) | [Project 2 Ideation / Wireframes][5-3E] (Nick) | [Map Wireframes][5-4E] (Nick) | [Tunely][5-5E] (Zeb)
-**Training** | Personal API | [Testing Reading][5-2F] | Get External API Set Up for Project 2 | [Mock out Project 2 w/ Lorem and Mock Data Only][5-4F] | Continue Tunely
+ **9:00am Warm-Up** | [**Questions in a Hat**][5-1A] (Zeb) | [**Second Pass** (Zeb)][5-2A] | [**Non-Tech Lightning Talks**][5-3A] | [**Non-Tech Lightning Talks**][5-4A] | [**CodeWars**][5-5A]
+ **9:30am Module 1** | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-1B] (Nick) | [**UX Crash Course** - *UX Ideation and Hierarchy of Needs*][5-2B] (Nick) | [**OMDB API Testing** - *Node Requests and Mocha*][5-3B] (Zeb) | [**Outcomes** (Nick)][5-4B] | [**Planes in Folders** - *MVC App Organization*][5-5B] (Nick)
+**11:00am Module 2** | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-1C] (Nick) | [**Cargo Planes** - *Intro to MVC*][5-2C] (Zeb) and [**Project 2 Intro**][5-2G] | [**Lab: Research and Test External API for Project 2**][5-3C] (Zeb) | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][5-4C] | [**Planes in Folders** - *MVC App Organization*][5-5C] (Nick) |
+**1:30pm Module 3** | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-1D] (Nick) | [**Dogs and TDD** - *Acceptance vs Unit Tests and Mocha*][5-2D] (Zeb) | [**Lab: Research and Test External API for Project 2**][5-3D] (Zeb) | [**Intro to Bootstrap** - *Columns, Responsiveness, and More*][5-4D] (Nick) | [**Lab: Tunely** - *Full-Stack JS*][5-5D] (Zeb)
+**3:00pm Module 4** | [**Lab: Personal API** - *Heroku and JSON APIs*][5-1E] (Nick) | [**Lab: Fibonacci Tests** - *TDD, Mocha, and Recursion*][5-2E] (Zeb) | [**Project 2 Ideation / Wireframes**][5-3E] (Nick) | [**Map Wireframes to Views**][5-4E] (Nick) | [**Lab: Tunely** - *Full-Stack JS*][5-5E] (Zeb)
+**Training** | Personal API | [**Testing Reading**][5-2F] | Get External API Set Up for Project 2 | **Mock out Project 2 w/ Lorem and Mock Data Only** | Continue Tunely
 
 Weekly Goals:
 * Utilize Sass to improve and DRY out CSS code
@@ -288,7 +288,6 @@ Weekly Goals:
 [5-4C]: https://github.com/den-materials/gulp "Gulp"
 [5-4D]: https://github.com/den-materials/bootstrap "Intro to Bootstrap"
 [5-4E]: https://github.com/den-materials/mapping-wireframes "Map Wireframes to HTML/CSS Components for Project 2"
-[5-4F]: # "Mock Project 2"
 
 [5-5A]: https://www.codewars.com "CodeWars"
 [5-5B]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
