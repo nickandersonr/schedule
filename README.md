@@ -300,7 +300,7 @@ Weekly Goals:
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Warm-Up** | [**Questions in a Line**][6-1A] | [**Second Pass**][6-2A] (Zeb) | [**FizzBuzz** - *JS Problem Solving*][6-3A] | [**A-Ha Moments**][6-4A] | Standup
- **9:30am Module 1** | [**Sass Preprocessing Research** - *Variables, Nesting, Inheritance, and Mixins* (Zeb)][6-1B] | [**Outcomes (Becca)**][6-2B] | Standup | Standup | Project 2
+ **9:30am Module 1** | [**Sass Preprocessing Research** - *Variables, Nesting, Inheritance, and Mixins* (Zeb)][6-1B] | [**Outcomes** (Becca)][6-2B] | Standup | Standup | Project 2
  **11:00am Module 2** | [**Fireworks and Passwords** - *bcrypt, Authentication, and Authorization*][6-1C] (Zeb) | [**Project 2 Trello**][6-2C] and **First Scrum** (Zeb) | Project 2 | Project 2 | Project 2
  **1:30pm Module 3** | [**Intro to Passport** - *Login, Logout, Signup with Node*][6-1D] (Zeb) | [**Project 2**][6-2D] | Project 2 | Project 2 | Project 2 
 **3:00pm Module 4** | **Integrate Passport into Project 2** | Project 2 | Project 2 | Project 2 | Project 2
@@ -341,8 +341,8 @@ Extra Resources:
  **9:00am Warm-up** |  Project 2 | [**Project 3 Intro**][7-2A] | [**Project 3 Pitches**][7-3A] | [**CodeWars**][7-4A] | [**CodeWars**][7-5A]
  **9:30am Module 1** | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-2B] | [**Weather Directive** - *Angular Directives* Lesson (Zeb)][7-3B] | [**Lab: Angular Hangman** - *ng-model, ng-controller, ng-repeat, ng-change* (Zeb)][7-4B] | [**Criminals Refactor** - *$resource and Factories* (Zeb)][7-5B]
  **11:00am Module 2** | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-2C] | [**Lab: Cards Against Assembly** *Angular Directives* (Zeb)][7-3C] | [**Lab: Angular Hangman** - *ng-model, ng-controller, ng-repeat, ng-change* (Zeb)][7-4C] | [**Awwwards and Fading Badge** - *ng-class and ngAnimate* (Zeb)][7-5C]
- **1:30pm Module 3** | [**Outcomes (Becca)**][7-1C] | [**Pokemon, Man!** - *Intro to Angular* (Zeb)][7-2D] | [**Presidents** - *$http and Promises* (Stefan)][7-3D] | [**Lab: Wines** - *ngRoute* (Stefan)][7-4D] | [**Cards Back End** - *node, mongo, and $http* (Zeb)][7-5D]
-**3:00pm Module 4** | [**Create Issues (Zeb)**][7-1D] | [**Lab: Pokemon, Man!** - *Intro to Angular* (Zeb)][7-2E] | [**Lab: Criminals** - *$http* (Stefan)][7-3E] | [**Lab: Wines** - *ngRoute* (Stefan)][7-4E] | [**Cards Back End** - *node, mongo, and $http* (Zeb)][7-5E]
+ **1:30pm Module 3** | [**Outcomes** (Becca)][7-1C] | [**Pokemon, Man!** - *Intro to Angular* (Zeb)][7-2D] | [**Presidents** - *$http and Promises* (Stefan)][7-3D] | [**Lab: Wines** - *ngRoute* (Stefan)][7-4D] | [**Cards Back End** - *node, mongo, and $http* (Zeb)][7-5D]
+**3:00pm Module 4** | [**Create Issues** (Zeb)][7-1D] | [**Lab: Pokemon, Man!** - *Intro to Angular* (Zeb)][7-2E] | [**Lab: Criminals** - *$http* (Stefan)][7-3E] | [**Lab: Wines** - *ngRoute* (Stefan)][7-4E] | [**Cards Back End** - *node, mongo, and $http* (Zeb)][7-5E]
 **Training** | Fix Issues | **Project 3 Pitch Prep** & Angular Intro: [**Look over the Angular Documentation**][7-2F] + [**Check out this blog**][7-2G] + [**Do this Lab**][7-2H] | Continue $http / Criminals Lab | **ui-router vs ngRoute readings**: [#1][7-4F] + [#2][7-4G] + [#3][7-4H] | Continue Cards / MEAN App | 
 
 Weekly Goals:
@@ -392,10 +392,10 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**Questions in a Line (Zeb)**][8-1A] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-3A] | [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-4A] | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][8-5A]
-**9:30am Module 1** | [**Second Pass (Zeb)**][8-1B] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2B] | [**Angular Auth** - *Satellizer* (Zeb)][8-3B] | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-4B] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][8-5B]
+**9:00am Warm-up** | [**Questions in a Line** (Zeb)][8-1A] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-3A] | [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-4A] | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][8-5A]
+**9:30am Module 1** | [**Second Pass** (Zeb)][8-1B] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2B] | [**Angular Auth** - *Satellizer* (Zeb)][8-3B] | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-4B] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][8-5B]
  **11:00am Module 2** | [**Rapid Prototype** - *MEAN App* (Zeb)][8-1C] | [**Rapid Prototype Science Fair**][8-2C] | [**Firebase** - *Online Tutorial Work* (Zeb)][8-3C] | [**Lab: Carmen Sandiego** - *SQL Practice* (Zeb)][8-4C] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][8-5C]
-**1:30pm Module 3** | [**Rapid Prototype** - *MEAN App* (Zeb)][8-1D] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-2D] | [**Sketch and Photoshop Basics** (Nick)][8-3D] | [**Outcomes (Nick)**][8-4D] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][8-5D]
+**1:30pm Module 3** | [**Rapid Prototype** - *MEAN App* (Zeb)][8-1D] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-2D] | [**Sketch and Photoshop Basics** (Nick)][8-3D] | [**Outcomes** (Nick)][8-4D] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][8-5D]
 **3:00pm Module 4** | [**Rapid Prototype** - *MEAN App* (Zeb)][8-1E] | [**Competitive and User Research** (Nick)][8-2E] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-3E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-4E] | [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][8-5E]
 **Training** | Rapid Prototype | [**Interview Potential Users**][8-2F] | **Reading Assignments**: DBs and SQL [#1][8-3F] [#2][8-3G] [#3][8-3H] and [**Quiz**][8-3I] | [**Lab: Library** - *SQL Practice*][8-4F] | [**Work on Boomtown Prototype**][8-5F]
 
@@ -451,8 +451,8 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**Questions in a Line (Zeb)**][9-1A] | [**The Return of the Boxes** - *Flexbox* (Nick)][9-2A] | [**Linked Lists Intro** (Zeb)][9-3A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-4A] | [**Getting a Freelance Gig (Nick)**][9-5A]
-**9:30am Module 1** | [**Second Pass (Zeb)**][9-1B] | [**Outcomes (Nick)**][9-2B] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-3B] | Project 3 | Project 3
+**9:00am Warm-up** | [**Questions in a Line** (Zeb)][9-1A] | [**The Return of the Boxes** - *Flexbox* (Nick)][9-2A] | [**Linked Lists Intro** (Zeb)][9-3A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-4A] | [**Getting a Freelance Gig** (Nick)][9-5A]
+**9:30am Module 1** | [**Second Pass** (Zeb)][9-1B] | [**Outcomes** (Nick)][9-2B] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-3B] | Project 3 | Project 3
  **11:00am Module 2** | BoomTown Prep | [**Team Git Workflow** - *Resolving Merge Conflicts* (Zeb)][9-2C] | [**Putting Sequelize and Satellizer Together** (Zeb)][9-3C]  | Project 3 | Project 3
 **1:30pm Module 3** | BoomTown | Project 3 | Project 3 | Project 3 | Project 3
 **3:00pm Module 4** | BoomTown | Project 3 | Project 3 | Project 3 | Project 3
@@ -489,7 +489,7 @@ Time | Day 1                           | Day 2                                  
 **9:30am Module 1** | Project 3 | [**What's Different in Angular 2** (Zeb)][10-2B] | [**Hacking Round Two** - *Intro to Ops* (Zeb)][10-3B] | [**Outcomes** (Nick)][10-4B] | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)][10-5B]
 **11:00am Module 2** | Project 3 Retro | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-2C] | [**Components and Blog Posts** - *React* (Nick)][10-3C] | [**Intro to Legacy Code** (Zeb)][10-4C] | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)][10-5C]
 **1:30pm Module 3** | **Project 3 Presentations** | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][10-2D] | [**Likes and Stores** - *Redux* (Nick)][10-3D] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-4D] | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][10-5D]
-**3:00pm Module 4** | [**Create Issues (Zeb)**][10-1E] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][10-2D] | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][10-3E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-4E] | [**Lab: Poop Tulips** - *PHP Wordpress* (Nick)][10-5E]
+**3:00pm Module 4** | [**Create Issues** (Zeb)][10-1E] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][10-2D] | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][10-3E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-4E] | [**Lab: Poop Tulips** - *PHP Wordpress* (Nick)][10-5E]
 **Training** | Fix Issues | [**Tour of Heroes** - *Angular 2 Tutorial*][10-2E] | Continue React Tutorial | Continue Legacy Code | Continue Wordpress Site
 
 [10-1E]: https://github.com/den-materials/create-an-issue-project3 "Project 3 Issues"
@@ -531,16 +531,16 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [Second Pass (Zeb)][11-1A] | [IoT Primer (Zeb)][11-2A] | Hackathon Wrap-up | Lightning Talks Prep | [Mock Interviews - Technical (Zeb)][11-5A]
-**9:30am Module 1** | [PHP CRUD (Nick)][11-1B] | [Intro to IoT (Zeb)][11-2B] | Hackathon Presentations | Lightning Talks Prep | Project 4 Planning
-**11:00am Module 2** | Lab: PHP CRUD (Nick) | IoT Hackathon | [Mock Interviews - Hybrid (Zeb)][11-3C] | Lightning Talks Prep | Approvals
-**1:30pm Module 3** | Freelance Project | IoT Hackathon | [Outcomes][11-3D] | [Lightning Talks][11-4C] | Approvals
-**3:00pm Module 4** | Freelance Project | IoT Hackathon | Lightning Talks Prep | [Project 4 Intro (Zeb)][11-4D] | Project 4
-**Training** | Continue Outside Project | [Pick a Lightning Talk Topic][11-2F] | [Lightning Talks Prep][11-3E] | Project 4 | Project 4
+**9:00am Warm-up** | [**Second Pass** (Zeb)][11-1A] | [**IoT Primer** - *Vocab and Concepts* (Zeb)][11-2A] | Hackathon Wrap-up | Lightning Talks Prep | [**Mock Interviews** - **Technical** (Zeb)][11-5A]
+**9:30am Module 1** | [**Cars** - *PHP CRUD* (Nick)][11-1B] | [**IoT Hello World Projects and Other Ideas** (Zeb)][11-2B] | **Hackathon Presentations** | Lightning Talks Prep | Project 4 Planning
+**11:00am Module 2** | [**Lab: Cars** - *PHP CRUD* (Nick)][11-1C] | **IoT Hackathon Kickoff** | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][11-3C] | Lightning Talks Prep | Approvals
+**1:30pm Module 3** | Freelance Project | IoT Hackathon | [**Outcomes** (Nick)][11-3D] | [**Lightning Talks**][11-4C] | Approvals
+**3:00pm Module 4** | Freelance Project | IoT Hackathon | Lightning Talks Prep | [**Project 4 Intro** (Zeb)][11-4D] | Project 4
+**Training** | Continue Outside Project | [**Pick a Lightning Talk Topic**][11-2F] | [**Lightning Talks Prep**][11-3E] | Project 4 | Project 4
 
 [11-1A]: https://github.com/den-materials/unit4_week1_secondpass "Second Pass"
 [11-1B]: https://github.com/den-materials/php-crud "PHP CRUD"
-[11-1C]: # "PHP CRUD Lab"
+[11-1C]: https://github.com/den-materials/php-crud "PHP CRUD Lab"
 [11-1D]: # "Freelance Project"
 [11-1E]: # "Freelance Project" 
 
