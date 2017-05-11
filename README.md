@@ -37,12 +37,14 @@ Time  | Activity
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-Up** | [Welcome to GA][1-1A] (Both) | [CSS selector basics (Nick)][1-2A] | Work through Lab Issues | [Kyrel 1 (Zeb)][1-4A] | [Kyrel 2 (Zeb)][1-5A]
- **9:30am Module 1** | [Orientation][1-1B] (Both) | [Box model and positioning (Nick)][1-2B] | [JS Data types, variables, and arrays (Zeb)][1-3B] |  [Functions and scope (Zeb)][1-4B] | [Second Pass](https://github.com/den-wdi-2/week1_secondPass) and [Questions in a Line (Zeb)][1-5B]
- **11:00am Module 2** | [How the internet works (Zeb)][1-1C] - Student Profile and Headshot | [Lab: Mockup to HTML/CSS (Nick)][1-2C] | [Objects in JavaScript (Zeb)][1-3C] | [Lab: JavaScript functions (Zeb)][1-4C] | [Mastering control flow (Zeb)][1-5C]
- **1:30pm Module 3** | [Navigating the file system + some meta skills (Zeb)][1-1D] | [Git and GitHub (Zeb)][1-2D] | [Outcomes (Nick and Becca)][1-3D] | [DOM manipulation and events (Nick)][1-4D] | [Responsive Design and Media Queries (Nick)][1-5D]
-**3:00pm Module 4** | [WDI Diagnostic][1-1E] (Zeb) - And GH Issue Lab | [Lab: Design and CSS Challenge (Nick)][1-2E] | [Chrome dev tools (Nick)][1-3E] | [Lab: DOM manipulation LoTR (Nick)][1-4E] | [Week 1 Assessment: Pixel Perfect Website (Zeb)][1-5E]   
-**Training** | [Lab: Command line][1-1F] (Zeb) | Continue Design/CSS Lab | [Lab: Build a website (Nick)][1-3F] | Continue LOTR Lab | Continue Instagram Recreation
+ **9:00am Warm-Up** | [**Welcome to GA**][1-1A] (Both) | [**Animal Style** - *CSS selector basics* (Nick)][1-2A] | Work through Lab Issues | [**Kyrel 1** - *JS Problem Solving* (Zeb)][1-4A] | [**Kyrel 2** - *JS Problem Solving* (Zeb)][1-5A]
+ **9:30am Module 1** | [**Orientation**][1-1B] (Both) | [**Everything's a Box** - *CSS Box model and positioning* (Nick)][1-2B] | [**Math, Stooges, and Sports Teams** - *JS Data types, variables, and arrays* (Zeb)][1-3B] |  [**Names and Nesting Dolls** - *Functions and scope* (Zeb)][1-4B] | [**Second Pass**](https://github.com/den-wdi-2/week1_secondPass) and [**Questions in a Line** (Zeb)][1-5B]
+ **11:00am Module 2** | [**7 Layers and the Sharks Who Love Them** - *How the Internet Works* (Zeb)][1-1C] \* | [**Lab: From Idea to Website** - *Mockup to HTML/CSS* (Nick)][1-2C] | [**Class Full of Monkeys** - *Objects in JavaScript* (Zeb)][1-3C] | [**Lab: Max, Sum, Reverse** - *JavaScript functions* (Zeb)][1-4C] | [**Rollercoaster, Donuts, and Fruit** - *Mastering control flow* (Zeb)][1-5C]
+ **1:30pm Module 3** | [**Jurassic Park and chmod** - *Navigating the file system + some meta skills* (Zeb)][1-1D] | [**Your WDI Workflow** - *Git Commands and GitHub* (Zeb)][1-2D] | [**Outcomes** (Nick and Becca)][1-3D] | [**Hack the Planet** - *DOM manipulation and events* (Nick)][1-4D] | [**Mobile-Friendly Class Page** - *Responsive Design and Media Queries* (Nick)][1-5D]
+**3:00pm Module 4** | [**WDI Diagnostic**][1-1E] and **GH Issue Lab** (Zeb)  | [**Lab: Relaxr** - *Design and CSS Challenge* (Nick)][1-2E] | [**Elements, Network, and Console Tabs** - *Chrome dev tools* (Nick)][1-3E] | [**Lab: LOTR** - *DOM manipulation* (Nick)][1-4E] | [**Week 1 Assessment** - *Pixel Perfect Website Recreation* (Zeb)][1-5E]   
+**Training** | [**Lab: Best Music/Movies/Books of the Year** - *Command Line Practice*][1-1F] (Zeb) | Continue Design/CSS Lab | [**Lab: Build a Portfolio Page** - *HTML/CSS from Scratch* (Nick)][1-3F] | Continue LOTR Lab | Continue Instagram Recreation
+
+\* Student Profile and Headshot
 
 [1-1A]: https://github.com/den-materials/icebreakers "Icebreakers"
 [1-1B]: https://github.com/den-materials/orientation "Orientation"
