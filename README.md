@@ -338,12 +338,12 @@ Extra Resources:
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Warm-up** |  Project 2 | [Project 3 Intro][7-2A] | [Project 3 Pitches][7-3A] | [CodeWars][7-4A] | [CodeWars][7-5A]
- **9:30am Module 1** | Retrospective | [ES6 Lesson Part 2 (Zeb)][7-2B] | [Directives Lesson (Zeb)][7-3B] | [Angular Hangman (Zeb)][7-4B] | [$resource (Zeb)][7-5B]
- **11:00am Module 2** | Project 2 Presentations | [Auth Math (Zeb)][7-2C] | [Directives Lab (Zeb)][7-3C] | [Angular Hangman (Zeb)][7-4C] | [Angular UI (Zeb)][7-5C]
- **1:30pm Module 3** | [Outcomes (Becca)][7-1C] | [Intro to Angular (Zeb)][7-2D] | [$http and promises (Stefan)][7-3D] | [Routing Lab (Stefan)][7-4D] | [Almost MEAN App (Zeb)][7-5D]
-**3:00pm Module 4** | [Create Issues (Zeb)][7-1D] | [Lab: Intro to Angular (Zeb)][7-2E] | [$http LAB (Stefan)][7-3E] | [Routing Lab (Stefan)][7-4E] | [Almost MEAN App (Zeb)][7-5E]
-**Training** | Fix Issues | Project 3 Pitch Prep & Angular Intro: [Look over the Angular Documentation][7-2F] + [Check out this blog][7-2G] + [Do this Lab][7-2H] | Finish $http Lab | ui-router vs ngRoute readings: [#1][7-4F] + [#2][7-4G] + [#3][7-4H] | Complete MEAN App | 
+ **9:00am Warm-up** |  Project 2 | [**Project 3 Intro**][7-2A] | [**Project 3 Pitches**][7-3A] | [**CodeWars**][7-4A] | [**CodeWars**][7-5A]
+ **9:30am Module 1** | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-2B] | [**Weather Directive** - *Angular Directives* Lesson (Zeb)][7-3B] | [**Lab: Angular Hangman** - *ng-model, ng-controller, ng-repeat, ng-change* (Zeb)][7-4B] | [**Criminals Refactor** - *$resource and Factories* (Zeb)][7-5B]
+ **11:00am Module 2** | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-2C] | [**Lab: Cards Against Assembly** *Angular Directives* (Zeb)][7-3C] | [**Lab: Angular Hangman** - *ng-model, ng-controller, ng-repeat, ng-change* (Zeb)][7-4C] | [**Awwwards and Fading Badge** - *ng-class and ngAnimate* (Zeb)][7-5C]
+ **1:30pm Module 3** | [**Outcomes (Becca)**][7-1C] | [**Pokemon, Man!** - *Intro to Angular* (Zeb)][7-2D] | [**Presidents** - *$http and Promises* (Stefan)][7-3D] | [**Lab: Wines** - *ngRoute* (Stefan)][7-4D] | [**Cards Back End** - *node, mongo, and $http* (Zeb)][7-5D]
+**3:00pm Module 4** | [**Create Issues (Zeb)**][7-1D] | [**Lab: Pokemon, Man!** - *Intro to Angular* (Zeb)][7-2E] | [**Lab: Criminals** - *$http* (Stefan)][7-3E] | [**Lab: Wines** - *ngRoute* (Stefan)][7-4E] | [**Cards Back End** - *node, mongo, and $http* (Zeb)][7-5E]
+**Training** | Fix Issues | **Project 3 Pitch Prep** & Angular Intro: [**Look over the Angular Documentation**][7-2F] + [**Check out this blog**][7-2G] + [**Do this Lab**][7-2H] | Continue $http / Criminals Lab | **ui-router vs ngRoute readings**: [#1][7-4F] + [#2][7-4G] + [#3][7-4H] | Continue Cards / MEAN App | 
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
