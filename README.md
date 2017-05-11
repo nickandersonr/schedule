@@ -95,13 +95,13 @@ Time  | Activity
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Warm-Up** | [Intro to ES6 (Zeb)][2-1A] | [Whiteboarding (Zeb)][2-2A] | [GH Branching and gh-pages (Zeb)][2-3A] | [Native JS v jQuery Choice][2-4A] and [Code][2-4B] (Zeb) | [Developer Resources][2-5A]
- **9:30am Module 1** | [Whiteboarding 101 (Zeb)][2-1B] | [Intro to jQuery (Zeb)][2-2B] | [Intermediate jQuery (Zeb)][2-3B] | [Outcomes (Nick)][2-4C] | Solutions Run-through and [Questions in a Hat][2-5B] (Zeb)
- **11:00am Module 2** | [Computational Thinking Lab (Zeb)][2-1C] | [jQuery & Browser Storage (Zeb)][2-2C] | [Lab: Create jQuery selector (Zeb)][2-3C] | [OOP in JS (Zeb)][2-4D] | [Second Pass (Zeb)][2-5C]
-**1:30pm Module 3** | [Callbacks & Iterators (Zeb)][2-1D] | [HTML Forms (Nick)][2-2D] | [CSS Transitions & Animations][2-3D] (Nick) | [OOP concepts (Zeb)][2-4E] | [Wireframes (Nick)][2-5D]
-**3:00pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1E] | [CSS for HTML Forms Lab (Nick)][2-2E] | [Tic-Tac-Toe (Nick)][2-3E] | [OOP Refactor Lab (Zeb)][2-4F] | [CodeWars Intro][2-5E] and [Project 1 Intro][2-5F] (Zeb)
-**Training** | Part 1: Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d01_Style_Guides" | Finish CSS for HTML Forms Lab | Finish and Deploy Tic-Tac-Toe / [OOP Prep][2-3F] | [Lab: Racer Game][2-4G] (Zeb) | Continue Racer Game
-**Training** | Part 2: Continue Callbacks and Iterators |  |  |  | Project 1 Proposal
+ **9:00am Warm-Up** | [**Intro to ES6** - *Let, Const, Defaults, and Destructuring* (Zeb)][2-1A] | [**Egg Drop and Polygon** - *Whiteboarding* (Zeb)][2-2A] | [**Publishing Your First Webpage** - *GH Branching and gh-pages* (Zeb)][2-3A] | [**Native JS v jQuery Choice**][2-4A] and [**Code**][2-4B] (Zeb) | [**Developer Resources**][2-5A]
+ **9:30am Module 1** | [**Common Character, Missing Number, and Second Highest Number** - *Whiteboarding 101* (Zeb)][2-1B] | [**Replacing Vanilla JS on Reddit** - *Intro to jQuery* (Zeb)][2-2B] | [**Real Estate** - *Intermediate jQuery* (Zeb)][2-3B] | [**Outcomes** (Nick)][2-4C] | Solutions Run-through and [**Questions in a Line**][2-5B] (Zeb)
+ **11:00am Module 2** | [**Pseudocode Your Life** - *Computational Thinking Lab* (Zeb)][2-1C] | [**Saving Counters and Form Data on the Front End** - *jQuery & Browser Storage* (Zeb)][2-2C] | [**Lab: Create jQuery Selector** (Zeb)][2-3C] | [**Flower Power** - *OOP in JS* (Zeb)][2-4D] | [**Second Pass** (Zeb)][2-5C]
+**1:30pm Module 3** | [**Callbacks & Iterators** - *forEach, map, filter, reduce* (Zeb)][2-1D] | [**Doomed?, Music, and Color Picker** - *HTML Forms* (Nick)][2-2D] | [**Tweens and Rotating Greetings** - *CSS Transitions & Animations*][2-3D] (Nick) | [**Hermit Crabs and Turtles** - *OOP concepts* (Zeb)][2-4E] | [**Wireframes** (Nick)][2-5D]
+**3:00pm Module 4** | [**Lab: Build Your Own Callbacks & Iterators** (Zeb)][2-1E] | [**Lab: Mad Libs** - *CSS for HTML Forms* (Nick)][2-2E] | [**Lab: Tic-Tac-Toe** - *jQuery DOM Manipulation* (Nick)][2-3E] | [**Lab: Tic Tac Toe Refactor** - *OOP* (Zeb)][2-4F] | [**CodeWars Intro**][2-5E] and [**Project 1 Intro**][2-5F] (Zeb)
+**Training** | **Part 1:** Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d01_Style_Guides" | Continue CSS for HTML Forms Lab | **Part 1:** Continue and Deploy Tic-Tac-Toe | [**Lab: Racer Game** - *HTML/CSS/JS Game*][2-4G] (Zeb) | Continue Racer Game
+**Training** | **Part 2:** Continue Callbacks and Iterators |  | **Part 2:** [OOP Prep][2-3F] |  | Project 1 Proposal
 
 Weekly Goals:
 * Understand the principles of Object Oriented Programming with Javascript
