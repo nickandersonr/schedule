@@ -485,7 +485,38 @@ Weekly Goals:
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Plan** | CLASS | CLASS | CLASS | CLASS | CLASS
+**9:00 Warm-upam** | Project 3 | [Intro to TypeScript (Zeb)][10-2A] | [CodeWars][10-3A] | [GH Lab (Zeb)][10-4A] | [CodeWars][10-5A]
+**9:30am Module 1** | Project 3 | [What's Different in Angular 2 (Zeb)][10-2B] | [Intro to Ops (Zeb)][10-3B] | [Outcomes (Nick)][10-4B] | [PHP Intro (Zeb)][10-5B]
+**11:00am Module 2** | Project 3 Retro | [Lab: Angular 2 Refactor (Zeb)][10-2C] | [React (Nick)][10-3C] | [Intro to Legacy Code (Zeb)][10-4C] | [Lab: PHP Intro (Zeb)][10-5C]
+**1:30pm Module 3** | Project 3 Presentations | [Intro to Ionic (Zeb)][10-2D] | [Redux (Nick)][10-3D] | [Legacy Code Lab (Zeb)][10-4D] | [PHP Wordpress (Nick)][10-5D]
+**3:00pm Module 4** | [Create Issues (Zeb)][10-1E] | [Intro to Ionic (Zeb)][10-2D] | [Lab: React Tic-Tac-Toe Tutorial (Nick)][10-3E] | [Legacy Code Lab (Zeb)][10-4E] | [Lab: PHP Wordpress (Nick)][10-5E]
+**Training** | Fix Issues | [Tour of Heroes Angular 2 Tutorial][10-2E] | Finish React Tutorial | Continue Legacy Code | Continue Wordpress Site / Hackathon Tomorrow
+
+[10-1E]: https://github.com/den-materials/create-an-issue-project3 "Project 3 Issues"
+
+[10-2A]: https://github.com/den-materials/intro-typescript "Intro to Typescript"
+[10-2B]: https://github.com/den-materials/angular-2-differences "Angular 2 What's Different?"
+[10-2C]: https://github.com/den-materials/angular-2-refactor "Angular 2 Refactor Lab"
+[10-2D]: https://github.com/den-materials/intro-ionic "Intro to Ionic"
+[10-2E]: https://angular.io/docs/ts/latest/tutorial/ "Angular 2torial"
+
+[10-3A]: https://www.codewars.com "CodeWars"
+[10-3B]: https://github.com/den-materials/intro-to-ops "Dev Ops Intro"
+[10-3C]: https://github.com/den-materials/react "React"
+[10-3D]: https://github.com/den-materials/redux "Redux"
+[10-3E]: https://facebook.github.io/react/tutorial/tutorial.html "React Lab"
+
+[10-4A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
+[10-4B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[10-4C]: https://github.com/den-materials/legacy-code-intro "Intro to Legacy Code"
+[10-4D]: https://github.com/den-materials/legacy-code-denver "Legacy Code"
+[10-4E]: https://github.com/den-materials/legacy-code-denver "Legacy Code"
+
+[10-5A]: https://www.codewars.com "CodeWars"
+[10-5B]: https://github.com/den-materials/php-intro "PHP Intro"
+[10-5C]: https://github.com/den-materials/php-exercises "PHP Intro Lab"
+[10-5D]: https://github.com/den-materials/php-wordpress "PHP Wordpress"
+[10-5E]: https://github.com/den-materials/wordpress-lab "PHP Wordpress Lab"
 
 Weekly Goals:
 
@@ -500,21 +531,54 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Plan** | CLASS | CLASS | CLASS | CLASS | Project 4
+**9:00am Warm-up** | [Second Pass (Zeb)][11-1A] | [IoT Primer (Zeb)][11-2A] | Hackathon Wrap-up | Lightning Talks Prep | [Mock Interviews - Technical (Zeb)][11-5A]
+**9:30am Module 1** | [PHP CRUD (Nick)][11-1B] | [Intro to IoT (Zeb)][11-2B] | Hackathon Presentations | Lightning Talks Prep | Project 4 Planning
+**11:00am Module 2** | Lab: PHP CRUD (Nick) | IoT Hackathon | [Mock Interviews - Hybrid (Zeb)][11-3C] | Lightning Talks Prep | Approvals
+**1:30pm Module 3** | Freelance Project | IoT Hackathon | [Outcomes][11-3D] | [Lightning Talks][11-4C] | Approvals
+**3:00pm Module 4** | Freelance Project | IoT Hackathon | Lightning Talks Prep | [Project 4 Intro (Zeb)][11-4D] | Project 4
+**Training** | Continue Outside Project | [Pick a Lightning Talk Topic][11-2F] | [Lightning Talks Prep][11-3E] | Project 4 | Project 4
+
+[11-1A]: https://github.com/den-materials/unit4_week1_secondpass "Second Pass"
+[11-1B]: https://github.com/den-materials/php-crud "PHP CRUD"
+[11-1C]: # "PHP CRUD Lab"
+[11-1D]: # "Freelance Project"
+[11-1E]: # "Freelance Project" 
+
+[11-2A]: https://github.com/den-materials/intro-iot "IoT Primer"
+[11-2B]: https://github.com/den-materials/IoT-Hobby-Projects "Intro to IoT"
+[11-2C]: # "IoT Hackathon"
+[11-2D]: # "IoT Hackathon"
+[11-2E]: # "IoT Hackathon"
+[11-2F]: https://github.com/den-materials/lighting-talks "Lightning Talk Topic Selection"
+
+[11-3A]: # "IoT Hackathon"
+[11-3B]: # "Hackathon Presentations"
+[11-3C]: https://github.com/den-materials/troubleshooting-interview "Interview Prep"
+[11-3D]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[11-3E]: https://github.com/den-materials/lighting-talks "Lightning Talk Prep"
+
+[11-4A]: # "Lightning Talk Prep"
+[11-4B]: # "Lightning Talk Prep"
+[11-4C]: https://github.com/den-materials/lighting-talks "Lighting Talks"
+[11-4D]: https://github.com/den-materials/project-4 "Project 4"
+
+[11-5A]: https://github.com/den-materials/mock-technical-interview "Interview Prep"
 
 Weekly Goals:
 - Do work for someone outside of the class
 - Create a software-hardware hybrid project
 - Distill and deliver a lesson on a modern technology
-- Understand the major differences between JS and Ruby
-- Build a basic Rails app
 - Answer technical and quasi-technical interview questions
 
 #### Week 12 - Final Project and Interview Work (5/29-6/2)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Plan** | Project 4 | Project 4 | Project Work | Project Work | Graduation 
+**9:00am** | Scrum | Scrum | Scrum | Scrum | Make-up Project Work 
+**11:00am** | Project 4 | Project 4 | Mock Interviews / Project Work | Project Work | Mock Interviews 
+**2:00pm** | Project 4 | Project 4 | Mock Interviews / Project Work | Presentations | Practice Showcase 
+**3:00pm** | Project 4 | Project Work | Mock Interviews / Project Work | Presentations | Final Survey, Certificates, and Recap (Graduation) 
+**Training** | Project 4 | Project 4 | Project Work | Project Work | Happy Hour 
 
 Weekly Goals:
 
