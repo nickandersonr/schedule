@@ -586,7 +586,7 @@ Weekly Goals:
 - Answer mock interview questions from instructors and outside developers
 - Demonstrate work to technical and non-technical observers
 
->**Note:** Zeb will be available **by appointment** for mock interviews and portfolio help after graduation.  More details to come toward the end of class.  Please set up a time with Zeb by Direct Messaging him in Slack.
+>**Note:** Zeb will be available **by appointment** for mock interviews and portfolio help the Monday after graduation.  Stefan will be available **by appointment** for the remainder of the week after graduation.  More details to come toward the end of class.  Please set up a time with Zeb or Stefan by Direct Messaging them in Slack.
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
