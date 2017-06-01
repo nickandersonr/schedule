@@ -158,8 +158,6 @@ Weekly Goals:
 * Learn about common ways software companies organize projects
 * Explain the binary search algorithm
 * Explain the structure of stacks and queues
-* Explain the merge sort algorithm
-* Leverage other developers to support and improve projects
 
 [3-1A]: https://github.com/den-materials/developer-resources "Dev Resources"
 [3-1B]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
@@ -201,12 +199,12 @@ Time | Day 1                                    | Day 2                         
 **Training** | Fixing Issues | Continue Cats API (AJAX) Lab | Continue Requesting with Node (OMDB) Lab | Continue Candies (Express Routing) Lab | Continue Restaurants (Mongo CLI) Lab
 
 Weekly Goals:
+* Leverage other developers to support and improve projects
 * Communicate between front-end and back-end with APIs and AJAX
 * Create a basic back-end with Node
 * Build a web server with Express
 * Define server responses with routes and controllers
 * Save JSON-like data to a server's Mongo database
-* Utilize server-side rendering with templates
 
 [4-1A]: # "Project 1"
 [4-1B]: # "Project 1"
@@ -248,13 +246,12 @@ Time | Day 1                                    | Day 2                         
 **Training** | Continue TODO API & [**Project 2 Proposal**][5-1F] | Personal API | [**Testing Reading**][5-3F] | Get External API Set Up for Project 2 | **Mock out Project 2 w/ Lorem and Mock Data Only**
 
 Weekly Goals:
+* Utilize server-side rendering with templates
 * Utilize Sass to improve and DRY out CSS code
 * Utilize Gulp to save time on repetitive tasks
 * Write a software test suite with Mocha and Chai
 * Build and test an API integration
-* Design a full-stack app
-* Understand and create Models, Views, and Controllers
-* Integrate tools like Gulp, Sass, and Bootstrap to improve development
+* Integrate tools like Gulp and Bootstrap to improve development
 
 [5-1A]: https://www.codewars.com "CodeWars"
 [5-1B]: https://github.com/den-materials/express-views-lesson "Views in Express Lesson"
@@ -302,6 +299,9 @@ Time | Day 1                                    | Day 2                         
 
 Weekly Goals:
 
+* Design a full-stack app
+* Understand and create Models, Views, and Controllers
+* Use Sass to DRY out and improve CSS
 * Understand and create a user model with authentication
 * Build a personal full-stack Javascript App from scratch
 
@@ -348,9 +348,6 @@ Weekly Goals:
 - Utilize built-in Angular directives and build custom ones
 - Use $http to communicate from Angular front-end to back-end
 - Configure front-end routing with Angular and ngRoute
-- Use $resource to DRY out CRUD apps
-- Perform animations with Angular and ngAnimate
-- Understand the basics of user and competitive research
 
 [7-2C]: https://github.com/den-materials/portfolio-starter-kit "Make a Portfolio!"
 [7-2D]: https://github.com/den-materials/create-an-issue-project2 "Create Issues"
@@ -391,6 +388,9 @@ Time | Day 1                                      | Day 2                       
 **Training** | Continue Cards / MEAN App | Rapid Prototype | [**Interview Potential Users**][8-3F] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
 
 Weekly Goals:
+- Use $resource to DRY out CRUD apps
+- Perform animations with Angular and ngAnimate
+- Understand the basics of user and competitive research
 - Perform authentication with Angular and Satellizer
 - Save data to Firebase
 - Internalize the steps of building a MEAN stack app
@@ -398,8 +398,6 @@ Weekly Goals:
 - Understand the basics of Sketch and Photoshop
 - Map out data relations for a web app
 - Create a SQL DB and perform queries on it
-- Use Sequelize to create a CRUDable model with SQL and Node
-- Use Sequelize to create inter-connected models with data mappings
 
 [8-1A]: https://www.codewars.com "CodeWars"
 [8-1B]: https://github.com/den-materials/angular-resource "ngResource"
@@ -449,6 +447,8 @@ Time | Day 1                                      | Day 2                       
 **Training** | [**Work on Boomtown Prototype**][9-1F] |  Project 3 | Project 3 | Project 3 | Project 3
 
 Weekly Goals:
+- Use Sequelize to create a CRUDable model with SQL and Node
+- Use Sequelize to create inter-connected models with data mappings
 - Manage group code submissions with GitHub
 - Create a full-stack application as part of a development team
 - Learn the basics of Linked Lists to prepare for interviews
@@ -514,8 +514,6 @@ Weekly Goals:
 - Create a basic Angular 2 app from scratch and from an Angular 1 base
 - Create a React app
 - Improve Legacy Code
-- Create a PHP CRUD App
-- Create a Wordpress App
 - Understand basic operations and web-dev IT
 
 #### Week 11 - IoT and Developer-Chosen Topics/Projects (9/4-9/8)
@@ -548,10 +546,11 @@ Time | Day 1                                 | Day 2                            
 [11-5E]: https://github.com/den-materials/lighting-talks "Lightning Talk Prep"
 
 Weekly Goals:
+- Create a PHP CRUD App
+- Create a Wordpress App
 - Do work for someone outside of the class
 - Create a software-hardware hybrid project
-- Distill and deliver a lesson on a modern technology
-- Answer technical and quasi-technical interview questions
+- Answer quasi-technical interview questions
 
 #### Week 12 - Final Project and Interview Work (9/11-9/15)
 
@@ -570,9 +569,12 @@ Time | Day 1                                 | Day 2                            
 
 Weekly Goals:
 
+- Answer technical interview questions
+- Distill and deliver a lesson on a modern technology
 - Fully formulate an idea for a full-stack project and execute it independently
 - Answer mock interview questions from instructors and outside developers
 - Demonstrate work to technical and non-technical observers
+- Explain the merge sort algorithm
 
 #### Week 13 - Home Stretch (9/18-9/19)
 
