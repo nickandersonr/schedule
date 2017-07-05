@@ -101,7 +101,7 @@ Time |Day 1                                      | Day 2                        
 **1:30pm Module 3** | [**Callbacks & Iterators** - *forEach, map, filter, reduce* (Zeb)][2-1D] | NO | [**Doomed?, Music, and Color Picker** - *HTML Forms* (Nick)][2-2D] | [**Tweens and Rotating Greetings** - *CSS Transitions & Animations*][2-3D] (Nick) | [**Lab: Tic Tac Toe Refactor** - *OOP* (Zeb)][2-4E]
 **3:00pm Module 4** | [**Lab: Build Your Own Callbacks & Iterators** (Zeb)][2-1E] | CLASS | [**Lab: Mad Libs** - *CSS for HTML Forms* (Nick)][2-2E] - Same thing here, we should use only jQuery here | [**Lab: Tic-Tac-Toe** - *jQuery DOM Manipulation* (Nick)][2-3E] | [**Outcomes** (Nick)][2-4F]
 **Training** | **Part 1:** Make up old HWs | NO | **Part 1:** Continue CSS for HTML Forms Lab | **Part 1:** Continue and Deploy Tic-Tac-Toe | [**Lab: Racer Game** - *HTML/CSS/JS Game*][2-4G] (Zeb)
-**Training** | **Part 2:** Continue Callbacks and Iterators | CLASS | **Part 2:** Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d01_Style_Guides" | **Part 2:** [OOP Prep][2-3F] |  |
+**Training** | **Part 2:** Continue Callbacks and Iterators | CLASS | **Part 2:** Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d03_Style_Guides" | **Part 2:** [OOP Prep][2-3F] |  |
 
 Weekly Goals:
 * Understand the principles of Object Oriented Programming with Javascript
