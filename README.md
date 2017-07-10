@@ -146,13 +146,44 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**Agenda** | Project 1 | Project 1 | Project 1 | Project 1 | Project 1
+**9:00am Warm-Up** | [**Developer Resources**][3-1A] | [**Agile Development** - *Pair Programming, TDD, and User Stories* (Zeb)][3-2A] | [**Phone Books and Bottles of Beer** - *Binary Search* (Zeb)][3-3A] | [**Pancakes and Line Cutters** - *Stacks and Queues* (Zeb)][3-4A] | Project 1
+**9:30am Module 1** | Solutions Run-through and [**Questions in a Line**][3-1B] (Zeb) | [**Agile Development** - *Pair Programming, TDD, and User Stories* (Zeb)][3-2A] | [**Phone Books and Bottles of Beer** - *Binary Search* (Zeb)][3-3A] | [**Pancakes and Line Cutters** - *Stacks and Queues* (Zeb)][3-4A] | Project 1
+**11:00am Module 2** | [**Second Pass** (Zeb)][3-1C] | [**Lab: Plan Project 1** - *Agile Development* (Zeb)][3-2B] | Standup / Project 1 | Standup / Project 1 | Standup / Project 1
+**1:30pm Module 3** | [**Wireframes** (Nick)][3-1D] | [**Project 1 Approvals**][3-2C] | [**Outcomes**][3-3C] | Project 1 | Project 1
+**3:00pm Module 4** | [**CodeWars Intro**][3-1E] and [**Project 1 Intro**][3-1F] (Zeb) | Project 1 |  Project 1 |  Project 1 | Project 1
+**Training** | Continue Racer Game and Project 1 Proposal | Project 1 | Project 1 | Project 1 | Project 1
 
 Weekly Goals:
 * Create a browser-based game for your porfolio
 * Learn about common ways software companies organize projects
 * Explain the binary search algorithm
 * Explain the structure of stacks and queues
+
+[3-1A]: https://github.com/den-materials/developer-resources "Dev Resources"
+[3-1B]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
+[3-1C]: https://github.com/den-wdi-3/week2_secondPass "Second Pass"
+[3-1D]: # "Wireframes"
+[3-1E]: https://www.codewars.com/dashboard "Code Wars"
+[3-1F]: https://github.com/den-materials/project-1 "Project 1"
+
+[3-2A]: https://github.com/den-materials/software-development-best-practices "Agile development and user stories"
+[3-2B]: https://github.com/den-materials/agile-lab "Agile Lab"
+[3-2C]: https://github.com/den-materials/project-1 "Project 1 Specs"
+
+[3-3A]: https://github.com/den-materials/binary-search "Binary Search"
+[3-3B]: # "Project 1"
+[3-3C]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[3-3D]: # "Project 1"
+
+[3-4A]: https://github.com/den-materials/stacks-and-queues "Stacks and Queues"
+[3-4B]: # "Project 1"
+[3-4C]: # "Project 1"
+[3-4D]: # "Project 1"
+
+[3-5A]: # "Project 1"
+[3-5B]: # "Project 1"
+[3-5C]: # "Project 1"
+[3-5D]: # "Project 1"
 
 ## Unit 2: The Server
 
