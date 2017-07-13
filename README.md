@@ -191,7 +191,12 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **Agenda** | Full | Stack | AJAX | Node | Express
+ **9:00am Warm-Up** | Final Prep | **Intro to Full-Stack** - *Diagram and Key Terms* | [**Lab: Shakeitspear** - *AJAX API Calls*][4-3A] (Nick) | [**Troubleshooting for Steve** - *Dev Tools*][4-4A] (Zeb) | [**School Supplies** - *Intro to EJS*][4-5A] (Zeb)
+ **9:30am Module 1** | Project 1 | [**Cats API** - *Requests and Postman*][4-2B] (Zeb) | [**Build a Search Engine** - *Connecting Forms to APIs via AJAX*][4-3B] (Nick) | [**Routing, Tacos, and Cats** - *Intro to Express* (Zeb)][4-4B] | [**Restaurants and More** - *Mongo Intro*][4-5B] (Nick)
+**11:00am Module 2** | Final Prep and Submission | [**Cats API Pt 2** - *AJAX*][4-2C] (Zeb) | [**Intro to Node.js** - *Asynchronicity, TDD, File I/O, HTTP Server, and Modules* (Nick)][4-3C] | [**Time and Bicycles** - *Building Express Routes* (Zeb)][4-4C] | [**Lab: Restaurants** - *Mongo CLI*][4-5C] (Nick)
+**1:30pm Module 3** | **Presentations** | [**Lab: Cats API** *AJAX*][4-2D] (Zeb) | [**Lab: Weather Underground** - *Node CLI*][4-3D] (Nick) | [**Lab: Candies** - *Building Express Routes* (Zeb)][4-4D] | [**Reminders** - *Mongoose Intro*][4-5D] (Zeb)
+**3:00pm Module 4** | **Retrospective** and [**Fix an Issue** (Nick)][4-1D] | [**OMDB Queries** - *API Practice*][4-2E] (Nick) | [**Lab: OMDB Favorite Movies** - *Requesting with Node*][4-3E] (Stefan) | [**Burgers and Tacos** - *Express, Parameters, and Middleware*][4-4E] (Nick) |  [**Organizing Food and Tweets** - *Referenced and Embedded Data with Mongo*][4-5E] (Zeb)
+**Training** | Fixing Issues | Continue Cats API (AJAX) Lab | Continue Requesting with Node (OMDB) Lab | Continue Candies (Express Routing) Lab | Continue Restaurants (Mongo CLI) Lab
 
 Weekly Goals:
 * Leverage other developers to support and improve projects
@@ -200,6 +205,34 @@ Weekly Goals:
 * Build a web server with Express
 * Define server responses with routes and controllers
 * Save JSON-like data to a server's Mongo database
+
+[4-1A]: # "Project 1"
+[4-1B]: # "Project 1"
+[4-1C]: # "Presentations"
+[4-1D]: https://github.com/den-materials/create-an-issue-project1 "Fix an issue"
+
+[4-2B]: https://github.com/den-materials/api-intro "API, JSON, and Postman"
+[4-2C]: https://github.com/den-materials/js-ajax-lesson "AJAX Intro"
+[4-2D]: https://github.com/den-materials/js-ajax-lab "JS AJAX Lab"
+[4-2E]: https://github.com/den-materials/api-practice/blob/master/exercise-1.md "API Practice"
+
+[4-3A]: https://github.com/den-materials/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
+[4-3B]: https://github.com/den-materials/forms-and-ajax-lab "Connecting Forms to APIs"
+[4-3C]: https://github.com/den-materials/nodejs "Intro to Node.js"
+[4-3D]: https://github.com/den-materials/node-cli-weather "Intro Node Lab"
+[4-3E]: https://github.com/den-materials/requesting-with-node "Requesting with Node"
+
+[4-4A]: https://github.com/den-materials/mini-tShoot "Dev Tools and Troubleshooting"
+[4-4B]: https://github.com/den-materials/express "Intro to Express.js"
+[4-4C]: https://github.com/den-materials/express-routing-lesson "Building Express Routes part 1"
+[4-4D]: https://github.com/den-materials/express-routing-lab "Building Express Routes part 2"
+[4-4E]: https://github.com/den-materials/more-express-routes "More Express Routes"
+
+[4-5A]: https://github.com/den-materials/intro-ejs "EJS Intro"
+[4-5B]: https://github.com/den-materials/mongo-intro "Intro to Mongo"
+[4-5C]: https://github.com/den-materials/mongo-cli "Mongo Lab"
+[4-5D]: https://github.com/den-materials/intro-mongoose "Mongo-backed models with Mongoose"
+[4-5E]: https://github.com/den-materials/mongo-structured-data "Data Organization in Mongo"
 
 #### Week 5 - Full-Stack Apps, MVC, and Testing (7/24-7/28)
 
