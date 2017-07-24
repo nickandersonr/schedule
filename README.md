@@ -240,10 +240,10 @@ Time | Day 1                                    | Day 2                         
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
  **9:00am Warm-Up** | [**Organizing Food and Tweets** - *Referenced and Embedded Data with Mongo* (Zeb)][5-1A] | [**Questions in a Hat**][5-2A] (Zeb) | [**Second Pass** (Zeb)][5-3A] | [**Non-Tech Lightning Talks**][5-4A] | [**Non-Tech Lightning Talks**][5-5A]
  **9:30am Module 1** | [**Candies Again** - *Views in Express* (Zeb)][5-1B] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2B] (Nick) | [**UX Crash Course** - *UX Ideation and Hierarchy of Needs*][5-3B] (Nick) | [**OMDB API Testing** - *Node Requests and Mocha*][5-4B] (Zeb) | [**Outcomes** (Nick)][5-5B]
-**11:00am Module 2** | [**Lab: Quotes** - *Views in Express* (Zeb)][5-1C] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2C] (Nick) | [**Cargo Planes** - *Intro to MVC*][5-3C] (Zeb) and [**Project 2 Intro**][5-3G] | [**Lab: Research and Test External API for Project 2**][5-4C] (Zeb) | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][5-5C]
-**1:30pm Module 3** | [**Outcomes** (Nick)][5-1D] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2D] (Nick) | [**Dogs and TDD** - *Acceptance vs Unit Tests and Mocha*][5-3D] (Zeb) | [**Lab: Research and Test External API for Project 2**][5-4D] (Zeb) | [**Intro to Bootstrap** - *Columns, Responsiveness, and More*][5-5D] (Nick)
-**3:00pm Module 4** | [**Lab: TODO API** - *JSON API Creation*][5-1E] (Nick) | [**Lab: Personal API** - *Heroku and JSON APIs*][5-2E] (Nick) | [**Lab: Fibonacci Tests** - *TDD, Mocha, and Recursion*][5-3E] (Zeb) | [**Project 2 Ideation / Wireframes**][5-4E] (Nick) | [**Map Wireframes to Views**][5-5E] (Nick)
-**Training** | Continue TODO API & [**Project 2 Proposal**][5-1F] | Personal API | [**Testing Reading**][5-3F] | Get External API Set Up for Project 2 | **Mock out Project 2 w/ Lorem and Mock Data Only**
+**11:00am Module 2** | [**Lab: Quotes** - *Views in Express* (Zeb)][5-1C] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2C] (Nick) |  [**Dogs and TDD** - *Acceptance vs Unit Tests and Mocha*][5-3C] (Zeb) | [**Lab: Research and Test External API for Project 2**][5-4C] (Zeb) | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][5-5C]
+**1:30pm Module 3** | [**Outcomes** (Nick)][5-1D] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2D] (Nick) | [**Lab: Fibonacci Tests** - *TDD, Mocha, and Recursion*][5-3D] (Zeb) and [**Project 2 Intro**][5-3E] | [**Lab: Research and Test External API for Project 2**][5-4D] (Zeb) | [**Intro to Bootstrap** - *Columns, Responsiveness, and More*][5-5D] (Nick)
+**3:00pm Module 4** | [**Lab: TODO API** - *JSON API Creation*][5-1E] (Nick) | [**Cargo Planes** - *Intro to MVC*][5-2E] (Zeb) | [**Lab: Personal API** - *Heroku and JSON APIs*][5-3F] (Nick) | [**Project 2 Ideation / Wireframes**][5-4E] (Nick) | [**Map Wireframes to Views**][5-5E] (Nick)
+**Training** | Continue TODO API & [**Project 2 Proposal**][5-1F] | [**Testing Reading and Quiz**][5-2F] | Personal API | Get External API Set Up for Project 2 | **Mock out Project 2 w/ Lorem and Mock Data Only**
 
 Weekly Goals:
 * Utilize server-side rendering with templates
@@ -264,15 +264,15 @@ Weekly Goals:
 [5-2B]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
 [5-2C]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
 [5-2D]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
-[5-2E]: https://github.com/den-materials/express-personal-api "Personal API"
+[5-2E]: https://github.com/den-materials/mvc-intro "MVC Intro"
+[5-2F]: https://mochajs.org/ "Testing Reading and Quiz"
 
 [5-3A]: https://github.com/den-wdi-3/unit2_week1_secondpass "Second Pass"
 [5-3B]: https://github.com/den-materials/ux-crash-course "UX Crash Course"
-[5-3C]: https://github.com/den-materials/mvc-intro "MVC Intro"
-[5-3D]: https://github.com/den-materials/tdd-and-mocha "Intro to TDD"
-[5-3E]: https://github.com/den-materials/tdd-fibonacci "Testing Lab"
-[5-3F]: https://mochajs.org/ "Testing Reading and Quiz"
-[5-3G]: https://github.com/den-materials/project-2 "Project 2"
+[5-3C]: https://github.com/den-materials/tdd-and-mocha "Intro to TDD"
+[5-3D]: https://github.com/den-materials/tdd-fibonacci "Testing Lab"
+[5-3E]: https://github.com/den-materials/project-2 "Project 2"
+[5-3F]: https://github.com/den-materials/express-personal-api "Personal API"
 
 [5-4A]: https://github.com/den-materials/non-tech-lightning-talk "Non-Tech Lightning Talks"
 [5-4B]: https://github.com/den-materials/api-testing "Testing API Calls"
