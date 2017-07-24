@@ -195,7 +195,7 @@ Time | Day 1                                    | Day 2                         
  **9:30am Module 1** | Project 1 | [**Cats API** - *Requests and Postman*][4-2B] (Zeb) | [**Build a Search Engine** - *Connecting Forms to APIs via AJAX*][4-3B] (Nick) | [**Routing, Tacos, and Cats** - *Intro to Express* (Zeb)][4-4B] | [**Restaurants and More** - *Mongo Intro*][4-5B] (Nick)
 **11:00am Module 2** | Final Prep and Submission | [**Cats API Pt 2** - *AJAX*][4-2C] (Zeb) | [**Intro to Node.js** - *Asynchronicity, TDD, File I/O, HTTP Server, and Modules* (Nick)][4-3C] | [**Time and Bicycles** - *Building Express Routes* (Zeb)][4-4C] | [**Lab: Restaurants** - *Mongo CLI*][4-5C] (Nick)
 **1:30pm Module 3** | **Presentations** | [**Lab: Cats API** *AJAX*][4-2D] (Zeb) | [**Lab: Weather Underground** - *Node CLI*][4-3D] (Nick) | [**Lab: Candies** - *Building Express Routes* (Zeb)][4-4D] | [**Reminders** - *Mongoose Intro*][4-5D] (Zeb)
-**3:00pm Module 4** | **Retrospective** and [**Fix an Issue** (Nick)][4-1D] | [**SuperCRUD Queries** - *API Practice*][4-2E] (Nick) | [**Lab: Favorite Movies** - *Requesting with Node*][4-3E] (Stefan) | [**Burgers and Tacos** - *Express, Parameters, and Middleware*][4-4E] (Nick) |  [**Organizing Food and Tweets** - *Referenced and Embedded Data with Mongo*][4-5E] (Zeb)
+**3:00pm Module 4** | **Retrospective** and [**Fix an Issue** (Nick)][4-1D] | [**SuperCRUD Queries** - *API Practice*][4-2E] (Nick) | [**Lab: Favorite Movies** - *Requesting with Node*][4-3E] (Stefan) | [**Burgers and Tacos** - *Express, Parameters, and Middleware*][4-4E] (Nick) |  [**More Mongoose**][4-5D] (Zeb)
 **Training** | Fixing Issues | Continue Cats API (AJAX) Lab | Continue Requesting with Node (Movies) Lab | Continue Candies (Express Routing) Lab | Continue Restaurants (Mongo CLI) Lab
 
 Weekly Goals:
@@ -232,13 +232,13 @@ Weekly Goals:
 [4-5B]: https://github.com/den-materials/mongo-intro "Intro to Mongo"
 [4-5C]: https://github.com/den-materials/mongo-cli "Mongo Lab"
 [4-5D]: https://github.com/den-materials/intro-mongoose "Mongo-backed models with Mongoose"
-[4-5E]: https://github.com/den-materials/mongo-structured-data "Data Organization in Mongo"
+
 
 #### Week 5 - Full-Stack Apps, MVC, and Testing (7/24-7/28)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | [**CodeWars**][5-1A] | [**Questions in a Hat**][5-2A] (Zeb) | [**Second Pass** (Zeb)][5-3A] | [**Non-Tech Lightning Talks**][5-4A] | [**Non-Tech Lightning Talks**][5-5A]
+ **9:00am Warm-Up** | [**Organizing Food and Tweets** - *Referenced and Embedded Data with Mongo* (Zeb)][5-1A] | [**Questions in a Hat**][5-2A] (Zeb) | [**Second Pass** (Zeb)][5-3A] | [**Non-Tech Lightning Talks**][5-4A] | [**Non-Tech Lightning Talks**][5-5A]
  **9:30am Module 1** | [**Candies Again** - *Views in Express* (Zeb)][5-1B] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2B] (Nick) | [**UX Crash Course** - *UX Ideation and Hierarchy of Needs*][5-3B] (Nick) | [**OMDB API Testing** - *Node Requests and Mocha*][5-4B] (Zeb) | [**Outcomes** (Nick)][5-5B]
 **11:00am Module 2** | [**Lab: Quotes** - *Views in Express* (Zeb)][5-1C] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2C] (Nick) | [**Cargo Planes** - *Intro to MVC*][5-3C] (Zeb) and [**Project 2 Intro**][5-3G] | [**Lab: Research and Test External API for Project 2**][5-4C] (Zeb) | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][5-5C]
 **1:30pm Module 3** | [**Outcomes** (Nick)][5-1D] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2D] (Nick) | [**Dogs and TDD** - *Acceptance vs Unit Tests and Mocha*][5-3D] (Zeb) | [**Lab: Research and Test External API for Project 2**][5-4D] (Zeb) | [**Intro to Bootstrap** - *Columns, Responsiveness, and More*][5-5D] (Nick)
@@ -253,7 +253,7 @@ Weekly Goals:
 * Build and test an API integration
 * Integrate tools like Gulp and Bootstrap to improve development
 
-[5-1A]: https://www.codewars.com "CodeWars"
+[5-1A]: https://github.com/den-materials/mongo-structured-data "Data Organization in Mongo"
 [5-1B]: https://github.com/den-materials/express-views-lesson "Views in Express Lesson"
 [5-1C]: https://github.com/den-materials/express-views-lab "Views in Express Lab"
 [5-1D]: https://github.com/den-materials/outcomes-resources "Outcomes"
