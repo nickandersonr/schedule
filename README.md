@@ -238,8 +238,13 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **Agenda** | Full | Stack | Mongo | Server-side Rendering | MVC
- 
+ **9:00am Warm-Up** | [**CodeWars**][5-1A] | [**Questions in a Hat**][5-2A] (Zeb) | [**Second Pass** (Zeb)][5-3A] | [**Non-Tech Lightning Talks**][5-4A] | [**Non-Tech Lightning Talks**][5-5A]
+ **9:30am Module 1** | [**Candies Again** - *Views in Express* (Zeb)][5-1B] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2B] (Nick) | [**UX Crash Course** - *UX Ideation and Hierarchy of Needs*][5-3B] (Nick) | [**OMDB API Testing** - *Node Requests and Mocha*][5-4B] (Zeb) | [**Outcomes** (Nick)][5-5B]
+**11:00am Module 2** | [**Lab: Quotes** - *Views in Express* (Zeb)][5-1C] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2C] (Nick) | [**Cargo Planes** - *Intro to MVC*][5-3C] (Zeb) and [**Project 2 Intro**][5-3G] | [**Lab: Research and Test External API for Project 2**][5-4C] (Zeb) | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][5-5C]
+**1:30pm Module 3** | [**Outcomes** (Nick)][5-1D] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2D] (Nick) | [**Dogs and TDD** - *Acceptance vs Unit Tests and Mocha*][5-3D] (Zeb) | [**Lab: Research and Test External API for Project 2**][5-4D] (Zeb) | [**Intro to Bootstrap** - *Columns, Responsiveness, and More*][5-5D] (Nick)
+**3:00pm Module 4** | [**Lab: TODO API** - *JSON API Creation*][5-1E] (Nick) | [**Lab: Personal API** - *Heroku and JSON APIs*][5-2E] (Nick) | [**Lab: Fibonacci Tests** - *TDD, Mocha, and Recursion*][5-3E] (Zeb) | [**Project 2 Ideation / Wireframes**][5-4E] (Nick) | [**Map Wireframes to Views**][5-5E] (Nick)
+**Training** | Continue TODO API & [**Project 2 Proposal**][5-1F] | Personal API | [**Testing Reading**][5-3F] | Get External API Set Up for Project 2 | **Mock out Project 2 w/ Lorem and Mock Data Only**
+
 Weekly Goals:
 * Utilize server-side rendering with templates
 * Utilize Sass to improve and DRY out CSS code
@@ -247,6 +252,39 @@ Weekly Goals:
 * Write a software test suite with Mocha and Chai
 * Build and test an API integration
 * Integrate tools like Gulp and Bootstrap to improve development
+
+[5-1A]: https://www.codewars.com "CodeWars"
+[5-1B]: https://github.com/den-materials/express-views-lesson "Views in Express Lesson"
+[5-1C]: https://github.com/den-materials/express-views-lab "Views in Express Lab"
+[5-1D]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[5-1E]: https://github.com/den-materials/test-driven-todo-api "Todo Lab"
+[5-1F]: https://github.com/den-materials/project-2 "Project 2 Proposal"
+
+[5-2A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
+[5-2B]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
+[5-2C]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
+[5-2D]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
+[5-2E]: https://github.com/den-materials/express-personal-api "Personal API"
+
+[5-3A]: https://github.com/den-wdi-3/unit2_week1_secondpass "Second Pass"
+[5-3B]: https://github.com/den-materials/ux-crash-course "UX Crash Course"
+[5-3C]: https://github.com/den-materials/mvc-intro "MVC Intro"
+[5-3D]: https://github.com/den-materials/tdd-and-mocha "Intro to TDD"
+[5-3E]: https://github.com/den-materials/tdd-fibonacci "Testing Lab"
+[5-3F]: https://mochajs.org/ "Testing Reading and Quiz"
+[5-3G]: https://github.com/den-materials/project-2 "Project 2"
+
+[5-4A]: https://github.com/den-materials/non-tech-lightning-talk "Non-Tech Lightning Talks"
+[5-4B]: https://github.com/den-materials/api-testing "Testing API Calls"
+[5-4C]: https://github.com/den-materials/external-API-research "Research and Test External API Lab"
+[5-4D]: https://github.com/den-materials/external-API-research "Research and Test External API Lab"
+[5-4E]: https://github.com/den-materials/project-2-ideation "Project 2 Ideation / Wireframes"
+
+[5-5A]: https://github.com/den-materials/non-tech-lightning-talk "Non-Tech Lightning Talks"
+[5-5B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[5-5C]: https://github.com/den-materials/gulp "Gulp"
+[5-5D]: https://github.com/den-materials/bootstrap "Intro to Bootstrap"
+[5-5E]: https://github.com/den-materials/mapping-wireframes "Map Wireframes to HTML/CSS Components for Project 2"
 
 #### Week 6 - User Management and Project 2: Full-stack CRUD App (7/31-8/4)
 
