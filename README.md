@@ -340,7 +340,7 @@ Time | Day 1                                    | Day 2                         
  **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | Components Project | API Project and Checkpoint
  **1:30pm Module 3** | Project 2 | [**Outcomes** (Becca)][7-2C] | Intro to Angular and Typescript | Angular Routing | HTTP with Promises
 **3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | Angular Basics | Angular Routing Project | HTTP Observables
-**Training** | Project 2 | Fix Issues |  Something about Angular? | **Project 3 Pitch Prep** | Observables Project & **Testing Reading Maybe?**
+**Training** | Project 2 | Fix Issues | Angular Reading and Quiz | **Project 3 Pitch Prep** | Observables Project & **Mocha with Angular Reading and Quiz**
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
