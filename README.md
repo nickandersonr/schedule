@@ -379,11 +379,11 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**CodeWars**][8-1A] | Vending Machine Wrapup | [**Rapid Prototype** - *MEAN App* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A] |  [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A]
-**9:30am Module 1** | Intro to Mocha | [**Questions in a Line** (Zeb)][8-2A] & [**Second Pass** (Zeb)][8-2B] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-3B] | BLANK SPOT | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B]
- **11:00am Module 2** | Service Workers and Online Angular | [**Firebase** - *Online Tutorial Work* (Zeb)][8-2C] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-3D] | [**Lab: Carmen Sandiego** - *SQL Practice* (Zeb)][8-5C]
-**1:30pm Module 3** | Angular and Universal and Testing Project | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2D] | [**Rapid Prototype Science Fair**][8-3C] | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
-**3:00pm Module 4** | Recap and Intro to Vending Machine | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2E] | [**Competitive and User Research** (Nick)][8-3E] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
+**9:00am Warm-up** | [**CodeWars**][8-1A] | Vending Machine Wrapup | Fixing Bugs | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A] |  [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A]
+**9:30am Module 1** | Intro to Mocha | [**Questions in a Line** (Zeb)][8-2A] & [**Second Pass** (Zeb)][8-2B] | Fixing Bugs | BLANK SPOT | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B]
+ **11:00am Module 2** | Service Workers and Online Angular | Adding a Feature | Choose Your Own Adventure | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-3D] | [**Lab: Carmen Sandiego** - *SQL Practice* (Zeb)][8-5C]
+**1:30pm Module 3** | Angular and Universal and Testing Project | Changing a Feature | Choose Your own Adventure and Recap Exercise | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
+**3:00pm Module 4** | Recap and Intro to Vending Machine | Polish Feature add and Change | [**Competitive and User Research** (Nick)][8-3E] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
 **Training** | Vending Machine | Rapid Prototype | [**Interview Potential Users**][8-3F] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
 
 Weekly Goals:
