@@ -335,19 +335,21 @@ Extra Resources:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-up** | Standup |  Project 2 | [**Project 3 Intro**][7-3A] | [**Project 3 Pitches**][7-4A] | [**CodeWars**][7-5A]
- **9:30am Module 1** | Project 2 | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Weather Directive** - *Angular Directives* Lesson (Zeb)][7-4B] | [**Lab: Angular Hangman** - *ng-model, ng-controller, ng-repeat, ng-change* (Zeb)][7-5B]
- **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | [**Lab: Cards Against Assembly** *Angular Directives* (Zeb)][7-4C] | [**Lab: Angular Hangman** - *ng-model, ng-controller, ng-repeat, ng-change* (Zeb)][7-5C]
- **1:30pm Module 3** | Project 2 | [**Outcomes** (Becca)][7-2C] | [**Pokemon, Man!** - *Intro to Angular* (Zeb)][7-3D] | [**Presidents** - *$http and Promises* (Stefan)][7-4D] | [**Lab: Wines** - *ngRoute* (Stefan)][7-5D]
-**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Lab: Pokemon, Man!** - *Intro to Angular* (Zeb)][7-3E] | [**Lab: Criminals** - *$http* (Stefan)][7-4E] | [**Lab: Wines** - *ngRoute* (Stefan)][7-5E]
-**Training** | Project 2 | Fix Issues | **Project 3 Pitch Prep** & Angular Intro: [**Look over the Angular Documentation**][7-3F] + [**Check out this blog**][7-3G] + [**Do this Lab**][7-3H] | Continue $http / Criminals Lab | **ui-router vs ngRoute readings**: [#1][7-5F] + [#2][7-5G] + [#3][7-5H]
+ **9:00am Warm-up** | Standup |  Project 2 | [**Project 3 Intro**][7-3A] | Angular Components | [**Project 3 Pitches**][7-5A]
+ **9:30am Module 1** | Project 2 | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | Angular Components | Angular APIs
+ **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | Components Project | API Project and Checkpoint
+ **1:30pm Module 3** | Project 2 | [**Outcomes** (Becca)][7-2C] | Intro to Angular and Typescript | Angular Routing | HTTP with Promises
+**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | Angular Basics | Angular Routing Project | HTTP Observables
+**Training** | Project 2 | Fix Issues |  Something about Angular? | **Project 3 Pitch Prep** | Observables Project & **Testing Reading Maybe?**
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
 - Understand what Angular is
-- Utilize built-in Angular directives and build custom ones
-- Use $http to communicate from Angular front-end to back-end
-- Configure front-end routing with Angular and ngRoute
+- Start an Angular project with the Angular CLI
+- Create your own components with the Angular CLI
+- Use `Http` to communicate from Angular front-end to back-end
+- Configure front-end routing with Angular
+- Differentiate between promises and observables
 
 [7-2C]: https://github.com/den-materials/portfolio-starter-kit "Make a Portfolio!"
 [7-2D]: https://github.com/den-materials/create-an-issue-project2 "Create Issues"
@@ -355,19 +357,16 @@ Weekly Goals:
 [7-3A]: https://github.com/den-materials/project-03 "Project 3"
 [7-3B]: https://github.com/den-materials/es6-part2 "More ES6"
 [7-3C]: https://github.com/den-materials/authentication-and-math "Auth Math"
-[7-3D]: https://github.com/den-materials/angular-intro "Intro to Angular"
-[7-3E]: https://github.com/den-materials/angular-intro "Intro to Angular Lab"
-[7-3F]: https://docs.angularjs.org/guide/introduction "Angular Reading"
-[7-3G]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
-[7-3H]: https://github.com/den-materials/intro_angular_challenges
+[7-3D]: # "" 
+[7-3E]: # "" 
 
-[7-4A]: https://github.com/den-materials/project-03 "Project 3 Pitch"
-[7-4B]: https://github.com/den-materials/angular-directives-lesson "Directives Lesson"
+[7-4A]: # "Angular Components"
+[7-4B]: # "Angular Components"
 [7-4C]: https://github.com/den-materials/angular-directives-lab "Directives Lab"
 [7-4D]: https://github.com/den-materials/http-workshop "$http and promises"
 [7-4E]: https://github.com/den-materials/http-lab "$http lab"
 
-[7-5A]: https://www.codewars.com "CodeWars"
+[7-5A]: https://github.com/den-materials/project-03 "Project 3 Pitch"
 [7-5B]: https://github.com/den-materials/ng-hangman "Angular Hangman"
 [7-5C]: https://github.com/den-materials/ng-hangman "Angular Hangman"
 [7-5D]: https://github.com/den-materials/angular_routing_lab "Routing"
@@ -380,12 +379,12 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**CodeWars**][8-1A] | [**Questions in a Line** (Zeb)][8-2A] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A] | [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A]
-**9:30am Module 1** | [**Criminals Refactor** - *$resource and Factories* (Zeb)][8-1B] | [**Second Pass** (Zeb)][8-2B] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-3B] | [**Angular Auth** - *Satellizer* (Zeb)][8-4B] | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B]
- **11:00am Module 2** | [**Awwwards and Fading Badge** - *ng-class and ngAnimate* (Zeb)][8-1C] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2C] | [**Rapid Prototype Science Fair**][8-3C] | [**Firebase** - *Online Tutorial Work* (Zeb)][8-4C] | [**Lab: Carmen Sandiego** - *SQL Practice* (Zeb)][8-5C]
-**1:30pm Module 3** | [**Cards Back End** - *node, mongo, and $http* (Zeb)][8-1D] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2D] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-3D] | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
-**3:00pm Module 4** | [**Cards Back End** - *node, mongo, and $http* (Zeb)][8-1E] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2E] | [**Competitive and User Research** (Nick)][8-3E] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
-**Training** | Continue Cards / MEAN App | Rapid Prototype | [**Interview Potential Users**][8-3F] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
+**9:00am Warm-up** | [**CodeWars**][8-1A] | Vending Machine Wrapup | [**Rapid Prototype** - *MEAN App* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A] |  [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A]
+**9:30am Module 1** | Intro to Mocha | [**Questions in a Line** (Zeb)][8-2A] & [**Second Pass** (Zeb)][8-2B] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-3B] | BLANK SPOT | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B]
+ **11:00am Module 2** | Service Workers and Online Angular | [**Firebase** - *Online Tutorial Work* (Zeb)][8-2C] | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-3D] | [**Lab: Carmen Sandiego** - *SQL Practice* (Zeb)][8-5C]
+**1:30pm Module 3** | Angular and Universal and Testing Project | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2D] | [**Rapid Prototype Science Fair**][8-3C] | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
+**3:00pm Module 4** | Recap and Intro to Vending Machine | [**Rapid Prototype** - *MEAN App* (Zeb)][8-2E] | [**Competitive and User Research** (Nick)][8-3E] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
+**Training** | Vending Machine | Rapid Prototype | [**Interview Potential Users**][8-3F] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
 
 Weekly Goals:
 - Use $resource to DRY out CRUD apps
@@ -407,20 +406,20 @@ Weekly Goals:
 
 [8-2A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
 [8-2B]: https://github.com/den-wdi-3/unit3_week1_secondpass "Second Pass"
-[8-2C]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
+[8-2C]: https://github.com/angular/angularfire2 "Firebase"
 [8-2D]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
 [8-2E]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
 
 [8-3A]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
 [8-3B]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
-[8-3C]: # "Science Fair"
-[8-3D]: https://github.com/den-materials/sassy-node "Sassy Node"
+[8-3C]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
+[8-3D]: # "Science Fair"
 [8-3E]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
 [8-3F]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
 
 [8-4A]: https://github.com/den-materials/angular-tShoot "Angular Troubleshooting"
 [8-4B]: https://github.com/den-materials/angular-auth-satellizer "Angular Auth"
-[8-4C]: https://github.com/den-materials/ng-firebase "Firebase"
+[8-4C]: https://github.com/den-materials/sassy-node "Sassy Node"
 [8-4D]: https://github.com/den-materials/sketch-photoshop-basics "Sketch and Photoshop"
 [8-4E]: https://github.com/den-materials/data-modeling "Relational Data Modeling"
 [8-4F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
