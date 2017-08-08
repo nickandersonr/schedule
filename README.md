@@ -335,12 +335,12 @@ Extra Resources:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-up** | Standup |  Project 2 | [**Project 3 Intro**][7-3A] | Angular Components | [**Project 3 Pitches**][7-5A]
- **9:30am Module 1** | Project 2 | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | Angular Components | Angular APIs
- **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | Components Project | API Project and Checkpoint
- **1:30pm Module 3** | Project 2 | [**Outcomes** (Becca)][7-2C] | Intro to Angular and Typescript | Angular Routing | HTTP with Promises
-**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | Angular Basics | Angular Routing Project | HTTP Observables
-**Training** | Project 2 | Fix Issues |  Something about Angular? | **Project 3 Pitch Prep** | Observables Project & **Testing Reading Maybe?**
+ **9:00am Warm-up** | Standup |  Project 2 | [**Project 3 Intro**][7-3A] | [Angular Components (Zeb)][7-4A] | [**Project 3 Pitches**][7-5A]
+ **9:30am Module 1** | Project 2 | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [Angular Components (Zeb)][7-4B] | [Angular APIs][7-5B]
+ **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | [Summary So Far][7-4C] [Components Project][7-4D] | Checkpoint Code and [API Project][7-5C]
+ **1:30pm Module 3** | Project 2 | [**Outcomes** (Becca)][7-2C] | [Intro to Angular][7-3D] and [Typescript][7-3E] (Zeb) | [Angular Routing and Single Page Apps][7-4E] | [HTTP Observables][7-5D]
+**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [Angular Basics (Zeb)][7-3F] | Angular Routing Project | [HTTP Observables][7-5E]
+**Training** | Project 2 | Fix Issues | Angular and Typescript Quiz | **Project 3 Pitch Prep** | Observables Project & **[Testing Reading][7-5F] and Quiz**
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -357,23 +357,23 @@ Weekly Goals:
 [7-3A]: https://github.com/den-materials/project-03 "Project 3"
 [7-3B]: https://github.com/den-materials/es6-part2 "More ES6"
 [7-3C]: https://github.com/den-materials/authentication-and-math "Auth Math"
-[7-3D]: # "" 
-[7-3E]: # "" 
+[7-3D]: https://github.com/den-materials/angular/blob/master/lectures/day-1/01-intro.md "Intro to Angular" 
+[7-3E]: https://github.com/den-materials/angular/blob/master/lectures/day-1/02-typescript.md "Intro to Typescript" 
+[7-3F]: https://github.com/den-materials/angular/blob/master/lectures/day-1/03-angular-basics.md "Angular Basics"
 
-[7-4A]: # "Angular Components"
-[7-4B]: # "Angular Components"
-[7-4C]: https://github.com/den-materials/angular-directives-lab "Directives Lab"
-[7-4D]: https://github.com/den-materials/http-workshop "$http and promises"
-[7-4E]: https://github.com/den-materials/http-lab "$http lab"
+[7-4A]: https://github.com/den-materials/angular/blob/master/lectures/day-1/04-angular-components.md "Angular Components"
+[7-4B]: https://github.com/den-materials/angular/blob/master/lectures/day-1/04-angular-components.md "Angular Components"
+[7-4C]: https://github.com/den-materials/angular/blob/master/lectures/day-1/05-summary.md "Summary"
+[7-4D]: https://github.com/den-materials/angular/tree/master/projects/project-01-components "Components Project"
+[7-4E]: https://github.com/den-materials/angular/tree/master/lectures/day-2 "Day 2 Lessons"
+[7-4F]: https://github.com/den-materials/angular/tree/master/projects/project-02-a-routing "Routing Project"
 
 [7-5A]: https://github.com/den-materials/project-03 "Project 3 Pitch"
-[7-5B]: https://github.com/den-materials/ng-hangman "Angular Hangman"
-[7-5C]: https://github.com/den-materials/ng-hangman "Angular Hangman"
-[7-5D]: https://github.com/den-materials/angular_routing_lab "Routing"
-[7-5E]: https://github.com/den-materials/angular_routing_lab "Routing"
-[7-5F]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
-[7-5G]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
-[7-5H]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
+[7-5B]: https://github.com/den-materials/angular/tree/master/lectures/day-2 "Day 2 Lessons"
+[7-5C]: https://github.com/den-materials/angular/tree/master/projects/project-02-b-api-calls "API Project"
+[7-5D]: https://github.com/den-materials/angular/blob/master/lectures/day-3/observables/README.md "HTTP/Observables"
+[7-5E]: https://github.com/den-materials/angular/blob/master/lectures/day-3/observables/README.md "HTTP/Observables"
+[7-5F]: https://www.sitepoint.com/ultimate-angular-cli-reference/#runningyourunittests "Mocha, Karma, and Angular"
 
 #### Week 8 - More Angular/Full-stack and SQL (8/14-8/18)
 
