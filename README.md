@@ -336,11 +336,11 @@ Extra Resources:
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
  **9:00am Warm-up** | Standup |  Project 2 | [**Project 3 Intro**][7-3A] | [Angular Components (Zeb)][7-4A] | [**Project 3 Pitches**][7-5A]
- **9:30am Module 1** | Project 2 | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [Angular Components (Zeb)][7-4B] | [Angular APIs][7-5B]
- **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | [Summary So Far][7-4C] [Components Project][7-4D] | Checkpoint Code and [API Project][7-5C]
- **1:30pm Module 3** | Project 2 | [**Outcomes** (Becca)][7-2C] | [Intro to Angular][7-3D] and [Typescript][7-3E] (Zeb) | [Angular Routing and Single Page Apps][7-4E] | [HTTP Observables][7-5D]
-**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [Angular Basics (Zeb)][7-3F] | Angular Routing Project | [HTTP Observables][7-5E]
-**Training** | Project 2 | Fix Issues | Angular and Typescript Quiz | **Project 3 Pitch Prep** | Observables Project & **[Testing Reading][7-5F] and Quiz**
+ **9:30am Module 1** | Project 2 | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [Angular Components (Zeb)][7-4B] | [Angular APIs (Zeb)][7-5B]
+ **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | [Summary So Far][7-4C] & [Components Project][7-4D] (Zeb) | Checkpoint Code and [API Project][7-5C] (Zeb)
+ **1:30pm Module 3** | Project 2 | [**Outcomes** (Becca)][7-2C] | [Intro to Angular][7-3D] and [Typescript][7-3E] (Zeb) | [Angular Routing and Single Page Apps (Zeb)][7-4E] | [HTTP Observables (Zeb)][7-5D]
+**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [Angular Basics (Zeb)][7-3F] | [Angular Routing Project (Zeb)][7-4F] | [HTTP Observables (Zeb)][7-5E]
+**Training** | Project 2 | Fix Issues | Angular and Typescript Quiz | **Project 3 Pitch Prep** | [Observables Project][7-5F] & **[Testing Reading][7-5G] and Quiz**
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -373,18 +373,19 @@ Weekly Goals:
 [7-5C]: https://github.com/den-materials/angular/tree/master/projects/project-02-b-api-calls "API Project"
 [7-5D]: https://github.com/den-materials/angular/blob/master/lectures/day-3/observables/README.md "HTTP/Observables"
 [7-5E]: https://github.com/den-materials/angular/blob/master/lectures/day-3/observables/README.md "HTTP/Observables"
-[7-5F]: https://www.sitepoint.com/ultimate-angular-cli-reference/#runningyourunittests "Mocha, Karma, and Angular"
+[7-5F]: https://github.com/den-materials/angular/tree/master/projects/project-03-a-observables "Observables Project"
+[7-5G]: https://www.sitepoint.com/ultimate-angular-cli-reference/#runningyourunittests "Mocha, Karma, and Angular"
 
 #### Week 8 - More Angular/Full-stack and SQL (8/14-8/18)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**CodeWars**][8-1A] | Vending Machine Wrapup | Fixing Bugs | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A] |  [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A]
-**9:30am Module 1** | Intro to Mocha | [**Questions in a Line** (Zeb)][8-2A] & [**Second Pass** (Zeb)][8-2B] | Fixing Bugs | BLANK SPOT | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B]
- **11:00am Module 2** | Service Workers and Online Angular | Adding a Feature | Choose Your Own Adventure | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-3D] | [**Lab: Carmen Sandiego** - *SQL Practice* (Zeb)][8-5C]
-**1:30pm Module 3** | Angular and Universal and Testing Project | Changing a Feature | Choose Your own Adventure and Recap Exercise | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
-**3:00pm Module 4** | Recap and Intro to Vending Machine | Polish Feature add and Change | [**Competitive and User Research** (Nick)][8-3E] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
-**Training** | Vending Machine | Rapid Prototype | [**Interview Potential Users**][8-3F] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
+**9:00am Warm-up** | [**CodeWars**][8-1A] | Vending Machine Wrapup (Zeb) | [Fixing Bugs in Angular (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A] |  [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A]
+**9:30am Module 1** | [Intro to Mocha (Zeb)][8-1B] | [**Questions in a Line**][8-2A] & [**Second Pass**][8-2B] (Zeb) | [Fixing Bugs in Angular (Zeb)][8-3B] | BLANK SPOT | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B]
+ **11:00am Module 2** | [Service Workers and Offline Angular (Zeb)][8-1C] | [Adding a Feature (Zeb)][8-2C] | [Choose Your Own Adventure (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-3D] | [**Lab: Carmen Sandiego** - *SQL Practice* (Zeb)][8-5C]
+**1:30pm Module 3** | [Angular Universal][8-1D] & [Testing Project][8-1E] (Zeb) | [Changing a Feature (Zeb)][8-2D] | [Choose Your own Adventure][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
+**3:00pm Module 4** | [Recap][8-1F] & [Intro to Vending Machine][8-1G] (Zeb) | [Polish Feature Add and Change (Zeb)][8-2E] | [**Competitive and User Research** (Nick)][8-3F] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
+**Training** | Vending Machine | Continue Feature Add and Change | [**Interview Potential Users**][8-3G] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
 
 Weekly Goals:
 - Use $resource to DRY out CRUD apps
@@ -399,26 +400,29 @@ Weekly Goals:
 - Create a SQL DB and perform queries on it
 
 [8-1A]: https://www.codewars.com "CodeWars"
-[8-1B]: https://github.com/den-materials/angular-resource "ngResource"
-[8-1C]: https://github.com/den-materials/angular-animations-intro "Angular UI Practice"
-[8-1D]: https://github.com/den-materials/fullStack-JS-App "Not-so-MEAN App"
-[8-1E]: https://github.com/den-materials/fullStack-JS-App "Not-so-MEAN App"
+[8-1B]: https://github.com/den-materials/angular/blob/master/lectures/day-3/03-mocha-and-tdd.md "Mocha, Karma, and Angular"
+[8-1C]: https://github.com/den-materials/angular/blob/master/lectures/day-3/04-service-workers.md "Service Workers"
+[8-1D]: https://github.com/den-materials/angular/blob/master/lectures/day-3/06-angular-universal.md "Angular Universal"
+[8-1E]: https://github.com/den-materials/angular/tree/master/projects/project-03-b-testing "Testing Project"
+[8-1F]: https://github.com/den-materials/angular/blob/master/lectures/day-4/01-recap.md "Recap"
+[8-1G]: https://github.com/den-materials/angular/tree/master/projects/project-04-vending-machine "Vending Machine"
 
 [8-2A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
-[8-2B]: https://github.com/den-wdi-3/unit3_week1_secondpass "Second Pass"
-[8-2C]: https://github.com/angular/angularfire2 "Firebase"
-[8-2D]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
-[8-2E]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
+[8-2B]: https://github.com/den-wdi-4/unit3_week1_secondpass "Second Pass"
+[8-2C]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-2D]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-2E]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
 
-[8-3A]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
-[8-3B]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
-[8-3C]: https://github.com/den-materials/rapid-prototype "Rapid Prototyping"
-[8-3D]: # "Science Fair"
-[8-3E]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
-[8-3F]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
+[8-3A]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-3B]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-3C]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-3D]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-3E]: https://git.generalassemb.ly/education-product/module-angular2/blob/master/lectures/day-5/03-recap.md "Recap Exercise"
+[8-3F]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
+[8-3G]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
 
 [8-4A]: https://github.com/den-materials/angular-tShoot "Angular Troubleshooting"
-[8-4B]: https://github.com/den-materials/angular-auth-satellizer "Angular Auth"
+[8-4B]: # "Nothing"
 [8-4C]: https://github.com/den-materials/sassy-node "Sassy Node"
 [8-4D]: https://github.com/den-materials/sketch-photoshop-basics "Sketch and Photoshop"
 [8-4E]: https://github.com/den-materials/data-modeling "Relational Data Modeling"
