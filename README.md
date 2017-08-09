@@ -335,12 +335,12 @@ Extra Resources:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-up** | Standup |  Project 2 | [**Project 3 Intro**][7-3A] | [Angular Components (Zeb)][7-4A] | [**Project 3 Pitches**][7-5A]
- **9:30am Module 1** | Project 2 | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [Angular Components (Zeb)][7-4B] | [Angular APIs (Zeb)][7-5B]
- **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | [Summary So Far][7-4C] & [Components Project][7-4D] (Zeb) | Checkpoint Code and [API Project][7-5C] (Zeb)
- **1:30pm Module 3** | Project 2 | [**Outcomes** (Becca)][7-2C] | [Intro to Angular][7-3D] and [Typescript][7-3E] (Zeb) | [Angular Routing and Single Page Apps (Zeb)][7-4E] | [HTTP Observables (Zeb)][7-5D]
-**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [Angular Basics (Zeb)][7-3F] | [Angular Routing Project (Zeb)][7-4F] | [HTTP Observables (Zeb)][7-5E]
-**Training** | Project 2 | Fix Issues | Angular and Typescript Quiz | **Project 3 Pitch Prep** | [Observables Project][7-5F] & **[Testing Reading][7-5G] and Quiz**
+ **9:00am Warm-up** | Standup |  Project 2 | [**Project 3 Intro**][7-3A] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**Project 3 Pitches**][7-5A]
+ **9:30am Module 1** | Project 2 | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4B] | [**Star Wars API Pt 1** - *Angular APIs* (Zeb)][7-5B]
+ **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | [**Summary of Components and Angular Basics**][7-4C] & [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Checkpoint Codealong** and [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb)
+ **1:30pm Module 3** | Project 2 | [**Outcomes** (Becca)][7-2C] | [**Intro to Angular**][7-3D] and [**Multiplying and Battle** - Typescript][7-3E] (Zeb) | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D]
+**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Our First Angular App** - *Angular Basics* (Zeb)][7-3F] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Zeb)][7-4F] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E]
+**Training** | **Project 2** | **Fix Issues** | **Angular and Typescript Quiz** | **Project 3 Pitch Prep** | [**Death Square Pt 4** - *Observables Mini-Project*][7-5F] & **[Testing Reading][7-5G] and Quiz**
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
