@@ -366,7 +366,7 @@ Weekly Goals:
 [7-4C]: https://github.com/den-materials/angular/blob/master/lectures/day-1/05-summary.md "Summary"
 [7-4D]: https://github.com/den-materials/angular/tree/master/projects/project-01-components "Components Project"
 [7-4E]: https://github.com/den-materials/angular/tree/master/lectures/day-2 "Day 2 Lessons"
-[7-4F]: https://github.com/den-materials/angular/tree/master/projects/project-02-a-routing "Routing Project"
+[7-4F]: https://github.com/den-materials/death-square-routing "Routing Project"
 
 [7-5A]: https://github.com/den-materials/project-03 "Project 3 Pitch"
 [7-5B]: https://github.com/den-materials/angular/tree/master/lectures/day-2 "Day 2 Lessons"
