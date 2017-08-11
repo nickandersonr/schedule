@@ -340,7 +340,7 @@ Time | Day 1                                    | Day 2                         
  **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | [**Summary of Components and Angular Basics**][7-4C] & [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb)
  **1:30pm Module 3** | Project 2 | [**Outcomes** (Becca)][7-2C] | [**Intro to Angular**][7-3D] and [**Multiplying and Battle** - Typescript][7-3E] (Zeb) | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D]
 **3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Our First Angular App** - *Angular Basics* (Zeb)][7-3F] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Zeb)][7-4F] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E]
-**Training** | **Project 2** | **Fix Issues** | **Angular and Typescript Quiz** | **Project 3 Pitch Prep** | [**Death Square Pt 4** - *Observables Mini-Project*][7-5F] & **[Testing Reading][7-5G] and Quiz**
+**Training** | **Project 2** | **Fix Issues** | **Angular and Typescript Quiz** | **Project 3 Pitch Prep** | [**Death Square Pt 4** - *Observables Mini-Project*][7-5F] & **[Testing][7-5G] [Reading][7-5H] and Quiz**
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -374,7 +374,8 @@ Weekly Goals:
 [7-5D]: https://github.com/den-materials/angular/blob/master/lectures/day-3/observables/README.md "HTTP/Observables"
 [7-5E]: https://github.com/den-materials/angular/blob/master/lectures/day-3/observables/README.md "HTTP/Observables"
 [7-5F]: https://github.com/den-materials/angular/tree/master/projects/project-03-a-observables "Observables Project"
-[7-5G]: https://www.sitepoint.com/ultimate-angular-cli-reference/#runningyourunittests "Mocha, Karma, and Angular"
+[7-5G]: https://www.sitepoint.com/ultimate-angular-cli-reference/#runningyourunittests "Jasmine, Karma, and Angular"
+[7-5H]: https://marcofranssen.nl/jasmine-vs-mocha/ "Jasmine vs Mocha"
 
 #### Week 8 - More Angular/Full-stack and SQL (8/14-8/18)
 
