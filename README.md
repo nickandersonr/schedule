@@ -373,7 +373,7 @@ Weekly Goals:
 [7-5C]: https://github.com/den-materials/death-square-api "API Project"
 [7-5D]: https://github.com/den-materials/angular/blob/master/lectures/day-3/observables/README.md "HTTP/Observables"
 [7-5E]: https://github.com/den-materials/angular/blob/master/lectures/day-3/observables/README.md "HTTP/Observables"
-[7-5F]: https://github.com/den-materials/angular/tree/master/projects/project-03-a-observables "Observables Project"
+[7-5F]: https://github.com/den-materials/death-square-observables "Observables Project"
 [7-5G]: https://www.sitepoint.com/ultimate-angular-cli-reference/#runningyourunittests "Jasmine, Karma, and Angular"
 [7-5H]: https://marcofranssen.nl/jasmine-vs-mocha/ "Jasmine vs Mocha"
 
