@@ -386,7 +386,7 @@ Time | Day 1                                      | Day 2                       
  **11:00am Module 2** | [**Offline Angular** - *Service Workers* (Zeb)][8-1D] & [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Questions in a Line**][8-2B] & [**Second Pass**][8-2C] | [**Choose Your Own Adventure** (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-3D] | [**Lab: Carmen Sandiego** - *SQL Practice* (Zeb)][8-5C]
 **1:30pm Module 3** | [**Serverside Angular** - *Angular Universal*][8-1F] (Zeb) | [**Comments App Pt 1** - *Adding a Feature* (Zeb)][8-2D] | [**Choose Your own Adventure**][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
 **3:00pm Module 4** | [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | [**Competitive and User Research** (Nick)][8-3F] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
-**Training** | Vending Machine | Continue Feature Add and Change | [**Interview Potential Users**][8-3G] & **Turn in Choose Your Own Adventure Work** | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
+**Training** | Project 2 | Continue Feature Add and Change | [**Interview Potential Users**][8-3G] & **Turn in Choose Your Own Adventure Work** | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
 
 Weekly Goals:
 - Use Jasmine to test Angular apps
