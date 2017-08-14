@@ -383,9 +383,9 @@ Time | Day 1                                      | Day 2                       
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-up** | [**CodeWars**][8-1A] and Angular Cleanup | Vending Machine Wrapup (Zeb) | [Fixing Bugs in Angular (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A] |  [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A]
 **9:30am Module 1** | [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project*][8-1C] | [**Questions in a Line**][8-2A] & [**Second Pass**][8-2B] (Zeb) | [Fixing Bugs in Angular (Zeb)][8-3B] | BLANK SPOT | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B]
- **11:00am Module 2** | [**Offline Angular** - *Service Workers* (Zeb)][8-1D] & [**Angular Packages Activity**][8-1E] | [Adding a Feature (Zeb)][8-2C] | [Choose Your Own Adventure (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-3D] | [**Lab: Carmen Sandiego** - *SQL Practice* (Zeb)][8-5C]
-**1:30pm Module 3** | [**Serverside Angular** - *Angular Universal*][8-1F] (Zeb) | [Changing a Feature (Zeb)][8-2D] | [Choose Your own Adventure][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
-**3:00pm Module 4** | [**Recap Lesson**][8-1G] & [**Intro to Vending Machine**][8-1H] (Zeb) | [Polish Feature Add and Change (Zeb)][8-2E] | [**Competitive and User Research** (Nick)][8-3F] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
+ **11:00am Module 2** | [**Offline Angular** - *Service Workers* (Zeb)][8-1D] & [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [Adding a Feature (Zeb)][8-2C] | [Choose Your Own Adventure (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-3D] | [**Lab: Carmen Sandiego** - *SQL Practice* (Zeb)][8-5C]
+**1:30pm Module 3** | [**Serverside Angular** - *Angular Universal*][8-1F] & [**Angular Packages Activity**][8-1G] (Zeb) | [Changing a Feature (Zeb)][8-2D] | [Choose Your own Adventure][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
+**3:00pm Module 4** | [**Recap Lesson**][8-1H] & [**Intro to Vending Machine**][8-1I] (Zeb) | [Polish Feature Add and Change (Zeb)][8-2E] | [**Competitive and User Research** (Nick)][8-3F] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
 **Training** | Vending Machine | Continue Feature Add and Change | [**Interview Potential Users**][8-3G] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
 
 Weekly Goals:
@@ -400,12 +400,13 @@ Weekly Goals:
 
 [8-1A]: https://www.codewars.com "CodeWars"
 [8-1B]: https://github.com/den-materials/angular/blob/master/lectures/day-3/jasmine-and-tdd.md "Jasmine and Angular"
-[8-1C]: https://github.com/den-materials/angular/tree/master/projects/project-03-b-testing "Testing Project"
-[8-1D]: https://github.com/den-materials/angular/blob/master/lectures/day-3/04-service-workers.md "Service Workers"
-[8-1E]: https://github.com/den-materials/angular/blob/master/lectures/day-3/05-angular-packages.md "Angular Packages"
-[8-1F]: https://github.com/den-materials/angular/blob/master/lectures/day-3/06-angular-universal.md "Angular Universal"
-[8-1G]: https://github.com/den-materials/angular/blob/master/lectures/day-4/01-recap.md "Recap"
-[8-1H]: https://github.com/den-materials/angular/tree/master/projects/project-04-vending-machine "Vending Machine"
+[8-1C]: https://github.com/den-materials/death-square-testing "Testing Mini-Project"
+[8-1D]: https://github.com/den-materials/angular/blob/master/lectures/day-3/service-workers.md "Service Workers"
+[8-1E]: https://github.com/den-materials/death-square-service-workers "Service Workers Mini-Project"
+[8-1F]: https://github.com/den-materials/angular/blob/master/lectures/day-3/angular-universal.md "Angular Universal"
+[8-1G]: https://github.com/den-materials/angular/blob/master/lectures/day-3/angular-packages.md "Angular Packages"
+[8-1H]: https://github.com/den-materials/angular/blob/master/lectures/day-4/01-recap.md "Recap"
+[8-1I]: https://github.com/den-materials/angular/tree/master/projects/project-04-vending-machine "Vending Machine"
 
 [8-2A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
 [8-2B]: https://github.com/den-wdi-4/unit3_week1_secondpass "Second Pass"
