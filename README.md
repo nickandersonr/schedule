@@ -406,7 +406,7 @@ Weekly Goals:
 [8-1F]: https://github.com/den-materials/angular/blob/master/lectures/day-3/angular-universal.md "Angular Universal"
 [8-1G]: https://github.com/den-materials/angular/blob/master/lectures/day-3/angular-packages.md "Angular Packages"
 [8-1H]: https://github.com/den-materials/angular/blob/master/lectures/day-4/01-recap.md "Recap"
-[8-1I]: https://github.com/den-materials/angular/tree/master/projects/project-04-vending-machine "Vending Machine"
+[8-1I]: https://github.com/den-materials/angular-vending-machine "Vending Machine"
 
 [8-2A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
 [8-2B]: https://github.com/den-wdi-4/unit3_week1_secondpass "Second Pass"
