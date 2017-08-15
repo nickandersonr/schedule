@@ -559,9 +559,9 @@ Weekly Goals:
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am** | Lightning Talks Prep | [**Mock Interviews** - **Technical** (Zeb)][12-2A] | Scrum | Scrum | Scrum |
-**11:00am** | Lightning Talks Prep | Approvals | Project 4 | Project 4 | **Mock Interviews** / Project Work |
-**2:00pm** | [**Lightning Talks**][12-1C] | Approvals | Project 4 | Project 4 | **Mock Interviews** / Project Work |
-**3:00pm** | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | Project 4 | Project Work | **Mock Interviews** / Project Work |
+**11:00am** | Lightning Talks Prep | Approvals | Project 4 | **Mock Interviews** / Project Work | Project 4  |
+**2:00pm** | [**Lightning Talks**][12-1C] | Approvals | Project 4 | **Mock Interviews** / Project Work | Project 4  |
+**3:00pm** | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | Project 4 | **Mock Interviews** / Project Work | Project 4  |
 **Training** | Project 4 | Project 4 | Project 4 | Project 4 | Project Work |
 
 [12-1C]: https://github.com/den-materials/lighting-talks "Lighting Talks"
