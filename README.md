@@ -415,7 +415,7 @@ Weekly Goals:
 [8-3A]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
 [8-3B]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
 [8-3C]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
-[8-3D]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-3D]: https://github.com/den-materials/sassy-node "Sassy Node"
 [8-3E]: https://git.generalassemb.ly/education-product/module-angular2/blob/master/lectures/day-5/03-recap.md "Recap Exercise"
 [8-3F]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
 [8-3G]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
