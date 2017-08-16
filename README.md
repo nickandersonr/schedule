@@ -380,12 +380,12 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**CodeWars**][8-1A] and Angular Cleanup | Vending Machine Wrapup (Zeb) | [Fixing Bugs in Angular (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A] |  [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A]
-**9:30am Module 1** | [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project*][8-1C] | [**Questions in a Line**][8-2A] & [**Second Pass**][8-2B] (Zeb) | [Fixing Bugs in Angular (Zeb)][8-3B] | BLANK SPOT | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B]
- **11:00am Module 2** | [**Offline Angular** - *Service Workers* (Zeb)][8-1D] & [**Angular Packages Activity**][8-1E] | [Adding a Feature (Zeb)][8-2C] | [Choose Your Own Adventure (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-3D] | [**Lab: Carmen Sandiego** - *SQL Practice* (Zeb)][8-5C]
-**1:30pm Module 3** | [**Serverside Angular** - *Angular Universal*][8-1F] (Zeb) | [Changing a Feature (Zeb)][8-2D] | [Choose Your own Adventure][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
-**3:00pm Module 4** | [**Recap Lesson**][8-1G] & [**Intro to Vending Machine**][8-1H] (Zeb) | [Polish Feature Add and Change (Zeb)][8-2E] | [**Competitive and User Research** (Nick)][8-3F] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
-**Training** | Vending Machine | Continue Feature Add and Change | [**Interview Potential Users**][8-3G] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
+**9:00am Warm-up** | [**CodeWars**][8-1A] and Angular Cleanup | [**Intro to Vending Machine** - *Angular User Stories*][8-2A] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A] |  [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A]
+**9:30am Module 1** | [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project*][8-1C] | More Vending Machine (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3B] | [**The Return of the Boxes** - *Flexbox* (Nick)][8-4B] | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B]
+ **11:00am Module 2** | [**Offline Angular** - *Service Workers* (Zeb)][8-1D] & [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Questions in a Line**][8-2B] & [**Second Pass**][8-2C] | [**Choose Your Own Adventure** (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-4C] | [**Lab: Carmen Sandiego** - *SQL Practice* (Zeb)][8-5C]
+**1:30pm Module 3** | [**Serverside Angular** - *Angular Universal*][8-1F] (Zeb) | [**Comments App Pt 1** - *Adding a Feature* (Zeb)][8-2D] | [**Choose Your own Adventure**][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
+**3:00pm Module 4** | [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | [**Competitive and User Research** (Nick)][8-3F] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
+**Training** | Project 2 | Continue Feature Add and Change | [**Interview Potential Users**][8-3G] & **Turn in Choose Your Own Adventure Work** | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
 
 Weekly Goals:
 - Use Jasmine to test Angular apps
@@ -394,34 +394,35 @@ Weekly Goals:
 - Solidify knowledge of major Angular packages
 - Improve a legacy code base through bug fixes, feature fixing, and feature creation
 - Understand the basics of Sketch and Photoshop
+- Utilize FlexBox to improve CSS
 - Map out data relations for a web app
 - Create a SQL DB and perform queries on it
 
 [8-1A]: https://www.codewars.com "CodeWars"
 [8-1B]: https://github.com/den-materials/angular/blob/master/lectures/day-3/jasmine-and-tdd.md "Jasmine and Angular"
-[8-1C]: https://github.com/den-materials/angular/tree/master/projects/project-03-b-testing "Testing Project"
-[8-1D]: https://github.com/den-materials/angular/blob/master/lectures/day-3/04-service-workers.md "Service Workers"
-[8-1E]: https://github.com/den-materials/angular/blob/master/lectures/day-3/05-angular-packages.md "Angular Packages"
-[8-1F]: https://github.com/den-materials/angular/blob/master/lectures/day-3/06-angular-universal.md "Angular Universal"
+[8-1C]: https://github.com/den-materials/death-square-testing "Testing Mini-Project"
+[8-1D]: https://github.com/den-materials/angular/blob/master/lectures/day-3/service-workers.md "Service Workers"
+[8-1E]: https://github.com/den-materials/death-square-service-workers "Service Workers Mini-Project"
+[8-1F]: https://github.com/den-materials/angular/blob/master/lectures/day-3/angular-universal.md "Angular Universal"
 [8-1G]: https://github.com/den-materials/angular/blob/master/lectures/day-4/01-recap.md "Recap"
-[8-1H]: https://github.com/den-materials/angular/tree/master/projects/project-04-vending-machine "Vending Machine"
+[8-1H]: https://github.com/den-materials/angular/blob/master/lectures/day-3/angular-packages.md "Angular Packages"
 
-[8-2A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
-[8-2B]: https://github.com/den-wdi-4/unit3_week1_secondpass "Second Pass"
-[8-2C]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
-[8-2D]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
-[8-2E]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-2A]: https://github.com/den-materials/angular-vending-machine "Vending Machine"
+[8-2B]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
+[8-2C]: https://github.com/den-wdi-4/unit3_week1_secondpass "Second Pass"
+[8-2D]: https://github.com/den-materials/angular/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-2E]: https://github.com/den-materials/angular/tree/master/lectures/day-5 "Day 5 Exercises"
 
-[8-3A]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
-[8-3B]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
-[8-3C]: https://git.generalassemb.ly/education-product/module-angular2/tree/master/lectures/day-5 "Day 5 Exercises"
-[8-3D]: https://github.com/den-materials/sassy-node "Sassy Node"
-[8-3E]: https://git.generalassemb.ly/education-product/module-angular2/blob/master/lectures/day-5/03-recap.md "Recap Exercise"
+[8-3A]: https://github.com/den-materials/angular/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-3B]: https://github.com/den-materials/angular/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-3C]: https://github.com/den-materials/angular/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-3D]: https://github.com/den-materials/angular/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-3E]: https://github.com/den-materials/angular/blob/master/lectures/day-5/03-recap.md "Recap Exercise"
 [8-3F]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
 [8-3G]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
 
 [8-4A]: https://github.com/den-materials/angular-tShoot "Angular Troubleshooting"
-[8-4B]: # "Nothing"
+[8-4B]: https://github.com/den-materials/flexbox "Flexbox"
 [8-4C]: https://github.com/den-materials/sassy-node "Sassy Node"
 [8-4D]: https://github.com/den-materials/sketch-photoshop-basics "Sketch and Photoshop"
 [8-4E]: https://github.com/den-materials/data-modeling "Relational Data Modeling"
@@ -441,7 +442,7 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [**The Return of the Boxes** - *Flexbox* (Nick)][9-3A] | [**Linked Lists Intro** (Zeb)][9-4A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-5A]
+**9:00am Warm-up** | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [CodeWars][9-3A] | [**Linked Lists Intro** (Zeb)][9-4A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-5A]
 **9:30am Module 1** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-4B] | Project 3
  **11:00am Module 2** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | BoomTown Prep | [**Team Git Workflow** - *Resolving Merge Conflicts* (Zeb)][9-3C] | [**Putting Sequelize and Satellizer Together** (Zeb)][9-4C]  | Project 3
 **1:30pm Module 3** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | BoomTown | Project 3 | Project 3 | Project 3
@@ -466,7 +467,7 @@ Weekly Goals:
 [9-2A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-09.md "Questions in a Hat"
 [9-2B]: https://github.com/den-wdi-3/week9_secondPass "Second Pass"
 
-[9-3A]: https://github.com/den-materials/flexbox "Flexbox"
+[9-3A]: https://www.codewars.com "CodeWars"
 [9-3B]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [9-3C]: https://github.com/den-materials/github-collaboration "Team Git Workflow"
 
@@ -478,7 +479,7 @@ Weekly Goals:
 
 ## Unit 4: Becoming a Developer
 
-#### Week 10 - Angular 2, React, PHP, and Legacy Code (8/28-9/1)
+#### Week 10 - Angular 1, React, and Legacy Code (8/28-9/1)
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -518,7 +519,7 @@ Weekly Goals:
 - Improve Legacy Code
 - Understand basic operations and web-dev IT
 
-#### Week 11 - IoT and Developer-Chosen Topics/Projects (9/4-9/8)
+#### Week 11 - PHP and Developer-Chosen Topics/Projects (9/4-9/8)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
