@@ -442,12 +442,12 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [CodeWars][9-3A] | [**Linked Lists Intro** (Zeb)][9-4A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-5A]
-**9:30am Module 1** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-4B] | Project 3
- **11:00am Module 2** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | [**Hacking Round Two** - *Intro to Ops* (Zeb)][9-2C] | [**Team Git Workflow** - *Resolving Merge Conflicts* (Zeb)][9-3C] | [**Putting Sequelize and Satellizer Together** (Zeb)][9-4C]  | Project 3
-**1:30pm Module 3** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-3D] | Project 3 | Project 3
-**3:00pm Module 4** | [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | Project 3 | Project 3 | BoomTown Interviews
-**Training** | Continue Tunr | Continue Ionic App | Project 3 | Project 3 | [**Work on Boomtown Prototype**][9-5F]
+**9:00am Warm-up** | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-3A] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-4A] | [**Mock Interviews** - **Technical** (Zeb)][9-5A]
+**9:30am Module 1** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | Project 3 | [**Outcomes** (Nick)][9-5B]
+ **11:00am Module 2** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | [**Hacking Round Two** - *Intro to Ops* (Zeb)][9-2C] | [**Team Git Workflow** - *Resolving Merge Conflicts* (Zeb)][9-3C] | Project 3 | Project 3
+**1:30pm Module 3** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Linked Lists Intro** (Zeb)][9-3D] | Project 3 | Project 3
+**3:00pm Module 4** | [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-3E] | Project 3 | BoomTown Interviews
+**Training** | Continue Tunr | Continue Ionic App | [Project 3][9-3F] | Project 3 | [**Work on Boomtown Prototype**][9-5F]
 
 Weekly Goals:
 - Use Sequelize to create a CRUDable model with SQL and Node
@@ -468,16 +468,17 @@ Weekly Goals:
 [9-2C]: https://github.com/den-materials/intro-to-ops "Dev Ops Intro"
 [9-2D]: https://github.com/den-materials/intro-ionic "Intro to Ionic"
 
-[9-3A]: https://www.codewars.com "CodeWars"
+[9-3A]: https://github.com/den-materials/behavioral-interview-warmup "Behavioral Interview"
 [9-3B]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [9-3C]: https://github.com/den-materials/github-collaboration "Team Git Workflow"
-[9-3D]: https://github.com/den-materials/troubleshooting-interview "Interview Prep"
+[9-3D]: https://github.com/den-materials/linked-lists "Linked Lists"
+[9-3E]: https://github.com/den-materials/linked-lists "Linked Lists"
+[9-3F]: https://github.com/den-materials/project-03 "Project 3"
 
-[9-4A]: https://github.com/den-materials/linked-lists "Linked Lists"
-[9-4B]: https://github.com/den-materials/linked-lists "Linked Lists"
-[9-4C]: https://github.com/den-materials/angular-auth-satellizer/tree/solution "Satellequelizer"
+[9-4A]: https://github.com/den-materials/troubleshooting-interview "Interview Prep"
 
-[9-5A]: https://github.com/den-materials/behavioral-interview-warmup "Behavioral Interview"
+[9-5A]: https://github.com/den-materials/mock-technical-interview "Interview Prep"
+[9-5B]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [9-5F]: https://github.com/den-materials/boomtown-project "Boomtown Work"
 
 ## Unit 4: Becoming a Developer
@@ -486,31 +487,23 @@ Weekly Goals:
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [**Getting a Freelance Gig** (Nick)][10-1A] | Project 3 | [**Game of Thrones and Math** - *Intro to TypeScript* (Zeb)][10-3A] | [**CodeWars**][10-3A] | [**Git and GitHub Refresher** (Zeb)][10-5A]
-**9:30am Module 1** | BoomTownPrep | Project 3 | [**What's Different in Angular 2** (Zeb)][10-3B] | Project 3? | [**Outcomes** (Nick)][10-5B]
-**11:00am Module 2** | BoomTown Prep | Project 3 Retro | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-3C] | [**Components and Blog Posts** - *React* (Nick)][10-4C] | [**Intro to Legacy Code** (Zeb)][10-5C]
-**1:30pm Module 3** | BoomTown Prep | **Project 3 Presentations** | Project 3 | [**Likes and Stores** - *Redux* (Nick)][10-4D] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5D]
-**3:00pm Module 4** | BoomTown Demos | [**Create Issues** (Zeb)][10-2E] | Project 3 | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][10-4E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
-**Training** | Project 3 | Fix Issues | [**Tour of Heroes** - *Angular 2 Tutorial*][10-3E] | Continue React Tutorial | Continue Legacy Code
+**9:00am Warm-up** | [**CodeWars**][10-1A] | [**CodeWars**][10-2A] | [**Getting a Freelance Gig** (Nick)][10-3A] | Project 3 | [**What's Different in Angular 2** (Zeb)][10-5A]
+**9:30am Module 1** | BoomTownPrep | Project 3 | Project 3 | Project 3 | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-5B]
+**11:00am Module 2** | BoomTown Prep | Project 3 Retro | Project 3 | Project 3 | [**Intro to Legacy Code** (Zeb)][10-5C]
+**1:30pm Module 3** | BoomTown Prep | Project 3 | Project 3 | **Project 3 Presentations** | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5D]
+**3:00pm Module 4** | BoomTown Demos | Project 3 | Project 3 | [**Create Issues** (Zeb)][10-4E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
+**Training** | Project 3 | Project 3 | Project 3 | Fix Issues | Continue Legacy Code
 
-[10-1A]: https://github.com/den-materials/landing-a-freelance-gig "Freelance Gig"
+[10-1A]: https://www.codewars.com "CodeWars"
 
-[10-2E]: https://github.com/den-materials/create-an-issue-project3 "Project 3 Issues"
+[10-2A]: https://www.codewars.com "CodeWars"
 
-[10-3A]: https://github.com/den-materials/intro-typescript "Intro to Typescript"
-[10-3B]: https://github.com/den-materials/angular-2-differences "Angular 2 What's Different?"
-[10-3C]: https://github.com/den-materials/angular-2-refactor "Angular 2 Refactor Lab"
+[10-3A]: https://github.com/den-materials/landing-a-freelance-gig "Freelance Gig"
 
-[10-3E]: https://angular.io/docs/ts/latest/tutorial/ "Angular 2torial"
+[10-4E]: https://github.com/den-materials/create-an-issue-project3 "Project 3 Issues"
 
-[10-4A]: https://www.codewars.com "CodeWars"
-
-[10-4C]: https://github.com/den-materials/react "React"
-[10-4D]: https://github.com/den-materials/redux "Redux"
-[10-4E]: https://facebook.github.io/react/tutorial/tutorial.html "React Lab"
-
-[10-5A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
-[10-5B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[10-5A]: https://github.com/den-materials/angular-2-differences "Angular 2 What's Different?"
+[10-5B]: https://github.com/den-materials/angular-2-refactor "Angular 2 Refactor Lab"
 [10-5C]: https://github.com/den-materials/legacy-code-intro "Intro to Legacy Code"
 [10-5D]: https://github.com/den-materials/legacy-code-denver "Legacy Code"
 [10-5E]: https://github.com/den-materials/legacy-code-denver "Legacy Code"
@@ -526,29 +519,31 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | LABOR | [**CodeWars**][11-2A] | [**Second Pass** (Zeb)][11-3A] | [**IoT Primer** - *Vocab and Concepts* (Zeb)][11-4A] | Hackathon Wrap-up
-**9:30am Module 1** | DAY | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)][11-2B] | [**Cars** - *PHP CRUD* (Nick)][11-3B] | [**IoT Hello World Projects and Other Ideas** (Zeb)][11-4B] | **Hackathon Presentations**
-**11:00am Module 2** | NO | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)][11-2C] | [**Lab: Cars** - *PHP CRUD* (Nick)][11-3C] | **IoT Hackathon Kickoff** | BLANK SPOT
-**1:30pm Module 3** | CLASS | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][11-2D] | Freelance Project | IoT Hackathon | [**Outcomes** (Nick)][11-5D]
-**3:00pm Module 4** | NO | [**Lab: Poop Tulips** - *PHP Wordpress* (Nick)][11-2E] | Freelance Project | IoT Hackathon | Lightning Talks Prep
-**Training** | CLASS | Continue Wordpress Site | Continue Outside Project | [**Pick a Lightning Talk Topic**][11-4F] | [**Lightning Talks Prep**][11-5E]
+**9:00am Warm-up** | LABOR | [**Git and GitHub Refresher** (Zeb)][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | [**Second Pass** (Zeb)][11-5A]
+**9:30am Module 1** | DAY | [**Outcomes** (Nick)][11-2B] | REACT | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)][11-4B] | [**Cars** - *PHP CRUD* (Nick)][11-5B]
+**11:00am Module 2** | NO | [**Components and Blog Posts** - *React* (Nick)][11-2C] | REACT | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)][11-4C] | [**Lab: Cars** - *PHP CRUD* (Nick)][11-5C]
+**1:30pm Module 3** | CLASS | [**Likes and Stores** - *Redux* (Nick)][11-2D] | REACT | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][11-4D] | Freelance Project
+**3:00pm Module 4** | NO | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][11-2E] | REACT | [**Lab: Poop Tulips** - *PHP Wordpress* (Nick)][11-4E] | Freelance Project
+**Training** | CLASS | Continue React Tutorial | REACT | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | [**Lightning Talks Prep**][11-5E] & **Continue Outside Project**
 
-[11-2A]: https://www.codewars.com "CodeWars"
-[11-2B]: https://github.com/den-materials/php-intro "PHP Intro"
-[11-2C]: https://github.com/den-materials/php-exercises "PHP Intro Lab"
-[11-2D]: https://github.com/den-materials/php-wordpress "PHP Wordpress"
-[11-2E]: https://github.com/den-materials/wordpress-lab "PHP Wordpress Lab"
+[11-2A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
+[11-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[11-2C]: https://github.com/den-materials/react "React"
+[11-2D]: https://github.com/den-materials/redux "Redux"
+[11-2E]: https://facebook.github.io/react/tutorial/tutorial.html "React Lab"
 
-[11-3A]: https://github.com/den-materials/unit4_week1_secondpass "Second Pass"
-[11-3B]: https://github.com/den-materials/php-crud "PHP CRUD"
-[11-3C]: https://github.com/den-materials/php-crud "PHP CRUD Lab"
+[11-3A]: https://www.codewars.com "CodeWars"
 
-[11-4A]: https://github.com/den-materials/intro-iot "IoT Primer"
-[11-4B]: https://github.com/den-materials/IoT-Hobby-Projects "Intro to IoT"
-[11-4F]: https://github.com/den-materials/lighting-talks "Lightning Talk Topic Selection"
+[11-4A]: https://www.codewars.com "CodeWars"
+[11-4B]: https://github.com/den-materials/php-intro "PHP Intro"
+[11-4C]: https://github.com/den-materials/php-exercises "PHP Intro Lab"
+[11-4D]: https://github.com/den-materials/php-wordpress "PHP Wordpress"
+[11-4E]: https://github.com/den-materials/wordpress-lab "PHP Wordpress Lab"
+[11-4F]: https://github.com/den-materials/lighting-talks "Lightning Talks"
 
-
-[11-5D]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[11-5A]: https://github.com/den-materials/unit4_week1_secondpass "Second Pass"
+[11-5B]: https://github.com/den-materials/php-crud "PHP CRUD"
+[11-5C]: https://github.com/den-materials/php-crud "PHP CRUD Lab"
 [11-5E]: https://github.com/den-materials/lighting-talks "Lightning Talk Prep"
 
 Weekly Goals:
@@ -562,7 +557,7 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am** | Lightning Talks Prep | [**Mock Interviews** - **Technical** (Zeb)][12-2A] | Scrum | Scrum | Scrum |
+**9:00am** | Lightning Talks Prep | Scrum | Scrum | Scrum | Scrum |
 **11:00am** | Lightning Talks Prep | Approvals | Project 4 | **Mock Interviews** / Project Work | Project 4  |
 **2:00pm** | [**Lightning Talks**][12-1C] | Approvals | Project 4 | **Mock Interviews** / Project Work | Project 4  |
 **3:00pm** | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | Project 4 | **Mock Interviews** / Project Work | Project 4  |
@@ -570,8 +565,6 @@ Time | Day 1                                 | Day 2                            
 
 [12-1C]: https://github.com/den-materials/lighting-talks "Lighting Talks"
 [12-1D]: https://github.com/den-materials/project-4 "Project 4"
-
-[12-2A]: https://github.com/den-materials/mock-technical-interview "Interview Prep"
 
 Weekly Goals:
 
