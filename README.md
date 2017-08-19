@@ -444,15 +444,45 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**Agenda** | Project 3 | Project 3 | Project 3 | Project 3 | Project 3
+**9:00am Warm-up** | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-3A] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-4A] | [**Mock Interviews** - **Technical** (Zeb)][9-5A]
+**9:30am Module 1** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | Project 3 | [**Outcomes** (Nick)][9-5B]
+ **11:00am Module 2** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | [**Hacking Round Two** - *Intro to Ops* (Zeb)][9-2C] | [**Team Git Workflow** - *Resolving Merge Conflicts* (Zeb)][9-3C] | Project 3 | Project 3
+**1:30pm Module 3** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Linked Lists Intro** (Zeb)][9-3D] | Project 3 | Project 3
+**3:00pm Module 4** | [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-3E] | Project 3 | BoomTown Interviews
+**Training** | Continue Tunr | Continue Ionic App | [Project 3][9-3F] | Project 3 | [**Work on Boomtown Prototype**][9-5F]
 
 Weekly Goals:
 - Use Sequelize to create a CRUDable model with SQL and Node
 - Use Sequelize to create inter-connected models with data mappings
 - Manage group code submissions with GitHub
-- Create a full-stack application as part of a development team
+- Create a hybrid mobile app with Angular and Ionic
+- Understand basic operations and web-dev IT
 - Learn the basics of Linked Lists to prepare for interviews
-- Thoughtfully answer behavioral interview questions
+- Thoughtfully answer behavioral and technical interview questions
+
+[9-1A]: https://github.com/den-materials/sequelize_intro "Intro to Sequelize"
+[9-1B]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
+[9-1C]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
+[9-1D]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
+[9-1E]: https://github.com/den-materials/tunr-relationships "More Tunr"
+
+[9-2A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-09.md "Questions in a Hat"
+[9-2B]: https://github.com/den-wdi-3/week9_secondPass "Second Pass"
+[9-2C]: https://github.com/den-materials/intro-to-ops "Dev Ops Intro"
+[9-2D]: https://github.com/den-materials/intro-ionic "Intro to Ionic"
+
+[9-3A]: https://github.com/den-materials/behavioral-interview-warmup "Behavioral Interview"
+[9-3B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[9-3C]: https://github.com/den-materials/github-collaboration "Team Git Workflow"
+[9-3D]: https://github.com/den-materials/linked-lists "Linked Lists"
+[9-3E]: https://github.com/den-materials/linked-lists "Linked Lists"
+[9-3F]: https://github.com/den-materials/project-03 "Project 3"
+
+[9-4A]: https://github.com/den-materials/troubleshooting-interview "Interview Prep"
+
+[9-5A]: https://github.com/den-materials/mock-technical-interview "Interview Prep"
+[9-5B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[9-5F]: https://github.com/den-materials/boomtown-project "Boomtown Work"
 
 ## Unit 4: Becoming a Developer
 
