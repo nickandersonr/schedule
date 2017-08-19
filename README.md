@@ -453,9 +453,10 @@ Weekly Goals:
 - Use Sequelize to create a CRUDable model with SQL and Node
 - Use Sequelize to create inter-connected models with data mappings
 - Manage group code submissions with GitHub
-- Create a full-stack application as part of a development team
+- Create a hybrid mobile app with Angular and Ionic
+- Understand basic operations and web-dev IT
 - Learn the basics of Linked Lists to prepare for interviews
-- Thoughtfully answer behavioral interview questions
+- Thoughtfully answer behavioral and technical interview questions
 
 [9-1A]: https://github.com/den-materials/sequelize_intro "Intro to Sequelize"
 [9-1B]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
@@ -510,10 +511,9 @@ Time | Day 1                           | Day 2                                  
 
 Weekly Goals:
 
-- Create a basic Angular 2 app from scratch and from an Angular 1 base
+- Create a basic Angular 2 app from an Angular 1 base
 - Create a React app
 - Improve Legacy Code
-- Understand basic operations and web-dev IT
 
 #### Week 11 - PHP and Developer-Chosen Topics/Projects (9/4-9/8)
 
