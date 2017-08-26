@@ -486,18 +486,37 @@ Weekly Goals:
 
 ## Unit 4: Becoming a Developer
 
-#### Week 10 - Angular 1, React, PHP, and Legacy Code (8/28-9/1)
+#### Week 10 - Angular 1, BoomTown, Group Project, and Legacy Code (8/28-9/1)
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**Agenda** | Angular 1 | React | React | Legacy Code | PHP
+**9:00am Warm-up** | [**CodeWars**][10-1A] | [**CodeWars**][10-2A] | [**Getting a Freelance Gig** (Nick)][10-3A] | Project 3 | [**What's Different in Angular 2** (Zeb)][10-5A]
+**9:30am Module 1** | BoomTownPrep | Project 3 | Project 3 | Project 3 | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-5B]
+**11:00am Module 2** | BoomTown Prep | Project 3 | Project 3 | Project 3 Retro | [**Intro to Legacy Code** (Zeb)][10-5C]
+**1:30pm Module 3** | BoomTown Prep | Project 3 | Project 3 | **Project 3 Presentations** | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5D]
+**3:00pm Module 4** | BoomTown Demos | Project 3 | Project 3 | [**Create Issues** (Zeb)][10-4E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
+**Training** | Project 3 | Project 3 | Project 3 | Fix Issues | Continue Legacy Code
+
+[10-1A]: https://www.codewars.com "CodeWars"
+
+[10-2A]: https://www.codewars.com "CodeWars"
+
+[10-3A]: https://github.com/den-materials/landing-a-freelance-gig "Freelance Gig"
+
+[10-4E]: https://github.com/den-materials/create-an-issue-project3 "Project 3 Issues"
+
+[10-5A]: https://github.com/den-materials/angular-2-differences "Angular 2 What's Different?"
+[10-5B]: https://github.com/den-materials/angular-2-refactor "Angular 2 Refactor Lab"
+[10-5C]: https://github.com/den-materials/legacy-code-intro "Intro to Legacy Code"
+[10-5D]: https://github.com/den-materials/legacy-code-denver "Legacy Code"
+[10-5E]: https://github.com/den-materials/legacy-code-denver "Legacy Code"
 
 Weekly Goals:
 
-- Create a basic Angular 2 app from scratch and from an Angular 1 base
-- Create a React app
+- Create a basic Angular 2 app from an Angular 1 base
+- Deliver a prototype to a local startup
+- Create a full-stack web application with a team
 - Improve Legacy Code
-- Understand basic operations and web-dev IT
 
 #### Week 11 - IoT and Developer-Chosen Topics/Projects (9/4-9/8)
 
