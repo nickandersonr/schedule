@@ -484,7 +484,7 @@ Weekly Goals:
 
 ## Unit 4: Becoming a Developer
 
-#### Week 10 - Angular 1, React, and Legacy Code (8/28-9/1)
+#### Week 10 - Angular 1, BoomTown, Group Project, and Legacy Code (8/28-9/1)
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -512,10 +512,11 @@ Time | Day 1                           | Day 2                                  
 Weekly Goals:
 
 - Create a basic Angular 2 app from an Angular 1 base
-- Create a React app
+- Deliver a prototype to a local startup
+- Create a full-stack web application with a team
 - Improve Legacy Code
 
-#### Week 11 - PHP and Developer-Chosen Topics/Projects (9/4-9/8)
+#### Week 11 - React, PHP and Developer-Chosen Topics/Projects (9/4-9/8)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
