@@ -490,7 +490,7 @@ Time | Day 1                           | Day 2                                  
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am Warm-up** | [**CodeWars**][10-1A] | [**CodeWars**][10-2A] | [**Getting a Freelance Gig** (Nick)][10-3A] | Project 3 | [**What's Different in Angular 2** (Zeb)][10-5A]
 **9:30am Module 1** | BoomTownPrep | Project 3 | Project 3 | Project 3 | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-5B]
-**11:00am Module 2** | BoomTown Prep | Project 3 Retro | Project 3 | Project 3 | [**Intro to Legacy Code** (Zeb)][10-5C]
+**11:00am Module 2** | BoomTown Prep | Project 3 | Project 3 | Project 3 Retro | [**Intro to Legacy Code** (Zeb)][10-5C]
 **1:30pm Module 3** | BoomTown Prep | Project 3 | Project 3 | **Project 3 Presentations** | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5D]
 **3:00pm Module 4** | BoomTown Demos | Project 3 | Project 3 | [**Create Issues** (Zeb)][10-4E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
 **Training** | Project 3 | Project 3 | Project 3 | Fix Issues | Continue Legacy Code
@@ -520,8 +520,8 @@ Weekly Goals:
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am Warm-up** | LABOR | [**Git and GitHub Refresher** (Zeb)][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | [**Second Pass** (Zeb)][11-5A]
-**9:30am Module 1** | DAY | [**Outcomes** (Nick)][11-2B] | REACT | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)][11-4B] | [**Cars** - *PHP CRUD* (Nick)][11-5B]
-**11:00am Module 2** | NO | [**Components and Blog Posts** - *React* (Nick)][11-2C] | REACT | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)][11-4C] | [**Lab: Cars** - *PHP CRUD* (Nick)][11-5C]
+**9:30am Module 1** | DAY | [**Outcomes** (Nick)][11-2B] | REACT | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Stefan)][11-4B] | [**Cars** - *PHP CRUD* (Gregory)][11-5B]
+**11:00am Module 2** | NO | [**Components and Blog Posts** - *React* (Nick)][11-2C] | REACT | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Stefan)][11-4C] | [**Lab: Cars** - *PHP CRUD* (Gregory)][11-5C]
 **1:30pm Module 3** | CLASS | [**Likes and Stores** - *Redux* (Nick)][11-2D] | REACT | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][11-4D] | Freelance Project
 **3:00pm Module 4** | NO | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][11-2E] | REACT | [**Lab: Poop Tulips** - *PHP Wordpress* (Nick)][11-4E] | Freelance Project
 **Training** | CLASS | Continue React Tutorial | REACT | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | [**Lightning Talks Prep**][11-5E] & **Continue Outside Project**
