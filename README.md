@@ -33,7 +33,7 @@ Time  | Activity
 
 ## Unit 1: The Client
 
-#### Week 1 - Fundamentals and Tools (6/26-6/30)
+#### Week 1 - Fundamentals and Tools (9/11-9/15)
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
@@ -91,7 +91,7 @@ Time |Day 1                                      | Day 2                        
  * Manipulate the DOM with Javascript
  * Think about problems programmatically
  
-#### Week 2 - JavaScript & Front-end Libraries (7/3-7/7)
+#### Week 2 - JavaScript & Front-end Libraries (9/18-9/22)
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
@@ -142,7 +142,7 @@ Weekly Goals:
 [2-4F]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [2-4G]: https://github.com/den-materials/assessment-2 "Lab: Racer Game"
 
-#### Week 3 - Project 1:  Browser Game (7/10-7/14)
+#### Week 3 - Project 1:  Browser Game (9/25-9/29)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -187,7 +187,7 @@ Weekly Goals:
 
 ## Unit 2: The Server
 
-#### Week 4 - Full-Stack JS: AJAX, Node, Express, and Mongo (7/17-7/21)
+#### Week 4 - Full-Stack JS: AJAX, Node, Express, and Mongo (10/2-10/6)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -234,7 +234,7 @@ Weekly Goals:
 [4-5D]: https://github.com/den-materials/intro-mongoose "Mongo-backed models with Mongoose"
 
 
-#### Week 5 - Full-Stack Apps, MVC, and Testing (7/24-7/28)
+#### Week 5 - Full-Stack Apps, MVC, and Testing (10/9-10/13)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -286,7 +286,7 @@ Weekly Goals:
 [5-5D]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-06.md "Questions in a Line"
 [5-5E]: https://github.com/den-materials/mapping-wireframes "Map Wireframes to HTML/CSS Components for Project 2"
 
-#### Week 6 - User Management and Project 2: Full-stack CRUD App (7/31-8/4)
+#### Week 6 - User Management and Project 2: Full-stack CRUD App (10/16-10/20)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -331,7 +331,7 @@ Extra Resources:
 
 ## Unit 3: SEAN Stack and Group Work
 
-#### Week 7 - Angular and Angular Tools (8/7-8/11)
+#### Week 7 - Angular and Angular Tools (10/23-10/27)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -378,7 +378,7 @@ Weekly Goals:
 [7-5G]: https://www.sitepoint.com/ultimate-angular-cli-reference/#runningyourunittests "Jasmine, Karma, and Angular"
 [7-5H]: https://marcofranssen.nl/jasmine-vs-mocha/ "Jasmine vs Mocha"
 
-#### Week 8 - More Angular/Full-stack and SQL (8/14-8/18)
+#### Week 8 - More Angular/Full-stack and SQL (10/30-11/3)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -440,7 +440,7 @@ Weekly Goals:
 [8-5E]: https://github.com/den-materials/joins-and-more "Joins and Advanced SQL" 
 [8-5F]: https://github.com/den-materials/library_sql "Joins Lab"
 
-#### Week 9 - Project 3: SEAN Stack Group Project (8/21-8/25)
+#### Week 9 - Project 3: SEAN Stack Group Project (11/6-11/10)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -486,7 +486,7 @@ Weekly Goals:
 
 ## Unit 4: Becoming a Developer
 
-#### Week 10 - Angular 1, BoomTown, Group Project, and Legacy Code (8/28-9/1)
+#### Week 10 - Angular 1, BoomTown, Group Project, and Legacy Code (11/13-11/17)
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -518,7 +518,7 @@ Weekly Goals:
 - Create a full-stack web application with a team
 - Improve Legacy Code
 
-#### Week 11 - IoT and Developer-Chosen Topics/Projects (9/4-9/8)
+#### Week 11 - IoT and Developer-Chosen Topics/Projects (11/20-11/24)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -531,7 +531,7 @@ Weekly Goals:
 - Create a software-hardware hybrid project
 - Answer quasi-technical interview questions
 
-#### Week 12 - Final Project and Interview Work (9/11-9/15)
+#### Week 12 - Final Project and Interview Work (11/27-12/1)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
